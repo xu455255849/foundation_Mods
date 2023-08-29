@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="9fcb26bb-f1a7-4219-b68b-f48d4513976d">
+	<meta id="2f82ba52-c0a2-4313-a5bf-05ae29ab13f8" type="group" folder="true" name="Materials">
+		<meta id="595b5cfa-5ef8-45fb-9f19-c90bca5a47a0" name="blueCrenellation"/>
+		<meta id="40ca5bf6-ebfe-4782-b3a8-954221d4f11c" name="creamCrenellation"/>
+		<meta id="e0423a0b-50ce-47d8-943f-6bc4fac18123" name="brownMonasteryCrenellation"/>
+		<meta id="0e17b94c-7fc2-4695-84f1-ee686d929336" name="blueMonasteryCrenellation"/>
+		<meta id="8df7bf57-4c21-435a-aa37-f972e15ac20a" name="purpleMonasteryCrenellation"/>
+		<meta id="e85b48e5-2ded-4fb1-969a-e26ce77a8c8f" name="redStoneCrenellation"/>
+		<meta id="39675052-6581-4698-819a-31ef1c37bee6" name="giantGateCrenellation"/>
+		<meta id="dec8792e-15aa-4483-a2a1-36cdd652b277" name="whiteChalkCrenellation"/>
+		<meta id="b50138d8-f34b-4e39-94ac-8bf7993e7e65" name="sandStoneCrenellation"/>
+	</meta>
+	<meta id="f28c2acc-c3a4-4619-ac81-3f3ef77c7ec0" type="group" folder="true" name="Meshes">
+		<meta id="8db6c04d-ec9b-4b37-9799-a9a4e9c1c068" name="rampart_wasr_blueCrenellation"/>
+		<meta id="75fe0258-5d83-4b90-a028-e46ca15d5818" name="rampart_cream_wasr_creamCrenellation"/>
+		<meta id="3d4334d2-9ecf-40d7-a427-7d53f42e6a03" name="rampart_browMonastery_wasr_brownMonasteryCrenellation"/>
+		<meta id="213885a7-c52c-45cc-85c6-7af99b67972d" name="rampart_blueMonastery_wasr_blueMonasteryCrenellation"/>
+		<meta id="e752de6a-f244-4d46-b123-5289f20d731b" name="rampart_purpleMonastery_wasr_purpleMonasteryCrenellation"/>
+		<meta id="8acb3c69-28df-450f-be1d-33043f7507ef" name="rampart_redStone_wasr_redStoneCrenellation"/>
+		<meta id="cb0276b3-276d-467c-bf12-cfac8ad518e4" name="rampart_giantGate_wasr_giantGateCrenellation"/>
+		<meta id="d4556279-5f34-4885-bae7-4d9ce013016e" name="rampart_whiteChalk_wasr_whiteChalkCrenellation"/>
+		<meta id="c1e22b37-3fe0-4613-b63d-859cae1f9fdc" name="rampart_sandStone_wasr_sandStoneCrenellation"/>
+	</meta>
+	<meta id="cfc8e046-34a2-40a2-a850-3c2e4bd9dd23" name="Prefab">
+		<meta id="db7e2aae-5b5c-43dc-b89c-593a8de04bf5" name="step_2_rampart_wasr">
+			<meta id="05c730b9-1521-4382-a213-945bd6589fb3" name="rampart_wasr"/>
+			<meta id="c5e8d88e-63e5-436a-b20a-14413b344a23" name="rampart_cream_wasr"/>
+			<meta id="61e76e53-6ab7-4077-a566-a61e3b1e9356" name="rampart_browMonastery_wasr"/>
+			<meta id="0516760f-6298-4881-9cda-c8bf6eef2677" name="rampart_blueMonastery_wasr"/>
+			<meta id="0e77066e-a365-4a76-b320-a1caf5753079" name="rampart_purpleMonastery_wasr"/>
+			<meta id="360b114d-663a-47ef-ba59-22ef2372d710" name="rampart_redStone_wasr"/>
+			<meta id="d329d35c-cb9e-4440-b261-cfd113ae7004" name="rampart_giantGate_wasr"/>
+			<meta id="99e6626f-a4ae-45f7-89de-774a4f68775e" name="rampart_whiteChalk_wasr"/>
+			<meta id="ad4a28e1-309e-413a-9a22-a04cdc15e54e" name="rampart_sandStone_wasr"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="22cac1945370ac00023b14b8ec85b525"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wasr_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wasr_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_cream_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_browMonastery_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_blueMonastery_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_purpleMonastery_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_redStone_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_giantGate_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_whiteChalk_wasr"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rampart_sandStone_wasr"/>
+					</Item>
+				</ChildList>
+				<NodeName value="step_2_rampart_wasr"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="595b5cfa-5ef8-45fb-9f19-c90bca5a47a0"/>
+			<MaterialName value="blueCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0e17b94c-7fc2-4695-84f1-ee686d929336"/>
+			<MaterialName value="blueMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e0423a0b-50ce-47d8-943f-6bc4fac18123"/>
+			<MaterialName value="brownMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="40ca5bf6-ebfe-4782-b3a8-954221d4f11c"/>
+			<MaterialName value="creamCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="39675052-6581-4698-819a-31ef1c37bee6"/>
+			<MaterialName value="giantGateCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8df7bf57-4c21-435a-aa37-f972e15ac20a"/>
+			<MaterialName value="purpleMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e85b48e5-2ded-4fb1-969a-e26ce77a8c8f"/>
+			<MaterialName value="redStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b50138d8-f34b-4e39-94ac-8bf7993e7e65"/>
+			<MaterialName value="sandStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dec8792e-15aa-4483-a2a1-36cdd652b277"/>
+			<MaterialName value="whiteChalkCrenellation"/>
+		</Item>
+	</MaterialList>
+</importer>
+

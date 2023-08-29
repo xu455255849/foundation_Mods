@@ -1,0 +1,37 @@
+{
+	"BUILDINGS": {
+		"WATER_MILL_SET_NAME": "Водяная Мельница"
+	},
+	"BUILDING_PARTS": {
+                "PRODUCTION_CORE": "Основное производство",
+                "WHEEL": "Wheels",
+		"WATER_MILL_CORE_FLOUR_NAME": "Мучное производство",
+		"WATER_MILL_CORE_TEXTILE_NAME": "Текстильное производство",
+		"WATER_MILL_CORE_TEXTILE_FLAX_NAME": "Текстильное производство",
+		"WATER_MILL_CORE_PLANKS_NAME": "Производство досок",
+		"WATER_MILL_EXTENSION_RIGHT_BANK_NAME": "Правобережное колесо",
+		"WATER_MILL_EXTENSION_LEFT_BANK_NAME": "Левобережное колесо"
+	},
+	"MONUMENTS": {
+		"CATEGORY_CORE_SING": "основной",
+		"CATEGORY_CORE_PLUR": "основные",
+		"CATEGORY_EXTENSION": "Расширение",
+		"CATEGORY_EXTENSION_SING": "расширение",
+		"CATEGORY_EXTENSION_PLUR": "расширения",
+		"CATEGORY_DOOR_SING": "дверь",
+		"CATEGORY_DOOR_PLUR": "двери",
+		"CATEGORY_DECORATION": "Украшение",
+		"CATEGORY_DECORATION_SING": "украшение",
+		"CATEGORY_DECORATION_PLUR": "украшения"
+	},
+
+	"BUILDING_DESCRIPTIONS": {
+		"WATER_MILL_SET_DESC": "набор для водяной мельницы",
+		"WATER_MILL_CORE_FLOUR_DESC": "производство муки",
+		"WATER_MILL_CORE_TEXTILE_DESC": "производство текстиля",
+		"WATER_MILL_CORE_TEXTILE_FLAX_DESC": "производство текстиля",
+		"WATER_MILL_CORE_PLANKS_DESC": "производство досок",
+		"WATER_MILL_EXTENSION_RIGHT_BANK_DESC": "колесо для правого берега",
+		"WATER_MILL_EXTENSION_LEFT_BANK_DESC": "колесо для левого берега"
+	}
+}

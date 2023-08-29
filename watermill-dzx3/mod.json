@@ -1,0 +1,39 @@
+{
+	"Name": "Water Mill Set",
+	"Author": "vjraymon",
+	"Description": "Water mill set",
+	"Version": "3.8.2",
+ 
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		},
+		{
+			"Name": "Czech",
+			"Code": "cs"
+		},
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		}
+	],
+	"Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		}
+	]
+}

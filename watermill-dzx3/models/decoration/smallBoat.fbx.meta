@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="7b540209-8db8-473d-a144-e664f357826d">
+	<meta id="c35ac438-dcf8-4d3e-a4d9-f56c7ad8e53e" type="group" folder="true" name="Materials">
+		<meta id="6df13ed1-1176-4864-bfd4-fedf7e6b662a" name="phong3"/>
+		<meta id="e2813e04-e430-4ae8-947c-0be72c87c663" name="phong4"/>
+	</meta>
+	<meta id="66ecc89f-9580-49b2-a675-ee0e897b5b81" type="group" folder="true" name="Meshes">
+		<meta id="86be5d2f-afcd-4a6e-979c-d72ef3f96150" name="pSphere2_phong3"/>
+		<meta id="12675533-534f-4b27-882d-7bd1c7bef99f" name="pSphere2_phong4"/>
+		<meta id="bfd4f83d-9592-4e5a-9572-279901c24c37" name="pCube2_phong3"/>
+	</meta>
+	<meta id="3e17e16d-fb75-4766-a0f0-bc2edec0928d" name="Prefab">
+		<meta id="0feaa5ff-7021-4c83-b9be-75243b1e8ceb" name="SmallBoatPart">
+			<meta id="063032bd-a4f2-45de-b848-518af1dfb57a" name="extremityLocatorZ1"/>
+			<meta id="670aa0f0-78ec-4ed9-a460-56e8f2c64991" name="extremityLocatorZ2"/>
+			<meta id="99ce7e2a-d7ff-4c81-aa1c-ff245ef9577c" name="extremityLocatorX1"/>
+			<meta id="bf235649-7d15-4a63-ac84-c59e920a5a22" name="extremityLocatorX2"/>
+			<meta id="abe95418-8d3e-4b2e-8cbb-cea595bad7e3" name="pSphere2">
+				<meta id="d55281e0-a96d-422c-a823-d94225daedd9" name="pSphere2_0"/>
+				<meta id="b701a1e0-6bab-4983-a970-7d65d53ee015" name="pSphere2_1"/>
+			</meta>
+			<meta id="8ecdfe6f-a67e-4047-867d-a314ce5e2ed3" name="pCube2"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="b86dbc77e2be831e92a6bf5e671ee427"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorZ1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorZ2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorX1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorX2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pSphere2_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pSphere2_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pSphere2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pCube2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SmallBoatPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6df13ed1-1176-4864-bfd4-fedf7e6b662a"/>
+			<MaterialName value="phong3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e2813e04-e430-4ae8-947c-0be72c87c663"/>
+			<MaterialName value="phong4"/>
+		</Item>
+	</MaterialList>
+</importer>
+

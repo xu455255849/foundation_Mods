@@ -1,0 +1,61 @@
+{
+	"BUILDINGS": {
+		"WATER_MILL_SET_NAME": "Ensemble pour moulins à eau",
+		"WATER_MILL_PARTSETLIST_PRODUCTION_NAME": "Batiments de production",
+		"WATER_MILL_PARTSETLIST_WHEEL_NAME": "Roues a aubes",
+		"WATER_MILL_PARTSETLIST_DECORATION_NAME": "Decorations"
+	},
+	"BUILDING_PARTS": {
+                "PRODUCTION_CORE": "Coeurs de production",
+                "WHEEL": "Roues",
+		"WATER_MILL_CORE_FLOUR_NAME": "Moulin pour farine",
+		"WATER_MILL_CORE_TEXTILE_NAME": "Moulin pour tissu",
+		"WATER_MILL_CORE_TEXTILE_FLAX_NAME": "Moulin pour tissu",
+		"WATER_MILL_CORE_PLANKS_NAME": "Moulin pour bois",
+		"WATER_MILL_EXTENSION_RIGHT_BANK_NAME": "Roue rive droite",
+		"WATER_MILL_EXTENSION_LEFT_BANK_NAME": "Roue rive gauche",
+		"WATER_MILL_YELLOW_ROOF": "Jaune",
+		"WATER_MILL_GREEN_ROOF": "Vert",
+		"WATER_MILL_BROWN_ROOF": "Brun",
+		"WATER_MILL_BLUE_ROOF": "Bleu",
+		"WATER_MILL_RED_ROOF": "Rouge",
+		"WATER_MILL_THATCHED_ROOF": "Chaume",
+	        "BUILDING_FUNCTION_SAWMILL_NAME": "Planches",
+	        "BUILDING_FUNCTION_WINDMILL_NAME": "Farine de blé",
+	        "BUILDING_FUNCTION_WEAVER_HUT_NAME": "A base de laine",
+	        "WATER_MILL_FUNCTION_PLANKS_WOOD_PLANK_NAME": "Planches",
+	        "WATER_MILL_FUNCTION_PLANKS_WOOD_RESOURCE_SHINGLE_NAME": "Asseaux",
+	        "WATER_MILL_FUNCTION_FLOUR_WHEAT_FLOUR_NAME": "Farine de blé",
+	        "WATER_MILL_FUNCTION_FLOUR_RESOURCE_CORN_FLOUR_NAME": "Farine de maïs",
+	        "WATER_MILL_FUNCTION_TEXTILE_WOOL_WOOLEN_CLOTH_NAME": "A base de laine",
+	        "WATER_MILL_FUNCTION_TEXTILE_RESOURCE_FLAX_WOOLEN_CLOTH_NAME": "A base de lin",
+                "WATER_MILL_SMALL_BOAT_NAME": "Barque",
+                "WATER_MILL_PLANKS_NAME": "Planche",
+                "WATER_MILL_SACS_NAME": "Sacs"
+	},
+	"MONUMENTS": {
+		"CATEGORY_CORE_SING": "corps",
+		"CATEGORY_CORE_PLUR": "corps",
+		"CATEGORY_EXTENSION": "Extension",
+		"CATEGORY_EXTENSION_SING": "extension",
+		"CATEGORY_EXTENSION_PLUR": "extensions",
+		"CATEGORY_DOOR_SING": "porte",
+		"CATEGORY_DOOR_PLUR": "portes",
+		"CATEGORY_DECORATION": "Decoration",
+		"CATEGORY_DECORATION_SING": "decoration",
+		"CATEGORY_DECORATION_PLUR": "decorations"
+	},
+
+	"BUILDING_DESCRIPTIONS": {
+		"WATER_MILL_SET_DESC": "Monument pour moulins à eau",
+		"WATER_MILL_CORE_FLOUR_DESC": "produit de la farine",
+		"WATER_MILL_CORE_TEXTILE_DESC": "produit du tissu avec de laine",
+		"WATER_MILL_CORE_TEXTILE_FLAX_DESC": "produit du tissu avec du lin",
+		"WATER_MILL_CORE_PLANKS_DESC": "produit des planches",
+		"WATER_MILL_EXTENSION_RIGHT_BANK_DESC": "roue pour rive droite",
+		"WATER_MILL_EXTENSION_LEFT_BANK_DESC": "roue pour rive gauche",
+                "WATER_MILL_SMALL_BOAT_DESC": "Barque",
+                "WATER_MILL_PLANKS_DESC": "Planche",
+                "WATER_MILL_SACS_DESC": "Sacs"
+	}
+}

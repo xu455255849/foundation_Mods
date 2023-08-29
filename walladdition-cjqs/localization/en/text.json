@@ -1,0 +1,9 @@
+{
+	"WALL_CONFIG": {
+		"SGWALL_SIMPLE_NAME": "Simple stone ramparts",
+		"SGWALL_HOARDINGS_NAME": "Ramparts with hoardings",
+		"SGWALL_MACHICOLATION_NAME": "Ramparts with stone machicolations",
+		"SGWALL_WOODEN_MACHICOLATION_NAME": "Ramparts with stone machicolations (wooden roof)",
+		"SGWALL_TILED_MACHICOLATION_NAME": "Ramparts with stone machicolations (tiled roof)"
+	}
+}

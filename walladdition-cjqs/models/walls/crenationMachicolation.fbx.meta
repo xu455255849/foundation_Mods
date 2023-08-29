@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="df1d61b3-7f88-4066-880e-b4205ad19a54">
+	<meta id="0144eeed-bbb1-4dcc-87ba-25ea5c174765" type="group" folder="true" name="Materials">
+		<meta id="74c4fba2-b212-438c-ad63-2857b696df53" name="black"/>
+		<meta id="2427ba13-755a-4356-8834-a866f12aa01e" name="blueCrenellation"/>
+		<meta id="a160afde-a9f4-417b-9ffd-ea0c4787eb10" name="brownMonasteryCrenellation"/>
+		<meta id="d9be062c-e810-4001-aa44-bca04731204f" name="blueMonasteryCrenellation"/>
+		<meta id="697397cf-3e9c-4c94-8d0f-a54a6b57e196" name="purpleMonasteryCrenellation"/>
+		<meta id="39a87ebb-5d35-4188-8391-72f572f14012" name="redStoneCrenellation"/>
+		<meta id="e0ba497a-bec9-4877-a8e5-713d8c06248a" name="giantGateCrenellation"/>
+		<meta id="ed1f7d17-3151-4c3c-8186-8323f6b471f2" name="whiteChalkCrenellation"/>
+		<meta id="dc0b5dca-fabf-4f72-b71a-5441f85bcdab" name="sandStoneCrenellation"/>
+		<meta id="ee0d08fc-6b95-4d77-b97e-b35ac2cd18a0" name="creamCrenellation"/>
+	</meta>
+	<meta id="ea4149ec-55ac-4acc-8c9c-d9ea960266e6" type="group" folder="true" name="Meshes">
+		<meta id="e1367361-61f1-4d11-854f-5c7093597b4e" name="machicoulis_wam_black"/>
+		<meta id="cda73568-a4c9-4b1c-affe-ec5729309301" name="plancher1_wam_blueCrenellation"/>
+		<meta id="e073e60f-4c32-4c93-bbf7-9509591cf7fe" name="soutien_wam_blueCrenellation"/>
+		<meta id="3f49af57-e723-4d98-9704-8a0a83cfbbe8" name="rampart_wam_blueCrenellation"/>
+		<meta id="e6ceb3ea-2ccb-4777-ba73-80e9bbcba8ad" name="plancher1_wam_2_brownMonasteryCrenellation"/>
+		<meta id="a181fc0c-9849-4961-b4ef-08a6ca306e56" name="soutien_wam_2_brownMonasteryCrenellation"/>
+		<meta id="b1708f69-64f2-4afe-932e-dc013bf8944c" name="rampart_wam_2_brownMonasteryCrenellation"/>
+		<meta id="dac1c12d-5ce6-4831-be72-a1f1b25e17a9" name="plancher1_wam_3_blueMonasteryCrenellation"/>
+		<meta id="46acc695-f0c0-4ef5-96c5-7617d533710b" name="soutien_wam_3_blueMonasteryCrenellation"/>
+		<meta id="00b3812e-978e-4278-b96b-bb84051091e2" name="rampart_wam_3_blueMonasteryCrenellation"/>
+		<meta id="26203f47-083c-4856-9814-3d3db9304911" name="plancher1_wam_4_purpleMonasteryCrenellation"/>
+		<meta id="af22c2cc-8fbf-4d0f-a98d-ec6f9c0431bc" name="soutien_wam_4_purpleMonasteryCrenellation"/>
+		<meta id="f1b331ef-3632-44ae-98ff-99c1f8f653d9" name="rampart_wam_4_purpleMonasteryCrenellation"/>
+		<meta id="1e614def-67fd-402b-9d29-420e5f19e4ae" name="plancher1_wam_5_redStoneCrenellation"/>
+		<meta id="64d46693-a75b-400c-9567-64deed554ace" name="soutien_wam_5_redStoneCrenellation"/>
+		<meta id="f8753011-1e65-4bba-90fc-0d6f247b34fb" name="rampart_wam_5_redStoneCrenellation"/>
+		<meta id="d4baa009-dc7e-477a-95db-a86c3acec3a1" name="plancher1_wam_6_giantGateCrenellation"/>
+		<meta id="d7d053c9-3042-488c-bf95-c1e5fd08879b" name="soutien_wam_6_giantGateCrenellation"/>
+		<meta id="9964ad42-0dd0-4337-8e7b-5783e6fcd5c9" name="rampart_wam_6_giantGateCrenellation"/>
+		<meta id="0682b05b-64e3-45d9-9223-3c052165b319" name="plancher1_wam_7_whiteChalkCrenellation"/>
+		<meta id="63db831c-fb39-4611-aa8c-cb03917bf17f" name="soutien_wam_7_whiteChalkCrenellation"/>
+		<meta id="8ab16239-ec57-4072-9629-bb53ca301f3d" name="rampart_wam_7_whiteChalkCrenellation"/>
+		<meta id="aa710c07-0088-4cfe-8d2a-c4d6ba456a6b" name="plancher1_wam_8_sandStoneCrenellation"/>
+		<meta id="369b4341-7f2a-40f3-8aec-bc0266977c20" name="soutien_wam_8_sandStoneCrenellation"/>
+		<meta id="b59eedbb-f862-48ab-b977-d24f885b739c" name="rampart_wam_8_sandStoneCrenellation"/>
+		<meta id="afc4a4e0-4521-4f3b-a693-11233e51795d" name="plancher1_wam_9_creamCrenellation"/>
+		<meta id="43bb8306-f1b8-41eb-9881-77cf8462210f" name="soutien_wam_9_creamCrenellation"/>
+		<meta id="2d652be3-5764-4f31-8010-7e0b8d8b7870" name="rampart_wam_9_creamCrenellation"/>
+	</meta>
+	<meta id="b117ed5b-1cb3-4e97-b444-ab4b901d9e34" name="Prefab">
+		<meta id="a1234f3f-4860-49db-8f87-7dcc99321f94" name="step_2_rampart_wam">
+			<meta id="4045312d-ce1d-4a70-8911-721f12a3c0c1" name="rampart_wam">
+				<meta id="3ccadb9f-ad13-4f34-a057-f9810729469a" name="plancher1_wam"/>
+				<meta id="e5041ce8-7a34-4147-9d35-527591e656ab" name="machicoulis_wam"/>
+				<meta id="9f3979b3-2354-4c62-a45e-351b17ab4df7" name="soutien_wam"/>
+				<meta id="ee683475-4bc1-45e9-b892-654ec3a4b3b0" name="rampart_wam"/>
+			</meta>
+			<meta id="53cfe14c-19e1-4b1b-b95e-b29775deb1bf" name="rampart_browMonastery_wam">
+				<meta id="61d8398b-27cc-47ca-81cd-5c4eb99f812f" name="plancher1_wam"/>
+				<meta id="79e32e4e-23ab-4689-b191-9d8c844bb17d" name="machicoulis_wam"/>
+				<meta id="b37f8efd-4aa3-4e6e-a8cf-480714bf6103" name="soutien_wam"/>
+				<meta id="6e1456a2-10c3-4692-8941-d087d27b890c" name="rampart_wam"/>
+			</meta>
+			<meta id="bb2ad537-6642-4087-ade9-051e06947f52" name="rampart_blueMonastery_wam">
+				<meta id="8b2f15a1-01ae-4d12-81da-54da4517a59e" name="plancher1_wam"/>
+				<meta id="f48eef51-fbea-4770-b7a5-7e4fb93be62c" name="soutien_wam"/>
+				<meta id="d34a3dee-7b09-4e91-ada3-7c08f7045a43" name="rampart_wam"/>
+			</meta>
+			<meta id="85d63263-2f46-4370-83cb-e125eff407e0" name="rampart_purpleMonastery_wam">
+				<meta id="25f71a2b-396d-46ee-a9f6-aa525e10ad24" name="plancher1_wam"/>
+				<meta id="600d1d91-08af-4a31-84fb-f89fa147ee11" name="machicoulis_wam"/>
+				<meta id="981a5455-9fb7-4f14-af6a-9c6a82ebc1a2" name="soutien_wam"/>
+				<meta id="9d2e7fa6-3a10-4a3d-82a7-eedfee6c85b0" name="rampart_wam"/>
+			</meta>
+			<meta id="e7dbdd31-d687-48ed-a30a-84be4234b0a1" name="rampart_redStone_wam">
+				<meta id="2d495c28-82e8-4aa5-9992-d4d0ae69b3b4" name="plancher1_wam"/>
+				<meta id="485a3c6f-c5d1-4591-8a5b-e13da3049877" name="machicoulis_wam"/>
+				<meta id="02c32b59-e2ca-440b-8480-12e69854001f" name="soutien_wam"/>
+				<meta id="3289c7e5-5f4e-4dff-ad09-a71296fc5a2a" name="rampart_wam"/>
+			</meta>
+			<meta id="7f801d5e-895b-427e-a487-1dbc2c814735" name="rampart_giantGate_wam">
+				<meta id="b920b861-f306-4666-ae1d-731dd07d51e7" name="plancher1_wam"/>
+				<meta id="e1e805db-47ed-472c-aa8b-9ddb9fb1e575" name="machicoulis_wam"/>
+				<meta id="deef96b9-3e2b-40a0-b07d-aa5e84bed106" name="soutien_wam"/>
+				<meta id="49c1a6a5-04d1-44ce-b048-447293a98525" name="rampart_wam"/>
+			</meta>
+			<meta id="b565f827-e147-4dc7-8425-f1cf3da6b20e" name="rampart_whiteChalk_wam">
+				<meta id="c15bed35-3ae9-4ed7-8c4b-31526525e66a" name="plancher1_wam"/>
+				<meta id="d5618caa-9bfd-43ae-a69f-d2e383ad4058" name="machicoulis_wam"/>
+				<meta id="d95f8203-f058-46cf-a542-df9c17dbf7ee" name="soutien_wam"/>
+				<meta id="2bf11d30-81cd-4b34-bc92-c2cae80966a6" name="rampart_wam"/>
+			</meta>
+			<meta id="744d272b-1c27-43dd-bf42-68997d79c40a" name="rampart_sandStone_wam">
+				<meta id="94ae7f58-fce9-4e9d-84b4-910ffa8f6119" name="plancher1_wam"/>
+				<meta id="3f70c8d4-30a4-4d3a-aec3-7efa7987fd61" name="machicoulis_wam"/>
+				<meta id="d1fa7ac2-04e4-4cea-bc65-5612f467c25d" name="soutien_wam"/>
+				<meta id="ec5dbc9b-0d39-4432-8daa-ddedfc37f37b" name="rampart_wam"/>
+			</meta>
+			<meta id="5084cf9b-9fc0-4bcf-8633-d3e3a6d3fb99" name="rampart_cream_wam">
+				<meta id="d19a8845-0d35-466a-85fd-e5159fbceca4" name="plancher1_wam"/>
+				<meta id="38060f36-6757-4064-8880-76013462f5ac" name="machicoulis_wam"/>
+				<meta id="c7d02188-61c2-4683-8403-fb7bce8d0cfd" name="soutien_wam"/>
+				<meta id="3bd157df-382a-4f69-9000-64e10970e88b" name="rampart_wam"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="7894725f2f9b2083a71dc12df799bfbe"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_browMonastery_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_blueMonastery_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_purpleMonastery_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_redStone_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_giantGate_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_whiteChalk_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_sandStone_wam"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="plancher1_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="soutien_wam"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="rampart_wam"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_cream_wam"/>
+					</Item>
+				</ChildList>
+				<NodeName value="step_2_rampart_wam"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="74c4fba2-b212-438c-ad63-2857b696df53"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2427ba13-755a-4356-8834-a866f12aa01e"/>
+			<MaterialName value="blueCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d9be062c-e810-4001-aa44-bca04731204f"/>
+			<MaterialName value="blueMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a160afde-a9f4-417b-9ffd-ea0c4787eb10"/>
+			<MaterialName value="brownMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ee0d08fc-6b95-4d77-b97e-b35ac2cd18a0"/>
+			<MaterialName value="creamCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e0ba497a-bec9-4877-a8e5-713d8c06248a"/>
+			<MaterialName value="giantGateCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="697397cf-3e9c-4c94-8d0f-a54a6b57e196"/>
+			<MaterialName value="purpleMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="39a87ebb-5d35-4188-8391-72f572f14012"/>
+			<MaterialName value="redStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dc0b5dca-fabf-4f72-b71a-5441f85bcdab"/>
+			<MaterialName value="sandStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ed1f7d17-3151-4c3c-8186-8323f6b471f2"/>
+			<MaterialName value="whiteChalkCrenellation"/>
+		</Item>
+	</MaterialList>
+</importer>
+

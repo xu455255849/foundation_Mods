@@ -1,0 +1,9 @@
+{
+	"WALL_CONFIG": {
+		"SGWALL_SIMPLE_NAME": "Einfache Steinmauern",
+		"SGWALL_HOARDINGS_NAME": "Mauern mit hölzerner Wurflochreihe",
+		"SGWALL_MACHICOLATION_NAME": "Mauern mit steinernen Wurflochreihe",
+		"SGWALL_WOODEN_MACHICOLATION_NAME": "Mauern mit steinernen Wurflochreihe (Holzdach)",
+		"SGWALL_TILED_MACHICOLATION_NAME": "Mauern mit steinernen Wurflochreihe (Ziegeldach)"
+	}
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="ca2057fb-57a6-4c84-915f-21fddb3fb14a">
+	<meta id="2e905422-70af-4040-8212-3835a25937e2" type="group" folder="true" name="Materials">
+		<meta id="50b53365-540e-415a-bde1-a4cc48168e9f" name="whiteStoneGround"/>
+		<meta id="eaccffac-386f-412e-864c-d13729083ef4" name="woodGround"/>
+		<meta id="b65ff933-35e8-42d7-8b83-d6cb0dfb59f9" name="roseSandGround"/>
+		<meta id="e42d02fb-b510-4e65-a66f-7529723f4950" name="waterGround"/>
+	</meta>
+	<meta id="c3ba1cca-c108-43c2-a947-7a3f3414fc69" type="group" folder="true" name="Meshes">
+		<meta id="0ccec36b-fa52-4e0a-a85c-a2cf75592c4d" name="whiteStoneMaterial_whiteStoneGround"/>
+		<meta id="4da01a2c-4490-4e6e-a05e-2b9fb4cf28ca" name="woodMaterial_woodGround"/>
+		<meta id="f24f5549-dba1-455f-82e1-1a76151fa4ba" name="roseSandMaterial_roseSandGround"/>
+		<meta id="7197e930-60a2-4b40-8b92-62c7f50f7172" name="waterMaterial_waterGround"/>
+	</meta>
+	<meta id="f4dd129e-f64d-45e4-a08a-f4d62222b6f9" name="Prefab">
+		<meta id="367e21d8-539d-470a-81f5-611236031528" name="whiteStoneMaterial"/>
+		<meta id="37cb47dc-47f5-4c92-827a-5a6ea6a8fa93" name="woodMaterial"/>
+		<meta id="9e0be094-44d8-4640-94e6-0e0c4a5314aa" name="roseSandMaterial"/>
+		<meta id="fe9fa154-ecf3-4b77-894b-339d3284be7d" name="waterMaterial"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="98cf6cf074a7657609d67c8ad921fe9d"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="whiteStoneMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="woodMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="roseSandMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="waterMaterial"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b65ff933-35e8-42d7-8b83-d6cb0dfb59f9"/>
+			<MaterialName value="roseSandGround"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e42d02fb-b510-4e65-a66f-7529723f4950"/>
+			<MaterialName value="waterGround"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="50b53365-540e-415a-bde1-a4cc48168e9f"/>
+			<MaterialName value="whiteStoneGround"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="eaccffac-386f-412e-864c-d13729083ef4"/>
+			<MaterialName value="woodGround"/>
+		</Item>
+	</MaterialList>
+</importer>
+

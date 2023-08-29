@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="6d455835-8bb5-4bb1-a466-f9b0c11efa44">
+	<meta id="b7527b18-780c-4ceb-a529-1ed35d2e973a" type="group" folder="true" name="Materials">
+		<meta id="99f1a947-563c-4f14-80cb-1dd870dfa8f5" name="chambranle"/>
+		<meta id="7cddd4ef-a204-4aa5-ade2-acb7e5b89899" name="black"/>
+		<meta id="db3f9330-4d3a-4e9c-b4aa-2b3a5e43d39e" name="blueCrenellation"/>
+		<meta id="5bca5319-cd6a-445f-8d36-a0baf8645417" name="creamCrenellation"/>
+		<meta id="0d03aedc-d6c6-4ac3-99e4-1c97d66f9327" name="brownMonasteryCrenellation"/>
+		<meta id="23b45504-cc8d-4897-af12-3f179961f324" name="blueMonasteryCrenellation"/>
+		<meta id="a8d22f1c-1fdb-47b8-839b-5ac2040db5f6" name="purpleMonasteryCrenellation"/>
+		<meta id="6fbed095-7760-4cd8-a8a6-5d18025d09c8" name="redStoneCrenellation"/>
+		<meta id="8db717f1-1a9d-4260-b95b-3c400ff97b55" name="giantGateCrenellation"/>
+		<meta id="5b288c4c-5072-4f58-8b28-3dfcfcb19d3d" name="whiteChalkCrenellation"/>
+		<meta id="a6d4ed69-f32f-46b6-9ad4-ff1592842417" name="sandStoneCrenellation"/>
+	</meta>
+	<meta id="37d120ae-2aa9-4eb9-909e-c8fb156d545f" type="group" folder="true" name="Meshes">
+		<meta id="82192f38-b2e0-40b9-8be8-1db64bb86138" name="entrait43_wawm_chambranle"/>
+		<meta id="9298def2-2968-4fb5-9192-a8b88580949a" name="toit3_wawm_chambranle"/>
+		<meta id="6969de7e-1bbe-4517-b0d0-194b3c02b1ee" name="entrait45_wawm_chambranle"/>
+		<meta id="404790a5-9d22-4974-b764-1484f1f5b979" name="coin12_wawm_chambranle"/>
+		<meta id="6ff992cd-8d17-46af-a24e-8ba2944750e1" name="entrait47_wawm_chambranle"/>
+		<meta id="8eb50c4d-f859-48c1-9925-094effd604ce" name="mur6_wawm_chambranle"/>
+		<meta id="c20e4676-c31a-4a65-88be-746e29c4fa88" name="coin13_wawm_chambranle"/>
+		<meta id="60d0262d-572e-4967-8e7e-c4f8b60cabff" name="coin14_wawm_chambranle"/>
+		<meta id="cc6278e7-0df0-4fe1-ba4f-2b8c32b0ea54" name="coin15_wawm_chambranle"/>
+		<meta id="3b493924-3383-43a6-b728-d91f344829f7" name="machicoulis_wawm_black"/>
+		<meta id="971bdf74-31e4-4a77-9204-3b700b5a6efe" name="plancher1_wawm_blueCrenellation"/>
+		<meta id="bac65af3-b6fc-487c-ac8a-ad12405e7ef9" name="soutien_wawm_blueCrenellation"/>
+		<meta id="80b078d5-ab8a-4be7-9ec0-ad8e06277684" name="rampart_wawm_blueCrenellation"/>
+		<meta id="9bff161d-e6f3-48a5-a207-50a386064582" name="plancher1_wawm_2_creamCrenellation"/>
+		<meta id="87a85c9c-9c3e-474a-9a51-0e326c87def6" name="soutien_wawm_2_creamCrenellation"/>
+		<meta id="9fe70f39-188b-4845-9152-87637b783ce7" name="rampart_wawm_2_creamCrenellation"/>
+		<meta id="0cf22854-9ffd-4931-acdd-6d8d936c4a29" name="plancher1_wawm_3_brownMonasteryCrenellation"/>
+		<meta id="55aa52f3-79eb-4ae6-9750-a94efbe974be" name="soutien_wawm_3_brownMonasteryCrenellation"/>
+		<meta id="e04bd7e5-ec49-4a03-a861-988f1285128d" name="rampart_wawm_3_brownMonasteryCrenellation"/>
+		<meta id="d1ee6317-78e0-4645-b4e7-21117f9507db" name="plancher1_wawm_4_blueMonasteryCrenellation"/>
+		<meta id="8f470a74-790b-4da4-a9d9-9c83c72cfa0a" name="soutien_wawm_4_blueMonasteryCrenellation"/>
+		<meta id="ba3417fe-3646-4ca3-af02-faed827e097f" name="rampart_wawm_4_blueMonasteryCrenellation"/>
+		<meta id="317655e7-c67a-4ff5-9ad1-f66f21306088" name="plancher1_wawm_5_purpleMonasteryCrenellation"/>
+		<meta id="3b34ff71-6915-4ee0-a599-26a33cf19113" name="soutien_wawm_5_purpleMonasteryCrenellation"/>
+		<meta id="ce646af2-937a-46f2-ade4-7d6edd152b48" name="rampart_wawm_5_purpleMonasteryCrenellation"/>
+		<meta id="a6624476-2b8a-4167-a5fa-93bdbc2557d3" name="plancher1_wawm_6_redStoneCrenellation"/>
+		<meta id="09353e84-8e21-48f9-a3da-05908e4c996c" name="soutien_wawm_6_redStoneCrenellation"/>
+		<meta id="bc48ce8f-db6d-4965-8a5e-21085dc61231" name="rampart_wawm_6_redStoneCrenellation"/>
+		<meta id="a8555186-cd16-438f-a588-e0e02c7702e5" name="plancher1_wawm_7_giantGateCrenellation"/>
+		<meta id="e1cfb184-513d-40bd-bc69-11bfd05287b1" name="soutien_wawm_7_giantGateCrenellation"/>
+		<meta id="8507109a-03b5-4072-a540-b6323c133034" name="rampart_wawm_7_giantGateCrenellation"/>
+		<meta id="a2f95ec1-b058-49f7-b59a-fa3d1a25a41c" name="plancher1_wawm_8_whiteChalkCrenellation"/>
+		<meta id="a08c1a4c-3561-4447-be1e-fdcec9faae9d" name="soutien_wawm_8_whiteChalkCrenellation"/>
+		<meta id="7aefae6e-dfc0-415d-8cba-9cc4d59afa4e" name="rampart_wawm_8_whiteChalkCrenellation"/>
+		<meta id="b5f5a6e0-2d04-4f79-bf33-8c3c24185799" name="plancher1_wawm_9_sandStoneCrenellation"/>
+		<meta id="de9b2485-887d-4e5b-b0ec-a2b30753414f" name="soutien_wawm_9_sandStoneCrenellation"/>
+		<meta id="a63619fb-7212-4fc4-a750-34cb51216483" name="rampart_wawm_9_sandStoneCrenellation"/>
+	</meta>
+	<meta id="22cc9a1e-063d-496c-ae73-25de531fb0fe" name="Prefab">
+		<meta id="6e15bc2d-aa05-4b38-8bee-4bc7a1912f0f" name="step_2_rampart_wawm">
+			<meta id="9e478dfb-d967-4f45-adb9-1872fb3aafc8" name="rampart_wawm">
+				<meta id="55929b86-3d52-4890-9fa5-5cdbd802ab26" name="entrait43_wawm"/>
+				<meta id="28cc0bf6-f65f-4eea-8659-72ca8c84600e" name="toit3_wawm"/>
+				<meta id="9b160d5e-1920-4083-8a88-6d26017f12e0" name="entrait45_wawm"/>
+				<meta id="87952804-f289-4908-811a-80d8c6887de3" name="entrait46_wawm"/>
+				<meta id="127c0478-e795-4970-a22e-0f8ca4351f1c" name="coin12_wawm"/>
+				<meta id="e9862ebb-ce73-4231-bbee-25884aee3c50" name="entrait47_wawm"/>
+				<meta id="c81ea701-dd14-4b05-b8c5-ed4f33ffc4b1" name="mur6_wawm"/>
+				<meta id="062f783b-29cb-4376-9fe6-11f64b19079d" name="coin13_wawm"/>
+				<meta id="abff3402-36f8-4861-92e7-645e9e8fbb13" name="coin14_wawm"/>
+				<meta id="15a16f9e-af6a-47e4-88ee-14f465bd8b11" name="coin15_wawm"/>
+				<meta id="e94b9376-d2a0-440d-8494-c5da8ba220a3" name="machicoulis_wawm"/>
+				<meta id="705fc541-d66d-4a0a-b982-099493eec746" name="stone_wawm">
+					<meta id="e34f8490-580b-445f-aa10-7819278a5dc3" name="plancher1_wawm"/>
+					<meta id="8d5d4df8-20e2-4df3-83f6-8d79aae26c07" name="soutien_wawm"/>
+					<meta id="05c0b401-8a86-4c5e-80e2-4b2711ca33fd" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="4100ff3f-dc4c-4573-8e84-e87c7eed5ee3" name="rampart_cream_wawm">
+				<meta id="a27d788b-110b-42fa-9bbe-4bde53730c36" name="entrait43_wawm"/>
+				<meta id="c287dad6-ae5f-4725-b852-d79c67764444" name="toit3_wawm"/>
+				<meta id="f14cc67f-185a-4e25-bd38-dd99b8ac933b" name="entrait45_wawm"/>
+				<meta id="b4c73bf4-2b14-4e92-8643-9c52ca32017d" name="entrait46_wawm"/>
+				<meta id="6a14e096-2c7b-4820-bc48-a4a03563851b" name="coin12_wawm"/>
+				<meta id="b0f0b8b9-5458-4c49-8897-672035c0694c" name="entrait47_wawm"/>
+				<meta id="35f2df4b-c383-4d36-8c90-d2728b01cdcd" name="mur6_wawm"/>
+				<meta id="8345868a-3d64-4f05-a88c-b0846bad9156" name="coin13_wawm"/>
+				<meta id="162f27cf-80ff-4879-9a11-1fad7ba90215" name="coin14_wawm"/>
+				<meta id="51c0f281-87f5-4cb0-aeb8-b7924dd8cd9a" name="coin15_wawm"/>
+				<meta id="d1076dcc-007b-4a63-b043-8a8c6cd6496a" name="machicoulis_wawm"/>
+				<meta id="905cca21-73fc-4305-b9d3-c4d4abd80623" name="stone_wawm">
+					<meta id="ec366bea-ed8f-49f5-b6cb-21dc6c99d760" name="plancher1_wawm"/>
+					<meta id="d5ddf03c-61c9-489f-a465-483880f47704" name="soutien_wawm"/>
+					<meta id="5922305e-0d16-4312-80d6-6cb253a2c320" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="92d0f387-0aa4-4e5c-b6e1-4b6a102d78cd" name="rampart_browMonastery_wawm">
+				<meta id="c118b2f3-2e25-48e8-b1ae-65b0fcb50daa" name="entrait43_wawm"/>
+				<meta id="f4c28572-2727-4d51-b59b-ae92316ae4f4" name="toit3_wawm"/>
+				<meta id="107f33b4-5484-4d8a-92ef-25b1d0d9064e" name="entrait45_wawm"/>
+				<meta id="e11dc135-0f3b-40b4-b252-58a72d458094" name="entrait46_wawm"/>
+				<meta id="0bbffe29-c473-47ca-a46d-64e9b281f3a5" name="coin12_wawm"/>
+				<meta id="87101ae6-c406-4638-b1a8-5ee134ecfb63" name="entrait47_wawm"/>
+				<meta id="d55ed412-dafb-459c-bda6-f3f55e505a9a" name="mur6_wawm"/>
+				<meta id="445ee20d-8497-48a5-b58b-1997b482a825" name="coin13_wawm"/>
+				<meta id="2faf9deb-3ca4-40bd-b293-7594490ace32" name="coin14_wawm"/>
+				<meta id="cc536d3c-a4a2-42ec-b451-c491a9701949" name="coin15_wawm"/>
+				<meta id="ec4745d1-e5c8-4e67-986a-968669a58dcb" name="machicoulis_wawm"/>
+				<meta id="a4f03552-c1d6-4846-acc9-5d6eda462875" name="stone_wawm">
+					<meta id="73ffb46c-5a0a-45a0-9f63-c5bd7363e036" name="plancher1_wawm"/>
+					<meta id="70a5f85f-c646-4224-818e-33ac4240aac6" name="soutien_wawm"/>
+					<meta id="52e54c84-2d57-4d44-aad1-4688a119af2f" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="bae8ad55-da9f-43c5-ad9a-ea20a3bd5fd5" name="rampart_blueMonastery_wawm">
+				<meta id="39d8f476-3c02-47c7-abde-7f97c6199fd5" name="entrait43_wawm"/>
+				<meta id="5882a27e-6e0c-43fc-a701-8860bdf97b0f" name="toit3_wawm"/>
+				<meta id="c626971d-765d-4b05-855e-6a03f0a26df4" name="entrait45_wawm"/>
+				<meta id="22a2f562-fab7-40f3-b552-c62df3e2d6e6" name="entrait46_wawm"/>
+				<meta id="1d02c3d4-0429-4376-9aca-248d8160d9c3" name="coin12_wawm"/>
+				<meta id="f4eefe18-3aaa-49fb-9b55-0e6d713288b3" name="entrait47_wawm"/>
+				<meta id="3c3c1935-8de4-4936-9693-271d78d30976" name="mur6_wawm"/>
+				<meta id="bc9af974-eaad-4f13-bc8f-3de7b8edf0ac" name="coin13_wawm"/>
+				<meta id="ee7a186d-1d2e-4956-a273-cb18ba2cce11" name="coin14_wawm"/>
+				<meta id="b2c95ba1-2491-4ccd-beb9-91e62eabb34d" name="coin15_wawm"/>
+				<meta id="cda59c31-7c67-41b2-8e26-bd80a081f3c8" name="machicoulis_wawm"/>
+				<meta id="6abb31b8-e33d-42ae-bf79-4a5ac0d48fb8" name="stone_wawm">
+					<meta id="d5db1916-dcf7-412e-adc0-7bb212663876" name="plancher1_wawm"/>
+					<meta id="be9e01ff-8c5e-4b48-a37f-de3aae558e1f" name="soutien_wawm"/>
+					<meta id="23fe9657-f088-421c-a662-6f3f345b5237" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="426210b5-7554-411c-83f4-fa4647846466" name="rampart_purpleMonastery_wawm">
+				<meta id="4c29d015-eba6-4431-b5e8-1d9e46212b16" name="entrait43_wawm"/>
+				<meta id="8d77bda0-6b13-422c-8639-c5964e3d637a" name="toit3_wawm"/>
+				<meta id="897b2a16-6b68-444d-a5a4-cd6d894dd4db" name="entrait45_wawm"/>
+				<meta id="82366b6e-6203-4ba0-9da4-31fdd359b834" name="entrait46_wawm"/>
+				<meta id="c1c017b8-4310-44f5-89c0-c71a90e81165" name="coin12_wawm"/>
+				<meta id="0105a4cf-a1d7-4877-9c7d-3d3738752ae1" name="entrait47_wawm"/>
+				<meta id="d0e89c90-11e1-4c3b-95f9-1d9bf7083b77" name="mur6_wawm"/>
+				<meta id="7763a63a-df93-4a82-9665-cf936f06d134" name="coin13_wawm"/>
+				<meta id="4e8722c0-4378-4992-ae8c-4d5d39793cfe" name="coin14_wawm"/>
+				<meta id="256c57df-b0b8-40f1-8b10-546bdc1d4678" name="coin15_wawm"/>
+				<meta id="e7ecc505-565b-4958-9ed5-431b50ba0806" name="machicoulis_wawm"/>
+				<meta id="cbb5677e-d43b-4bbc-bd62-f33f486c1974" name="stone_wawm">
+					<meta id="35f9c4be-504e-40fe-9c8b-3d8bb0755e85" name="plancher1_wawm"/>
+					<meta id="7cdfbe7e-daf5-4d8c-8103-df4b47335abb" name="soutien_wawm"/>
+					<meta id="5e5c27a9-443f-4644-b8c9-a1541bebb35a" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="85912b5e-3063-44d5-8825-225bf8aacdc4" name="rampart_redStone_wawm">
+				<meta id="228fb1d6-896a-4a52-ae01-ef27216d698c" name="entrait43_wawm"/>
+				<meta id="0b30a7c0-2096-46ff-9c6e-6763362bbfe4" name="toit3_wawm"/>
+				<meta id="570160da-b614-4d5e-939a-69b5f1cd2c39" name="entrait45_wawm"/>
+				<meta id="980eaac1-6300-43bb-bad3-7bd02f7e9acb" name="entrait46_wawm"/>
+				<meta id="f206f0f6-7adb-4f48-bbcf-965d216f8baa" name="coin12_wawm"/>
+				<meta id="ec9452ea-83f4-4e32-90eb-5fb9f6f951da" name="entrait47_wawm"/>
+				<meta id="2fdb7dea-f9b9-40e9-9878-962f6575c4a7" name="mur6_wawm"/>
+				<meta id="24da54bd-2951-460a-9b4a-0d5345a3e074" name="coin13_wawm"/>
+				<meta id="72e678a0-baf2-4847-93a7-b4e52cdfdcdf" name="coin14_wawm"/>
+				<meta id="f193e1b4-207e-4f84-ae36-fce56f43fb5c" name="coin15_wawm"/>
+				<meta id="95cdac77-ee8a-482b-b1c1-46551aad3286" name="machicoulis_wawm"/>
+				<meta id="a28f2212-7afa-4a32-99ff-84f9b8f67ec1" name="stone_wawm">
+					<meta id="47fb3a11-d8bf-45a8-a63f-d79332fd998d" name="plancher1_wawm"/>
+					<meta id="2224a7c1-8f59-48ac-9473-eea2aac6548c" name="soutien_wawm"/>
+					<meta id="39d3901c-7728-4bd9-8e24-cb970176aeb2" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="3e66afd7-8789-431c-ab2a-11fbe91ca33b" name="rampart_giantGate_wawm">
+				<meta id="605c0f1a-0042-4a3e-b03d-da40016e8f62" name="entrait43_wawm"/>
+				<meta id="d65312e4-58f9-4c8a-ac2e-b3f4ef0b3688" name="toit3_wawm"/>
+				<meta id="72a2be9d-0ba3-45e1-b3d1-6c30a8114b01" name="entrait45_wawm"/>
+				<meta id="d2f30547-3cdb-4f54-8482-33f578aedfac" name="entrait46_wawm"/>
+				<meta id="16c30ad7-0685-4a85-a969-ea2d1d7fc41b" name="coin12_wawm"/>
+				<meta id="c41184aa-01b3-4ef9-b431-b58e0b05850b" name="entrait47_wawm"/>
+				<meta id="40b57b12-0715-4f7e-bc79-612723a96c75" name="mur6_wawm"/>
+				<meta id="2142bb36-ff37-40dc-b7fe-cbf87d8d64d5" name="coin13_wawm"/>
+				<meta id="74151e2b-42cc-4b6c-a04b-623f7b0b2df3" name="coin14_wawm"/>
+				<meta id="125ee0f4-3c7f-4c14-8c85-f231544e68b5" name="coin15_wawm"/>
+				<meta id="52023d60-4d4b-4f42-9708-53f662c0b7e0" name="machicoulis_wawm"/>
+				<meta id="c90b280c-6c6d-4f0e-bf87-9cd1016bc157" name="stone_wawm">
+					<meta id="415a238e-ea3c-4811-a2c7-d4144e8c2382" name="plancher1_wawm"/>
+					<meta id="f5b2d4fc-c7f7-4fe1-b0b1-de55d8c19d6c" name="soutien_wawm"/>
+					<meta id="3719b4ec-64f1-4106-a91e-030a8ff5d374" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="7b1f6259-62c6-4657-88b6-55facd035d5f" name="rampart_whiteChalk_wawm">
+				<meta id="ef883edf-690c-4a95-b0a0-4f9dd5938e9d" name="entrait43_wawm"/>
+				<meta id="81d8b64a-ba44-40c1-804b-9c8362eb58ab" name="toit3_wawm"/>
+				<meta id="29a34513-5119-4598-9cd1-a1601f1ac6d4" name="entrait45_wawm"/>
+				<meta id="ee4ca9f4-d363-4088-a3b1-90e6f13718ed" name="entrait46_wawm"/>
+				<meta id="7aa04987-3707-4211-adf4-c360cf492590" name="coin12_wawm"/>
+				<meta id="e87feb00-4809-484e-9d39-1e34438e116d" name="entrait47_wawm"/>
+				<meta id="65b03518-d586-4881-bb56-0893f0378a0f" name="mur6_wawm"/>
+				<meta id="252bd5e3-8aee-41c4-8dcd-146db356e8b1" name="coin13_wawm"/>
+				<meta id="db9882ed-74c0-4331-bf83-798375636ff7" name="coin14_wawm"/>
+				<meta id="226f64c7-994d-438e-ac68-c6a1724e2644" name="coin15_wawm"/>
+				<meta id="02d11244-44e3-41dc-8672-4e79ad031ec2" name="machicoulis_wawm"/>
+				<meta id="90d94169-fea4-4ad7-9253-93f97ff75159" name="stone_wawm">
+					<meta id="58de8205-8214-4e66-9a18-16ef095d44e0" name="plancher1_wawm"/>
+					<meta id="a87d33d4-3336-4e36-8a63-81d170c7179f" name="soutien_wawm"/>
+					<meta id="1d363722-7ac0-4d70-bb05-30501b56c565" name="rampart_wawm"/>
+				</meta>
+			</meta>
+			<meta id="324c66b7-d8a3-4da4-973e-749917ecc5e8" name="rampart_sandStone_wawm">
+				<meta id="4b6270b9-70a7-42b0-9b9a-4452cee2aaa1" name="entrait43_wawm"/>
+				<meta id="c29a2151-c533-4260-95f2-fc15272befed" name="toit3_wawm"/>
+				<meta id="5abd171b-47ce-4af0-b855-ff929a53ec27" name="entrait45_wawm"/>
+				<meta id="1f2d1804-6d29-4a24-b2a4-d6f8640a63c5" name="entrait46_wawm"/>
+				<meta id="e165bf82-2bc6-4fcb-94f2-bc407cf91ab3" name="coin12_wawm"/>
+				<meta id="2ba27107-4b8e-4583-aa3f-bc4362531eb5" name="entrait47_wawm"/>
+				<meta id="1f6891ce-9f18-47a9-abbd-737cf7d1eb96" name="mur6_wawm"/>
+				<meta id="2bd1e445-fb16-4def-b0b2-28784501ceaf" name="coin13_wawm"/>
+				<meta id="85c986b8-bd67-41bb-bbf3-14fb61455d12" name="coin14_wawm"/>
+				<meta id="cf60272c-c39e-4d83-99a4-d877b0ef4f79" name="coin15_wawm"/>
+				<meta id="33032e04-391b-4554-b919-1c79057023d1" name="machicoulis_wawm"/>
+				<meta id="c22f29b8-ae43-40c9-90c2-3c565d8f2378" name="stone_wawm">
+					<meta id="4c4bdebb-6fe2-4bc9-94ac-0fd123815bc9" name="plancher1_wawm"/>
+					<meta id="5aba1a76-3c3e-4eaf-8159-7138b2294d40" name="soutien_wawm"/>
+					<meta id="814a2432-149a-4059-b890-4da71df9e8bc" name="rampart_wawm"/>
+				</meta>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="93d9a319b17b2d855f565e32a5e18fe9"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_cream_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_browMonastery_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_blueMonastery_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_purpleMonastery_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_redStone_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_giantGate_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_whiteChalk_wawm"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait43_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit3_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait45_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait46_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin12_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait47_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="mur6_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin13_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin14_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coin15_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="machicoulis_wawm"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher1_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="soutien_wawm"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="rampart_wawm"/>
+									</Item>
+								</ChildList>
+								<NodeName value="stone_wawm"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_sandStone_wawm"/>
+					</Item>
+				</ChildList>
+				<NodeName value="step_2_rampart_wawm"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7cddd4ef-a204-4aa5-ade2-acb7e5b89899"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="db3f9330-4d3a-4e9c-b4aa-2b3a5e43d39e"/>
+			<MaterialName value="blueCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="23b45504-cc8d-4897-af12-3f179961f324"/>
+			<MaterialName value="blueMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0d03aedc-d6c6-4ac3-99e4-1c97d66f9327"/>
+			<MaterialName value="brownMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="99f1a947-563c-4f14-80cb-1dd870dfa8f5"/>
+			<MaterialName value="chambranle"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5bca5319-cd6a-445f-8d36-a0baf8645417"/>
+			<MaterialName value="creamCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8db717f1-1a9d-4260-b95b-3c400ff97b55"/>
+			<MaterialName value="giantGateCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a8d22f1c-1fdb-47b8-839b-5ac2040db5f6"/>
+			<MaterialName value="purpleMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6fbed095-7760-4cd8-a8a6-5d18025d09c8"/>
+			<MaterialName value="redStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a6d4ed69-f32f-46b6-9ad4-ff1592842417"/>
+			<MaterialName value="sandStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5b288c4c-5072-4f58-8b28-3dfcfcb19d3d"/>
+			<MaterialName value="whiteChalkCrenellation"/>
+		</Item>
+	</MaterialList>
+</importer>
+

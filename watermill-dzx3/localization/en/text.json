@@ -1,0 +1,58 @@
+{
+	"BUILDINGS": {
+		"WATER_MILL_SET_NAME": "Water Mill Set",
+		"WATER_MILL_PARTSETLIST_PRODUCTION_NAME": "Production buildings",
+		"WATER_MILL_PARTSETLIST_WHEEL_NAME": "Wheels",
+		"WATER_MILL_PARTSETLIST_DECORATION_NAME": "Decorations"
+	},
+	"BUILDING_PARTS": {
+                "PRODUCTION_CORE": "Production cores",
+                "WHEEL": "Wheels",
+		"WATER_MILL_CORE_FLOUR_NAME": "Flour mill",
+		"WATER_MILL_CORE_TEXTILE_NAME": "Textile mill",
+		"WATER_MILL_CORE_TEXTILE_FLAX_NAME": "Textile mill",
+		"WATER_MILL_CORE_PLANKS_NAME": "Planks mill",
+		"WATER_MILL_EXTENSION_RIGHT_BANK_NAME": "Right bank wheel",
+		"WATER_MILL_EXTENSION_LEFT_BANK_NAME": "Left bank wheel",
+		"WATER_MILL_YELLOW_ROOF": "Yellow",
+		"WATER_MILL_GREEN_ROOF": "Green",
+		"WATER_MILL_BROWN_ROOF": "Brown",
+		"WATER_MILL_BLUE_ROOF": "Blue",
+		"WATER_MILL_RED_ROOF": "Red",
+		"WATER_MILL_THATCHED_ROOF": "Thatched",
+	        "BUILDING_FUNCTION_SAWMILL_NAME": "Planks",
+	        "WATER_MILL_FUNCTION_PLANKS_WOOD_RESOURCE_SHINGLE_NAME": "Shingles",
+	        "BUILDING_FUNCTION_WINDMILL_NAME": "Flour from wheat",
+	        "WATER_MILL_FUNCTION_FLOUR_RESOURCE_CORN_FLOUR_NAME": "Flour from corn",
+	        "BUILDING_FUNCTION_WEAVER_HUT_NAME": "Textile from wool",
+	        "WATER_MILL_FUNCTION_TEXTILE_RESOURCE_FLAX_WOOLEN_CLOTH_NAME": "Textile from flax",
+                "WATER_MILL_SMALL_BOAT_NAME": "Small boat",
+                "WATER_MILL_PLANKS_NAME": "Plank",
+                "WATER_MILL_SACS_NAME": "Bags"
+	},
+	"MONUMENTS": {
+		"CATEGORY_CORE_SING": "core",
+		"CATEGORY_CORE_PLUR": "cores",
+		"CATEGORY_EXTENSION": "Extension",
+		"CATEGORY_EXTENSION_SING": "extension",
+		"CATEGORY_EXTENSION_PLUR": "extensions",
+		"CATEGORY_DOOR_SING": "door",
+		"CATEGORY_DOOR_PLUR": "doors",
+		"CATEGORY_DECORATION": "Decoration",
+		"CATEGORY_DECORATION_SING": "decoration",
+		"CATEGORY_DECORATION_PLUR": "decorations"
+	},
+
+	"BUILDING_DESCRIPTIONS": {
+		"WATER_MILL_SET_DESC": "set for water mill",
+		"WATER_MILL_CORE_FLOUR_DESC": "produces flour",
+		"WATER_MILL_CORE_TEXTILE_DESC": "produces textile from wool",
+		"WATER_MILL_CORE_TEXTILE_FLAX_DESC": "produces textile from flax",
+		"WATER_MILL_CORE_PLANKS_DESC": "produces planks",
+		"WATER_MILL_EXTENSION_RIGHT_BANK_DESC": "set wheel for right bank",
+		"WATER_MILL_EXTENSION_LEFT_BANK_DESC": "set wheel for left bank",
+                "WATER_MILL_SMALL_BOAT_DESC": "Small boat",
+                "WATER_MILL_PLANKS_DESC": "Plank",
+                "WATER_MILL_SACS_DESC": "Bags"
+	}
+}

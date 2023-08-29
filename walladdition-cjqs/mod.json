@@ -1,0 +1,17 @@
+{
+	"Name": "Walls addition",
+	"Author": "vjraymon",
+	"Description": "Stone walls",
+	"Version": "1.2.0",
+ 
+	"AdditionalLanguageList": [
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		}
+	]
+}

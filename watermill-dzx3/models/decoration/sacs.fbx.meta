@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="23bc128f-3317-4aca-bc7f-ff3071f2ddc3">
+	<meta id="3d6d42c6-b944-4eb6-8c54-adbd65016c0f" type="group" folder="true" name="Materials">
+		<meta id="ca2e7a5e-c4bf-44b3-8572-e9021225c2fb" name="sac1"/>
+	</meta>
+	<meta id="a6c5ee37-88a9-40ba-bb81-c4268b064fe0" type="group" folder="true" name="Meshes">
+		<meta id="152a8109-9c01-4c7f-9bd7-41e51605e3cf" name="sac_sac1"/>
+		<meta id="9983f2a2-b88a-42ed-acc7-e8dd3fee6cb8" name="lien_sac1"/>
+		<meta id="b3c65da6-b8f7-4e41-823b-3dc5bfd23485" name="lien_2_sac1"/>
+		<meta id="edf065c3-d35a-481a-ad05-74aa525006ca" name="lien_3_sac1"/>
+	</meta>
+	<meta id="95090f52-2b14-44c8-8313-0bb6bea46544" name="Prefab">
+		<meta id="a2012471-9244-4a27-860e-865f7ca30074" name="SacsPart">
+			<meta id="9fd05204-7569-49e0-b76d-77bbfd44a7f9" name="sac4">
+				<meta id="e172132d-6049-4087-853b-9c9e4adc76eb" name="sac"/>
+				<meta id="5636b9f2-4ca5-4482-b81b-29d26c7b0c3a" name="lien"/>
+			</meta>
+			<meta id="b0c85a59-dd3d-4db7-9fea-fde80de3d27e" name="sac6">
+				<meta id="db66c69e-cbbf-4d49-92c5-e15e17b72cc7" name="sac"/>
+				<meta id="4cdb42ed-5bee-4573-902e-bca7f2191dc9" name="lien"/>
+			</meta>
+			<meta id="d091f722-accf-4630-b6cd-7a3781d78006" name="sac7">
+				<meta id="74222de2-007f-4a3a-b6aa-d2b8b6522933" name="sac"/>
+				<meta id="9943443f-e768-4e35-9e38-0e778628ec60" name="lien"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="56ad40c5cfaaaa38ad65ea287c66b27b"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sac"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lien"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sac4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sac"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lien"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sac6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sac"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lien"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sac7"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SacsPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ca2e7a5e-c4bf-44b3-8572-e9021225c2fb"/>
+			<MaterialName value="sac1"/>
+		</Item>
+	</MaterialList>
+</importer>
+

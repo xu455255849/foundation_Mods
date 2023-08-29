@@ -1,0 +1,3192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="7ce21e32-a43b-448e-a65c-1b3e95b32b7c">
+	<meta id="577ad7f2-4c96-4633-8eb8-4818b17da0fb" type="group" folder="true" name="Materials">
+		<meta id="caf3adb2-041b-4e35-8483-6438479fda66" name="chambranle1"/>
+		<meta id="86d07bd8-9f9d-4742-b246-d7a99c04d1ee" name="blueCrenellation"/>
+		<meta id="8a88ae15-d1ab-4569-91a8-c6b2911dd220" name="creamCrenellation"/>
+		<meta id="e542c72f-f021-40e3-b4ac-538dc6510bc4" name="brownMonasteryCrenellation"/>
+		<meta id="4edbaf74-5485-466a-bf0d-b938a478fe91" name="blueMonasteryCrenellation"/>
+		<meta id="221dd830-5654-4d89-9c17-ee95eec0125e" name="purpleMonasteryCrenellation"/>
+		<meta id="21143bf5-459e-49b7-b948-e2786ba514cc" name="redStoneCrenellation"/>
+		<meta id="56d951df-4015-4d0f-9935-1412fc253dba" name="giantGateCrenellation"/>
+		<meta id="639fb27a-b8fe-45a7-a11e-4669fbeabcaf" name="whiteChalkCrenellation"/>
+		<meta id="20ebaa4e-a98e-441a-ac53-cf39eadf8ff4" name="sandStoneCrenellation"/>
+	</meta>
+	<meta id="f5abe60d-7ed1-4055-9035-bf2d5d358f3e" type="group" folder="true" name="Meshes">
+		<meta id="f7e369a7-974f-4dad-baa6-bf100b088c30" name="solive1_sgv5sgha_chambranle1"/>
+		<meta id="f8004378-4027-4dcf-a447-a6b48ebff12e" name="fiche1_sgv5sgha_chambranle1"/>
+		<meta id="d478acf5-7bfa-4a3c-8099-47e8504e3ad4" name="solive2_sgv5sgha_chambranle1"/>
+		<meta id="1106eb4a-397d-451d-8502-b5553ff7bbc8" name="fiche2_sgv5sgha_chambranle1"/>
+		<meta id="19c242f4-43df-4e0b-a905-f1e4ded76e98" name="solive3_sgv5sgha_chambranle1"/>
+		<meta id="bf6e4bb0-a04e-4a90-84e7-bd241c02feec" name="fiche3_sgv5sgha_chambranle1"/>
+		<meta id="dd7ed09e-62d8-4b36-af30-d94651547fc1" name="solive4_sgv5sgha_chambranle1"/>
+		<meta id="899bf67b-8265-4318-873d-586231c9c9a7" name="fiche4_sgv5sgha_chambranle1"/>
+		<meta id="052220a5-22ec-451d-a9e1-1e779ff968b8" name="solive5_sgv5sgha_chambranle1"/>
+		<meta id="ed2501d4-30cc-455d-958a-3346ab9df00d" name="fiche5_sgv5sgha_chambranle1"/>
+		<meta id="50660942-775d-402b-bf93-1e6f0d9ea42f" name="solive6_sgv5sgha_chambranle1"/>
+		<meta id="cad7537c-59c8-49f9-8c71-d11bbcd428e8" name="fiche6_sgv5sgha_chambranle1"/>
+		<meta id="fb62ffe4-84bb-4170-8331-2674568eca66" name="solive7_sgv5sgha_chambranle1"/>
+		<meta id="3ff7c070-3afd-41ea-bc7f-2ea69f0ee9cf" name="fiche7_sgv5sgha_chambranle1"/>
+		<meta id="c878d1f1-39e0-4f5d-9e3b-c7b68a9ab5e1" name="solive8_sgv5sgha_chambranle1"/>
+		<meta id="d35eb941-dde1-4ca3-a1e7-64521a7e71c6" name="fiche8_sgv5sgha_chambranle1"/>
+		<meta id="385106a9-5a6d-41b5-99b2-e731d6d6df8a" name="solive9_sgv5sgha_chambranle1"/>
+		<meta id="3ec1e542-4e8b-486c-bd6c-b7ef97df8094" name="fiche9_sgv5sgha_chambranle1"/>
+		<meta id="fd4bc7cd-e42b-4311-b1b7-c79e0f747acb" name="poutre1_sgv5sgha_chambranle1"/>
+		<meta id="dbf0dd42-e22a-40e4-a8e1-6d890a08e926" name="poutre3_sgv5sgha_chambranle1"/>
+		<meta id="234f39d0-3696-4ed0-a6e9-deec746db8f2" name="pillier1_sgv5sgha_chambranle1"/>
+		<meta id="cf0d4c14-3b2b-466c-ab59-2c050ac03ef0" name="pillier2_sgv5sgha_chambranle1"/>
+		<meta id="edd31688-fae3-430b-8bd9-b078153c6e67" name="pillier3_sgv5sgha_chambranle1"/>
+		<meta id="2dc067ef-8d4c-470c-8997-fd7fd6e63af5" name="plancher_sgv5sgha_chambranle1"/>
+		<meta id="0c6e9c8f-f940-4697-a82f-d10aa1fe0407" name="toit0_sgv5sgha_chambranle1"/>
+		<meta id="58e79f15-40d6-4287-b733-f33ae8bc74d1" name="mur0_sgv5sgha_chambranle1"/>
+		<meta id="37b95793-2ea8-4f6b-aacb-2acc9aa5e297" name="pillier11_sgv5sgha_chambranle1"/>
+		<meta id="00a3273a-9968-4f61-9ae2-1c57db161f53" name="pillier12_sgv5sgha_chambranle1"/>
+		<meta id="3efa49fc-ae2a-4c6d-8674-07543340fefd" name="pillier13_sgv5sgha_chambranle1"/>
+		<meta id="9d715260-450c-4c59-b57d-c20371d4b6b8" name="poutre12_sgv5sgha_chambranle1"/>
+		<meta id="de2f401b-70c0-4ff1-91be-cb91ea08787f" name="toit10_sgv5sgha_chambranle1"/>
+		<meta id="260869cd-ec66-475c-b846-3637002cb185" name="mur10_sgv5sgha_chambranle1"/>
+		<meta id="c31a48a4-fc31-41ff-8c8a-25db4e370e40" name="mur1_sgv5sgha_chambranle1"/>
+		<meta id="75240efa-663f-4325-b157-e169584b4067" name="ramparts_sgv5sgha_blueCrenellation"/>
+		<meta id="0e1bdf43-d0b9-46de-b3bc-1a0f1015a0a9" name="ramparts_sgv5sgha_2_creamCrenellation"/>
+		<meta id="fa2ddaa1-c6a3-4ff3-8f3b-9e832f0bdec3" name="ramparts_sgv5sgha_3_brownMonasteryCrenellation"/>
+		<meta id="7b433e30-1252-4076-bd3e-45602941fbf5" name="ramparts_sgv5sgha_4_blueMonasteryCrenellation"/>
+		<meta id="fb56a257-0487-4d83-a3b1-427923f9e649" name="ramparts_sgv5sgha_5_purpleMonasteryCrenellation"/>
+		<meta id="9ad86f89-e83c-4ddc-be21-a8a8b47d5e13" name="ramparts_sgv5sgha_6_redStoneCrenellation"/>
+		<meta id="8a50493d-aacb-49a5-8d7e-c10f6a74dcb6" name="ramparts_sgv5sgha_7_giantGateCrenellation"/>
+		<meta id="9b8b5fdc-713b-432b-9787-59a269440a80" name="ramparts_sgv5sgha_8_whiteChalkCrenellation"/>
+		<meta id="ebb22f99-bdba-4203-9d94-12fe6c780f94" name="ramparts_sgv5sgha_9_sandStoneCrenellation"/>
+	</meta>
+	<meta id="c8a1a66f-f881-489d-ac62-4ab0d029f924" name="Prefab">
+		<meta id="881134d1-4499-4e38-b5e6-6b75c2035123" name="step_2_rampart_Wall_HoardingsPart">
+			<meta id="71636ff1-4bad-457b-8422-1f6088094f0b" name="rampart_Wall_HoardingsPart">
+				<meta id="47d391dc-166d-4390-bbf2-537a7538302e" name="ramparts_sgv5sgha"/>
+				<meta id="945022e6-acac-4042-a8ff-5b2111de99e2" name="hoarding_sgv5sgha">
+					<meta id="687f361e-4694-40d4-8569-49f5b07a34f9" name="charpente_sgv5sgha">
+						<meta id="ee737180-5c15-49e0-8b98-69f1138ceaba" name="charpente1_sgv5sgha">
+							<meta id="815d64ee-b477-4d66-b6f4-ff93c617230d" name="solive1_sgv5sgha"/>
+							<meta id="71906977-7963-4e0f-be8b-cbee7175a299" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="f3e13a8d-10ac-4fed-a40a-ca9e8a5bd71e" name="charpente2_sgv5sgha">
+							<meta id="43eb14d6-ab8f-47ea-bb6a-e760b7e622f1" name="solive2_sgv5sgha"/>
+							<meta id="951b855b-8a3c-42e4-a6d1-0fcffa4f1181" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="924ff814-b740-42f4-a298-37fdc47f58d9" name="charpente3_sgv5sgha">
+							<meta id="26bac27b-8c08-4f91-a594-1e30c0e88817" name="solive3_sgv5sgha"/>
+							<meta id="8dbe2fb0-a439-43f2-9a3a-b0d33a1c38dd" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="ebc55762-afae-48b2-85bf-f7bdd83f6531" name="charpente4_sgv5sgha">
+							<meta id="9511d1c1-eefe-4007-a0b9-2524baadc48f" name="solive4_sgv5sgha"/>
+							<meta id="ccc0402c-e675-481d-a17c-e26b375e8d0f" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="efac0705-e5a8-45e6-bb0f-81ae779dc84b" name="charpente5_sgv5sgha">
+							<meta id="983c848e-56ea-4a66-a4bd-fa2a936f5b15" name="solive5_sgv5sgha"/>
+							<meta id="c3d6376c-72d3-44e8-b555-3310fd1fabb0" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="7a5dfe8c-98cb-40fa-a606-5402b371d1ac" name="charpente6_sgv5sgha">
+							<meta id="fdb2b321-69d1-4353-93e2-02fd84bbc9e9" name="solive6_sgv5sgha"/>
+							<meta id="918ac2ba-4430-4b23-acbd-74de909816cf" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="f260f94a-afdb-4fa8-b8f8-29a6cecb8875" name="charpente7_sgv5sgha">
+							<meta id="57c097ca-11c2-4740-ace4-2244e500a805" name="solive7_sgv5sgha"/>
+							<meta id="6b5460cf-447c-42b6-87c7-17499f7c171e" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="25b39c6d-8d54-4498-9878-5b60f9a66f81" name="charpente8_sgv5sgha">
+							<meta id="811be1ea-9e3f-494d-93e8-00f87dbaca94" name="solive8_sgv5sgha"/>
+							<meta id="ecb1c21a-3e75-4810-b910-4f236d1388d5" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="06e0bf8d-4863-47a8-af7f-6521271c2c06" name="charpente9_sgv5sgha">
+							<meta id="b4b85e18-6ec6-45b1-88ac-ab33b4570d4c" name="solive9_sgv5sgha"/>
+							<meta id="70fa1b6d-dc53-4588-bfa2-dcbceca70386" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="c38459fd-e4b4-4f04-900c-b5886f5de046" name="poutres_sgv5sgha">
+						<meta id="28a9d6cf-441e-44c2-a601-649e0dda8fd8" name="poutre1_sgv5sgha"/>
+						<meta id="a90a65b6-3c93-4766-a6b4-91282935454a" name="poutre2_sgv5sgha"/>
+						<meta id="0d482e9a-a863-4c5c-8318-e587fe30ed98" name="poutre3_sgv5sgha"/>
+						<meta id="6202dff1-1935-47d2-842e-df20cf42debd" name="poutre4_sgv5sgha"/>
+						<meta id="b6a189c3-2803-42dd-96fd-0f8d367d80ec" name="pillier1_sgv5sgha"/>
+						<meta id="cd899174-dc96-4cb9-868a-ddacdba13c33" name="pillier2_sgv5sgha"/>
+						<meta id="18f64b6a-4ab9-4fe0-aac9-e5c378b4c3d5" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="3af7a25f-3f89-427d-8ff0-6cd0052a3f73" name="plancher_sgv5sgha"/>
+					<meta id="17a387dc-3f33-4aa8-9e6c-d0ee92e253eb" name="toit0_sgv5sgha"/>
+					<meta id="f4b90175-1f3b-4b0d-9cd0-a7f8d3dcfa39" name="mur0_sgv5sgha"/>
+					<meta id="ed20c777-50c3-4467-8625-be1fa3fc2bf7" name="wallwalk_sgv5sgha">
+						<meta id="005ddbbe-d15e-4815-a924-bd8aac544f89" name="pillier11_sgv5sgha"/>
+						<meta id="936e749a-992f-49fd-95aa-047f0590cea2" name="pillier12_sgv5sgha"/>
+						<meta id="d2fec7ca-1521-4211-9cbb-2e4f61fc4c96" name="pillier13_sgv5sgha"/>
+						<meta id="c4887430-9bf8-42da-823e-7ac6108dfebe" name="poutre12_sgv5sgha"/>
+						<meta id="ec27016e-6503-408f-af42-ad63afe5af3f" name="poutre14_sgv5sgha"/>
+						<meta id="24258f1d-267d-4338-8297-00b6f0590fb5" name="toit10_sgv5sgha"/>
+						<meta id="12510d61-92d3-40d1-ba10-cc63ac833fc7" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="bf30e16f-2a6c-4e19-b9c0-79ae6dff765a" name="mur1_sgv5sgha"/>
+					<meta id="645cad2d-cf57-448c-b838-0da8c15bd525" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="01feda37-9db4-422b-b0bd-9ee7e41d0532" name="rampart_cream_Wall_HoardingsPart">
+				<meta id="9398bc13-dbf1-447b-a7cb-de249f120f2a" name="ramparts_sgv5sgha"/>
+				<meta id="54942b74-9433-4034-91cb-7ead0b33e716" name="hoarding_sgv5sgha">
+					<meta id="a861cf64-5bf3-41a6-b724-ecdfcf0b735f" name="charpente_sgv5sgha">
+						<meta id="2929fc2c-d13d-48bc-826a-1d396fde322f" name="charpente1_sgv5sgha">
+							<meta id="7e01eac3-983d-46af-946c-12e8e48d8cf2" name="solive1_sgv5sgha"/>
+							<meta id="4897eb22-eed1-4288-94fd-013017715b2d" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="662c5a59-dc19-4e9e-907e-f95fdff0a942" name="charpente2_sgv5sgha">
+							<meta id="26d037a7-16c4-4cad-936a-5c6813131879" name="solive2_sgv5sgha"/>
+							<meta id="ee71f3d7-7925-497f-bb79-64844eac17e0" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="1008adc7-9cb9-4ff1-a555-13b1a586c68e" name="charpente3_sgv5sgha">
+							<meta id="4dada426-5724-4364-a8cb-2bc1269f45fd" name="solive3_sgv5sgha"/>
+							<meta id="9872e8d7-d26b-4887-9033-d89fe18cf5ed" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="72a8add9-3e94-4a60-985f-cfb086b22aa1" name="charpente4_sgv5sgha">
+							<meta id="b14816d0-f89d-4011-8fa6-962d19134f0e" name="solive4_sgv5sgha"/>
+							<meta id="7521a00a-f6cc-4203-9fcd-3df64ed4dd15" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="985e11dd-962c-48fc-a149-9eb7a33ff0a5" name="charpente5_sgv5sgha">
+							<meta id="0afa521a-f655-4f5a-bec8-785f62a05fcb" name="solive5_sgv5sgha"/>
+							<meta id="382ec6a4-eace-47e9-bb60-872441d7fb97" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="e054be91-e0b2-4bbe-8593-efaee7467c20" name="charpente6_sgv5sgha">
+							<meta id="5a43ab59-a862-4619-9b60-f5928f110dde" name="solive6_sgv5sgha"/>
+							<meta id="8f7a89d0-c160-403e-b5cf-19055617410a" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="6940c6e9-cbc0-49a3-82a5-937a4adc8566" name="charpente7_sgv5sgha">
+							<meta id="abb9f799-71b4-4580-807d-92bce6de70fc" name="solive7_sgv5sgha"/>
+							<meta id="f736e5f5-7bbd-4ed2-bdce-09771c36bd80" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="66410006-f857-4efb-b6d2-3200a8de98b3" name="charpente8_sgv5sgha">
+							<meta id="e5df04d8-1de5-4142-aaa4-9af0269a03f1" name="solive8_sgv5sgha"/>
+							<meta id="064f63c8-0c7b-4f92-8eb6-c953d0964a42" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="e6b9d8c9-36d3-4bd6-8d76-7316cd8ccfcd" name="charpente9_sgv5sgha">
+							<meta id="c9ae4913-3580-450f-bea0-818840898b4e" name="solive9_sgv5sgha"/>
+							<meta id="a4e9ff7c-3e7e-417a-a2b6-46ac1cf7eaf6" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="ddd70eab-4a20-4423-84df-b02f3e76ec6d" name="poutres_sgv5sgha">
+						<meta id="ce1e0fc5-7639-4768-b3d4-fa40f4802032" name="poutre1_sgv5sgha"/>
+						<meta id="fe66d3ef-1bd9-4e1c-91ef-9e3797955627" name="poutre2_sgv5sgha"/>
+						<meta id="e6145cff-245e-498e-b59f-770fb2c9a69e" name="poutre3_sgv5sgha"/>
+						<meta id="224a0a3a-da63-4588-bb9b-ea147236cba0" name="poutre4_sgv5sgha"/>
+						<meta id="424f63e7-7486-4ef5-b5d7-33bb3fcae873" name="pillier1_sgv5sgha"/>
+						<meta id="67f51641-63d9-4857-9ec7-a5c6b13e9415" name="pillier2_sgv5sgha"/>
+						<meta id="095f50d3-a4af-4258-90fc-d6623068a227" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="62fe3fd1-3e9b-4bc7-ac29-25db11c29f31" name="plancher_sgv5sgha"/>
+					<meta id="08a1a9f2-1ada-4959-a022-3567242a60f3" name="toit0_sgv5sgha"/>
+					<meta id="e5b9c95c-e18a-4268-aa05-be3f328c7ff4" name="mur0_sgv5sgha"/>
+					<meta id="bd24b550-6dcf-4b48-a023-50f36268b237" name="wallwalk_sgv5sgha">
+						<meta id="5c07fcbd-5049-42ab-8426-0d33dca55bd8" name="pillier11_sgv5sgha"/>
+						<meta id="1d8113c6-4a85-4f93-ae15-7b59e3765c9c" name="pillier12_sgv5sgha"/>
+						<meta id="2e00c010-afa0-40ee-bcdb-d15680aa04c4" name="pillier13_sgv5sgha"/>
+						<meta id="6265c225-160d-4efb-9097-d47cae95d222" name="poutre12_sgv5sgha"/>
+						<meta id="9e22ad30-879e-4031-a23b-b8a82a6ce9bd" name="poutre14_sgv5sgha"/>
+						<meta id="0695c6dc-001d-4e01-b574-54fd25ae1d39" name="toit10_sgv5sgha"/>
+						<meta id="81d7d246-d9ea-43ad-9133-7860322976dd" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="78025f33-667f-4b52-9b5a-3386ac6676a2" name="mur1_sgv5sgha"/>
+					<meta id="8840b6d8-3382-4acf-ae61-96f955e6bd5b" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="0a172f28-3899-453e-9560-7f2263e3dd72" name="rampart_browMonastery_Wall_HoardingsPart">
+				<meta id="37db358c-b6f0-4172-a9aa-7ee73716559b" name="ramparts_sgv5sgha"/>
+				<meta id="e2be7ad3-bb64-4f07-8356-470cffab1249" name="hoarding_sgv5sgha">
+					<meta id="5dd6ae93-cfcd-4f17-9085-7c2e132e36e6" name="charpente_sgv5sgha">
+						<meta id="7589da26-583f-49de-b8fc-2cea0feb5694" name="charpente1_sgv5sgha">
+							<meta id="d2370191-4cc8-4a84-bce1-04c48e1e24be" name="solive1_sgv5sgha"/>
+							<meta id="c1685bf7-721a-4131-be33-0d6b5325c265" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="88957ad9-1fcd-49fd-b39a-a1339457b554" name="charpente2_sgv5sgha">
+							<meta id="c3529f16-4eb6-47b1-b58d-794fd02a3aba" name="solive2_sgv5sgha"/>
+							<meta id="b44e4529-48ef-48bf-bfef-5c583a220551" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="1f4e6410-6823-4ced-8d73-ff42e475cfcd" name="charpente3_sgv5sgha">
+							<meta id="79ac5bdc-5286-4d42-ac96-9220415666e3" name="solive3_sgv5sgha"/>
+							<meta id="70511f1c-21ad-499d-b554-3021c659e208" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="8fcb53c9-54da-4aee-93c7-9628c8ab0c44" name="charpente4_sgv5sgha">
+							<meta id="5a89082a-298f-4b30-b613-ff1fd49a0be0" name="solive4_sgv5sgha"/>
+							<meta id="c54be26c-3f2b-4a22-a642-185d4f031226" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="1e83ce69-bc7b-47f1-950d-b0de874ba990" name="charpente5_sgv5sgha">
+							<meta id="196ec9e4-8fbf-440b-a23f-e5ed8084fbdb" name="solive5_sgv5sgha"/>
+							<meta id="0d7eec78-1017-44eb-8cbf-85b892e45caf" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="fa28d800-5373-4bd7-9ba0-06cde7d71c24" name="charpente6_sgv5sgha">
+							<meta id="dcc38803-c8e6-4fd9-9977-f8d25da58380" name="solive6_sgv5sgha"/>
+							<meta id="e29f86b4-1b78-4649-9cce-3f99e15c222c" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="070ab90e-ccd7-48c8-9b7f-22cfc4b33ed1" name="charpente7_sgv5sgha">
+							<meta id="14297fb8-92b2-4ff0-8f8e-4a5270b308a0" name="solive7_sgv5sgha"/>
+							<meta id="08927090-a66c-457c-b166-248e6876d109" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="47d132e1-3b97-4cf0-8750-a5ba8bd4c2a7" name="charpente8_sgv5sgha">
+							<meta id="9c0b7a62-27bd-453c-b3bd-b8037a4a3bef" name="solive8_sgv5sgha"/>
+							<meta id="09c57946-ad83-4150-9066-9340930512d7" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="4c29f08f-6890-4e00-b3b8-d51835b56a6d" name="charpente9_sgv5sgha">
+							<meta id="590a5492-5a24-48e2-a8ab-f4a058f58f5f" name="solive9_sgv5sgha"/>
+							<meta id="33a5a7f9-9f7c-46ec-a072-336a49e04081" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="64c8156f-b885-4cc6-a971-0761e7ca681e" name="poutres_sgv5sgha">
+						<meta id="3ad61af4-d2e4-46e4-8d25-fa6213b30252" name="poutre1_sgv5sgha"/>
+						<meta id="53344166-218a-4450-99e8-d1e1fe9eadc0" name="poutre2_sgv5sgha"/>
+						<meta id="f0004d66-3d15-47a5-95a0-1215a89bf644" name="poutre3_sgv5sgha"/>
+						<meta id="55074e5f-892e-40ee-bf12-157ba913b129" name="poutre4_sgv5sgha"/>
+						<meta id="11e96ef8-8a91-4323-853c-e898027fc6df" name="pillier1_sgv5sgha"/>
+						<meta id="11bf03d0-8c43-4ad6-8da3-b8c0f7149fcd" name="pillier2_sgv5sgha"/>
+						<meta id="0d8901ef-1a12-492f-bc49-ffabcb9bf4bc" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="dae1cc4b-37cd-4f45-9d03-378f714c178a" name="plancher_sgv5sgha"/>
+					<meta id="95d12666-fb20-42bc-b2fc-edc8a0ea82f4" name="toit0_sgv5sgha"/>
+					<meta id="9165eab2-1420-4d1b-9038-7fde0f0c7851" name="mur0_sgv5sgha"/>
+					<meta id="83e472ce-2c22-48ee-b8c9-1cbfd9c789b9" name="wallwalk_sgv5sgha">
+						<meta id="e70514bd-f980-47b1-8db1-ffc22f2a59e6" name="pillier11_sgv5sgha"/>
+						<meta id="095de37e-0c6a-4da4-a9e7-52191d58ec2d" name="pillier12_sgv5sgha"/>
+						<meta id="c4cb2fc6-9acd-4d31-a65c-8f46ae1ee6bc" name="pillier13_sgv5sgha"/>
+						<meta id="dd5246dd-d5ed-4928-b101-fbeb50265cc6" name="poutre12_sgv5sgha"/>
+						<meta id="8168a350-a322-41db-ba64-340c6b3e71f9" name="poutre14_sgv5sgha"/>
+						<meta id="6d77dd33-01c2-48ae-a68c-394c14f40a42" name="toit10_sgv5sgha"/>
+						<meta id="dce043e0-47cd-48c1-b3a2-b8a9970b5ff4" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="abb3aa98-494c-4af9-8732-d249c440f70a" name="mur1_sgv5sgha"/>
+					<meta id="595a86fd-1975-4fd3-ae02-683a8c97b01a" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="74eb218d-304e-4a27-a500-dedbf377a867" name="rampart_blueMonastery_Wall_HoardingsPart">
+				<meta id="c0ec67ee-d0c7-474e-a6e0-a59c15370abe" name="ramparts_sgv5sgha"/>
+				<meta id="efcb3c3e-6961-4b1e-9252-00c34490670f" name="hoarding_sgv5sgha">
+					<meta id="be3c6505-3a42-4535-8e28-53282abb0f84" name="charpente_sgv5sgha">
+						<meta id="08dea366-6e37-4dc6-ae20-683a4eb7b803" name="charpente1_sgv5sgha">
+							<meta id="1a74b53f-8d07-47b0-903a-99573924d60c" name="solive1_sgv5sgha"/>
+							<meta id="88bf47fe-1878-4c54-a60e-e308992e44ce" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="465b17b1-2876-4b3b-a2cc-43c016c98626" name="charpente2_sgv5sgha">
+							<meta id="c5958198-bb8f-4e00-9510-2752093164b8" name="solive2_sgv5sgha"/>
+							<meta id="20a4d41f-eaa0-4c83-b300-c2dc86671290" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="262be6ad-2041-444c-b4d8-029b2edcdb70" name="charpente3_sgv5sgha">
+							<meta id="5ed3c8e2-2d9a-4f11-9216-7aa75ec7f2fc" name="solive3_sgv5sgha"/>
+							<meta id="8cd7b2d9-f8ee-403d-971d-55b26b469450" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="b0bc1e5b-b750-4bb9-b46e-731230faef0f" name="charpente4_sgv5sgha">
+							<meta id="919d6f20-2c88-4513-a8c3-28308e53c28c" name="solive4_sgv5sgha"/>
+							<meta id="73d0ce97-b444-4e3c-8315-600f2f1dadfe" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="54cdab77-586d-4af3-a0e2-912e747dabf3" name="charpente5_sgv5sgha">
+							<meta id="57319a71-be7f-4a23-a5ec-1c3ab6f72110" name="solive5_sgv5sgha"/>
+							<meta id="e9996e9d-28bc-4876-9c2a-a3aafc89a065" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="e023af66-ee62-49c9-8609-a62d496a2e5c" name="charpente6_sgv5sgha">
+							<meta id="b1002233-8ebb-4236-a1fc-6eeec6ccb064" name="solive6_sgv5sgha"/>
+							<meta id="c40bd79a-3f3c-4ecb-a59b-7896b62221bf" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="b01df141-5ea7-4f57-9c9b-a837803b1dfc" name="charpente7_sgv5sgha">
+							<meta id="6dd88f44-0c62-4c2e-b37c-e00613add49c" name="solive7_sgv5sgha"/>
+							<meta id="d9c504a5-19cd-4a5a-b278-278cee2a540c" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="8b69444b-8a7e-47ba-bee2-e2ba42bc93b9" name="charpente8_sgv5sgha">
+							<meta id="16d780e9-ba13-4ab4-83b3-3e54ec443bde" name="solive8_sgv5sgha"/>
+							<meta id="0301cbaa-12cb-4f1d-b322-00657f488426" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="9f2fe6a7-572a-43bb-9538-7a26653a4126" name="charpente9_sgv5sgha">
+							<meta id="795dc8c6-1529-4c2d-8098-223e604b6588" name="solive9_sgv5sgha"/>
+							<meta id="e6b18a2d-1ef0-4159-89bf-4ec34a5b57fd" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="3ebbb7e3-60f3-4c6b-afca-d17a4ac307fc" name="poutres_sgv5sgha">
+						<meta id="64508011-d942-4bcc-92bc-8490a7c7bdd6" name="poutre1_sgv5sgha"/>
+						<meta id="70b91105-ece5-4640-be56-d1c2038ac3c8" name="poutre2_sgv5sgha"/>
+						<meta id="55091575-5630-4553-b1d5-db0c949d0c11" name="poutre3_sgv5sgha"/>
+						<meta id="00bad56a-f8d8-4efb-a352-97d6088515dd" name="poutre4_sgv5sgha"/>
+						<meta id="cfe6c1ec-7e14-470d-9df8-c161b68262f3" name="pillier1_sgv5sgha"/>
+						<meta id="d625e646-5a58-4450-895c-80ff39d09ea8" name="pillier2_sgv5sgha"/>
+						<meta id="2d9c8514-1a3d-4ab6-a457-bbbeb5502a6f" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="df3bbacf-338c-4f41-8e6d-1b12760d97d5" name="plancher_sgv5sgha"/>
+					<meta id="4ea53408-2575-45d6-bca8-39094ae0d6cd" name="toit0_sgv5sgha"/>
+					<meta id="c4c89eff-b47c-4399-a459-e4757390e1a9" name="mur0_sgv5sgha"/>
+					<meta id="7dea1bca-89f6-403a-b057-4d95ae7535e0" name="wallwalk_sgv5sgha">
+						<meta id="c6d075f5-3ef0-4de0-95be-4262f1e16a0a" name="pillier11_sgv5sgha"/>
+						<meta id="ef499414-8c63-4a20-bad0-f363fdedd809" name="pillier12_sgv5sgha"/>
+						<meta id="426168f0-7b27-48f8-af59-d1bcbf3eaaba" name="pillier13_sgv5sgha"/>
+						<meta id="cd9f5b5e-f813-4f2b-bc63-1a6f4a5718bd" name="poutre12_sgv5sgha"/>
+						<meta id="be464a0b-9bee-43ef-a2eb-fb3d8816b981" name="poutre14_sgv5sgha"/>
+						<meta id="34cccc72-a968-4dd3-92d5-6a24d0207394" name="toit10_sgv5sgha"/>
+						<meta id="09f031e0-fb29-4c56-91cf-a7b6ab158fbf" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="8281980c-e6c7-43aa-8758-2d191d1ae90e" name="mur1_sgv5sgha"/>
+					<meta id="6dd833f0-cf63-47da-87be-0f79ddfb2385" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="2b12bc02-1944-4b81-8d6b-4a34770ff9d3" name="rampart_purpleMonastery_Wall_HoardingsPart">
+				<meta id="98e3f9be-0106-4b4d-aee4-bd0fd56229a6" name="ramparts_sgv5sgha"/>
+				<meta id="e581dcdc-d696-44e7-bf80-1a7d41966537" name="hoarding_sgv5sgha">
+					<meta id="0b2963f7-f05a-4490-a83f-d7c32a745c5d" name="charpente_sgv5sgha">
+						<meta id="3706b020-8a83-4f0c-80f3-b2c01485a692" name="charpente1_sgv5sgha">
+							<meta id="2f9e7518-4b83-498e-94e9-b41816c01138" name="solive1_sgv5sgha"/>
+							<meta id="2197b94b-ae72-4bfe-bd6a-90372ac6d5b0" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="ab4beaeb-db9d-48c2-bac3-8ca8a6f95533" name="charpente2_sgv5sgha">
+							<meta id="b83a959e-7baf-42c6-812d-7a6497364dce" name="solive2_sgv5sgha"/>
+							<meta id="88364f3e-b6ca-4f07-8ba2-9c6f2874816c" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="7d583fd4-68cf-4d66-a9d4-90714acd4ee0" name="charpente3_sgv5sgha">
+							<meta id="50c52b45-1bfd-4dbf-8c3d-72f78c457fbc" name="solive3_sgv5sgha"/>
+							<meta id="d1f04b73-5adc-4572-a48b-f12b0fabd179" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="75f9b41e-4b4a-4f7f-bde6-640d6cdb3525" name="charpente4_sgv5sgha">
+							<meta id="8d3963e4-6b57-4259-8f5f-e2bda00a5490" name="solive4_sgv5sgha"/>
+							<meta id="eb2cc47d-bd21-47eb-9c7c-5f139be91df4" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="73dcdf7a-f09f-42c3-8c72-015f26ed3d83" name="charpente5_sgv5sgha">
+							<meta id="4e5389b0-a477-4063-bc4c-ff0dbada4c4c" name="solive5_sgv5sgha"/>
+							<meta id="f323d9ea-8268-477d-a4b7-65d64783e035" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="a7c10ddf-6929-40f3-a445-16c4ec39b2b0" name="charpente6_sgv5sgha">
+							<meta id="0d74c808-a9c7-48a1-9db4-1beddf2f1a09" name="solive6_sgv5sgha"/>
+							<meta id="5322cdc4-b069-472d-9cc6-c9843d45ac99" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="213b1c1b-03f5-444c-ad59-91fe258a1835" name="charpente7_sgv5sgha">
+							<meta id="e06f1359-3c43-44f2-88e5-bc76aedd9a25" name="solive7_sgv5sgha"/>
+							<meta id="8bd9491b-40cb-4312-8926-f87819c68948" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="fae9551b-5732-4520-9f2b-bf1b82260a4b" name="charpente8_sgv5sgha">
+							<meta id="fe88b046-f415-4b0a-b7f6-668779f2bf6c" name="solive8_sgv5sgha"/>
+							<meta id="384ff27c-5277-4862-84cc-ef7208b9a8e3" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="1fb41599-3c7d-46d0-ba5d-cfb4169004f2" name="charpente9_sgv5sgha">
+							<meta id="8f59a9bb-0889-4dd0-a911-56cd1438a104" name="solive9_sgv5sgha"/>
+							<meta id="f61ec465-73ea-4d50-8f66-b35eb75abc24" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="173d3184-bba2-415e-8907-a34b02ed7d1a" name="poutres_sgv5sgha">
+						<meta id="57ff499e-9880-4200-8f01-a9143ac66644" name="poutre1_sgv5sgha"/>
+						<meta id="7cbd2b9e-ea95-4fa4-9df7-a92c0613b6ba" name="poutre2_sgv5sgha"/>
+						<meta id="b4131827-5698-4195-8d42-b0706cbdde91" name="poutre3_sgv5sgha"/>
+						<meta id="edcd8b01-f3b6-452a-a5a3-81891b712adf" name="poutre4_sgv5sgha"/>
+						<meta id="4c1707bc-5368-44f7-9e7a-40697d537f1e" name="pillier1_sgv5sgha"/>
+						<meta id="26530542-68d8-42fe-8869-dec83cf885d4" name="pillier2_sgv5sgha"/>
+						<meta id="4b92c4b6-37be-4a86-84d7-9aa06da151f0" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="cae2ae4a-8dd1-43e9-9aa0-6e3e499a0483" name="plancher_sgv5sgha"/>
+					<meta id="89337388-ecef-4078-9f1e-e83b76f369f3" name="toit0_sgv5sgha"/>
+					<meta id="5fbd68c6-594f-4a87-af20-2213a32188b7" name="mur0_sgv5sgha"/>
+					<meta id="d94b1691-e6d0-4dbb-8d9a-7e78c153a986" name="wallwalk_sgv5sgha">
+						<meta id="6eacc043-ebcf-4dff-abaf-32a538e52be4" name="pillier11_sgv5sgha"/>
+						<meta id="fc8ec147-e5a5-4711-92dd-afc55c1c074e" name="pillier12_sgv5sgha"/>
+						<meta id="12d688cc-a021-4751-b13c-7555913910f3" name="pillier13_sgv5sgha"/>
+						<meta id="1f7bfbd5-e5e0-408a-94cb-3296d7f5ef8c" name="poutre12_sgv5sgha"/>
+						<meta id="17543e57-c658-434f-bbb4-1d5e8582caf2" name="poutre14_sgv5sgha"/>
+						<meta id="b9b9000c-8cab-4285-86bb-876796408444" name="toit10_sgv5sgha"/>
+						<meta id="24feed0d-8a24-44d6-849a-5b57d50f5dff" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="d3f52511-85ff-4f20-a559-aff5c9904ae8" name="mur1_sgv5sgha"/>
+					<meta id="b942f23b-12e4-4369-a4ac-e44b119ff0f7" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="21675077-40d1-4c00-916a-14a1d5b98e83" name="rampart_redStone_Wall_HoardingsPart">
+				<meta id="4852106e-807f-4f3f-aa05-139531fb222b" name="ramparts_sgv5sgha"/>
+				<meta id="c2c81f9a-1b23-4c95-98cf-68ad9925680b" name="hoarding_sgv5sgha">
+					<meta id="ec4ce096-ff4c-43be-9346-8e21d77f8c16" name="charpente_sgv5sgha">
+						<meta id="faa78798-dbe4-40c3-a73e-a4383c0727c1" name="charpente1_sgv5sgha">
+							<meta id="99ce30cf-0754-4bed-815a-412a235d0823" name="solive1_sgv5sgha"/>
+							<meta id="68aef71a-a7aa-486e-81a1-2787a59518ba" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="18d78dc0-96a6-4458-a819-d58cb15bd71b" name="charpente2_sgv5sgha">
+							<meta id="dded9a84-3722-4189-b9bf-1b90cba9e871" name="solive2_sgv5sgha"/>
+							<meta id="b8aede1f-9b61-4363-9cf6-309e45ecaddb" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="3fa49ca8-fb0c-482c-a5f7-b98675ee76b8" name="charpente3_sgv5sgha">
+							<meta id="0f8b3615-1373-4d7c-81a5-cf45a0321307" name="solive3_sgv5sgha"/>
+							<meta id="e86e5e41-924b-4470-8e39-3390b2de95e1" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="be85aa41-fc33-4ba1-881a-f206133a87de" name="charpente4_sgv5sgha">
+							<meta id="65630af5-e394-4ad3-8828-9fd3df2ac995" name="solive4_sgv5sgha"/>
+							<meta id="de9de391-ef83-49a5-968b-a222eea60242" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="f345341b-6b84-435d-8573-e38e655a5ffe" name="charpente5_sgv5sgha">
+							<meta id="1982be13-d85d-417a-a13e-00fa7b1d3a48" name="solive5_sgv5sgha"/>
+							<meta id="5297ef76-6a92-4361-a5ed-6342a60f48ca" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="cac8eb0f-9496-4df3-ba0a-b5152d857cf6" name="charpente6_sgv5sgha">
+							<meta id="05b1aef0-a61e-4911-8ebf-653183fcd69c" name="solive6_sgv5sgha"/>
+							<meta id="557a6434-2a70-4917-bfaf-fb5afe2bccbd" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="eae63532-0b2b-4f04-b8c4-f2b1d52573bc" name="charpente7_sgv5sgha">
+							<meta id="78d7a915-ebe2-4a18-aae4-01e816929111" name="solive7_sgv5sgha"/>
+							<meta id="e876ac51-d8f1-4d7b-952f-0f8f18ca6d0d" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="b128ee21-299f-4513-bc10-1899833dc55a" name="charpente8_sgv5sgha">
+							<meta id="22fd8a20-bc3c-4947-b5c7-7447ec3689d2" name="solive8_sgv5sgha"/>
+							<meta id="90986c6b-d66e-40a0-8d21-dd52f7af49a0" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="fbc1ed1e-a210-4018-bfb9-fc3349a68ffc" name="charpente9_sgv5sgha">
+							<meta id="dd2ccb1f-e1cc-4441-ad4d-6ae6f1b6bc02" name="solive9_sgv5sgha"/>
+							<meta id="d44c05ca-b449-4667-ab31-94172ca2f155" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="72288f6b-dbd5-44aa-bcb3-ab72b3664f85" name="poutres_sgv5sgha">
+						<meta id="fd93dc2c-cc1c-4155-b2fe-81379d9fcb22" name="poutre1_sgv5sgha"/>
+						<meta id="d7b6c823-7087-4636-9655-105871a4a5b9" name="poutre2_sgv5sgha"/>
+						<meta id="1c8fb8bb-3d5a-4fd1-9df1-b68eea30917f" name="poutre3_sgv5sgha"/>
+						<meta id="94d8cb32-8c15-4c68-98d6-b0b47661bbbf" name="poutre4_sgv5sgha"/>
+						<meta id="d6dad298-98bd-45e4-958e-44033eb08011" name="pillier1_sgv5sgha"/>
+						<meta id="2bab5cd5-b7ed-44ef-b883-8a5dc64c7f4e" name="pillier2_sgv5sgha"/>
+						<meta id="579a631f-cac9-461e-b0aa-44d69472aad5" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="6cd0f907-247e-4376-aece-67ffd10858a0" name="plancher_sgv5sgha"/>
+					<meta id="5e928291-11d7-464b-afbd-6ca8b2bf8750" name="toit0_sgv5sgha"/>
+					<meta id="d34162fb-d930-45d9-a9f3-c5f6816c8c24" name="mur0_sgv5sgha"/>
+					<meta id="5abcc5c0-adad-4059-9cd2-b6edb29c0314" name="wallwalk_sgv5sgha">
+						<meta id="0101d332-c940-432b-9b8b-f692c9598188" name="pillier11_sgv5sgha"/>
+						<meta id="877870c4-a330-4867-97a4-3a9b1c1456e1" name="pillier12_sgv5sgha"/>
+						<meta id="8b790f39-6dea-4951-b8e2-d0ce176ea2bf" name="pillier13_sgv5sgha"/>
+						<meta id="2eac660e-529f-4597-8753-3359f4da2d37" name="poutre12_sgv5sgha"/>
+						<meta id="fbed9e4d-085c-4cd2-8611-3bf94b20825f" name="poutre14_sgv5sgha"/>
+						<meta id="aa98f9cf-1ac3-4eb7-8b89-a9c4860a40a1" name="toit10_sgv5sgha"/>
+						<meta id="31a8bc8c-e767-45eb-bedf-cdf3b4e886b3" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="98c62aed-d19c-4302-871e-498281e6be21" name="mur1_sgv5sgha"/>
+					<meta id="3548e618-00d3-405a-841d-e5f298edf212" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="143a76a7-d9fe-4027-8f08-d950e42e54fa" name="rampart_giantGate_Wall_HoardingsPart">
+				<meta id="27f25d30-ac7d-468e-9249-7209ca15deec" name="ramparts_sgv5sgha"/>
+				<meta id="7c65b327-f395-4f4c-9174-3dacc5c8297f" name="hoarding_sgv5sgha">
+					<meta id="7a903b99-566b-4b23-ab36-b0c63979e909" name="charpente_sgv5sgha">
+						<meta id="316ae46b-33d7-43ad-aa9b-8b070ed74271" name="charpente1_sgv5sgha">
+							<meta id="239fcb9d-313e-4ad5-a317-a5a9a6f1bfac" name="solive1_sgv5sgha"/>
+							<meta id="07747ba4-9cc4-4a7d-8afc-be0d88930a9a" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="300cf905-2f34-4dff-8ed0-367f5cf428e4" name="charpente2_sgv5sgha">
+							<meta id="14654a02-a6d3-4570-8bb7-c478d9973ece" name="solive2_sgv5sgha"/>
+							<meta id="ef632437-ce90-42ef-81e4-a310cc4ca62c" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="8acd27e1-bae7-47e4-8cb1-04e35ed7f8cc" name="charpente3_sgv5sgha">
+							<meta id="edc488e4-59a0-4561-8713-8e2a2befca8c" name="solive3_sgv5sgha"/>
+							<meta id="4b282c96-dcea-4355-bbc3-37b2cb68303d" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="95772baa-e62e-4b64-92b8-d2ee57dc3cbb" name="charpente4_sgv5sgha">
+							<meta id="405c64e7-2dee-4cb2-b2c2-2933f92f7934" name="solive4_sgv5sgha"/>
+							<meta id="a2506dee-a70e-441a-9455-934df408265f" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="24b8cc39-871e-4eff-b396-919236c736a8" name="charpente5_sgv5sgha">
+							<meta id="7c34ad6c-89de-4723-9c66-48517d23973f" name="solive5_sgv5sgha"/>
+							<meta id="d675810c-cdfe-422d-9908-043376890345" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="d795a7e4-6d89-4869-8c3b-18ec628a488b" name="charpente6_sgv5sgha">
+							<meta id="fe720ea6-337d-4079-bcc6-44f4e4a55f91" name="solive6_sgv5sgha"/>
+							<meta id="c8f9dab3-53a0-4294-af08-2b975a9277e4" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="6402b3b9-2901-4cdd-bed7-a4a3de5b7393" name="charpente7_sgv5sgha">
+							<meta id="e6ad6e3c-1f7f-4617-8682-02e1319421e4" name="solive7_sgv5sgha"/>
+							<meta id="de72232e-2cff-42a3-8d64-7e2dfd8333cd" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="68c39927-5673-4760-aaa3-bd9d036b53bb" name="charpente8_sgv5sgha">
+							<meta id="b9fb9207-22e8-4da0-ab88-070fc7198906" name="solive8_sgv5sgha"/>
+							<meta id="19220c66-84d4-4e8c-bfda-760373468f43" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="449a5cc8-41b9-4c45-b87a-97bf8bfe1ada" name="charpente9_sgv5sgha">
+							<meta id="6af11e06-8928-42bc-a1db-664674b27dbf" name="solive9_sgv5sgha"/>
+							<meta id="1a3a0f4b-1a04-4267-b8f0-6a6a2ef3b8ce" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="832c5948-58e3-4419-885d-ac8d69592582" name="poutres_sgv5sgha">
+						<meta id="abd49db1-2ab6-4852-b043-74ad6482c9d3" name="poutre1_sgv5sgha"/>
+						<meta id="b908a417-2db4-4e11-8bd9-ec867e217fa1" name="poutre2_sgv5sgha"/>
+						<meta id="8cd48281-3f5c-43ed-b5e1-f01a9f541a56" name="poutre3_sgv5sgha"/>
+						<meta id="a1f7f144-a7fc-48b0-8166-5e651c5fb5d5" name="poutre4_sgv5sgha"/>
+						<meta id="eace5a4f-6073-4735-b26a-7433ababcd0b" name="pillier1_sgv5sgha"/>
+						<meta id="58a2d757-c847-4710-b99c-a0109409c373" name="pillier2_sgv5sgha"/>
+						<meta id="9b39599d-32a7-409a-89c0-7ad42a790eb6" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="7f83935f-51f4-438a-a02a-9e6b4fcb3f3f" name="plancher_sgv5sgha"/>
+					<meta id="2d27a8f2-f8e5-43d5-a528-fbd8ca65ecd8" name="toit0_sgv5sgha"/>
+					<meta id="97380978-5030-4d35-bf62-4011ea8672fb" name="mur0_sgv5sgha"/>
+					<meta id="5409dca3-a347-4bf9-9584-a810e86d9417" name="wallwalk_sgv5sgha">
+						<meta id="0318ea1a-4357-4d24-b26e-6b4a21500fdd" name="pillier11_sgv5sgha"/>
+						<meta id="947dff96-3ba6-44ee-bc96-13929c0c84c8" name="pillier12_sgv5sgha"/>
+						<meta id="e1fe466b-be2d-4534-8989-3a5b0c0cc2eb" name="pillier13_sgv5sgha"/>
+						<meta id="d7bae3e0-7e33-423d-8be5-4dc19cc3deff" name="poutre12_sgv5sgha"/>
+						<meta id="9b896423-ab2f-480d-8ab0-85a0766b9187" name="poutre14_sgv5sgha"/>
+						<meta id="4e5a1d16-6f34-423d-8485-713b019e0ff6" name="toit10_sgv5sgha"/>
+						<meta id="1a4b0900-5a8c-499c-82b0-1c139546f156" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="e2a89277-a0ab-491b-902a-30f45d9e8549" name="mur1_sgv5sgha"/>
+					<meta id="a0015ab7-432a-4fb3-9246-3117c869c328" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="67ee2029-5069-4472-a95a-aae2a2be8646" name="rampart_whiteChalk_Wall_HoardingsPart">
+				<meta id="bd08e941-b681-4359-97d2-fe5a93a593ce" name="ramparts_sgv5sgha"/>
+				<meta id="942814bd-51c2-4c1c-b84a-1fef45da034f" name="hoarding_sgv5sgha">
+					<meta id="97286b77-956f-41f7-92ad-785995eaedaf" name="charpente_sgv5sgha">
+						<meta id="485d5997-ca7d-471d-97a8-abaac0239714" name="charpente1_sgv5sgha">
+							<meta id="d7bda4b4-2e95-4720-9a81-9f6d60fd6f13" name="solive1_sgv5sgha"/>
+							<meta id="af4b4b4e-4371-45d5-ba2a-cbcbd2d41db8" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="e832e380-864b-4de7-b81e-3281eded3f38" name="charpente2_sgv5sgha">
+							<meta id="19255f29-198e-4bd4-8452-83b3f01d0568" name="solive2_sgv5sgha"/>
+							<meta id="34b541fe-6c2f-4a7b-8b9b-b1f5cee24de3" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="9edef2b5-07a4-41fc-b089-ff3a01599a27" name="charpente3_sgv5sgha">
+							<meta id="82b1afe1-4336-4e47-9a52-4bdcd71cb809" name="solive3_sgv5sgha"/>
+							<meta id="7cff710b-fd86-4778-9d54-cc0275ddc178" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="d80b203e-58de-4e76-9c96-1cf3f3cc5954" name="charpente4_sgv5sgha">
+							<meta id="240663db-7c49-4b6b-a44b-609e471b0219" name="solive4_sgv5sgha"/>
+							<meta id="881842fe-16bf-499b-b7a8-76c6a6e7a2eb" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="a7efcc9d-4367-4616-8913-9a25f41d26b3" name="charpente5_sgv5sgha">
+							<meta id="27f08f36-4230-49ee-897a-d3939bbdce3b" name="solive5_sgv5sgha"/>
+							<meta id="da0da7f6-4d99-4a80-b712-fe95fa626b88" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="5de3e586-57fb-4840-a740-9aaa0f328740" name="charpente6_sgv5sgha">
+							<meta id="fd053c0a-eff7-4996-9041-3df3e46a86ae" name="solive6_sgv5sgha"/>
+							<meta id="3cec38b7-4f94-4849-a08a-a12e58a86534" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="7392fa20-fb3f-4ea8-a4e8-b690b501f4c2" name="charpente7_sgv5sgha">
+							<meta id="145ba515-5d3f-4b5c-bf88-d11413dffeb6" name="solive7_sgv5sgha"/>
+							<meta id="5e45c7d3-caca-4a5f-bdcd-9184de85ee7d" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="cb5030d6-e46e-4520-93a5-50ccbef519fe" name="charpente8_sgv5sgha">
+							<meta id="19cd322d-f836-41f0-bfe0-78c304a3472d" name="solive8_sgv5sgha"/>
+							<meta id="bfc26658-9601-483b-bb41-42d550fd3546" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="cfd0e2cb-b064-47ed-bd0c-8c674aa4fa20" name="charpente9_sgv5sgha">
+							<meta id="17562d89-7f19-465b-9263-d452aeae9968" name="solive9_sgv5sgha"/>
+							<meta id="77654239-1f8c-4272-81a5-f49715643535" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="6f2af8bf-0fc7-4f55-8c08-42f075fff235" name="poutres_sgv5sgha">
+						<meta id="34355255-427d-4173-b568-b8196e601a1f" name="poutre1_sgv5sgha"/>
+						<meta id="ec94ba41-8aeb-464a-acaf-f125f3828818" name="poutre2_sgv5sgha"/>
+						<meta id="9a653bf2-c80d-4071-889b-21994639d927" name="poutre3_sgv5sgha"/>
+						<meta id="af365f98-7943-4bd0-83d6-22bcc80c6f02" name="poutre4_sgv5sgha"/>
+						<meta id="fd207245-1c3e-4d67-965f-ffebc6d7271f" name="pillier1_sgv5sgha"/>
+						<meta id="819e6ca9-389d-45cf-bb97-fb37e1167363" name="pillier2_sgv5sgha"/>
+						<meta id="c8f01439-bd3a-48e6-907c-3fc16d86094b" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="6d96f3bb-bef2-43c3-a117-0b08db3df645" name="plancher_sgv5sgha"/>
+					<meta id="0540d734-7ebd-48e3-bd34-85e5b2905cc0" name="toit0_sgv5sgha"/>
+					<meta id="90b492e5-7954-4496-b19a-1c255824a547" name="mur0_sgv5sgha"/>
+					<meta id="bbb30112-a207-4a3e-8146-9c39a30512ba" name="wallwalk_sgv5sgha">
+						<meta id="eb8bc1d0-d247-4d5f-afea-e5ce42e7b1ce" name="pillier11_sgv5sgha"/>
+						<meta id="17a9361e-7cb5-4e48-b6b7-27a21f79d1db" name="pillier12_sgv5sgha"/>
+						<meta id="23f3f07c-85e7-4b01-acce-c89a76c26636" name="pillier13_sgv5sgha"/>
+						<meta id="8e793c5a-2a59-49e1-bf66-cb60093afdae" name="poutre12_sgv5sgha"/>
+						<meta id="0d5e4772-cca7-486b-8fb7-c2b81cee7bc9" name="poutre14_sgv5sgha"/>
+						<meta id="eca968e8-8c1e-41b5-842b-3e18bf558e7a" name="toit10_sgv5sgha"/>
+						<meta id="21e5012c-5f1f-4268-aa7e-22b5bbdec3de" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="ea71bfc0-2c13-45a3-8a98-d0ad847ddc83" name="mur1_sgv5sgha"/>
+					<meta id="5f2342cc-711d-4137-8531-c5fc320ede01" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+			<meta id="08423cb8-9dec-4dde-b820-7b6ddd83b58f" name="rampart_sandStone_Wall_HoardingsPart">
+				<meta id="58aa18d7-a6b1-4bb7-bb29-15c0163fb27d" name="ramparts_sgv5sgha"/>
+				<meta id="383f229e-9633-450b-a5a2-da16f41441c2" name="hoarding_sgv5sgha">
+					<meta id="448a85a7-f78c-412d-86ff-6e8ff41ef022" name="charpente_sgv5sgha">
+						<meta id="9c226cd5-58f4-4bbb-bc06-a8e393977089" name="charpente1_sgv5sgha">
+							<meta id="c8939427-a9c7-4a3d-a888-5ade1601da77" name="solive1_sgv5sgha"/>
+							<meta id="eff81738-793b-42a0-9779-21a34521f795" name="fiche1_sgv5sgha"/>
+						</meta>
+						<meta id="ceba981e-4656-4924-9e19-e25a347c74c5" name="charpente2_sgv5sgha">
+							<meta id="f335805e-a782-4cf4-abd5-f62306bcfeee" name="solive2_sgv5sgha"/>
+							<meta id="0e349ec2-0430-4c9d-8e78-9b50be4c6fed" name="fiche2_sgv5sgha"/>
+						</meta>
+						<meta id="ab44315b-3e87-4387-b183-abe4e8d969cc" name="charpente3_sgv5sgha">
+							<meta id="59a81d1d-a38f-4e38-a6ab-0c6d5c6fcec2" name="solive3_sgv5sgha"/>
+							<meta id="d563555a-13af-41ab-ab47-f3749e8e6439" name="fiche3_sgv5sgha"/>
+						</meta>
+						<meta id="7dff8059-525e-44b1-b644-b09da0c328d1" name="charpente4_sgv5sgha">
+							<meta id="75587b3b-9580-46c4-b825-64f8195b196a" name="solive4_sgv5sgha"/>
+							<meta id="e96aaa86-d950-40db-b036-00a6227c25e1" name="fiche4_sgv5sgha"/>
+						</meta>
+						<meta id="c446ced4-5455-4002-afa0-9de6be281be1" name="charpente5_sgv5sgha">
+							<meta id="a416ab28-1498-4647-8c45-08f2591e0ce8" name="solive5_sgv5sgha"/>
+							<meta id="6a3bdc00-8d27-422f-b90a-b2b5eecee043" name="fiche5_sgv5sgha"/>
+						</meta>
+						<meta id="a1f50c9f-804d-4b57-be19-5f6e4e9c0610" name="charpente6_sgv5sgha">
+							<meta id="24222c64-f426-4cbe-86ae-1070d1f0f243" name="solive6_sgv5sgha"/>
+							<meta id="8619bdf4-34a6-4e1e-be6f-be9b6ac5315b" name="fiche6_sgv5sgha"/>
+						</meta>
+						<meta id="a30c5b25-e59e-4369-a342-d8f35ebcd479" name="charpente7_sgv5sgha">
+							<meta id="9645ac82-6c8d-4aa2-8c75-115e7c9f1c81" name="solive7_sgv5sgha"/>
+							<meta id="99c8d4d2-642b-43da-9c2c-cfb7952d5345" name="fiche7_sgv5sgha"/>
+						</meta>
+						<meta id="c4ea1538-f2fa-4301-b2ff-06b88b719ceb" name="charpente8_sgv5sgha">
+							<meta id="df1d3058-d358-4b0f-876e-67c3b0990c1e" name="solive8_sgv5sgha"/>
+							<meta id="1cc405ad-a801-4fa4-ac44-38667724ca43" name="fiche8_sgv5sgha"/>
+						</meta>
+						<meta id="3b0afaf9-c1bb-4b79-9603-26ec205b480e" name="charpente9_sgv5sgha">
+							<meta id="3b1b12a6-c130-41fc-8b33-d7cbc0a8e162" name="solive9_sgv5sgha"/>
+							<meta id="5b52542d-ebd9-4668-97d3-8c041f1100fe" name="fiche9_sgv5sgha"/>
+						</meta>
+					</meta>
+					<meta id="104db231-ab1d-4c40-893b-6120754c1ddb" name="poutres_sgv5sgha">
+						<meta id="58718024-45c3-4985-a53d-80a18a281cee" name="poutre1_sgv5sgha"/>
+						<meta id="e263781d-6531-4032-97bc-a24242a57fbc" name="poutre2_sgv5sgha"/>
+						<meta id="d55a019d-fce2-48ca-a4bb-1b5e5edaeeaa" name="poutre3_sgv5sgha"/>
+						<meta id="d02d0ef6-25d3-4ec7-a0ca-58f6b53e4b58" name="poutre4_sgv5sgha"/>
+						<meta id="89ba31da-4a71-46b0-8208-b8238d56446c" name="pillier1_sgv5sgha"/>
+						<meta id="567afd93-8e68-4393-a00a-e0b3fdbea9d0" name="pillier2_sgv5sgha"/>
+						<meta id="4529752a-b369-425d-aa52-ea891c7634e7" name="pillier3_sgv5sgha"/>
+					</meta>
+					<meta id="92ba6e02-7e38-40e5-a01a-fd9c887e83ec" name="plancher_sgv5sgha"/>
+					<meta id="c364eec6-e54a-45e1-9d75-c8c599c06c37" name="toit0_sgv5sgha"/>
+					<meta id="994c2a9e-13ad-4abd-bf3c-db6a6497f4af" name="mur0_sgv5sgha"/>
+					<meta id="f3190554-5d0c-4e2d-9423-25e2a44f0b97" name="wallwalk_sgv5sgha">
+						<meta id="6b87a019-fc79-49d0-80b2-88bbd0bc50e7" name="pillier11_sgv5sgha"/>
+						<meta id="7bcb2022-cbb8-488c-af4f-9017a06940e3" name="pillier12_sgv5sgha"/>
+						<meta id="71a8208b-9079-4e53-9b8c-93cd07f3c9d8" name="pillier13_sgv5sgha"/>
+						<meta id="52a8d434-5d61-489d-ad2f-896cac16042f" name="poutre12_sgv5sgha"/>
+						<meta id="87320004-8d95-4572-ad0e-40b4d3b7c953" name="poutre14_sgv5sgha"/>
+						<meta id="6f6a209e-cd89-4d8b-873f-348426e6b22f" name="toit10_sgv5sgha"/>
+						<meta id="019400f0-fc81-458c-88e4-166c0812fcc5" name="mur10_sgv5sgha"/>
+					</meta>
+					<meta id="aa5570ab-3eba-4825-a45a-27bdec796eca" name="mur1_sgv5sgha"/>
+					<meta id="52d1f886-efd8-4257-8475-0b40c0e68744" name="mur2_sgv5sgha"/>
+				</meta>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="ee635f9f7ed1e5fc1015bf6673be8053"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_cream_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_browMonastery_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_blueMonastery_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_purpleMonastery_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_redStone_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_giantGate_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_whiteChalk_Wall_HoardingsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="ramparts_sgv5sgha"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive1_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche1_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive2_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche2_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive3_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche3_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive4_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche4_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive5_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche5_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente5_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive6_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche6_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente6_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive7_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche7_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente7_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive8_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche8_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente8_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="solive9_sgv5sgha"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="fiche9_sgv5sgha"/>
+													</Item>
+												</ChildList>
+												<NodeName value="charpente9_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="charpente_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre3_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre4_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier1_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier2_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier3_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="poutres_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="plancher_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur0_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier11_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pillier13_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre12_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="poutre14_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit10_sgv5sgha"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="mur10_sgv5sgha"/>
+											</Item>
+										</ChildList>
+										<NodeName value="wallwalk_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_sgv5sgha"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_sgv5sgha"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hoarding_sgv5sgha"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rampart_sandStone_Wall_HoardingsPart"/>
+					</Item>
+				</ChildList>
+				<NodeName value="step_2_rampart_Wall_HoardingsPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="86d07bd8-9f9d-4742-b246-d7a99c04d1ee"/>
+			<MaterialName value="blueCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4edbaf74-5485-466a-bf0d-b938a478fe91"/>
+			<MaterialName value="blueMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e542c72f-f021-40e3-b4ac-538dc6510bc4"/>
+			<MaterialName value="brownMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="caf3adb2-041b-4e35-8483-6438479fda66"/>
+			<MaterialName value="chambranle1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8a88ae15-d1ab-4569-91a8-c6b2911dd220"/>
+			<MaterialName value="creamCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="56d951df-4015-4d0f-9935-1412fc253dba"/>
+			<MaterialName value="giantGateCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="221dd830-5654-4d89-9c17-ee95eec0125e"/>
+			<MaterialName value="purpleMonasteryCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="21143bf5-459e-49b7-b948-e2786ba514cc"/>
+			<MaterialName value="redStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="20ebaa4e-a98e-441a-ac53-cf39eadf8ff4"/>
+			<MaterialName value="sandStoneCrenellation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="639fb27a-b8fe-45a7-a11e-4669fbeabcaf"/>
+			<MaterialName value="whiteChalkCrenellation"/>
+		</Item>
+	</MaterialList>
+</importer>
+

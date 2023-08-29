@@ -1,0 +1,49 @@
+{
+  "RoofMaterialPredefinedList": [
+    "NOT_USED"
+  ],
+  "WallMaterialPredefinedList": [
+    "STONE_MANOR",
+    "BROWN_MONASTERY",
+    "BLUE_MONASTERY",
+    "PURPLE_MONASTERY",
+    "RED_STONE",
+    "GIANT_GATE",
+    "WHITE_CHALK",
+    "SAND_STONE",
+    "AMERICAN_SHINGLE",
+    "WOOD",
+    "CREAM"
+  ],
+  "CrenellationMaterialPredefinedList": [
+    "STONE_MANOR",
+    "BROWN_MONASTERY",
+    "BLUE_MONASTERY",
+    "PURPLE_MONASTERY",
+    "RED_STONE",
+    "GIANT_GATE",
+    "WHITE_CHALK",
+    "SAND_STONE",
+    "CREAM"
+  ],
+  "BasementMaterialPredefinedList": [
+    "NOT_USED"
+  ],
+  "GroundMaterialPredefinedList": [
+    "WHITE_STONE",
+    "WOOD",
+    "RED_STONE",
+    "WATER"
+  ],
+  "FrameMaterialPredefinedList": [
+    "NOT_USED"
+  ],
+  "FlagMaterialPredefinedList": [
+    "NOT_USED"
+  ],
+  "language": "Français",
+  "locals": {
+    "English": "en",
+    "Français": "fr"
+  }
+}

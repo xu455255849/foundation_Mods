@@ -1,0 +1,61 @@
+{
+    "BUILDINGS": {
+        "WATER_MILL_SET_NAME": "Wassermühlen",
+        "WATER_MILL_PARTSETLIST_PRODUCTION_NAME": "Produktionsgebäude",
+        "WATER_MILL_PARTSETLIST_WHEEL_NAME": "Wasserrad",
+        "WATER_MILL_PARTSETLIST_DECORATION_NAME": "Dekorationen"
+    },
+    "BUILDING_PARTS": {
+        "PRODUCTION_CORE": "Produktionsgebäude",
+        "WHEEL": "Wasserrad",
+        "WATER_MILL_CORE_FLOUR_NAME": "Getreidemühle",
+        "WATER_MILL_CORE_TEXTILE_NAME": "Textilmühle",
+        "WATER_MILL_CORE_TEXTILE_FLAX_NAME": "Textilmühle",
+        "WATER_MILL_CORE_PLANKS_NAME": "Sägemühle",
+        "WATER_MILL_EXTENSION_RIGHT_BANK_NAME": "Wasserrad rechts plazieren",
+        "WATER_MILL_EXTENSION_LEFT_BANK_NAME": "Wasserrad links plazieren",
+        "WATER_MILL_YELLOW_ROOF": "Gelb",
+        "WATER_MILL_GREEN_ROOF": "Grün",
+        "WATER_MILL_BROWN_ROOF": "Braun",
+        "WATER_MILL_BLUE_ROOF": "Blau",
+        "WATER_MILL_RED_ROOF": "Rot",
+        "WATER_MILL_THATCHED_ROOF": "Dachdecker",
+	        "BUILDING_FUNCTION_SAWMILL_NAME": "Bretter",
+	        "BUILDING_FUNCTION_WINDMILL_NAME": "Mehl",
+	        "BUILDING_FUNCTION_WEAVER_HUT_NAME": "Aus Wolle",
+        "WATER_MILL_FUNCTION_PLANKS_WOOD_PLANK_NAME": "Bretter",
+        "WATER_MILL_FUNCTION_PLANKS_WOOD_RESOURCE_SHINGLE_NAME": "Holzschindeln",
+        "WATER_MILL_FUNCTION_FLOUR_WHEAT_FLOUR_NAME": "Mehl",
+        "WATER_MILL_FUNCTION_FLOUR_RESOURCE_CORN_FLOUR_NAME": "Mehl aus Mais",
+        "WATER_MILL_FUNCTION_TEXTILE_WOOL_WOOLEN_CLOTH_NAME": "Aus Wolle",
+        "WATER_MILL_FUNCTION_TEXTILE_RESOURCE_FLAX_WOOLEN_CLOTH_NAME": "Aus Flachs",
+        "WATER_MILL_SMALL_BOAT_NAME": "Kleines Boot",
+        "WATER_MILL_PLANKS_NAME": "Bretter",
+        "WATER_MILL_SACS_NAME": "Säcke"
+    },
+    "MONUMENTS": {
+        "CATEGORY_CORE_SING": "Hauptgebäude",
+        "CATEGORY_CORE_PLUR": "Hauptgebäude",
+        "CATEGORY_EXTENSION": "Erweiterung",
+        "CATEGORY_EXTENSION_SING": "Erweiterung",
+        "CATEGORY_EXTENSION_PLUR": "Erweiterungen",
+        "CATEGORY_DOOR_SING": "Tür",
+        "CATEGORY_DOOR_PLUR": "Türen",
+        "CATEGORY_DECORATION": "Dekoration",
+        "CATEGORY_DECORATION_SING": "Dekoration",
+        "CATEGORY_DECORATION_PLUR": "Dekorationen"
+    },
+
+    "BUILDING_DESCRIPTIONS": {
+        "WATER_MILL_SET_DESC": "Wassermühle platzieren",
+        "WATER_MILL_CORE_FLOUR_DESC": "Produziert Mehl",
+        "WATER_MILL_CORE_TEXTILE_DESC": "Produziert Stoff aus Wolle",
+        "WATER_MILL_CORE_TEXTILE_FLAX_DESC": "Produziert Stoff aus Flachs",
+        "WATER_MILL_CORE_PLANKS_DESC": "Produziert Bretter",
+        "WATER_MILL_EXTENSION_RIGHT_BANK_DESC": "Wasserrad rechts plazieren",
+        "WATER_MILL_EXTENSION_LEFT_BANK_DESC": "Wasserrad links plazieren",
+        "WATER_MILL_SMALL_BOAT_DESC": "Kleines Boot",
+        "WATER_MILL_PLANKS_DESC": "Bretter",
+        "WATER_MILL_SACS_DESC": "Säcke"
+    }
+}

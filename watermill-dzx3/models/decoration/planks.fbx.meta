@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="6642245b-20a7-415e-a128-16311f380b4a">
+	<meta id="3f87ef60-8df7-4ed1-9874-b23349deaed3" type="group" folder="true" name="Materials">
+		<meta id="b9f4fcec-b94b-4f99-8909-629a50815914" name="chambranle"/>
+	</meta>
+	<meta id="c21dd6bc-0df4-45e8-b085-d6ba6bd29d85" type="group" folder="true" name="Meshes">
+		<meta id="09e3ce2f-5561-4082-89f5-3b729ed36852" name="pCube1_chambranle"/>
+	</meta>
+	<meta id="d61d49ef-3152-45ab-be76-76eb9fba1ac4" name="Prefab">
+		<meta id="bd737eb0-4e55-4d6b-ac95-7a8b99b386b1" name="PlanksPart">
+			<meta id="07506f8a-f114-42e4-ac5a-a3f4c63b9bdb" name="extremityLocatorZ1"/>
+			<meta id="6c394326-639c-4391-8e3c-95d3368d2d11" name="extremityLocatorZ2"/>
+			<meta id="d5259c25-8d7c-4839-973b-c2d01a1b1cd7" name="extremityLocatorX1"/>
+			<meta id="3d93d166-1ff9-4e86-9e10-8b6046b786ea" name="extremityLocatorX2"/>
+			<meta id="91b54d88-6012-46da-bc53-c32828cafe47" name="pCube1"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="174ec53ea25e2b01ba97454436151580"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorZ1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorZ2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorX1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="extremityLocatorX2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pCube1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PlanksPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b9f4fcec-b94b-4f99-8909-629a50815914"/>
+			<MaterialName value="chambranle"/>
+		</Item>
+	</MaterialList>
+</importer>
+

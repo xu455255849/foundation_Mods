@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="7ea81407-57e9-4208-81c0-df85b95d86e4">
+	<meta id="c6e26417-0dbe-4b3a-98d0-fdddb1289c9f" type="group" folder="true" name="Materials">
+		<meta id="b88c596e-73b2-4af2-8766-d2b55015673b" name="brownMonasteryWall"/>
+		<meta id="6e5ae7fe-16f5-4cc6-820f-9d459e827d6f" name="blueMonasteryWall"/>
+		<meta id="b6290c5e-d21c-4b60-b142-114a3f574ce0" name="purpleMonasteryWall"/>
+		<meta id="13e9598b-8860-43e8-82ce-140959fbb77e" name="murChateau"/>
+		<meta id="aaf1232a-521a-4b16-a594-66734b2f657c" name="redStoneWall"/>
+		<meta id="d7d85356-67e4-44db-8a05-584c1bbdb2c6" name="giantGateWall"/>
+		<meta id="949a1992-db83-4343-8f85-095fd08700df" name="whiteChalkWall"/>
+		<meta id="cd07de52-8b13-457b-a883-52bdbe7af641" name="sandStoneWall"/>
+		<meta id="b8e20116-d0c5-474a-8763-3d6deca27cc8" name="woodWall"/>
+		<meta id="6537b49f-cd5c-4dab-a64f-26919c8b473d" name="americanShingleWall"/>
+		<meta id="e5a24af3-037f-424f-8c04-8cae7073fb72" name="creamWall"/>
+	</meta>
+	<meta id="9d4fa481-dfbc-485c-91c6-130401b526f8" type="group" folder="true" name="Meshes">
+		<meta id="5b30b32f-a001-415a-98a0-b084b05a401e" name="browMonasteryWallMaterial_brownMonasteryWall"/>
+		<meta id="d4bbfd19-d7ef-4dea-828f-6404f3d6fad0" name="blueMonasteryWallMaterial_blueMonasteryWall"/>
+		<meta id="b995276d-7fc5-44d9-8e2b-c4818e51227f" name="purpleMonasteryWallMaterial_purpleMonasteryWall"/>
+		<meta id="157f5a69-79dd-446b-abfa-6f68b207636f" name="murChateauMaterial_murChateau"/>
+		<meta id="8cbd6475-2297-4be7-bd9e-41c8b45f5fac" name="redStoneMaterial_redStoneWall"/>
+		<meta id="afa82946-914b-42a8-aea6-cec9e6e494fd" name="giantGateMaterial_giantGateWall"/>
+		<meta id="6bbac531-b5c4-4602-bc57-076f61718bec" name="whiteChalkMaterial_whiteChalkWall"/>
+		<meta id="71ebaee8-1676-4e8a-af3a-0785a11bea99" name="sandStoneMaterial_sandStoneWall"/>
+		<meta id="a18b758a-fc13-4dcd-a68b-66f618e71f93" name="woodMaterial_woodWall"/>
+		<meta id="a1bbbed1-dda9-4792-86c4-96a1ae4242fb" name="americanShingleMaterial_americanShingleWall"/>
+		<meta id="c3a552d1-5482-4fbd-bf2d-0eab69e1b11a" name="creamMaterial_creamWall"/>
+	</meta>
+	<meta id="4d3c3e26-014e-4442-8a48-037d5d10f4f6" name="Prefab">
+		<meta id="e3e77ccb-6557-4061-a733-c569a29698ee" name="browMonasteryWallMaterial"/>
+		<meta id="2134d652-57d1-4528-a25e-a1a7556c3165" name="blueMonasteryWallMaterial"/>
+		<meta id="7affe9ed-c629-4d2a-bac7-e89605298b74" name="purpleMonasteryWallMaterial"/>
+		<meta id="37c0a6e2-b387-446d-9ca3-f93137326cfe" name="murChateauMaterial"/>
+		<meta id="dbc82ced-395c-404a-b679-ca71027a774f" name="redStoneMaterial"/>
+		<meta id="5228971c-6ce5-40c2-b530-37ff139ae7f3" name="giantGateMaterial"/>
+		<meta id="53425569-9b33-4d98-a25e-933901322110" name="whiteChalkMaterial"/>
+		<meta id="bcf2cf4a-d9ad-4ceb-8265-462311fe2dfa" name="sandStoneMaterial"/>
+		<meta id="d85296ce-2c05-4c49-9323-83a0796a3914" name="woodMaterial"/>
+		<meta id="244c1231-707e-4c21-96e4-9d4f21207f67" name="americanShingleMaterial"/>
+		<meta id="b754c380-fbe1-42fb-a991-d31568e7e525" name="creamMaterial"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="d9c6991854e0d77e4d440c9df4d6bb7a"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="browMonasteryWallMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="blueMonasteryWallMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="purpleMonasteryWallMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="murChateauMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="redStoneMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="giantGateMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="whiteChalkMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="sandStoneMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="woodMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="americanShingleMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="creamMaterial"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6537b49f-cd5c-4dab-a64f-26919c8b473d"/>
+			<MaterialName value="americanShingleWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6e5ae7fe-16f5-4cc6-820f-9d459e827d6f"/>
+			<MaterialName value="blueMonasteryWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b88c596e-73b2-4af2-8766-d2b55015673b"/>
+			<MaterialName value="brownMonasteryWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e5a24af3-037f-424f-8c04-8cae7073fb72"/>
+			<MaterialName value="creamWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d7d85356-67e4-44db-8a05-584c1bbdb2c6"/>
+			<MaterialName value="giantGateWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="13e9598b-8860-43e8-82ce-140959fbb77e"/>
+			<MaterialName value="murChateau"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b6290c5e-d21c-4b60-b142-114a3f574ce0"/>
+			<MaterialName value="purpleMonasteryWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="aaf1232a-521a-4b16-a594-66734b2f657c"/>
+			<MaterialName value="redStoneWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cd07de52-8b13-457b-a883-52bdbe7af641"/>
+			<MaterialName value="sandStoneWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="949a1992-db83-4343-8f85-095fd08700df"/>
+			<MaterialName value="whiteChalkWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b8e20116-d0c5-474a-8763-3d6deca27cc8"/>
+			<MaterialName value="woodWall"/>
+		</Item>
+	</MaterialList>
+</importer>
+

@@ -1,0 +1,65 @@
+{
+	"BUILDINGS": {
+		"STONE_GATE_V3_MONUMENT_NAME": "Каменные Ворота V3",
+		"STONE_GATE_V3_STAIRCASEA_NAME": "Лестница V3 к каменному бастиону"
+	},
+	"BUILDING_PARTS": {
+                "STONE_GATE_V3_GATE_PARTSETLIST_NAME": "Ворота",
+                "STONE_GATE_V3_OCTOGONALTOWER_PARTSETLIST_NAME": "Восьмиугольная Башня",
+                "STONE_GATE_V3_SQUAREDTOWER_PARTSETLIST_NAME": "Квадратная Башня",
+                "STONE_GATE_V3_ENTRANCE_PARTSETLIST_NAME": "Вход",
+                "STONE_GATE_V3_DECORATION_PARTSETLIST_NAME": "Главный декор",
+		"STONE_GATE_V3_DOOR_NAME": "Дверь башни",
+		"STONE_GATE_V3_WALL_PORTE_NAME": "Доступ к бастиону стены",
+		"STONE_GATE_V3_COREB_ROOT_NAME": "Ворота",
+		"STONE_GATE_V3_COREB_PORTE_NAME": "Доступ к крепостным воротам",
+		"STONE_GATE_V3_COREB_MURET_NAME": "Закрытие крепостных ворот",
+		"STONE_GATE_V3_COREC_ROOT_NAME": "Восьмиугольная Башня",
+		"STONE_GATE_V3_COREC_PORTE_NAME": "Доступ к восьмиугольной башни",
+		"STONE_GATE_V3_COREC_PORTEB_NAME": "Доступ к восьмиугольной башни B",
+		"STONE_GATE_V3_CORED_ROOT_NAME": "Маленькая квадратная башня",
+		"STONE_GATE_V3_CORED_ROOF_NAME": "Небольшой квадратный башенный бастион",
+		"STONE_GATE_V3_CORED_ROOFB_NAME": "Небольшой квадратный башенный бастион с крышей",
+		"STONE_GATE_V3_DECORATION_SFENETRE_NAME": "Малкенькое окно",
+		"STONE_GATE_V3_DECORATION_LFENETRE_NAME": "Большое окно",
+		"STONE_GATE_V3_DECORATION_ARROWSLIT_NAME": "Стрелковая щель"
+	},
+	"MONUMENTS": {
+		"CATEGORY_CORE_SING": "основное",
+		"CATEGORY_CORE_PLUR": "основные",
+		"CATEGORY_EXTENSION": "Расширение",
+		"CATEGORY_EXTENSION_SING": "расширение",
+		"CATEGORY_EXTENSION_PLUR": "расширения",
+		"CATEGORY_DOOR_SING": "Дверь",
+		"CATEGORY_DOOR_PLUR": "Двери",
+		"CATEGORY_DECORATION": "Украшение",
+		"CATEGORY_DECORATION_SING": "украшение",
+		"CATEGORY_DECORATION_PLUR": "украшения"
+	},
+	"BUILDING_DESCRIPTIONS": {
+		"STONE_GATE_V3_MONUMENT_DESC": "комплект для каменных ворот",
+		"STONE_GATE_V3_DOOR_DESC": "квадратная или восьмиугольная дверь башни",
+		"STONE_GATE_V3_WALL_PORTE_DESC": "Доступ к крепостной стене с башни",
+		"STONE_GATE_V3_COREB_ROOT_DESC": "ворота",
+		"STONE_GATE_V3_COREB_PORTE_DESC": "Доступ к крепостному бастиону ворот (должен быть размещен на верхней части ворот)",
+		"STONE_GATE_V3_COREB_MURET_DESC": "Закрытие крепостного бастиона ворот (должен быть размещен на верхней части ворот)",
+		"STONE_GATE_V3_COREC_ROOT_DESC": "Большая восьмиугольная башня",
+		"STONE_GATE_V3_COREC_PORTE_DESC": "доступ к бастиону большой восьмиугольной башни",
+		"STONE_GATE_V3_COREC_PORTEB_DESC": "доступ к бастиону большой восьмиугольной башни B",
+		"STONE_GATE_V3_CORED_ROOT_DESC": "квадратная башня",
+		"STONE_GATE_V3_CORED_ROOF_DESC": "вал для маленькой квадратной башни",
+		"STONE_GATE_V3_CORED_ROOFB_DESC": "вал с крышей для маленькой квадратной башни",
+		"STONE_GATE_V3_STAIRCASEA_DESC": "Лестница к стене крепостного вала",
+		"STONE_GATE_V3_DECORATION_SFENETRE_DESC": "Маленькое окошко для восьмиугольной башни",
+		"STONE_GATE_V3_DECORATION_LFENETRE_DESC": "Большое окошко для восьмиугольной башни",
+		"STONE_GATE_V3_DECORATION_ARROWSLIT_DESC": "Стрелковая щель для восьмиугольной башни"
+	},
+	"WALL_CONFIG": {
+		"SGV3JRV_WALL": "Каменный Бастион V3"
+	},
+	"UNLOCKABLES": {
+		"UNLOCKABLE_SGV3JRV_WALL_NAME": "Разблокировать Каменный бастион V3",
+		"UNLOCKABLE_SGV3JRV_WALL_DESC": "Разблокировать Каменный бастион V3"
+	}
+
+}

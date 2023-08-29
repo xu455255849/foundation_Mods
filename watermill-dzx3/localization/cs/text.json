@@ -1,0 +1,61 @@
+{
+"BUILDINGS": {
+"WATER_MILL_SET_NAME": "Souprava vodního mlýna",
+"WATER_MILL_PARTSETLIST_PRODUCTION_NAME": "Výrobní budovy",
+"WATER_MILL_PARTSETLIST_WHEEL_NAME": "Kola",
+"WATER_MILL_PARTSETLIST_DECORATION_NAME": "Dekorace"
+},
+"BUILDING_PARTS": {
+                 "PRODUCTION_CORE": "Výrobní jádra",
+                 "WHEEL": "Kola",
+"WATER_MILL_CORE_FLOUR_NAME": "Mlýnek na mouku",
+"WATER_MILL_CORE_TEXTILE_NAME": "Textilní závod",
+"WATER_MILL_CORE_TEXTILE_FLAX_NAME": "Textilní závod",
+"WATER_MILL_CORE_PLANKS_NAME": "Mlýna prken",
+"WATER_MILL_EXTENSION_RIGHT_BANK_NAME": "Pravobřežní kolo",
+"WATER_MILL_EXTENSION_LEFT_BANK_NAME": "Levobřežní kolo",
+"WATER_MILL_YELLOW_ROOF": "Žlutá",
+"WATER_MILL_GREEN_ROOF": "Zelená",
+"WATER_MILL_BROWN_ROOF": "Hnědá",
+"WATER_MILL_BLUE_ROOF": "Modrá",
+"WATER_MILL_RED_ROOF": "Červená",
+"WATER_MILL_THATCHED_ROOF": "Došková střecha",
+	        "BUILDING_FUNCTION_SAWMILL_NAME": "Prkna",
+	        "BUILDING_FUNCTION_WINDMILL_NAME": "Mouka z pšenice",
+	        "BUILDING_FUNCTION_WEAVER_HUT_NAME": "Textil z vlny",
+"WATER_MILL_FUNCTION_PLANKS_WOOD_PLANK_NAME": "Prkna",
+"WATER_MILL_FUNCTION_PLANKS_WOOD_RESOURCE_SHINGLE_NAME": "Šindele",
+"WATER_MILL_FUNCTION_FLOUR_WHEAT_FLOUR_NAME": "Mouka z pšenice",
+"WATER_MILL_FUNCTION_FLOUR_RESOURCE_CORN_FLOUR_NAME": "Kukuřičná mouka",
+"WATER_MILL_FUNCTION_TEXTILE_WOOL_WOOLEN_CLOTH_NAME": "Textil z vlny",
+"WATER_MILL_FUNCTION_TEXTILE_RESOURCE_FLAX_WOOLEN_CLOTH_NAME": "Textil ze lnu",
+                 "WATER_MILL_SMALL_BOAT_NAME": "Malá loď",
+                 "WATER_MILL_PLANKS_NAME": "Prkno",
+                 "WATER_MILL_SACS_NAME": "Tašky"
+},
+"MONUMENTS": {
+"CATEGORY_CORE_SING": "jádro",
+"CATEGORY_CORE_PLUR": "jádra",
+"CATEGORY_EXTENSION": "Rozšíření",
+"CATEGORY_EXTENSION_SING": "rozšíření",
+"CATEGORY_EXTENSION_PLUR": "rozšíření",
+"CATEGORY_DOOR_SING": "dveře",
+"CATEGORY_DOOR_PLUR": "dveře",
+"CATEGORY_DECORATION": "Dekorace",
+"CATEGORY_DECORATION_SING": "dekorace",
+"CATEGORY_DECORATION_PLUR": "dekorace"
+},
+
+"BUILDING_DESCRIPTIONS": {
+"WATER_MILL_SET_DESC": "sada pro vodní mlýn",
+"WATER_MILL_CORE_FLOUR_DESC": "produkuje mouku",
+"WATER_MILL_CORE_TEXTILE_DESC": "vyrábí textil z vlny",
+"WATER_MILL_CORE_TEXTILE_FLAX_DESC": "vyrábí textil ze lnu",
+"WATER_MILL_CORE_PLANKS_DESC": "vyrábí prkna",
+"WATER_MILL_EXTENSION_RIGHT_BANK_DESC": "nastavení kola pro pravý břeh",
+"WATER_MILL_EXTENSION_LEFT_BANK_DESC": "nastavení kola pro levý břeh",
+                 "WATER_MILL_SMALL_BOAT_DESC": "Malá loď",
+                 "WATER_MILL_PLANKS_DESC": "Prkno",
+                 "WATER_MILL_SACS_DESC": "Tašky"
+}
+}
