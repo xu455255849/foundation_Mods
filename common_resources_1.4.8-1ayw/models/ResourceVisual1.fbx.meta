@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="e76cf61f-5ff3-4c05-a56a-a94e52691e7e">
+	<meta id="15b2f628-de48-4092-a80b-0b3bcc7dfa86" type="group" folder="true" name="Materials">
+		<meta id="30f18270-bb0e-4381-bdf2-037c1572cc93" name="Material.Hay1"/>
+		<meta id="4d35e521-584f-488c-90e2-00c94b2bab10" name="Material.Cord1"/>
+	</meta>
+	<meta id="358b9230-20bc-4e74-8ef3-934f52e9ca72" type="group" folder="true" name="Meshes">
+		<meta id="50a5ed83-daf4-48b8-a96f-9617cdf36c02" name="Hay.001_Material.Hay1"/>
+		<meta id="dc8febf2-ecc2-4912-9b00-462b673ef930" name="Hay.001_Material.Cord1"/>
+	</meta>
+	<meta id="214ec622-da91-41af-81c9-86822b7ae79b" name="Prefab">
+		<meta id="bbc2b10b-7f19-450a-bf8c-61dce38f34d0" name="ResourceHayPart">
+			<meta id="0995622c-4be5-448a-b3c6-185f5ebf3209" name="Hay.001">
+				<meta id="d68fb31e-462f-4a15-9467-667625f6ec69" name="Hay.001_0"/>
+				<meta id="f8170a60-d1e5-47e5-982a-66d3961e9e87" name="Hay.001_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="9217a708814c403d77a8a6612a638396"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ResourceHayPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4d35e521-584f-488c-90e2-00c94b2bab10"/>
+			<MaterialName value="Material.Cord1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="30f18270-bb0e-4381-bdf2-037c1572cc93"/>
+			<MaterialName value="Material.Hay1"/>
+		</Item>
+	</MaterialList>
+</importer>
+
