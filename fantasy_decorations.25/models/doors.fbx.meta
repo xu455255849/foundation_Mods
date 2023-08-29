@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="61f186f2-70f5-4533-a6d8-20146d556202">
+	<meta id="a6e7796e-0cf1-44f1-99a8-b9350af28cf9" type="group" folder="true" name="Materials">
+		<meta id="db5a3bf9-a18f-4d4d-ae6a-0c906fdff3d0" name="end"/>
+		<meta id="86723f69-4c1d-411b-afd5-89c4ec702017" name="wood"/>
+		<meta id="865346d6-28fe-49c8-856a-e65553c8edc0" name="lightmetal"/>
+		<meta id="2339d10c-9a87-4710-952a-7341811cda1d" name="stone"/>
+		<meta id="252a4098-0780-45ea-8c94-13e54a56f943" name="darkmetal"/>
+		<meta id="b0a80305-cf41-4d69-8048-e4f0b311c52b" name="wood2"/>
+		<meta id="d823dffe-d114-4f5d-92cf-54206084ba14" name="black"/>
+		<meta id="62a609e9-495d-41de-9964-2c4097e083b9" name="blank_door_trigger"/>
+		<meta id="9fc39fa8-eed5-4754-a3d8-8c8838f18e60" name="bark"/>
+	</meta>
+	<meta id="a31e864f-ddcd-4497-91f9-3d8e4aec20ac" type="group" folder="true" name="Meshes">
+		<meta id="68349f34-65ed-4207-a693-6bababa39a7d" name="Door_wood"/>
+		<meta id="05f977d8-ee1c-4aff-8405-ad1f4f9dc06d" name="Door_lightmetal"/>
+		<meta id="669db35d-57b5-4ecf-9323-3c0cbaaed1de" name="Board_wood"/>
+		<meta id="547d199e-9473-42e1-8780-07bde5e467ad" name="door.001_wood"/>
+		<meta id="62e7a523-05a4-4bcc-b4b4-ce48e1a03ffe" name="handle.001_lightmetal"/>
+		<meta id="fa3b8a07-8df2-41b8-a33f-3dd4880fd905" name="hinge_lightmetal"/>
+		<meta id="069d9b60-5380-4d1e-8725-34be527a18b9" name="rivets.003_darkmetal"/>
+		<meta id="500307bf-1118-4ce9-b669-2676b3f78f30" name="rivets.001_darkmetal"/>
+		<meta id="2e923c56-e864-4f86-9543-8cb3590a730d" name="lock_lightmetal"/>
+		<meta id="48c2b6f1-71be-435a-893b-7a78ee8b06eb" name="lock_black"/>
+		<meta id="e00013bd-17e7-4451-8e34-adfa54409b3b" name="grate.002_lightmetal"/>
+		<meta id="adbfb9b3-f8dd-44e3-9776-1cea828e0fd5" name="handle.003_darkmetal"/>
+		<meta id="49e3c1e3-430c-4da2-8ce6-3b48cd9f983e" name="rivets.006_darkmetal"/>
+		<meta id="7e80f7d4-5096-4b89-b875-79f28d6fccca" name="door.004_wood"/>
+		<meta id="6fa7cc26-e61a-43a7-ada7-d28cdb5dcdb4" name="door.004_black"/>
+		<meta id="8b818678-f2fe-405f-9068-e8dda2a79d21" name="door_wood"/>
+		<meta id="1a1d9ab3-c33d-4ecf-b3b8-048eb804b4c2" name="rivets.004_darkmetal"/>
+		<meta id="a1b520a0-ae57-47b4-8e56-dd1fb996cdeb" name="brackets_lightmetal"/>
+		<meta id="0250e9fb-1f12-4cbc-8d4a-6b4ea509da88" name="handle.002_darkmetal"/>
+		<meta id="02cb1cae-0256-4ffb-896a-141b2bcfbfa7" name="frame.001_wood"/>
+		<meta id="98c7133e-3100-4a26-9fe8-febc462ab0b9" name="frame-stone_stone"/>
+		<meta id="712ac3ab-aadf-4cb6-bc18-c4e6acbcf189" name="accents_wood2"/>
+		<meta id="67d6c145-356c-498c-9d35-fd190ff13da0" name="frame-stone.001_stone"/>
+		<meta id="f2e67d18-8344-4aea-9af2-3dab33701162" name="accents.001_wood2"/>
+		<meta id="57623085-6f76-4004-931b-49dd8b899423" name="door.003_wood"/>
+		<meta id="d58a0266-2e5b-4484-bdc5-322d8dd7630c" name="window_black"/>
+		<meta id="e2b85406-1ef8-46ae-b5d4-6260570b5317" name="frame-stone.002_stone"/>
+		<meta id="c872f216-bf1f-4abb-a725-2fb14cb12bf0" name="frame-wood.003_wood"/>
+		<meta id="34867331-9ce5-4733-a1f8-ca72081f957f" name="frame-wood.004_wood"/>
+		<meta id="6dc07edb-6992-49b0-938c-aad5a905b626" name="frame-wood.001_wood"/>
+		<meta id="1074573f-a74a-4265-b788-60cffed4ff7b" name="Frame.002_end"/>
+		<meta id="d64e36fa-04c8-4783-bdc5-3dbab4f2ec6b" name="Left_wood"/>
+		<meta id="4ff0decc-e116-4fb3-bbd6-0304c3c4f725" name="Left_lightmetal"/>
+		<meta id="10ab1cfd-eda0-4adb-84d2-c491532e5c21" name="Right_wood"/>
+		<meta id="c5aafe3f-2328-4416-abe1-156ad6ef6e0d" name="Right_lightmetal"/>
+		<meta id="cade13cf-313c-4108-b699-8937a5b9b9eb" name="posts_end"/>
+		<meta id="2b46db7f-f550-4623-bfe8-6950f876877e" name="Left.001_end"/>
+		<meta id="e87e8eda-ed36-4e9c-87b1-39aedd067c9e" name="Right.001_end"/>
+		<meta id="aa7cc584-96a6-46a4-84f3-fea66ff8b6ed" name="Trigger1_blank_door_trigger"/>
+		<meta id="ca822e08-3f6b-4b70-b8b3-8fab7da3ded3" name="arrow_blank_door_trigger"/>
+		<meta id="76eda122-4c85-4b1d-9b63-07f440d16023" name="Trigger2_blank_door_trigger"/>
+		<meta id="b3094e6d-d001-4191-98ec-658d97469dee" name="Log.01_end"/>
+		<meta id="040019c0-eed4-451f-a113-ba881249db4b" name="Log.02_end"/>
+		<meta id="69669299-0196-4712-be7a-63fc98001bfe" name="Log.03_end"/>
+		<meta id="fa2cda2e-386c-4c8f-ba78-7a150c4e13d8" name="Log.04_end"/>
+		<meta id="02f242c9-2a5b-49b4-904a-ed567f56c45c" name="Log.05_end"/>
+		<meta id="55c0480f-5244-4520-8bff-d027c8a83493" name="Log.06_end"/>
+		<meta id="9abaf149-90e6-413f-9e7d-9caca6ad4497" name="Frame.001_end"/>
+		<meta id="aa515ffd-e4d5-4c08-bd3a-13a3747d9f30" name="hinge.002_lightmetal"/>
+		<meta id="c8069409-c781-4622-a876-fb6265684b3b" name="accents.002_wood2"/>
+		<meta id="18d4383c-182a-4367-961f-b6f75c32fbc1" name="Frame.002_bark"/>
+		<meta id="6d1dbf1b-7ca9-405e-a95d-c00bd068f3cd" name="Frame.001_bark"/>
+		<meta id="8f97559a-441e-423e-95ad-6ecbe776af51" name="posts_bark"/>
+		<meta id="113ea617-4d93-44ed-b7ed-6c4bdcadda1c" name="Right.001_bark"/>
+		<meta id="db6fdaf7-879e-4008-8db7-7d417bf1a3c0" name="Left.001_bark"/>
+		<meta id="a43eece3-d890-464d-8249-609db121b645" name="Log.01_bark"/>
+		<meta id="57044f08-098c-4e46-b7fe-6c515f1372f5" name="Log.02_bark"/>
+		<meta id="50632d73-970b-486a-8180-a74099a856b5" name="Log.03_bark"/>
+		<meta id="fb3ca644-2a1d-4633-974f-3d8051b0d1c5" name="Log.04_bark"/>
+		<meta id="9cbeaefc-691a-4a10-a228-993d8c032c80" name="Log.05_bark"/>
+		<meta id="7f1fead0-dcf7-4a7f-8070-be92b97f064a" name="Log.06_bark"/>
+	</meta>
+	<meta id="da477e9a-ba9e-487c-bb0b-447a7ef42d65" name="Prefab">
+		<meta id="c9e73c69-7766-4c7e-b050-8aeb673ac116" name="Woodengate_Locked_Part">
+			<meta id="d4301399-2105-44cc-822d-8a54407436c1" name="Door">
+				<meta id="88b4f6a3-3af5-4228-9158-d2ffc53a7a5a" name="Door_0"/>
+				<meta id="3688f4c2-5172-4ea0-8734-6ff4a1c7e3f0" name="Door_1"/>
+			</meta>
+			<meta id="654a056b-b985-486c-afeb-d2e02d6e2a90" name="Board"/>
+			<meta id="340031ea-3670-40f0-a0ee-b487a1ee9d70" name="Attach_Bottom.001"/>
+			<meta id="2aa04569-2e31-4b28-b737-d46620232500" name="Frame.002">
+				<meta id="66a4a636-a49b-4380-8694-5d06b5112ca7" name="Frame.002_0"/>
+				<meta id="86fa9933-72f1-4fcb-a9da-1ae4f4161a1e" name="Frame.002_1"/>
+			</meta>
+		</meta>
+		<meta id="1b89a61e-aa5e-4e80-8237-9a894a3d0ec2" name="Wooden_Door1_Part">
+			<meta id="18985291-a037-4581-a012-18fb723a319f" name="door.001"/>
+			<meta id="a58ab019-ec5e-48f2-bc4b-17a3ca7a18a1" name="handle.001"/>
+			<meta id="ba52a90c-83ce-4082-aea7-4bb385e5bfc8" name="hinge"/>
+			<meta id="493d6665-e96b-4b81-9c45-f9d076958a6d" name="Attach_Bottom"/>
+			<meta id="5190b76d-8c02-4ab9-ab63-b8e3c1f61956" name="rivets.003"/>
+			<meta id="dd7ae7e4-2b9e-44d2-84c4-fceb05c27f00" name="frame-stone"/>
+			<meta id="13646109-91d2-4ed6-a277-822810832936" name="accents"/>
+		</meta>
+		<meta id="23a81130-5a82-4a8b-a204-3790c723b95f" name="Wooden_Door2_Part">
+			<meta id="3bd9b0e6-1439-47ad-8e2b-0ffdc74ce6c5" name="rivets.001"/>
+			<meta id="0c634335-845a-4600-9b08-ee0dbe89b0e1" name="lock">
+				<meta id="44543204-4ed4-42be-b0f7-0ebec9358521" name="lock_0"/>
+				<meta id="642d9aae-bfe6-4fc6-9482-e62dabe4f096" name="lock_1"/>
+			</meta>
+			<meta id="76316796-2d64-4ba1-8df6-0011247d24ad" name="Attach_Bottom.003"/>
+			<meta id="c92ed937-c330-4a3c-9be2-c94a2cbccabd" name="grate.002"/>
+			<meta id="474cf3d4-c0eb-4cf3-9ef9-1fd187ea2f89" name="handle.003"/>
+			<meta id="18d85d1d-f982-4f5b-8ff0-cc5ed4c04272" name="frame-stone.001"/>
+			<meta id="2bf5bd8a-407c-404c-bfaa-40b03e450097" name="accents.001"/>
+			<meta id="b3430edd-abc7-44ee-94f6-f2613e349699" name="door.003"/>
+			<meta id="4220795e-2c25-435a-8190-4688cf50f0ec" name="window"/>
+			<meta id="ccee7136-ae11-450a-be4e-05b42f3b98c9" name="hinge.002"/>
+			<meta id="223e7e88-a335-49e7-85a6-14731ce05bf5" name="rivets.006"/>
+		</meta>
+		<meta id="26617134-25cd-4908-ae1b-45ea7d3e6e31" name="Wooden_Door3_Part">
+			<meta id="b57b32e0-fe9e-4eb5-b89d-142883963235" name="rivets.005"/>
+			<meta id="69ccd74b-7460-4e39-be3c-c74c85f1967a" name="lock.001">
+				<meta id="19f7da6f-c10c-4f49-937b-8be5a20b1ffd" name="lock.001_0"/>
+				<meta id="d0e627d0-94ba-4f67-8939-434e6ba46292" name="lock.001_1"/>
+			</meta>
+			<meta id="42409242-ca41-4686-9123-4d28177d7df8" name="handle.004"/>
+			<meta id="37c98e8d-4f76-431a-9b36-d54eea112734" name="door.004">
+				<meta id="d86af42c-33e4-4060-8349-ca21f37a0ee0" name="door.004_0"/>
+				<meta id="4e868882-51ef-4769-8b45-8377993df001" name="door.004_1"/>
+			</meta>
+			<meta id="35e59feb-0664-4fea-937d-23c463cd569e" name="grate.001"/>
+			<meta id="3443f12d-f20a-4d10-9a07-e4e77bf52ff8" name="Attach_Bottom.005"/>
+			<meta id="c9f0f53f-e54f-485e-82c0-662031538326" name="accents.002"/>
+			<meta id="cbfca1be-0a01-4f8c-814f-b779d0472cfe" name="frame-stone.002"/>
+			<meta id="0a3f5f30-6f06-4d41-a280-62ae06702549" name="hinge.001"/>
+			<meta id="1d58232d-5c34-4802-af86-05700e3e63e4" name="rivets.002"/>
+		</meta>
+		<meta id="c78dd405-3505-4535-822b-a16e879e518c" name="Wooden_Door4_Part">
+			<meta id="d28b456d-3c0a-4e22-8f64-6c5e009463a5" name="door"/>
+			<meta id="dd8cd4ff-754f-4c1b-831c-d9936643b6ef" name="rivets.004"/>
+			<meta id="84d065a9-e2aa-4b2a-8b64-c6d7b621aea9" name="brackets"/>
+			<meta id="59dc1094-8e80-423a-88bc-72f7ee337f9d" name="handle.002"/>
+			<meta id="0f0d33a2-67b1-475e-bc70-623562d575e6" name="Attach_Bottom.004"/>
+			<meta id="0b6674f9-7a90-4ec7-a31f-657671f13d28" name="frame.001"/>
+		</meta>
+		<meta id="683271af-8fd7-4e21-ace5-6e0403ce9840" name="Wooden_Door5_Part">
+			<meta id="23d542c2-1795-4079-9886-7da09c2e6594" name="door.002"/>
+			<meta id="6641c951-e58c-47ef-87e1-013298a35937" name="handle.005"/>
+			<meta id="f251cca5-e801-4824-bf7b-b14b4547fab3" name="hinge.003"/>
+			<meta id="844a7831-ddd0-48cd-bb9c-92bc41814aa8" name="Attach_Bottom.006"/>
+			<meta id="2b3e1d56-b84d-4a2a-bfe1-5c423b64fa8c" name="rivets.007"/>
+			<meta id="828884b0-774f-409c-b7bb-fe1e6635b81c" name="accents.003"/>
+			<meta id="553871bd-b4cd-48d5-b25c-117212a0342f" name="frame-wood.003"/>
+		</meta>
+		<meta id="1c0a31e2-ce31-4627-9670-58de0018b7c6" name="Wooden_Door6_Part">
+			<meta id="64eb1cee-cf8b-4e3d-b97c-b98d48db86f4" name="hinge.004"/>
+			<meta id="36bcd79c-6cc9-4725-83c0-dd155801e5a0" name="rivets.008"/>
+			<meta id="345e9c3f-8b0d-4404-90d3-278992d99eb9" name="lock.002">
+				<meta id="55be5eb2-655c-4a41-bf7c-3a3330ac82df" name="lock.002_0"/>
+				<meta id="8e61c3fc-7919-4254-beaf-0815ec7ed161" name="lock.002_1"/>
+			</meta>
+			<meta id="011ff7f5-a892-456e-9476-c37012fb8f11" name="Attach_Bottom.007"/>
+			<meta id="d109e52b-e610-45ce-b751-350bdb636ef3" name="rivets.009"/>
+			<meta id="82df7f9f-d7e5-48df-8ee3-f9f5b82820b1" name="grate.003"/>
+			<meta id="22c1a901-1bc4-4e89-9c9c-47ec40211580" name="accents.004"/>
+			<meta id="0a802e13-06df-4ece-baaf-50e77fe03c1b" name="handle.006"/>
+			<meta id="88cec1fc-d6ca-4f3f-933b-bf63859a91af" name="door.005"/>
+			<meta id="2177e963-f0c6-408c-a665-4909d018f3b9" name="window.001"/>
+			<meta id="ba6a99fc-8d1c-4741-92fc-26f5668dd6ea" name="frame-wood.004"/>
+		</meta>
+		<meta id="9ab9cb30-610f-45a4-ae17-679af3cbe55f" name="Wooden_Door7_Part">
+			<meta id="d3c5b65e-f5a6-4ca8-9ac6-8f70ceafddb5" name="hinge.005"/>
+			<meta id="2674954d-633f-48c8-9fdd-b078d515ee79" name="lock.003">
+				<meta id="ff06a3db-6f01-4763-9c7c-a71eea0158a6" name="lock.003_0"/>
+				<meta id="3517e088-0f6d-48ec-90ba-20049ce1fda0" name="lock.003_1"/>
+			</meta>
+			<meta id="12f6e249-be8e-49f4-8af7-410402f11de0" name="rivets.010"/>
+			<meta id="f943a58a-440e-41cb-8a0c-4ced630bdf6a" name="door.006">
+				<meta id="90e1e15a-1a5e-4f37-a23b-1806fc93c4ee" name="door.006_0"/>
+				<meta id="60b2e529-2d0d-4427-8e2b-df6a54f71ffc" name="door.006_1"/>
+			</meta>
+			<meta id="42421de0-e962-4824-8af2-98ee7b83d3c0" name="grate.004"/>
+			<meta id="32e3d1fe-527b-4154-9d32-d93a19049ac6" name="Attach_Bottom.008"/>
+			<meta id="3cb86fea-06f3-49a3-b97f-b3f8597efcb4" name="accents.005"/>
+			<meta id="c46432c6-bfe6-4acc-a4f6-563b6a0a5168" name="handle.007"/>
+			<meta id="e55671dd-1681-420d-9a2a-8351278f8d0a" name="rivets.011"/>
+			<meta id="7484e132-2e53-4309-a341-a05635136ca9" name="frame-wood.001"/>
+		</meta>
+		<meta id="9d03ce5b-4d76-426b-b361-74b305520829" name="Woodengate_Animated_Part">
+			<meta id="858e5d87-0989-4962-abad-4ff58bbb6bad" name="Frame.001">
+				<meta id="4d93502b-73f0-4955-a6aa-e49ad7a0ee04" name="Frame.001_0"/>
+				<meta id="abe7cf5a-e46d-474a-af6b-5d0da9957dac" name="Frame.001_1"/>
+			</meta>
+			<meta id="ec822ea8-0ea0-4380-b194-7981bcbe12e0" name="Left">
+				<meta id="e45a7282-fa91-4dd8-8175-c54c75498adc" name="Left_0"/>
+				<meta id="957a80b5-9139-44bd-a855-5c34e5beb580" name="Left_1"/>
+			</meta>
+			<meta id="4171311c-6977-42d2-8a50-a35ded7f29d4" name="Trigger1"/>
+			<meta id="a1512977-e076-4884-a182-01e2861b8f3c" name="Right">
+				<meta id="c6822564-7ebf-4077-b318-7b53f21a26bc" name="Right_0"/>
+				<meta id="73d36a68-f9b4-441e-a034-92599d8338d4" name="Right_1"/>
+			</meta>
+			<meta id="dab07f35-61fc-4009-9e6c-a9e7ab4998f1" name="arrow"/>
+		</meta>
+		<meta id="e2ba0f6c-3786-43aa-960a-332247ad0774" name="Woodengate_Palisade_Animated_Part">
+			<meta id="14cbed3c-8dde-4f79-962f-846db28fd0d2" name="Trigger2"/>
+			<meta id="c9f5cc4d-6610-4a2a-a24d-496de5c38f70" name="arrow.001"/>
+			<meta id="78b1ce5a-67c8-4501-9fc5-4c4615727c94" name="posts">
+				<meta id="fe8f05f3-3983-486a-8e55-1c503ccd31f3" name="posts_0"/>
+				<meta id="a117e793-42a9-4fcf-bccc-eab358c47ec1" name="posts_1"/>
+			</meta>
+			<meta id="ceceb496-2d2c-4c33-94b3-c01dbede59c5" name="Right.001">
+				<meta id="0b853f18-9f50-4608-b4a4-1f1ce272225b" name="Right.001_0"/>
+				<meta id="8c13236b-e7c7-4d19-b8c7-eee5d891ecd9" name="Right.001_1"/>
+			</meta>
+			<meta id="ef4092b9-0ded-45a8-8ee3-c712c6befa42" name="Left.001">
+				<meta id="b7b7636a-3934-47f4-92a7-79d57d2fa57c" name="Left.001_0"/>
+				<meta id="0d760149-98ae-45f1-9f34-2e88888bfb39" name="Left.001_1"/>
+			</meta>
+		</meta>
+		<meta id="64bfb5f5-0001-494f-9564-ef1a6e90ff1a" name="Wall_Palisade_Part">
+			<meta id="0a1585a4-7776-418c-95fc-cb26576812bb" name="Log.01">
+				<meta id="739e32b0-07ea-403c-b454-bf73bf27648c" name="Log.01_0"/>
+				<meta id="0403c1e5-2aa1-40ad-8095-2136da85d1c4" name="Log.01_1"/>
+			</meta>
+			<meta id="5f8a89f4-89f4-48d8-bbce-3b4c394b351e" name="Log.02">
+				<meta id="1f4ec55c-d901-43af-9e2e-f8f27b6c5ccc" name="Log.02_0"/>
+				<meta id="68238ddc-c5af-440c-8d0e-a8d5fc80ee0e" name="Log.02_1"/>
+			</meta>
+			<meta id="d7009730-ca65-4d5d-8bbd-820bb92e86ac" name="Log.03">
+				<meta id="9f0c7c4a-9998-4c9d-9530-ece4f48561a3" name="Log.03_0"/>
+				<meta id="cddef62f-77c1-4fd8-ac02-aa5ba045df4b" name="Log.03_1"/>
+			</meta>
+			<meta id="810e2303-24d4-4f85-bb41-092339b7b74a" name="Log.04">
+				<meta id="419d3960-5cd1-4a7a-8ae4-204eff8731e6" name="Log.04_0"/>
+				<meta id="7c71e0a0-1450-418e-b3ba-1f36d6816be3" name="Log.04_1"/>
+			</meta>
+			<meta id="1a122149-ce55-4700-b749-551f58e6cc47" name="Log.05">
+				<meta id="6c64bf35-591a-4e3c-886e-a4d5e98efdbf" name="Log.05_0"/>
+				<meta id="58e84e3d-5161-4978-95af-10d728d24fec" name="Log.05_1"/>
+			</meta>
+			<meta id="006a65c8-db2c-4a79-896d-fdec4aa47bac" name="Log.06">
+				<meta id="eb8134ab-e6bf-4c98-87b7-245f73980dcb" name="Log.06_0"/>
+				<meta id="f611c99f-9a1b-422d-8d9c-594e36f6ad2f" name="Log.06_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="4225b1004a013a3ec26c142e1135763b"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Door"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Board"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Frame.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Frame.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Frame.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Woodengate_Locked_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="door.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handle.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame-stone"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Door1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="lock"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="grate.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handle.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame-stone.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="door.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="window"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.006"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Door2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="lock.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handle.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="door.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="door.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="door.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="grate.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame-stone.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Door3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="door"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="brackets"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handle.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Door4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="door.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handle.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame-wood.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Door5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="lock.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="grate.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handle.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="door.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="window.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame-wood.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Door6_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="lock.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="lock.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="door.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="door.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="door.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grate.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="grate.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handle.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rivets.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame-wood.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Door7_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Frame.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Frame.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Frame.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Left_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Left_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Left"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Trigger1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Right_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Right_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Right"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="arrow"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Woodengate_Animated_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Trigger2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="arrow.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Right.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Right.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Right.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Left.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Left.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Left.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Woodengate_Palisade_Animated_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.01_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.01_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.02_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.02_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.02"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.03_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.03_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.03"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.04_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.04_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.04"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.05_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.05_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.05"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.06_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.06_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.06"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wall_Palisade_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9fc39fa8-eed5-4754-a3d8-8c8838f18e60"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d823dffe-d114-4f5d-92cf-54206084ba14"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="62a609e9-495d-41de-9964-2c4097e083b9"/>
+			<MaterialName value="blank_door_trigger"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="252a4098-0780-45ea-8c94-13e54a56f943"/>
+			<MaterialName value="darkmetal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="db5a3bf9-a18f-4d4d-ae6a-0c906fdff3d0"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="865346d6-28fe-49c8-856a-e65553c8edc0"/>
+			<MaterialName value="lightmetal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2339d10c-9a87-4710-952a-7341811cda1d"/>
+			<MaterialName value="stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="86723f69-4c1d-411b-afd5-89c4ec702017"/>
+			<MaterialName value="wood"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b0a80305-cf41-4d69-8048-e4f0b311c52b"/>
+			<MaterialName value="wood2"/>
+		</Item>
+	</MaterialList>
+</importer>
+

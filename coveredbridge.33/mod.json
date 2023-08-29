@@ -1,0 +1,27 @@
+{
+	"Name": "Covered Bridge Set V3",
+	"Author": "vjraymon",
+	"Description": "Stone and wooden covered bridge",
+	"Version": "3.5.8",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		}
+	],
+	"Dependencies": [
+		{
+			"Id": "c6d941ce-a02d-41c5-a57f-9a2d9d1b2a02",
+			"Name": "Market Addition V2"
+		}
+	]
+}

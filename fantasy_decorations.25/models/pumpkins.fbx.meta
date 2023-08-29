@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="b451a00e-c84d-44aa-baab-ae1facd0e000">
+	<meta id="381412ed-8068-4dc0-a36d-d8a42944ccfd" type="group" folder="true" name="Materials">
+		<meta id="93e7bb4d-44d6-4c33-8c96-0b18a0c96b66" name="pumpkin"/>
+		<meta id="7ff63fb5-ed84-4507-a2e6-9eb9d2e5887b" name="black"/>
+	</meta>
+	<meta id="5cc9cf2a-6a67-4417-b675-386e2997bc57" type="group" folder="true" name="Meshes">
+		<meta id="2f7ce0f0-3f7d-4203-9c09-bd22f6ad6e18" name="Pumpkin_Part_LOD_01_pumpkin"/>
+		<meta id="366ffbf6-e00b-4aaa-8891-878ee39e0894" name="Pumpkin_Part_LOD_23_pumpkin"/>
+		<meta id="58425645-76c5-49e4-b256-b115fa0cf8de" name="Pumpkin_Carved_Part_LOD_01_pumpkin"/>
+		<meta id="9e3e53f3-ba7b-47fc-8b0e-f5a3135931f6" name="Pumpkin_Carved_Part_LOD_01_black"/>
+		<meta id="4e4d3a9c-2005-4fd8-9428-640ce5ec5dca" name="Pumpkin2_Part_LOD_01_pumpkin"/>
+		<meta id="ed4b00df-163d-415f-8988-2750e1b0ae24" name="Pumpkin2_Part_LOD_23_pumpkin"/>
+		<meta id="138b448d-e413-479c-a000-2c7d9284af66" name="Pumpkin3_Part_LOD_23_pumpkin"/>
+		<meta id="83127f8d-3b26-433b-ba00-f280bb92a6ce" name="Pumpkin3_Part_LOD_01_pumpkin"/>
+		<meta id="a687be3b-db9d-4909-ae81-84ffbb0c1090" name="Pumpkin_Carved2_Part_LOD_23_pumpkin"/>
+		<meta id="38022eea-7204-404f-ac87-3aa453e26c84" name="Pumpkin_Carved2_Part_LOD_01_pumpkin"/>
+		<meta id="de0aef7c-117f-4be4-abd7-455ad53237cf" name="Pumpkin_Carved2_Part_LOD_01_black"/>
+		<meta id="f84f9e69-570e-4976-ba75-a8eaef06ccde" name="Pumpkin_Carved3_Part_LOD_01_pumpkin"/>
+		<meta id="579aae8a-15ec-467b-934c-6e74aadeff0a" name="Pumpkin_Carved3_Part_LOD_01_black"/>
+		<meta id="6e8148e2-21c8-484e-81d2-27a833225093" name="Pumpkin_Carved3_Part_LOD_23_pumpkin"/>
+		<meta id="e0adba18-20d0-46c8-b52e-97713e76db62" name="Pumpkin_Carved4_Part_LOD_01_pumpkin"/>
+		<meta id="313904e5-07ed-492c-975d-d4b3de8e06db" name="Pumpkin_Carved4_Part_LOD_01_black"/>
+		<meta id="4046f267-27ae-4323-b6e5-93948357a34b" name="Pumpkin_Carved4_Part_LOD_23_pumpkin"/>
+		<meta id="d61d96c5-5dc1-418f-8080-1e19b66a3296" name="Pumpkin4_Part_LOD_01_pumpkin"/>
+		<meta id="73892a76-0732-4971-a76f-001fd2acaa40" name="Pumpkin4_Part_LOD_23_pumpkin"/>
+		<meta id="600d0249-a12d-4f4b-8440-78e88c7f180e" name="RootNode_LOD_01_pumpkin"/>
+		<meta id="ddc32506-8a6b-4195-9f79-8931da2ccd52" name="RootNode_LOD_01_black"/>
+	</meta>
+	<meta id="654adeb6-d753-42b5-8a1d-3bf7795f623d" type="group" folder="true" name="LOD">
+		<meta id="ecd10519-ef0f-4128-9355-21e0769d924c" name="Pumpkin_Part"/>
+		<meta id="ec745de8-bc75-457b-a5e0-9bd263d3f490" name="Pumpkin_Carved_Part_0"/>
+		<meta id="0fd977ea-a2e7-41e9-a5c1-c2fcb827620c" name="Pumpkin_Carved_Part_1"/>
+		<meta id="4a590cef-0a72-4c1e-b3bc-e6b201421c1a" name="Pumpkin2_Part"/>
+		<meta id="fce91522-c16b-4600-9f55-67e32e3567b1" name="Pumpkin3_Part"/>
+		<meta id="31a71c35-0831-47a5-9906-99ffc64dbe25" name="Pumpkin_Carved2_Part"/>
+		<meta id="b95a1532-6237-4f5b-b923-1291ddc7b2ba" name="Pumpkin_Carved2_Part_0"/>
+		<meta id="1916234c-7129-4947-aa88-a355b8e30cec" name="Pumpkin_Carved2_Part_1"/>
+		<meta id="ccb0889c-4fab-406b-9fca-78599005ad04" name="Pumpkin_Carved3_Part_0"/>
+		<meta id="2ff6fc31-6a4e-462e-9c7a-9802a3353b8b" name="Pumpkin_Carved3_Part_1"/>
+		<meta id="7ad06de1-3434-4f86-9cfb-b29f371a6d70" name="Pumpkin_Carved4_Part_0"/>
+		<meta id="5c8967c8-c1e3-4477-9888-0eeb4bfa310f" name="Pumpkin_Carved4_Part_1"/>
+		<meta id="9587fcf2-2ab0-4730-b4e4-63676519d1f5" name="Pumpkin4_Part"/>
+		<meta id="ff62544e-8ef4-44ae-9438-ea03f79dac7a" name="RootNode_0"/>
+		<meta id="08c6fb98-8b70-45fa-b1ae-fbfb4da2c4ca" name="RootNode_1"/>
+	</meta>
+	<meta id="e4da9ae5-a74a-4b87-9f59-af4c18e4003d" name="Prefab">
+		<meta id="caa21ae6-d1be-4b8f-95f1-26a9bf400b62" name="Pumpkin_Part">
+			<meta id="05b69267-7310-4de3-90b8-710ac0de8257" name="Attach_Bottom"/>
+		</meta>
+		<meta id="1bd4a079-6f83-43e3-840d-02bcbc15d9a8" name="Pumpkin_Carved_Part">
+			<meta id="59fac8fe-ea46-4eac-a1cf-119e911119d8" name="Attach_Bottom.001"/>
+			<meta id="45c21254-4fae-4f5c-8673-873a6d805ab7" name="Pumpkin_Carved_Part_0"/>
+			<meta id="3b9a7c82-2998-4c47-b3f8-d9b7f2ba8409" name="Pumpkin_Carved_Part_1"/>
+		</meta>
+		<meta id="3e0aa4bb-7784-4a89-ae65-b3b84d5470a1" name="Pumpkin2_Part">
+			<meta id="08be8128-b133-4f61-bc30-f6cd905ba1ff" name="Attach_Bottom.002"/>
+		</meta>
+		<meta id="f21dbec0-4b26-49b7-96a4-65eb6a394f5c" name="Pumpkin3_Part">
+			<meta id="6dc1345e-ec55-4332-aaee-0fa2bef1ba97" name="Attach_Bottom.003"/>
+		</meta>
+		<meta id="31491c4a-738c-4b05-9843-95d6aab86880" name="Pumpkin_Carved2_Part">
+			<meta id="2613acb9-2781-4bda-a84d-5b90dbbd6338" name="Attach_Bottom.004"/>
+			<meta id="d1df7b05-8163-4e5b-8d0a-47937fcc629d" name="Pumpkin_Carved2_Part_0"/>
+			<meta id="472ced49-f7ce-4c94-a1c1-6cf39fc2e22a" name="Pumpkin_Carved2_Part_1"/>
+		</meta>
+		<meta id="445bd167-2005-46d9-b83f-2e820416f25b" name="Pumpkin_Carved3_Part">
+			<meta id="de8e582b-f9ac-43c5-97d7-04a3afc0c752" name="Attach_Bottom.005"/>
+			<meta id="7e472ffb-3490-4312-bcb9-dbe1dfd8c5d6" name="Pumpkin_Carved3_Part_0"/>
+			<meta id="07640bc9-ebbe-4287-9669-a267e85d5056" name="Pumpkin_Carved3_Part_1"/>
+		</meta>
+		<meta id="ace9fdec-9bdd-4ef1-97e5-8a3951ff52eb" name="Pumpkin_Carved4_Part">
+			<meta id="695d09a0-add9-4374-ae4a-903853d7e277" name="Attach_Bottom.006"/>
+			<meta id="e72b4992-7e87-4a77-9d84-43f5829bc853" name="Pumpkin_Carved4_Part_0"/>
+			<meta id="adc40605-fc18-4b39-9089-af605a71f316" name="Pumpkin_Carved4_Part_1"/>
+		</meta>
+		<meta id="e47d5b28-f18f-415b-91fb-22c996960dc3" name="Pumpkin4_Part">
+			<meta id="be35511f-90db-4ae1-87df-b9a9e838c379" name="Attach_Bottom.007"/>
+		</meta>
+		<meta id="11b5ec2f-921c-4aa2-bf1f-3575fb761804" name="RootNode_0"/>
+		<meta id="d6248da9-f95c-4a95-988e-6adb26b82051" name="RootNode_1"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="20287b86efb615e601c3dc94cfabb452"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin_Carved_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved2_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin_Carved2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved3_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved3_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin_Carved3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved4_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pumpkin_Carved4_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin_Carved4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pumpkin4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="RootNode_0"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="RootNode_1"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7ff63fb5-ed84-4507-a2e6-9eb9d2e5887b"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="93e7bb4d-44d6-4c33-8c96-0b18a0c96b66"/>
+			<MaterialName value="pumpkin"/>
+		</Item>
+	</MaterialList>
+</importer>
+

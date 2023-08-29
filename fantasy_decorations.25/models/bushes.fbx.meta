@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="21aadee3-ae11-4df1-b048-fcd91b9bce97">
+	<meta id="0a45ba18-f114-4852-84b2-eabe61a15397" type="group" folder="true" name="Materials">
+		<meta id="03371872-b233-48f6-86bd-d60578b761e7" name="bush"/>
+		<meta id="2e855fa6-acbb-4d36-a6d2-1d64a754e9c5" name="bush2"/>
+	</meta>
+	<meta id="ff237e84-373f-4d1a-a481-498bd8c0e6ce" type="group" folder="true" name="Meshes">
+		<meta id="9cb42b8f-2a65-486f-bab0-d20117526490" name="wood_bush"/>
+		<meta id="e203de90-c764-4efd-a5ec-4ce00e8f3f03" name="bush.008_bush2"/>
+		<meta id="d376c018-ddff-438a-82f2-c84fc73ffc1d" name="bush.001_bush"/>
+		<meta id="b07f9995-4857-460b-8785-f5151f5dab41" name="wood.001_bush"/>
+		<meta id="4c774990-c968-4436-abc2-be2737f4dc10" name="bush.003_bush"/>
+		<meta id="5687f053-82de-43f8-9e9e-554ee63671b4" name="bush.004_bush"/>
+		<meta id="b9973453-4a02-4750-b8ae-70a9a61a589a" name="bush.002_bush"/>
+		<meta id="ff5a7762-5006-4aa9-b49b-ee4da7f8745b" name="bush.005_bush2"/>
+		<meta id="8160c817-6ae7-4bad-8c39-55b4e33a3651" name="bush.007_bush2"/>
+		<meta id="f43b7618-9b05-4c77-8111-b5da55ff9270" name="bush.006_bush2"/>
+	</meta>
+	<meta id="6cc246ac-7f84-45d8-9646-9b2c5a5ee009" name="Prefab">
+		<meta id="1932fc68-342e-4fd7-8ba7-b652ed3feeb5" name="Bush_Part">
+			<meta id="7da7b776-7d84-48be-869c-bb64efd08cc5" name="wood"/>
+			<meta id="1fcd01e0-87d8-4dcc-a49b-b8fc00907e71" name="Attach_Bottom"/>
+			<meta id="4b8144e2-727c-4e96-bbf7-57299be9b225" name="bush.008"/>
+		</meta>
+		<meta id="7b49beb6-812f-4039-9443-247cab1273c4" name="Bush_Purple_Part">
+			<meta id="3fea7cd3-10c0-4989-864e-bdd75f013e96" name="bush.001"/>
+			<meta id="930a32de-f81b-4181-98e3-3ced070edce4" name="wood.001"/>
+			<meta id="7aa77861-3048-4d87-8fea-724bebe5645a" name="Attach_Bottom.002"/>
+		</meta>
+		<meta id="0ac3d552-45cb-4382-b503-3f28142f8a9d" name="Bush_Red_Part">
+			<meta id="9bbadbfc-fb43-4a68-86ab-1c9d538f539f" name="bush.003"/>
+			<meta id="3b2d633b-394c-4cc1-996e-f06adda075bb" name="wood.003"/>
+			<meta id="63e603e1-61d2-48dd-99a0-e7124646ee2b" name="Attach_Bottom.003"/>
+		</meta>
+		<meta id="bafede6a-439c-4f66-afe9-0942f671b76d" name="Bush_Yellow_Part">
+			<meta id="a777f10e-3b7b-480a-9f3b-9d5578085cfb" name="bush.004"/>
+			<meta id="096689c8-bf86-4f16-8aa6-e1756c64f4a2" name="wood.004"/>
+			<meta id="d6804c9b-a0a3-4e25-ad88-fa14921c3589" name="Attach_Bottom.004"/>
+		</meta>
+		<meta id="85a9efe2-2c08-44e2-af29-0e1b7ea58d26" name="Bush_Blue_Part">
+			<meta id="29980cf5-ded8-4212-adf9-911c016ae654" name="bush.002"/>
+			<meta id="3e096f2a-64b4-41b3-92fe-8ab3413fdaab" name="wood.002"/>
+			<meta id="bb18d03c-4f75-42fa-a7d4-c8185fca74e6" name="Attach_Bottom.001"/>
+		</meta>
+		<meta id="fceaaefc-5cee-4086-8635-9333f0694759" name="Bush2_Part">
+			<meta id="ba841a90-6910-468f-976d-557cd217cb2f" name="bush.005"/>
+			<meta id="34419b90-8c14-4e02-845d-3332bf9cab9c" name="wood.005"/>
+			<meta id="32710101-c7b5-444f-ab49-dfa36f46daf8" name="Attach_Bottom.005"/>
+		</meta>
+		<meta id="c1ed2654-5e78-491c-a41a-a6b2f5f3ab67" name="Bush_Berries_Red_Part">
+			<meta id="8f490e2c-1a08-4cd4-9ad9-f35979e0a95c" name="bush.007"/>
+			<meta id="d4131747-aa4d-4e2b-ae15-661a0face5ba" name="wood.007"/>
+			<meta id="7b71c83d-eca6-4a32-a442-1a0cdeff03aa" name="Attach_Bottom.007"/>
+		</meta>
+		<meta id="965f207b-b722-4e52-b0b5-ffeae83c3919" name="Bush_Berries_Blue_Part">
+			<meta id="7e117d9f-fa09-4e88-a620-ceec53d4e187" name="bush.006"/>
+			<meta id="31b303b2-a609-49a4-a1c9-833c1b1ed7fa" name="wood.006"/>
+			<meta id="b5cf3b6b-6758-4d73-bbea-91f7dc8d42b2" name="Attach_Bottom.006"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="3f509c03cd6adbe1c3568d6f13c17d2e"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush_Purple_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush_Red_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush_Yellow_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush_Blue_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush_Berries_Red_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bush.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bush_Berries_Blue_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="03371872-b233-48f6-86bd-d60578b761e7"/>
+			<MaterialName value="bush"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2e855fa6-acbb-4d36-a6d2-1d64a754e9c5"/>
+			<MaterialName value="bush2"/>
+		</Item>
+	</MaterialList>
+</importer>
+

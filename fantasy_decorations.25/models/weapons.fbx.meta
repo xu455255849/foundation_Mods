@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="df137ca7-cfd7-4748-9c97-9c9aa3ef3544">
+	<meta id="9cc2414b-810d-43f9-9fc8-7222e151919d" type="group" folder="true" name="Materials">
+		<meta id="203f6f7c-2672-4ec5-a465-dd24b8ddc93d" name="bark"/>
+		<meta id="342bc2dd-5128-4f9d-be91-1ddc2ae8370b" name="end"/>
+		<meta id="ea5c8da8-c2f5-44bf-8622-068e52472a0c" name="colors"/>
+		<meta id="1ba85512-c0f6-492a-bf27-8c61e79fd9a8" name="leather"/>
+		<meta id="de362126-446e-4857-8c3c-31bc517c2df8" name="weapons"/>
+		<meta id="13b9b428-45f8-4ccf-8d39-f64e7e032e80" name="planks"/>
+		<meta id="df6a18bf-d7d6-49e9-8be3-60cc618b4a78" name="scroll"/>
+		<meta id="06c04bf6-027b-4668-83f1-9d192990f55b" name="cloth_red_weapons"/>
+		<meta id="4c218305-4b07-453f-8a53-f240d88c62cc" name="cloth_blue_weapons"/>
+		<meta id="e367511f-6e96-4653-8d89-bb07084d3686" name="cloth_green_weapons"/>
+		<meta id="4cdc5f1a-531b-4de9-88cd-d2546dbf809f" name="cloth_yellow_weapons"/>
+		<meta id="e2399379-5b8c-4ba9-8b92-ef666aece15a" name="cloth_purple_weapons"/>
+		<meta id="4d445f80-241c-4b54-93ea-d416b185b32b" name="cloth_brown_weapons"/>
+		<meta id="8fdbd156-4f6e-4f2a-9bd3-8e7c7ed082d4" name="cloth_white_weapons"/>
+		<meta id="03cb048c-3fa6-4d79-a6cb-8107caa22b4f" name="cloth_black_weapons"/>
+		<meta id="a009546b-da49-4a82-9f22-a4c403b8acb7" name="cloth_grey_weapons"/>
+		<meta id="f50eb76e-af44-4cae-8ff9-880370a50621" name="metal_light"/>
+		<meta id="28841e52-7d68-43ff-9a31-45ae5b385450" name="metal_dark"/>
+		<meta id="3f18d755-efba-4d2c-af63-3336645cf8f2" name="stone"/>
+	</meta>
+	<meta id="a5886e41-1834-4207-b392-1219144962cb" type="group" folder="true" name="Meshes">
+		<meta id="a475fa3a-c6b1-49d6-b540-f0786d915602" name="barrel_planks"/>
+		<meta id="4831ad8c-038f-47f3-8d2e-130d7ab24202" name="shelf_planks"/>
+		<meta id="cfe6623f-5500-438c-80c6-8bb7423747a7" name="shelf.001_planks"/>
+		<meta id="8f2246d2-0b74-4ab1-84ed-84a5439d8b88" name="weapon rack_bark"/>
+		<meta id="c9e6f5d9-5e2b-40e1-a6ce-e7ca868c14ff" name="weapon rack_end"/>
+		<meta id="c4889f35-87f8-4394-a3d4-0f9a552cba54" name="weapon rack_planks"/>
+		<meta id="6856a096-226e-4f45-b81a-0cd4d7403ab3" name="Weapons_Rack1_Part_LOD_012_bark"/>
+		<meta id="1f60c1c8-f8fb-4fea-888c-c8bc3f7cb835" name="Weapons_Rack1_Part_LOD_012_end"/>
+		<meta id="159b649b-10f4-4aae-ba86-a3132ddee837" name="Weapons_Rack1_Part_LOD_012_leather"/>
+		<meta id="a87682ce-896a-4ba2-a3ba-e1c58ae98c20" name="Weapons_Rack1_Part_LOD_012_colors"/>
+		<meta id="9dd5f26a-7a98-4d96-bda0-74e1bf2ddcf9" name="Weapons_Rack1_Part_LOD_012_cloth_red_weapons"/>
+		<meta id="a885bbb3-0f37-4cc5-b1c0-eb2782f8aba9" name="Weapons_Rack1_Part_LOD_012_weapons"/>
+		<meta id="ab26553a-079c-45e3-bb52-c8c8ee7ecd0b" name="Weapons_Rack2_Part_LOD_012_bark"/>
+		<meta id="3c1fa6ab-ba03-4ac5-ac00-157f3821f26a" name="Weapons_Rack2_Part_LOD_012_end"/>
+		<meta id="be1714c6-6370-4a02-8dda-21cd6f8a488e" name="Weapons_Rack2_Part_LOD_012_leather"/>
+		<meta id="73c7cc17-b562-4bc4-a6e5-9f4c5586cd2d" name="Weapons_Rack2_Part_LOD_012_colors"/>
+		<meta id="a499cfaf-5797-4354-9ade-b0dcecb2fd9a" name="Weapons_Rack2_Part_LOD_012_cloth_red_weapons"/>
+		<meta id="0bb3fd61-547b-4b09-9cc1-e682bd6add67" name="Weapons_Rack2_Part_LOD_012_weapons"/>
+		<meta id="1283e52b-ca28-46e4-b89a-433170879858" name="Weapons_Barrel1_Part_LOD_012_bark"/>
+		<meta id="fd75230b-0c99-4d3c-bf58-0b5820ee0da0" name="Weapons_Rack_Bolts_Part_LOD_012_bark"/>
+		<meta id="1c7ac3bd-e0e8-4e57-9a69-be30b66e9774" name="Weapons_Rack_Bolts_Part_LOD_012_end"/>
+		<meta id="06c74559-5375-4c01-90f5-ec682ccfa76e" name="Weapons_Rack3_Part_LOD_012_bark"/>
+		<meta id="3988996c-0195-43b1-9e9f-afe26844d5ff" name="Weapons_Rack3_Part_LOD_012_end"/>
+		<meta id="29422a11-d990-4bdf-bfd0-046cb06e0c4e" name="Weapons_Rack3_Part_LOD_012_leather"/>
+		<meta id="9845d049-755e-466c-ac79-ce463ec4f407" name="Weapons_Rack3_Part_LOD_012_colors"/>
+		<meta id="36b7c401-1bc9-4734-b015-5537d9ced4b9" name="Weapons_Rack3_Part_LOD_012_cloth_red_weapons"/>
+		<meta id="e7bd371c-f00a-453e-a677-2f48de69f077" name="Weapons_Rack4_Part_LOD_012_bark"/>
+		<meta id="cd667e82-2951-4fe8-a328-e0710305ba7f" name="Weapons_Rack4_Part_LOD_012_end"/>
+		<meta id="2ad467d0-2515-4341-9383-33f0a8bd9e06" name="Weapons_Rack4_Part_LOD_012_leather"/>
+		<meta id="55b930da-95d8-45ef-8252-bf8fbc5c2086" name="Weapons_Rack4_Part_LOD_012_colors"/>
+		<meta id="0ae604fc-ca8a-44bf-adc9-f7df00726037" name="Weapons_Rack4_Part_LOD_012_cloth_red_weapons"/>
+		<meta id="4fe0fd34-6171-46dc-967f-af6e873bb4b0" name="Weapons_Rack4_Part_LOD_012_weapons"/>
+		<meta id="fca72b62-0613-4e45-a535-fb2041b0ba4f" name="Weapons_Rack4_Part_LOD_012_scroll"/>
+		<meta id="8e4351be-fffa-43e6-9f0d-5dafdace37a9" name="Weapons_Rack5_Part_LOD_012_bark"/>
+		<meta id="02eddb2d-9ec9-4a4d-8350-3aa716c8f768" name="Weapons_Rack5_Part_LOD_012_end"/>
+		<meta id="da917aee-19cf-4995-aa01-a5996fec038a" name="Weapons_Rack5_Part_LOD_012_leather"/>
+		<meta id="2490f10c-9fde-48a7-bfb0-7f7d41fb9c55" name="Weapons_Rack5_Part_LOD_012_colors"/>
+		<meta id="6af86e09-b1a1-4c64-a23e-9ea4ec3c9ea6" name="Weapons_Rack5_Part_LOD_012_cloth_red_weapons"/>
+		<meta id="1d6ef6d4-2a95-4f60-ad33-a49a1847ad97" name="Weapons_Rack1_Part_LOD_012_metal_light"/>
+		<meta id="e85d60c7-d879-44ed-93d7-a6a02a2ac79a" name="Weapons_Rack2_Part_LOD_012_metal_light"/>
+		<meta id="65f493c6-3774-48c6-aec0-7f981808c734" name="barrel_metal_light"/>
+		<meta id="dd9d4a50-d558-43e3-a832-b607d37fb05c" name="Weapons_Barrel1_Part_LOD_012_metal_light"/>
+		<meta id="7d1c06d4-0d43-43f9-9234-552f98ffd0e3" name="Weapons_Rack_Bolts_Part_LOD_012_metal_light"/>
+		<meta id="fbf1f610-5662-4811-9b1d-4af0f4b2096a" name="Weapons_Rack_Bolts_Part_LOD_012_metal_dark"/>
+		<meta id="63eaa976-65e0-4d37-bde7-96f95d486780" name="Weapons_Rack3_Part_LOD_012_metal_light"/>
+		<meta id="42890cdc-df52-4839-a500-c4054344a9c4" name="Stone_stone"/>
+		<meta id="e01b5216-13f0-455a-984e-6f439bae20e5" name="sword2_metal_light"/>
+		<meta id="1e562184-08e4-48ee-9f9b-569f3dbe34db" name="sword2_leather"/>
+		<meta id="36165935-9f17-4c72-8119-ffa6d9a98ac0" name="sword2_colors"/>
+		<meta id="d4dfa709-d277-4f78-ab5b-e1d52a426a31" name="sword2_weapons"/>
+		<meta id="2267a6d5-52bf-4dee-8bd8-ac729957b9e8" name="sword2_metal_dark"/>
+		<meta id="f508730a-cb6b-477f-a470-e5950fdd9224" name="target.002_planks"/>
+		<meta id="d1358713-58ab-438f-9dc7-a64ab3f51076" name="Target_Axe_Part_LOD_01_bark"/>
+		<meta id="db8c628e-44ac-408c-ad0d-85d897f0087b" name="Target_Axe_Part_LOD_01_end"/>
+		<meta id="9c6546a6-3ae9-4ce8-944a-9814a5983d0d" name="Target_Axe_Part_LOD_01_weapons"/>
+		<meta id="9b81dc9b-91e6-49ca-b8a3-1e51d157326d" name="Target_Dagger_Part_LOD_01_leather"/>
+		<meta id="8a12b67b-31eb-4eeb-ab94-50370b1e737f" name="Target_Dagger_Part_LOD_01_colors"/>
+		<meta id="a0dae0ec-80b5-49cc-9e04-5051b60f5dac" name="Target_Dagger_Part_LOD_01_cloth_red_weapons"/>
+		<meta id="3aaf68a1-c437-40ab-a4f5-3a34be66c651" name="Target_Dagger_Part_LOD_01_weapons"/>
+		<meta id="86b279c1-2005-4616-8e36-09ae915817da" name="Target_Part_LOD_01_bark"/>
+		<meta id="65fea7fd-ad63-4e54-9b3d-418214c799b2" name="Target_Part_LOD_01_colors"/>
+		<meta id="fe19a1b3-d611-4cf8-8b5e-12ef3229f768" name="Target_Part_LOD_01_cloth_red_weapons"/>
+		<meta id="e3f3c96a-c460-48a2-904f-6f51b2342ea9" name="target.002_colors"/>
+		<meta id="a2b319be-49b5-410b-af37-59a7d1e0a794" name="target_colors"/>
+	</meta>
+	<meta id="9b9922b3-ac60-4412-92a4-6ebf836c0a16" name="Prefab">
+		<meta id="97a5c18c-6fe0-4c53-ad92-d6d6393edd57" name="Weapons_Rack1_Part">
+			<meta id="908fc2ab-6461-4fd1-a558-f0008bd45aa3" name="Attach_Bottom.001"/>
+			<meta id="5e797caf-79b6-44d3-8f4b-e04a69f99384" name="weapon rack">
+				<meta id="f4fbfd5d-99d8-4450-926a-363c997250a2" name="weapon rack_0"/>
+				<meta id="7e86af65-77b1-46a9-ba8b-b7390eea4d77" name="weapon rack_1"/>
+				<meta id="006a1e25-a53e-466b-8bec-c0e2d8ef241a" name="weapon rack_2"/>
+			</meta>
+			<meta id="c02b7c90-37e9-47e7-bff6-29febb7291f3" name="Weapons_Rack1_Part_0"/>
+			<meta id="68331426-00cb-4fb2-a8da-2939f1414806" name="Weapons_Rack1_Part_1"/>
+			<meta id="b6d4600a-bc28-44e6-bc75-6cea9d304e8b" name="Weapons_Rack1_Part_2"/>
+			<meta id="5def861e-df6f-4214-b6fd-f9958454f27d" name="Weapons_Rack1_Part_3"/>
+			<meta id="8afd6146-26b9-4294-9428-f4b5a1e35e28" name="Weapons_Rack1_Part_4"/>
+			<meta id="2796a6d7-2eb2-45cd-8f20-e7cab8bc7bab" name="Weapons_Rack1_Part_5"/>
+			<meta id="a97f1ce6-f633-4ebc-a3dc-354782f4b4cb" name="Weapons_Rack1_Part_6"/>
+		</meta>
+		<meta id="350bfeaa-88cd-4cb2-a673-d9aafda3d151" name="Weapons_Rack2_Part">
+			<meta id="85d89950-27c1-4097-8837-52c2472e3366" name="Attach_Bottom.002"/>
+			<meta id="e46f13fb-045d-49e9-964c-0bec21bc7b3a" name="weapon rack.001">
+				<meta id="e2dc08a5-5521-4c34-b911-268d45eecf65" name="weapon rack.001_0"/>
+				<meta id="f0b34ae2-e10f-4227-98a8-5133b7e9c9fc" name="weapon rack.001_1"/>
+				<meta id="89ab452c-880a-4852-9ec3-bcc9a060affd" name="weapon rack.001_2"/>
+			</meta>
+			<meta id="522ff70c-1db0-4d1e-a2c2-ca15b8c7ba57" name="Weapons_Rack2_Part_0"/>
+			<meta id="feae4fdf-4b87-4cdc-9d65-1cd487c0780f" name="Weapons_Rack2_Part_1"/>
+			<meta id="3ba3ca0d-40c5-4994-abe5-57982358028a" name="Weapons_Rack2_Part_2"/>
+			<meta id="f983a3b3-347c-4283-9540-6504ba58e2fb" name="Weapons_Rack2_Part_3"/>
+			<meta id="8b3ee2e8-65a3-457b-9fda-5104b363b569" name="Weapons_Rack2_Part_4"/>
+			<meta id="29e4e1d4-2712-45d7-aeda-6f4e56f3e85f" name="Weapons_Rack2_Part_5"/>
+			<meta id="6045dd2f-6d14-42e9-af5f-02566db3aa76" name="Weapons_Rack2_Part_6"/>
+		</meta>
+		<meta id="b425c947-6f08-476c-89b8-b0bd5f011f1c" name="Weapons_Barrel1_Part">
+			<meta id="1a78886f-2340-48d7-bbb9-850d9ff2c8ea" name="barrel">
+				<meta id="7b80173a-da7f-4801-90c0-d43e916538d4" name="barrel_0"/>
+				<meta id="d7ce106a-ed2b-4282-8b95-675f61c544a6" name="barrel_1"/>
+			</meta>
+			<meta id="358daa0e-5d58-4837-92d9-534ed2380156" name="Attach_Bottom"/>
+			<meta id="7e5a9cf4-753a-4d07-a672-3e51df3875bd" name="Weapons_Barrel1_Part_0"/>
+			<meta id="1f8a3516-78dc-4ffd-8456-4e282e4e5802" name="Weapons_Barrel1_Part_1"/>
+		</meta>
+		<meta id="e67831d1-2dd6-4e74-990f-3a33f2ac031a" name="Weapons_Rack_Bolts_Part">
+			<meta id="33a152af-50a4-4548-b58e-011c108e70a8" name="Attach_Bottom.003"/>
+			<meta id="26167c14-b7ae-44c7-871f-721c041f5073" name="Weapons_Rack_Bolts_Part_0"/>
+			<meta id="8b996021-4c05-4f64-a31a-a6c989b93e9c" name="Weapons_Rack_Bolts_Part_1"/>
+			<meta id="0c41674f-7b1e-4723-a4ba-9ee8bdd0bd3b" name="Weapons_Rack_Bolts_Part_2"/>
+			<meta id="a42db416-d4ea-46f2-9a75-7cd4f7fcd6f9" name="Weapons_Rack_Bolts_Part_3"/>
+			<meta id="a144a34c-3fea-41bd-bed8-b1d36f032561" name="weapon rack.003">
+				<meta id="7769dc61-90b7-4060-ac63-79880abfdefc" name="weapon rack.003_0"/>
+				<meta id="e8abde2c-24e5-44f1-9af6-585cc2db121e" name="weapon rack.003_1"/>
+				<meta id="96b2d968-3b41-4eea-a109-fc035678dd34" name="weapon rack.003_2"/>
+			</meta>
+		</meta>
+		<meta id="4b578e6d-8ec4-4204-8359-39f2b56d7f01" name="Weapons_Rack3_Part">
+			<meta id="bd736189-c816-4619-95e6-08822482a7a4" name="Attach_Bottom.004"/>
+			<meta id="2c108eac-bbbc-4dce-8a5c-0f9ea1fef279" name="Weapons_Rack3_Part_0"/>
+			<meta id="1c5ff1f5-5254-4eb4-b08f-fa45503f3eda" name="Weapons_Rack3_Part_1"/>
+			<meta id="811d47d5-291d-43f7-bfda-bdbf6291a565" name="Weapons_Rack3_Part_2"/>
+			<meta id="e1b62a43-5191-4a96-aac6-8edec1bb0dd2" name="Weapons_Rack3_Part_3"/>
+			<meta id="5be5bf75-56f5-4e9a-886a-28c4b54efd4c" name="Weapons_Rack3_Part_4"/>
+			<meta id="d0120bb5-5052-43b9-a10b-0eed1c02b8dc" name="Weapons_Rack3_Part_5"/>
+			<meta id="3597c627-b07b-4605-b7cd-98e7b5584662" name="weapon rack.002">
+				<meta id="f9117006-5491-4536-83ea-6fdc7b5ab03e" name="weapon rack.002_0"/>
+				<meta id="8a8f9595-18b1-4633-918b-03d131a75114" name="weapon rack.002_1"/>
+				<meta id="85ac00cf-c563-477c-88a6-b7c1e70ad143" name="weapon rack.002_2"/>
+			</meta>
+		</meta>
+		<meta id="787d56fc-7dc5-4412-99c7-a6b25280e45d" name="Weapons_Rack4_Part">
+			<meta id="1a75d05b-d882-4a1e-90b2-4fcd8475bf72" name="shelf"/>
+			<meta id="90af6e28-7be7-4b74-9267-f067b4d581b9" name="Attach_Bottom.005"/>
+			<meta id="efc3dfb5-1a18-4ad2-af75-62d01a668be5" name="Weapons_Rack4_Part_0"/>
+			<meta id="d0f41239-ef97-47e9-aa0b-090527ef8887" name="Weapons_Rack4_Part_1"/>
+			<meta id="65516e2d-1b69-448e-9f20-ec69fe6068b2" name="Weapons_Rack4_Part_2"/>
+			<meta id="622cc394-cbc2-49f2-bb07-e645b625a81f" name="Weapons_Rack4_Part_3"/>
+			<meta id="3196db21-e0f6-4142-a1ad-08282315adde" name="Weapons_Rack4_Part_4"/>
+			<meta id="f245c6d6-1c12-44b6-ab6f-6ba0a63343a9" name="Weapons_Rack4_Part_5"/>
+			<meta id="09eac047-62bf-4779-afd4-4367f4b4067e" name="Weapons_Rack4_Part_6"/>
+		</meta>
+		<meta id="2eabb1bf-96ef-488e-970d-37f9d2be7e30" name="Weapons_Rack5_Part">
+			<meta id="8741bf3b-5a76-4851-b74c-3c5d4c828044" name="shelf.001"/>
+			<meta id="09df60a1-a13f-4d65-9318-7f4d00a601c6" name="Attach_Bottom.006"/>
+			<meta id="fcdb920b-fdcf-427c-a4e2-8f688b3ccaa1" name="Weapons_Rack5_Part_0"/>
+			<meta id="b792067a-4619-40ef-bea8-100f9f547d78" name="Weapons_Rack5_Part_1"/>
+			<meta id="dbf8fc34-eed6-49a5-bb30-06048acaecec" name="Weapons_Rack5_Part_2"/>
+			<meta id="ffc0a6e7-da94-43d4-b9c2-7f92e8ffd89f" name="Weapons_Rack5_Part_3"/>
+			<meta id="54774d11-e287-4383-9cd5-a2e338181745" name="Weapons_Rack5_Part_4"/>
+		</meta>
+		<meta id="a4ae9266-ca0c-4094-ad7a-d65d3f6a9dab" name="Sword_Stone_Part">
+			<meta id="4f51c0a1-ce0a-4ca5-a503-e4bef40be6f7" name="Attach_Bottom.007"/>
+			<meta id="43b87728-8af0-46bd-9e88-591b66d27e4a" name="Stone"/>
+			<meta id="45463c0a-591b-4208-883f-4fc1c58de6c1" name="sword2">
+				<meta id="00f02fe7-5417-476d-892e-2b174998bf63" name="sword2_0"/>
+				<meta id="625b4e50-14b5-4f46-9fe8-31823a85c2b2" name="sword2_1"/>
+				<meta id="0de350e3-858a-4fc8-a59a-d331746d70bc" name="sword2_2"/>
+				<meta id="9e2af02b-08f4-413f-9675-f4cef637d6db" name="sword2_3"/>
+				<meta id="160bc82a-89fd-4370-b906-a01bacbcfdf3" name="sword2_4"/>
+			</meta>
+		</meta>
+		<meta id="70766c4d-5471-4ea9-b6fc-d0033a59ceb8" name="Target_Axe_Part">
+			<meta id="f3f819ce-7da1-4666-83e0-b44a434597e8" name="Attach_Bottom.009"/>
+			<meta id="7d27ca74-4694-4d59-b592-3e5b7fbb6e4f" name="target.002">
+				<meta id="5b09c393-3e39-4a79-9369-c71244fbbc2e" name="target.002_0"/>
+				<meta id="b1d220c3-b2ff-41a1-aebe-00ff2aad5d4c" name="target.002_1"/>
+			</meta>
+			<meta id="b7b5dc8b-3a98-4c46-bf33-2d5f240351c2" name="Target_Axe_Part_0"/>
+			<meta id="b60e8427-34f3-444e-8df1-5a78824e9353" name="Target_Axe_Part_1"/>
+			<meta id="5f799772-9795-48b7-8c76-038da40f0614" name="Target_Axe_Part_2"/>
+		</meta>
+		<meta id="6ec92487-3ef4-45c3-81e7-8f3305fe717f" name="Target_Dagger_Part">
+			<meta id="07a43300-1dd8-41d3-95e7-3362d54b45aa" name="Attach_Bottom.010"/>
+			<meta id="ebf25f54-f384-46a6-a765-1b720b78d651" name="target.003">
+				<meta id="45e6c34c-cfa5-4f31-9544-7c965a563a21" name="target.003_0"/>
+				<meta id="f5b48d08-96bc-4edb-88ac-210b529d8ffa" name="target.003_1"/>
+			</meta>
+			<meta id="b4131afd-5d2e-4825-b2a0-e48f259daddc" name="Target_Dagger_Part_0"/>
+			<meta id="920fcfd5-0bcb-48a7-a571-3a8081d057c4" name="Target_Dagger_Part_1"/>
+			<meta id="1c44e237-81ba-4c20-8437-0bd9d5babef3" name="Target_Dagger_Part_2"/>
+			<meta id="77db5a65-8bce-4243-9d93-d8f3f71c4145" name="Target_Dagger_Part_3"/>
+		</meta>
+		<meta id="c621e166-4a69-4ec7-ad40-edc27636bcd8" name="Target_Part">
+			<meta id="06b7aa8b-fb6f-4031-bea2-22871034d248" name="Attach_Bottom.008"/>
+			<meta id="38356b9c-3468-46ed-9044-53d19d345532" name="target">
+				<meta id="4361c788-50fc-45c6-92bc-c79eb1b0dc08" name="target_0"/>
+				<meta id="737eb190-a762-4461-ac12-9dd19c7b201a" name="target_1"/>
+			</meta>
+			<meta id="c176ca34-0ab6-4b6a-96df-efc395185420" name="Target_Part_0"/>
+			<meta id="e29f1296-ffc0-43ff-be40-83a801cad63d" name="Target_Part_1"/>
+			<meta id="27579267-892c-4a04-befc-d589513eae3d" name="Target_Part_2"/>
+		</meta>
+	</meta>
+	<meta id="97ccf1d1-074c-431b-990f-8b90e136f5df" type="group" folder="true" name="LOD">
+		<meta id="fc292c4b-09c7-416f-8548-6255ca1ed643" name="Weapons_Rack1_Part_0"/>
+		<meta id="a514db18-e47f-4830-b043-b9d0ec1d260b" name="Weapons_Rack1_Part_1"/>
+		<meta id="90431c4e-2ebb-4463-8fd1-f4c6ae2e595a" name="Weapons_Rack1_Part_2"/>
+		<meta id="6f95d9b8-fe58-4c81-a8ed-715416ebba94" name="Weapons_Rack1_Part_3"/>
+		<meta id="622b238e-c1db-46f4-9743-f31455498fab" name="Weapons_Rack2_Part_0"/>
+		<meta id="ac014b9a-b4e8-4da5-9153-3d8c0d6e3481" name="Weapons_Rack2_Part_1"/>
+		<meta id="e5dbeee7-f777-4985-8159-2507ee96c5cf" name="Weapons_Rack2_Part_2"/>
+		<meta id="b63d66b3-b6a6-4f04-a400-edcc361c8930" name="Weapons_Rack2_Part_3"/>
+		<meta id="7879eb33-3ccf-4fc5-9e77-66e628ea1e1f" name="Weapons_Rack3_Part_0"/>
+		<meta id="8529fd9f-50f5-4b43-b318-9b806c403916" name="Weapons_Rack3_Part_1"/>
+		<meta id="7b8f65e6-222e-4778-a72c-3fd3349403c0" name="Weapons_Rack3_Part_2"/>
+		<meta id="cbf8b51d-6c72-427f-af65-0238e2870454" name="Weapons_Rack3_Part_3"/>
+		<meta id="5c7ec81e-3db9-43af-bd77-2a218da7dbea" name="Weapons_Rack4_Part_0"/>
+		<meta id="7b77a114-d633-496f-a656-ebce26950c59" name="Weapons_Rack4_Part_1"/>
+		<meta id="a2a6c422-606c-49b7-b488-054a40c5c893" name="Weapons_Rack4_Part_2"/>
+		<meta id="475880d1-3d9e-451e-be7a-08d96fe4b81c" name="Weapons_Rack4_Part_3"/>
+		<meta id="a5baf03b-d1f6-40fe-a399-7f3efbd2d1b4" name="Weapons_Rack4_Part_4"/>
+		<meta id="26cb14ae-ed35-45f7-bb77-b07285df98c7" name="Weapons_Rack4_Part_5"/>
+		<meta id="30c66367-f7f3-483c-91ee-9ade3d7c29b0" name="Weapons_Rack5_Part_0"/>
+		<meta id="e5cd262b-f9a6-489b-9c58-fa1264b0cd1c" name="Weapons_Rack5_Part_1"/>
+		<meta id="bea8b0b9-f04c-4042-9bba-d25512bfa87b" name="Weapons_Rack5_Part_2"/>
+		<meta id="b245478a-ce40-41af-9634-5ee09a22b74c" name="Weapons_Rack5_Part_3"/>
+		<meta id="5a47f6dc-348a-46fd-ae0f-4227bbff961c" name="Weapons_Rack1_Part_4"/>
+		<meta id="b2bdcd76-207e-47da-8db4-279bf9a48f82" name="Weapons_Rack2_Part_4"/>
+		<meta id="8a36cf59-a3db-4b93-a404-88d39416244e" name="Weapons_Rack3_Part_4"/>
+		<meta id="2293a598-b629-4e4e-a247-fd0b5e84536f" name="Weapons_Rack4_Part_6"/>
+		<meta id="bf46c5aa-71ac-4f90-8d8f-12322f25ce77" name="Weapons_Rack5_Part_4"/>
+		<meta id="030c9f88-6fed-46fd-b8c2-367e5fd64943" name="Weapons_Rack1_Part_5"/>
+		<meta id="0ac33e79-f401-453d-8d2b-099b45bfbc29" name="Weapons_Rack1_Part_6"/>
+		<meta id="0a973722-7cc7-439f-9e70-0d414fc75208" name="Weapons_Rack2_Part_5"/>
+		<meta id="bda96b97-9c11-4285-b08a-77493271bf6c" name="Weapons_Rack2_Part_6"/>
+		<meta id="fbfc7ad3-bcb7-4ce1-89a0-c0991d28c9f5" name="Weapons_Barrel1_Part_0"/>
+		<meta id="4df70b5c-c6de-4fb9-b37e-be0f818f1ba3" name="Weapons_Barrel1_Part_1"/>
+		<meta id="e7d55bc0-888d-4892-bdb5-20cc1725df85" name="Weapons_Rack_Bolts_Part_0"/>
+		<meta id="d3acaea4-2bc4-4a53-8c4d-44f043017bfd" name="Weapons_Rack_Bolts_Part_1"/>
+		<meta id="8c5e89ee-0daa-45eb-baf1-9914d359b02b" name="Weapons_Rack_Bolts_Part_2"/>
+		<meta id="5e529c6e-d5e0-4a79-9f55-7650f9bdff3d" name="Weapons_Rack_Bolts_Part_3"/>
+		<meta id="8baf55dc-bd5c-4b7c-b509-beb2caa74965" name="Weapons_Rack3_Part_5"/>
+		<meta id="6b321aa2-4396-4038-8de8-7ac22ec573f4" name="Target_Axe_Part_0"/>
+		<meta id="98df5fc4-30d5-4a79-99d7-45a17fbdf06c" name="Target_Axe_Part_1"/>
+		<meta id="11c7531d-0126-4268-8515-c7f8946e54e1" name="Target_Axe_Part_2"/>
+		<meta id="a347b4cd-b7f0-4206-96f3-7228c6e93daf" name="Target_Dagger_Part_0"/>
+		<meta id="d014720c-382f-4816-b994-c0f8385f1786" name="Target_Dagger_Part_1"/>
+		<meta id="82a51ecd-a025-4c34-b114-683bb0f5122e" name="Target_Dagger_Part_2"/>
+		<meta id="aa222f3d-0789-411a-9535-aef78eb121f1" name="Target_Dagger_Part_3"/>
+		<meta id="16d6587f-d423-424b-9bbf-51a6e37db399" name="Target_Part_0"/>
+		<meta id="b1477ddf-8f76-41ea-80e8-2f7741299403" name="Target_Part_1"/>
+		<meta id="4f2e9853-5268-45fc-a1af-6da6c0c32ee9" name="Target_Part_2"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="2e57ad3d5664135868a55233855e7cfb"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="weapon rack"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack1_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack1_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack1_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack1_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack1_Part_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack1_Part_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack1_Part_6"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Weapons_Rack1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="weapon rack.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack2_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack2_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack2_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack2_Part_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack2_Part_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack2_Part_6"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Weapons_Rack2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Barrel1_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Barrel1_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Weapons_Barrel1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack_Bolts_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack_Bolts_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack_Bolts_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack_Bolts_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.003_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="weapon rack.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Weapons_Rack_Bolts_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack3_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack3_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack3_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack3_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack3_Part_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack3_Part_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="weapon rack.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="weapon rack.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Weapons_Rack3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="shelf"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack4_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack4_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack4_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack4_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack4_Part_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack4_Part_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack4_Part_6"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Weapons_Rack4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="shelf.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack5_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack5_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack5_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack5_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Weapons_Rack5_Part_4"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Weapons_Rack5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stone"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sword2_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sword2_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sword2_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sword2_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sword2_4"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sword2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sword_Stone_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="target.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="target.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="target.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Axe_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Axe_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Axe_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Target_Axe_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="target.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="target.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="target.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Dagger_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Dagger_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Dagger_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Dagger_Part_3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Target_Dagger_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="target_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="target_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="target"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Target_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Target_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="203f6f7c-2672-4ec5-a465-dd24b8ddc93d"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="03cb048c-3fa6-4d79-a6cb-8107caa22b4f"/>
+			<MaterialName value="cloth_black_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4c218305-4b07-453f-8a53-f240d88c62cc"/>
+			<MaterialName value="cloth_blue_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4d445f80-241c-4b54-93ea-d416b185b32b"/>
+			<MaterialName value="cloth_brown_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e367511f-6e96-4653-8d89-bb07084d3686"/>
+			<MaterialName value="cloth_green_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a009546b-da49-4a82-9f22-a4c403b8acb7"/>
+			<MaterialName value="cloth_grey_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e2399379-5b8c-4ba9-8b92-ef666aece15a"/>
+			<MaterialName value="cloth_purple_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="06c04bf6-027b-4668-83f1-9d192990f55b"/>
+			<MaterialName value="cloth_red_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8fdbd156-4f6e-4f2a-9bd3-8e7c7ed082d4"/>
+			<MaterialName value="cloth_white_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4cdc5f1a-531b-4de9-88cd-d2546dbf809f"/>
+			<MaterialName value="cloth_yellow_weapons"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ea5c8da8-c2f5-44bf-8622-068e52472a0c"/>
+			<MaterialName value="colors"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="342bc2dd-5128-4f9d-be91-1ddc2ae8370b"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1ba85512-c0f6-492a-bf27-8c61e79fd9a8"/>
+			<MaterialName value="leather"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="28841e52-7d68-43ff-9a31-45ae5b385450"/>
+			<MaterialName value="metal_dark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f50eb76e-af44-4cae-8ff9-880370a50621"/>
+			<MaterialName value="metal_light"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="13b9b428-45f8-4ccf-8d39-f64e7e032e80"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="df6a18bf-d7d6-49e9-8be3-60cc618b4a78"/>
+			<MaterialName value="scroll"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3f18d755-efba-4d2c-af63-3336645cf8f2"/>
+			<MaterialName value="stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="de362126-446e-4857-8c3c-31bc517c2df8"/>
+			<MaterialName value="weapons"/>
+		</Item>
+	</MaterialList>
+</importer>
+

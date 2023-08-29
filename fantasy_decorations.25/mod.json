@@ -1,0 +1,12 @@
+{
+    "Name": "Fantasy Decorations",
+	"Author": "RaisinMuffin",
+	"Description": "A collection of various fantasy and medieval-themed decorations",
+	"Version": "4.1.1",
+	"Dependencies": [
+		{
+			"Id": "fce10768-a88c-45e0-b6a5-834f46c5998d",
+			"Name": "Foundation Extended Building Functions"
+		}
+	]
+}

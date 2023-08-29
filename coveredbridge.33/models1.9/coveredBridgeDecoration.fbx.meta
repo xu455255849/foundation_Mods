@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="832fbd6b-c975-47de-bcc8-d30e8a52b2be">
+	<meta id="32056f76-8589-4707-8052-70892c0736b1" type="group" folder="true" name="Materials">
+		<meta id="9e537f81-c65c-425c-a649-f18ddb2ef08c" name="chambranle"/>
+		<meta id="93b1bd3c-4b73-4aea-bb4f-4ca4f9f1f477" name="black"/>
+		<meta id="4c1e14e6-4613-495f-bdc0-1bcb368b30a8" name="mur"/>
+		<meta id="6d97dff5-1311-4bd5-ba68-8aa2e1f4f59a" name="toitTailor"/>
+		<meta id="5de9ba4f-190f-43f8-b81d-e3d484892240" name="murTailor"/>
+		<meta id="70fafc7b-e13d-475b-bf67-35e1d5768b30" name="toitFood"/>
+		<meta id="da9e3d5c-bdde-4c2e-8e5b-8f1765954951" name="toitGoods"/>
+		<meta id="2f13974f-7270-4450-b3bb-749b5f5d161a" name="toitLuxury"/>
+	</meta>
+	<meta id="fe942fc0-3014-43c1-b9c5-c8048c764b48" type="group" folder="true" name="Meshes">
+		<meta id="a5016359-8cde-4855-be7e-c8bdbea6b268" name="coverage_chambranle"/>
+		<meta id="0b2cb961-c277-49c2-9537-47755edd0ac2" name="barreau11_chambranle"/>
+		<meta id="774b3352-f2bb-4fd5-93d0-f062f779c046" name="longe3_chambranle"/>
+		<meta id="b75ff659-c5e3-493e-8028-2d209df4919f" name="toit1_chambranle"/>
+		<meta id="0046553f-383b-40a2-bdf4-6800bf3f0ca9" name="poutre1_chambranle"/>
+		<meta id="857a4c68-12ea-4199-8835-77101963c16f" name="poutre2_chambranle"/>
+		<meta id="e90b0a39-fee4-49c4-bc7f-1a41bbdda2f2" name="poutre7_chambranle"/>
+		<meta id="d9439819-cbe4-48a7-85fb-d34ed55be492" name="poutre4_chambranle"/>
+		<meta id="c7714ca3-1ea1-463f-a037-ef7311f815bd" name="poutre6_chambranle"/>
+		<meta id="b6294bf4-e206-4664-901a-397eef6e5b25" name="porte1_chambranle"/>
+		<meta id="a2d13bf8-246f-4374-a067-00e0d3341de7" name="porte3_chambranle"/>
+		<meta id="f03412c8-6494-496b-bed8-93319beffe30" name="entree_black"/>
+		<meta id="9169e3ff-9f9c-4ea0-80b1-0cb9417eb603" name="cadreFenetre1_chambranle"/>
+		<meta id="a980ba34-7778-469b-a084-a5257e8031fd" name="cadreFenetre3_chambranle"/>
+		<meta id="57130592-c5a6-4bcb-9582-cab62168aa23" name="vitre1_black"/>
+		<meta id="6e0c0e47-6a24-4b3d-bef6-c90d287973cf" name="house_mur"/>
+		<meta id="e310155a-3f5e-4cbd-8cc0-f4574fa23b59" name="house_chambranle"/>
+		<meta id="96ecd464-bafd-4500-b1ba-51f5d91a613a" name="HousePart_COLLIDER"/>
+		<meta id="0e2d63b3-ace8-4bbe-adb5-76f89d816b0f" name="coverage1_chambranle"/>
+		<meta id="ece489de-384c-45c2-aac1-066ff0a9d498" name="longe5_chambranle"/>
+		<meta id="bd12939c-f6db-4080-abd4-da44c6c7f50e" name="barreau23_chambranle"/>
+		<meta id="52e62f00-6325-4707-aaf4-0347ed20b2fa" name="toit1_2_toitTailor"/>
+		<meta id="d0a6187d-9864-48dc-9b7a-8868c47d0eaa" name="toit1_2_chambranle"/>
+		<meta id="5fb64656-f088-462d-884c-7269a69ec00a" name="entree_2_black"/>
+		<meta id="7d2f6604-4297-4626-979e-dce67841d2e6" name="house_2_murTailor"/>
+		<meta id="77ecc5e0-026a-43f5-bdbd-bb70f3234753" name="house_2_mur"/>
+		<meta id="24b3ddf5-e936-475a-a169-30a1dc1d81a3" name="TailorPart_COLLIDER"/>
+		<meta id="958533b3-b80d-4fe4-8ec8-7452bfe5150a" name="toit1_3_toitFood"/>
+		<meta id="9d238583-7789-4a13-a531-8754b31455fc" name="toit1_3_chambranle"/>
+		<meta id="96950f02-bcb6-4afb-b87c-7c872dbbfd38" name="FoodPart_COLLIDER"/>
+		<meta id="aa27ef9e-8577-45a0-96e5-a33add465d4d" name="toit1_4_toitGoods"/>
+		<meta id="f880ee58-4ee0-4571-87d5-a60ac9b001af" name="toit1_4_chambranle"/>
+		<meta id="a7cf0fe1-000d-4d50-bd26-c7a083a1d8b5" name="GoodsPart_COLLIDER"/>
+		<meta id="5280fee8-42cf-432b-9559-0c3504aefd7d" name="toit1_5_toitLuxury"/>
+		<meta id="de4092c1-72cc-4715-80f3-c79ea459781f" name="toit1_5_chambranle"/>
+		<meta id="1d8a5ec3-275c-4820-b0c4-9e3855a83bff" name="LuxuryPart_COLLIDER"/>
+		<meta id="869b7682-335e-4dd8-8f13-dbd1dc161b31" name="longe5_2_chambranle"/>
+	</meta>
+	<meta id="94f5ff40-bd9a-497f-b4fa-2cf13f854e19" name="Prefab">
+		<meta id="ce7a08f4-ba0c-4c2c-bca4-8962e3d9be73" name="coveredBridge">
+			<meta id="9e202f2f-a36b-4590-a660-83b8f3df2053" name="CenterCoveragePart">
+				<meta id="db5e7f6b-ce19-4736-a7aa-bc49501b79b4" name="Attach_Minor"/>
+				<meta id="a49c78b7-cc24-41e6-b4ad-4d7b6294a1d8" name="coverage"/>
+				<meta id="e39daa61-b62b-4bbf-8c54-b8185a66b769" name="barreau11"/>
+				<meta id="ffa23fac-bece-445d-8d53-21e85304c664" name="barreau12"/>
+				<meta id="c0a1b69c-388a-48b3-bf6f-e81f7e23aa12" name="barreau13"/>
+				<meta id="e7124c2f-81a7-4768-81a7-a49e74736bb2" name="barreau14"/>
+				<meta id="705012f7-1d54-42be-a2a7-e7c35e2c9ea9" name="barreau15"/>
+				<meta id="68847db2-0854-4d3b-9a96-9d05e3bc6305" name="barreau16"/>
+				<meta id="bba2b07a-32b4-4b15-8840-4e00d5d45d3a" name="barreau17"/>
+				<meta id="fa9105f6-246c-4d0a-8d33-65d9ad5e357e" name="barreau18"/>
+				<meta id="c175b435-e953-4a33-b9ab-9067e4c54bbe" name="barreau19"/>
+				<meta id="adedcc50-0f2d-4a94-bcc3-d960f266d7b2" name="barreau20"/>
+				<meta id="72e7c755-347d-48e6-9961-c50ac9df4002" name="barreau21"/>
+				<meta id="2183d629-e864-4db6-a906-d871103e5581" name="barreau22"/>
+				<meta id="993ed37b-063b-4a49-8219-53d45f1d7ccf" name="longe3"/>
+				<meta id="692dbd49-f0b3-4050-bfca-5f30af3ae7e7" name="longe4"/>
+				<meta id="ce1a49e9-0f42-4834-b21f-c347e274085c" name="barreau28"/>
+				<meta id="7d93e723-0669-48fd-9d97-8479426a347c" name="barreau25"/>
+			</meta>
+			<meta id="c6d41878-bff1-4d49-870e-110fc960c6d6" name="HousePart">
+				<meta id="708b0a0c-1fc1-4ef3-9ae7-dd1252198a10" name="Attach_Minor"/>
+				<meta id="e90063ff-b516-463f-b431-5b216b4526b0" name="toit1"/>
+				<meta id="82076bc8-0b04-44b8-ab6b-8b3de2d78703" name="poutre1"/>
+				<meta id="a6e7262e-e1d1-4d75-b2aa-77cd71163959" name="poutre2"/>
+				<meta id="d4f2c37b-3b68-4aba-b88a-5d5d4b2d8f5f" name="poutre7"/>
+				<meta id="4363de64-fdee-45a4-a1cb-d77d160c7108" name="poutre3"/>
+				<meta id="b68faf6b-a613-40c5-bbaa-6b1eea9b1e3b" name="poutre4"/>
+				<meta id="ca4f410a-e3de-4424-9b4c-6f9f32146f93" name="poutre5"/>
+				<meta id="53e7e325-2306-4f98-8a83-42c90f4bb8ad" name="poutre6"/>
+				<meta id="9b797f07-f7be-4c66-8cb9-8ed1645e15b3" name="porte">
+					<meta id="a3e65684-f4be-48f7-b631-7e1f3875e2ad" name="porte1"/>
+					<meta id="2e1ba1dd-c650-43e0-9649-02e3844c088b" name="porte3"/>
+					<meta id="c598a8e7-1602-472c-b6b8-4257686fcec5" name="porte4"/>
+					<meta id="4c2bd363-e108-4a03-8cb1-f093eb64667b" name="entree"/>
+				</meta>
+				<meta id="23b57ec0-edd4-4bb7-bc99-97d5ab1b9e65" name="fenetre">
+					<meta id="b993eb32-eb79-4d3d-b439-b432d72345ad" name="cadreFenetre1"/>
+					<meta id="671ce2fd-fb39-4e02-ab39-659399b69ae9" name="cadreFenetre2"/>
+					<meta id="aa3c9fd7-6bb3-4ba7-96b4-f08b26496bc6" name="cadreFenetre3"/>
+					<meta id="2d9d27e5-0f5d-4706-b10b-2539f37018b4" name="cadreFenetre4"/>
+					<meta id="7b6ae821-74e9-494e-a35f-b2658cbaa41e" name="vitre1"/>
+				</meta>
+				<meta id="148c478f-1e9e-41f0-ad19-a695c392353e" name="house">
+					<meta id="5d38e876-f144-495d-a79d-0f3b6b1b07f1" name="house_0"/>
+					<meta id="bc4382b5-542f-4e24-bafa-8ff4cd45199d" name="house_1"/>
+				</meta>
+				<meta id="2a8bc917-a124-452c-ba6c-f9b1138e7093" name="PATH_A_0"/>
+				<meta id="710add2c-7be3-458b-8eb9-56a35edae063" name="PATH_A_1"/>
+				<meta id="fa1a16df-03b6-4a6e-85a8-da1684e93748" name="PATH_A_2"/>
+				<meta id="4e560c0d-fafe-4aee-af67-368bafdd3d54" name="PATH_B_0"/>
+				<meta id="4d6a5035-7330-49cc-9fc9-27296fcb83af" name="PATH_B_1"/>
+				<meta id="b1cfafea-3fe9-4086-a1aa-3d373dd2b5b8" name="PATH_B_2"/>
+			</meta>
+			<meta id="d980de42-a851-45bb-8dc3-e0fad6e8dd08" name="StartEndCoveragePart">
+				<meta id="5492aba0-92f0-44b3-af80-962ebc52b54e" name="coverage1"/>
+				<meta id="54e8f7da-49f5-4f85-baf2-e51d3ab55064" name="longe5"/>
+				<meta id="0b8888ae-d779-4963-b6f0-8e07102142b7" name="barreau23"/>
+				<meta id="8da8e95d-db3d-4929-8f2a-1a7d824b1fed" name="barreau24"/>
+				<meta id="8e085d12-8ea4-4da5-97a5-0dc701fa545d" name="Attach_Minor1"/>
+				<meta id="a617ea58-e4ad-4efa-9897-d2b4047e6f4b" name="longe6"/>
+				<meta id="c7c4299e-6578-4ee5-b16f-2575c02c9a6c" name="barreau26"/>
+				<meta id="e11a024f-f03f-4d18-a0c1-3895082176ce" name="barreau27"/>
+			</meta>
+			<meta id="76e1c279-9a5c-402f-81c8-77654925b07f" name="TailorPart">
+				<meta id="5e30948f-e7d8-44af-a1be-4ff9a277977a" name="Attach_Minor"/>
+				<meta id="fd7e7358-7b1c-4044-94f1-49d957c9d941" name="toit1">
+					<meta id="445e5f90-3093-4bcf-81d9-e9e3f9d58097" name="toit1_0"/>
+					<meta id="398e29d7-6f3b-492c-a82a-2fe4815b1176" name="toit1_1"/>
+				</meta>
+				<meta id="1c86c758-0c36-49f8-8e29-0c6e62b1a856" name="poutre1"/>
+				<meta id="aadeb7d9-42b7-4ad3-b202-4bedabf8a67a" name="poutre2"/>
+				<meta id="041eb1cf-7d6d-45c8-b617-0a66f45f891f" name="poutre7"/>
+				<meta id="bcc0716c-7b15-415e-a51c-fa5942af21b3" name="poutre3"/>
+				<meta id="e60fa371-b5ec-4585-ae03-ead0f2ac5422" name="poutre4"/>
+				<meta id="c232b3e3-be70-4434-bd53-ff7760ecf59c" name="poutre5"/>
+				<meta id="1a4ec362-7a2f-4f6d-a266-493d3d4b46af" name="poutre6"/>
+				<meta id="c25b845e-523b-43ae-b9d8-24e4e7f3b6b3" name="porte">
+					<meta id="33751d6b-a547-4a17-b2b2-2d06a6fde9f7" name="porte1"/>
+					<meta id="cbf06fae-705b-4f0b-8b7a-e2d76884c625" name="porte3"/>
+					<meta id="c1970d8b-cfe6-489d-8fc4-aa3e9bb89b75" name="porte4"/>
+					<meta id="8fe93ccd-a067-4573-bd2f-a360902feb0e" name="entree"/>
+				</meta>
+				<meta id="9fc26808-e436-497d-9788-21b12c228597" name="fenetre">
+					<meta id="d23b263a-8043-4fdd-81c4-9ccccd527131" name="cadreFenetre1"/>
+					<meta id="8316e4eb-dc51-46a6-a219-38bb44ca3165" name="cadreFenetre2"/>
+					<meta id="edb1d01e-17ea-4162-9f7c-8701d89acd9a" name="cadreFenetre3"/>
+					<meta id="f0b3bd03-b10c-4941-a075-511434a2b229" name="cadreFenetre4"/>
+					<meta id="fe302d5f-3338-43a3-8238-1107b983b967" name="vitre1"/>
+				</meta>
+				<meta id="2165014f-7a8a-433c-9f88-4b0748af8a99" name="house">
+					<meta id="7b5e0d8c-b3e9-47f0-80e7-d822f45bfa29" name="house_0"/>
+					<meta id="55d4b8f2-23a4-436b-a68e-3f5ab3703dfa" name="house_1"/>
+				</meta>
+				<meta id="4b2bb48e-0678-4d9f-b0ca-24ecace08f4e" name="PATH_A_0"/>
+				<meta id="dc906699-fa42-4dbd-b36a-f4412196a7ad" name="PATH_A_3"/>
+				<meta id="8a47ffca-40cb-41e5-9f35-7853a5e489cd" name="PATH_A_4"/>
+				<meta id="6ca15eb3-7dc3-44b7-8ebe-210ba2fee68a" name="PATH_B_0"/>
+				<meta id="575a5122-3239-4cd1-b245-458c0af025ef" name="PATH_B_3"/>
+				<meta id="a8856794-af41-4a21-8ec7-a9c6dfa69635" name="PATH_B_4"/>
+			</meta>
+			<meta id="19e5620a-b822-4401-9347-b1192838736c" name="FoodPart">
+				<meta id="0fef6a8f-0e34-43a0-9959-4897f114cb43" name="Attach_Minor"/>
+				<meta id="a4257b40-b707-4f14-9d9e-9cdb623ed05d" name="toit1">
+					<meta id="1b6494da-ce79-4c5b-ad3e-e0601c5debbb" name="toit1_0"/>
+					<meta id="48152a92-8a0d-413b-83c7-bc3e90fa86ed" name="toit1_1"/>
+				</meta>
+				<meta id="b6387165-48bf-4ca9-b41e-1cb3d39c4d8a" name="poutre1"/>
+				<meta id="fd6ec6b8-7e7e-47b3-ac3c-9d02dc581466" name="poutre2"/>
+				<meta id="94e6faa4-b4d9-4dc7-8582-5eb4e578020d" name="poutre7"/>
+				<meta id="962f52f5-2fff-4761-8e09-b161a4fcbf5e" name="poutre3"/>
+				<meta id="44bde9df-8ca3-470b-b22d-ac15eec3d326" name="poutre4"/>
+				<meta id="6d64297a-6215-4286-8a9d-111941b90a74" name="poutre5"/>
+				<meta id="20e4060b-efa9-4b59-a5d5-f0691d4dfeb0" name="poutre6"/>
+				<meta id="6021fbac-c0c3-499a-88fc-72dbcf3e8755" name="porte">
+					<meta id="b261cd6c-c8d8-4b63-bc1b-479932fd8fbb" name="porte1"/>
+					<meta id="04e232d3-3b0c-4df1-8586-b1a0fb3ba672" name="porte3"/>
+					<meta id="9c5e917b-a486-460f-8b7d-c0e5e7799687" name="porte4"/>
+					<meta id="f6d3560d-cbab-400f-87f4-28142b5fd74b" name="entree"/>
+				</meta>
+				<meta id="81ef2a01-6239-4d04-85ab-90fa1b8890c5" name="fenetre">
+					<meta id="59e2b8d3-4e27-4a9d-9a83-eceec60a0c57" name="cadreFenetre1"/>
+					<meta id="1916e5c8-47c9-46b9-9a53-6874f391eec3" name="cadreFenetre2"/>
+					<meta id="9fc1c507-c093-48a2-afdb-c70a5b5ae802" name="cadreFenetre3"/>
+					<meta id="e591ed7d-94bf-429c-8601-b4d71d27dfbc" name="cadreFenetre4"/>
+					<meta id="19fe3148-4fcc-4ae5-8088-848ca271d1d5" name="vitre1"/>
+				</meta>
+				<meta id="97a253f0-6e6a-4ccf-a277-a81bd290ea63" name="house">
+					<meta id="aab2f0da-edcd-47ab-a266-c5cdf66c4378" name="house_0"/>
+					<meta id="5d57aa09-4c4c-4895-abf0-49e4a60d4a7d" name="house_1"/>
+				</meta>
+				<meta id="d8ccf100-083d-4471-982d-50752da77792" name="PATH_A_0"/>
+				<meta id="b1dd1d02-dea2-4fdc-a1de-9fe6d1f80586" name="PATH_A_5"/>
+				<meta id="cc7aade4-d67a-4205-80b2-a528e9c0579f" name="PATH_A_6"/>
+				<meta id="26bd37da-6070-494b-9092-2508802ba897" name="PATH_B_0"/>
+				<meta id="a6e1aa88-bc5f-4754-8e38-9312ffa3ab51" name="PATH_B_5"/>
+				<meta id="d4c3f5c2-78c3-4e22-bdc3-b2487c4ee737" name="PATH_B_6"/>
+			</meta>
+			<meta id="71fee94b-d348-47bc-8fd9-22739201e257" name="GoodsPart">
+				<meta id="4078da85-081f-462f-852d-30e4cd6cd15f" name="Attach_Minor"/>
+				<meta id="53f65e74-526a-4b6e-99a6-2bb1588f039e" name="toit1">
+					<meta id="ecb87f16-31ef-4267-b836-ddf10ef598d3" name="toit1_0"/>
+					<meta id="c7e33840-bf5c-46c9-a3a7-b376a18e2c5f" name="toit1_1"/>
+				</meta>
+				<meta id="cd34a123-af35-4b3b-92fc-b22bafc70138" name="poutre1"/>
+				<meta id="3df09d15-4830-445b-96f9-e348768f2052" name="poutre2"/>
+				<meta id="a0470175-0797-4de9-9fd1-4f8826534a01" name="poutre7"/>
+				<meta id="6d5eac29-a38c-4b70-bcf6-50a732d1b9fb" name="poutre3"/>
+				<meta id="fc052ffd-bab7-4a73-8c2d-9d541e65ebbb" name="poutre4"/>
+				<meta id="0467829d-8d43-41ab-8a2e-3a25787518eb" name="poutre5"/>
+				<meta id="4d31d308-79e0-4469-adf3-b8397954c35f" name="poutre6"/>
+				<meta id="44a141b0-40b4-45d7-8e45-4217b8373d78" name="porte">
+					<meta id="7c45e8c4-b9fc-4b08-b769-62600c48caad" name="porte1"/>
+					<meta id="c744aa93-e177-4195-8db6-51a9d470ac30" name="porte3"/>
+					<meta id="1ca6c71a-0dfb-4f98-b9fd-e7469e7ca66b" name="porte4"/>
+					<meta id="521902ae-33be-487f-afa4-05481e3a9b26" name="entree"/>
+				</meta>
+				<meta id="cbca76e2-07cc-4eab-a349-ef1599fd2923" name="fenetre">
+					<meta id="e65b6197-87b1-4d08-8710-a87330662aa1" name="cadreFenetre1"/>
+					<meta id="a79204aa-a786-4d8b-8c1a-467a3ba93500" name="cadreFenetre2"/>
+					<meta id="4c6d902d-cf98-46f8-835a-c3b8a72ac0e8" name="cadreFenetre3"/>
+					<meta id="acf171b2-8fe3-4078-9c01-c126030cfa12" name="cadreFenetre4"/>
+					<meta id="c64a65a1-d7cd-4182-89c9-b8500238a10a" name="vitre1"/>
+				</meta>
+				<meta id="ac5cfcdb-e8bc-4bf4-ab08-4be1c7a0ac30" name="house">
+					<meta id="7d010e67-c6c2-492b-beba-79a42b1e9957" name="house_0"/>
+					<meta id="a581f215-ca6c-46fb-988a-7c3d051e8963" name="house_1"/>
+				</meta>
+				<meta id="3c1a7a83-1df5-463b-8190-510cc17ec64f" name="PATH_A_0"/>
+				<meta id="fda903a6-593b-4336-9dd1-4c63368fc20f" name="PATH_A_7"/>
+				<meta id="fccf8410-f7c6-403a-a150-ac234fa779d8" name="PATH_A_8"/>
+				<meta id="bb55f115-32bb-418f-939e-21faf3f41876" name="PATH_B_0"/>
+				<meta id="73985e52-3f69-4d7d-81c2-de9b8480dad8" name="PATH_B_7"/>
+				<meta id="af0440ea-9811-46bf-a48d-7046a8181fb9" name="PATH_B_8"/>
+			</meta>
+			<meta id="8ac4b8f3-46e1-479f-96aa-f0beaac5fdfd" name="LuxuryPart">
+				<meta id="c0c9f2f9-452f-42e3-b38e-0573aed24d02" name="Attach_Minor"/>
+				<meta id="1dd14fec-3cb2-4b6a-97e2-4257b0862008" name="toit1">
+					<meta id="b18bd5bd-26ba-4f87-991a-d37f273708c3" name="toit1_0"/>
+					<meta id="14cf4f8e-c8f9-484d-adca-83a1c6ba7dce" name="toit1_1"/>
+				</meta>
+				<meta id="fd582a57-fbe9-44ce-9d23-ad7605aafb2a" name="poutre1"/>
+				<meta id="34de7881-0c7c-428d-a5ba-a665e54a8e06" name="poutre2"/>
+				<meta id="57041570-3833-42e0-8622-dafbc0194bd7" name="poutre7"/>
+				<meta id="f1201081-f6f8-45c4-9f5e-9ff0564f5377" name="poutre3"/>
+				<meta id="fa9cc811-a3f8-4613-9481-5ef8d9d305f7" name="poutre4"/>
+				<meta id="0bfbd644-4ceb-4ea7-aa24-ef54d68525c6" name="poutre5"/>
+				<meta id="c07886a4-10cd-4ed1-9198-8f180556d61f" name="poutre6"/>
+				<meta id="f2c73993-6230-4d5e-9bd1-0c62711e4699" name="porte">
+					<meta id="1066cc04-9524-412d-9feb-9b5c878b234a" name="porte1"/>
+					<meta id="699d8973-384f-48d6-9a85-214f3449738e" name="porte3"/>
+					<meta id="24e0332a-9cad-48f8-af2f-9dfbc12eaf82" name="porte4"/>
+					<meta id="969752c9-d7e2-4316-9d6c-dde9bcb07fd6" name="entree"/>
+				</meta>
+				<meta id="144c50da-9bb2-41b9-8f38-34cf23d81292" name="fenetre">
+					<meta id="c706d2e7-fc9c-4ff4-99c3-a13c1bf26f5f" name="cadreFenetre1"/>
+					<meta id="8d7a26b1-0324-4e31-9324-3434e15de721" name="cadreFenetre2"/>
+					<meta id="0d83cb79-9fad-4b31-adad-4ed01f6deb87" name="cadreFenetre3"/>
+					<meta id="ab9bfd71-ffcc-441e-9891-ca59644dc18e" name="cadreFenetre4"/>
+					<meta id="6a5f0c72-97b4-4525-a5c6-b114a422508b" name="vitre1"/>
+				</meta>
+				<meta id="6e457223-c97e-4124-ac2e-7580697f8cbb" name="house">
+					<meta id="d83e5046-ef8b-45ed-9cbb-491fe3f89261" name="house_0"/>
+					<meta id="4a38cc38-4793-4b89-8acb-1ee710cc5d5f" name="house_1"/>
+				</meta>
+				<meta id="9f64d34c-8725-4a7e-93ac-437eef9c3bfc" name="PATH_A_0"/>
+				<meta id="dd6a8752-ec89-4d92-940f-ea4feccbd8bc" name="PATH_A_9"/>
+				<meta id="ceb28a88-7dd7-410c-a1f2-47ee3789a2f7" name="PATH_A_10"/>
+				<meta id="74749b4d-ffa3-477e-9d0e-89e8d423b7ce" name="PATH_B_0"/>
+				<meta id="aa08579b-2428-45b8-a6e5-d0f97b3c18a3" name="PATH_B_10"/>
+				<meta id="b04314e5-c52a-435c-b3a1-c5e24950064b" name="PATH_B_9"/>
+			</meta>
+		</meta>
+		<meta id="f4f427be-d72a-41d7-8188-cb3199ccbd27" name="ConstructionSteps">
+			<meta id="8253b3ba-d541-495a-bbe0-70ee03593896" name="coveredBridge">
+				<meta id="70255a64-a665-4d03-9fbb-8842e157ca01" name="CenterCoveragePart">
+					<meta id="4912fa4b-9c1f-4c90-820f-81615989b17a" name="barreau11"/>
+					<meta id="e21be2b8-6d76-4829-94d8-b20e128b32fc" name="barreau12"/>
+					<meta id="f4d1225b-225c-4a85-9fdc-dac14091fb00" name="barreau13"/>
+					<meta id="8d1490e4-8c3c-4231-b3ed-3b662d06bb70" name="barreau14"/>
+					<meta id="c5894295-567e-4942-aa8a-f437da35dc43" name="barreau15"/>
+					<meta id="473806f2-b6db-4b6b-9390-8ed2dc7876eb" name="barreau16"/>
+					<meta id="76ee24da-2a21-4110-a8f7-58ee2cc6378c" name="barreau18"/>
+					<meta id="91b93fbd-32fe-41db-8098-c118dcb0a848" name="barreau19"/>
+					<meta id="15d8ad14-cf4a-403a-97ae-f5285397052a" name="barreau20"/>
+					<meta id="7efe3c7d-b49a-4871-b573-95437c5f297b" name="barreau21"/>
+					<meta id="4badf9a1-535d-4dc0-ae4d-c0d0ce0a8615" name="barreau22"/>
+					<meta id="14fcc58c-ac0b-4076-9605-f9c7ad7a612a" name="longe3"/>
+					<meta id="8fec58d9-05e6-43eb-8659-bd42b312932c" name="longe4"/>
+					<meta id="9d952497-81e0-402b-8a97-332cb4edcf4a" name="barreau28">
+						<meta id="96abf149-14ff-419c-bb6e-b86bd2fbe3cb" name="barreau17"/>
+					</meta>
+					<meta id="8a0f23f4-dd62-4b6c-a82e-0fc119c70ae2" name="barreau25"/>
+				</meta>
+				<meta id="6f5de5db-a3f8-42cf-9ad9-caf7bbd08b2b" name="HousePart">
+					<meta id="7544c5c7-a21d-4a5b-87ca-83550381bc64" name="poutre1"/>
+					<meta id="781b2d78-ab77-4e2b-9a01-0536454e21ba" name="poutre2"/>
+					<meta id="bbdb273a-02e4-4290-a25b-a572d9dd9f5d" name="poutre7"/>
+					<meta id="798d38bd-ae90-4497-ba1b-4307731e15a1" name="poutre3"/>
+					<meta id="32099e7f-8b58-4421-9667-8a32d34c701c" name="poutre4"/>
+					<meta id="ab9b9536-d987-465e-841b-0d7a6fa789dd" name="poutre5"/>
+					<meta id="9b3fcaba-be39-4be8-9bb6-452d56c9cb98" name="poutre6"/>
+					<meta id="3ceeb2e7-80ee-4f0a-9b60-5e4d68a7474d" name="porte">
+						<meta id="bad39e9d-8c20-4701-98b2-2bcd34a6fe4d" name="porte1"/>
+						<meta id="9eefc4be-5bae-47a9-bd44-ecb03458a29b" name="porte3"/>
+						<meta id="439b701c-6659-45e5-be9b-1c8a3fb6f2a0" name="porte4"/>
+						<meta id="ccbfc78c-7070-4f36-9aca-920012217ada" name="entree"/>
+					</meta>
+				</meta>
+				<meta id="a3cae061-8d1e-416d-b294-e86a058a0316" name="StartEndCoveragePart">
+					<meta id="f6e19303-ccf8-45a2-b1e6-a31bcb557794" name="longe5"/>
+					<meta id="786095f9-2a58-42d4-ba76-cd187b332d04" name="barreau23"/>
+					<meta id="c01f3487-a3d0-4178-803a-ade96cae2d77" name="barreau24"/>
+					<meta id="b80a7c04-6a97-49e0-9723-7dbf1f7e6ddb" name="longe6"/>
+					<meta id="acbe5983-1e49-4b62-b00c-19e8f8c95058" name="barreau26"/>
+					<meta id="86363eba-d1bc-4cf9-87f4-ba8b7bad3e39" name="barreau27"/>
+				</meta>
+				<meta id="8992f550-ca9e-4b20-98a7-41a720ddbace" name="TailorPart">
+					<meta id="a6929e4f-d0d8-4f98-8459-0f96deb1bed6" name="poutre1"/>
+					<meta id="64ab3ec7-22d6-4bce-bc11-3594d21f738c" name="poutre2"/>
+					<meta id="d053e82f-415e-41e1-bc3e-6aad93de4468" name="poutre7"/>
+					<meta id="9821ac7e-0e05-4d21-9e78-5d16911c8875" name="poutre3"/>
+					<meta id="6636a3c1-799f-4f98-9085-30fefe058a84" name="poutre4"/>
+					<meta id="21824869-5309-418b-8870-5064407ef412" name="poutre5"/>
+					<meta id="6312f725-2ed3-4c14-b0f9-355ec091a2b7" name="poutre6"/>
+					<meta id="dc8218f7-75d0-42b4-bb6a-191aa230053f" name="porte">
+						<meta id="315132bf-f06f-46d5-bad2-f25c4cc58009" name="porte1"/>
+						<meta id="f2602ed4-6139-4d1a-8468-0c8b1e02ab4c" name="porte3"/>
+						<meta id="6efd4995-09d5-47ee-902b-3c0ce7fcdf57" name="porte4"/>
+						<meta id="33464d3a-f047-4d2d-9a3b-0c7c0fb5ead5" name="entree"/>
+					</meta>
+				</meta>
+				<meta id="9a22c80d-4498-4a3a-85ef-de9b8f72e6e9" name="FoodPart">
+					<meta id="ffc0def8-8b3c-4df7-9d68-5c90d4b8f0e7" name="poutre1"/>
+					<meta id="3ca2d52e-6aba-463a-b26b-92e77fabea14" name="poutre2"/>
+					<meta id="1eecb08d-fb1e-4d68-9eeb-af73de277114" name="poutre7"/>
+					<meta id="98f7731b-6c6f-444f-88cd-12f34930b1e1" name="poutre3"/>
+					<meta id="2d77819b-c9dd-4032-8a3e-999340d5a948" name="poutre4"/>
+					<meta id="858a154e-2d2c-4cdb-b401-c9875b8c4401" name="poutre5"/>
+					<meta id="29183cc2-f293-4352-8c31-46843da0214e" name="poutre6"/>
+					<meta id="7110c5bd-cc6b-4401-bf92-673d650d445a" name="porte">
+						<meta id="c322dcbb-2dc1-4512-9e9b-d3366fe0d1c5" name="porte1"/>
+						<meta id="98c599ce-724c-4bce-b41c-db1323d77376" name="porte3"/>
+						<meta id="4830a6db-aa28-4b82-90f9-7eae32720fd9" name="porte4"/>
+						<meta id="066186c7-e4f8-4547-9d6e-95025153d109" name="entree"/>
+					</meta>
+				</meta>
+				<meta id="da384ac7-1804-4846-8b8c-11abe3d7f0a8" name="GoodsPart">
+					<meta id="0e1a5f95-c889-487a-b888-e9d5d4b52985" name="poutre1"/>
+					<meta id="3d5ffde0-ae23-4119-af54-d73a3ec107bb" name="poutre2"/>
+					<meta id="18b5d273-d12b-4486-9150-bd95df3ff7a8" name="poutre7"/>
+					<meta id="2aeb1650-e239-47dc-a6c4-8aa89a1db55b" name="poutre3"/>
+					<meta id="b1e68903-2b85-47e3-a2a1-79ca04aac769" name="poutre4"/>
+					<meta id="f8696922-5491-4d49-b556-4cc725ea0d90" name="poutre5"/>
+					<meta id="e211eb4c-42d5-4fad-9c54-7229de045872" name="poutre6"/>
+					<meta id="334d5d5b-c987-4bce-a315-c59040ddc79f" name="porte">
+						<meta id="114f464c-6e50-4005-8454-77c25556eb47" name="porte1"/>
+						<meta id="d23ee37d-cee2-4c72-ba79-f6840a6904db" name="porte3"/>
+						<meta id="f6b9e3e3-0e18-4671-83a8-34d929b68633" name="porte4"/>
+						<meta id="7d7403da-f7cc-4cb1-941e-60233c1302e1" name="entree"/>
+					</meta>
+				</meta>
+				<meta id="e28b660f-0c80-471b-bd7a-982092ba82a2" name="LuxuryPart">
+					<meta id="0648d818-f648-4623-836e-75c170b5bf72" name="poutre1"/>
+					<meta id="6d4167fd-ed5c-4ac6-a2fe-8b92ae4a4417" name="poutre2"/>
+					<meta id="0f7c528a-f415-427d-9850-5dade5ea8079" name="poutre7"/>
+					<meta id="78d5f727-05b1-4437-a4f5-2af40440231d" name="poutre3"/>
+					<meta id="128b4647-7027-4d39-bc6e-cdc963e58d60" name="poutre4"/>
+					<meta id="abb83d92-8b21-422b-8b6f-1403cf637c04" name="poutre5"/>
+					<meta id="69ccb166-4363-4336-9d97-b4550c9b0105" name="poutre6"/>
+					<meta id="8643da74-9826-40ab-9bcc-d671bffa7b2c" name="porte">
+						<meta id="2a1bbaa5-7ad8-4a6c-8bbe-5230c7b6a68c" name="porte1"/>
+						<meta id="71011c42-febc-4321-8a64-0e271093853e" name="porte3"/>
+						<meta id="62233c37-766d-4990-b6fa-65422249a161" name="porte4"/>
+						<meta id="3127b6c0-cc07-49d5-b525-d7a5dad70ab9" name="entree"/>
+					</meta>
+				</meta>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="c72c8c71505c35315aa1c3fe08ce809e"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Minor"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coverage"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau11"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau12"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau13"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau14"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau15"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau16"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau17"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau18"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau19"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau20"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau21"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau22"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="longe3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="longe4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau28"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau25"/>
+							</Item>
+						</ChildList>
+						<NodeName value="CenterCoveragePart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Minor"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entree"/>
+									</Item>
+								</ChildList>
+								<NodeName value="porte"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="vitre1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="house"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="HousePart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="coverage1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="longe5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau23"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau24"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Minor1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="longe6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau26"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barreau27"/>
+							</Item>
+						</ChildList>
+						<NodeName value="StartEndCoveragePart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Minor"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="toit1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entree"/>
+									</Item>
+								</ChildList>
+								<NodeName value="porte"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="vitre1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="house"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_4"/>
+							</Item>
+						</ChildList>
+						<NodeName value="TailorPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Minor"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="toit1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entree"/>
+									</Item>
+								</ChildList>
+								<NodeName value="porte"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="vitre1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="house"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_6"/>
+							</Item>
+						</ChildList>
+						<NodeName value="FoodPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Minor"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="toit1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entree"/>
+									</Item>
+								</ChildList>
+								<NodeName value="porte"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="vitre1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="house"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_8"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_8"/>
+							</Item>
+						</ChildList>
+						<NodeName value="GoodsPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Minor"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit1_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="toit1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre7"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre5"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poutre6"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entree"/>
+									</Item>
+								</ChildList>
+								<NodeName value="porte"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cadreFenetre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="vitre1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="house_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="house"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_9"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_10"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_10"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_9"/>
+							</Item>
+						</ChildList>
+						<NodeName value="LuxuryPart"/>
+					</Item>
+				</ChildList>
+				<NodeName value="coveredBridge"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau11"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau12"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau13"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau14"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau15"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau16"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau18"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau19"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau20"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau21"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau22"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="longe3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="longe4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="barreau17"/>
+											</Item>
+										</ChildList>
+										<NodeName value="barreau28"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau25"/>
+									</Item>
+								</ChildList>
+								<NodeName value="CenterCoveragePart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre7"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre5"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre6"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte3"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte4"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="entree"/>
+											</Item>
+										</ChildList>
+										<NodeName value="porte"/>
+									</Item>
+								</ChildList>
+								<NodeName value="HousePart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="longe5"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau23"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau24"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="longe6"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau26"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="barreau27"/>
+									</Item>
+								</ChildList>
+								<NodeName value="StartEndCoveragePart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre7"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre5"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre6"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte3"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte4"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="entree"/>
+											</Item>
+										</ChildList>
+										<NodeName value="porte"/>
+									</Item>
+								</ChildList>
+								<NodeName value="TailorPart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre7"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre5"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre6"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte3"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte4"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="entree"/>
+											</Item>
+										</ChildList>
+										<NodeName value="porte"/>
+									</Item>
+								</ChildList>
+								<NodeName value="FoodPart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre7"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre5"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre6"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte3"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte4"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="entree"/>
+											</Item>
+										</ChildList>
+										<NodeName value="porte"/>
+									</Item>
+								</ChildList>
+								<NodeName value="GoodsPart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre7"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre5"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="poutre6"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte3"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte4"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="entree"/>
+											</Item>
+										</ChildList>
+										<NodeName value="porte"/>
+									</Item>
+								</ChildList>
+								<NodeName value="LuxuryPart"/>
+							</Item>
+						</ChildList>
+						<NodeName value="coveredBridge"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="93b1bd3c-4b73-4aea-bb4f-4ca4f9f1f477"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9e537f81-c65c-425c-a649-f18ddb2ef08c"/>
+			<MaterialName value="chambranle"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4c1e14e6-4613-495f-bdc0-1bcb368b30a8"/>
+			<MaterialName value="mur"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5de9ba4f-190f-43f8-b81d-e3d484892240"/>
+			<MaterialName value="murTailor"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="70fafc7b-e13d-475b-bf67-35e1d5768b30"/>
+			<MaterialName value="toitFood"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="da9e3d5c-bdde-4c2e-8e5b-8f1765954951"/>
+			<MaterialName value="toitGoods"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2f13974f-7270-4450-b3bb-749b5f5d161a"/>
+			<MaterialName value="toitLuxury"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6d97dff5-1311-4bd5-ba68-8aa2e1f4f59a"/>
+			<MaterialName value="toitTailor"/>
+		</Item>
+	</MaterialList>
+</importer>
+

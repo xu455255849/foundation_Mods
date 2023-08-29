@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="91b30a70-b83e-4263-bffe-c5968d2838a6">
+	<meta id="80746982-1dda-417a-844e-00a651ae8094" type="group" folder="true" name="Materials">
+		<meta id="be4059d9-e4be-4c86-83a7-a5a2a9c8e0b9" name="planks"/>
+	</meta>
+	<meta id="c3166a5c-3ca0-4294-83cf-687098f53387" type="group" folder="true" name="Meshes">
+		<meta id="cf08b2ec-d4ec-4cec-a4db-029352a4f47e" name="plank.004_planks"/>
+		<meta id="260a7ffb-52ab-453a-aad3-cd5399439c9b" name="plank.018_planks"/>
+		<meta id="9fab4bcc-842f-46fa-b984-cf5bae599330" name="plank.027_planks"/>
+		<meta id="ca6517a2-223e-4f04-ae79-156bf9bf2a0b" name="plank.001_planks"/>
+		<meta id="aab05e2f-b42e-42b7-bbcb-14e1f0b9a771" name="plank.002_planks"/>
+		<meta id="be1fd26c-a7ce-4308-ae89-45895173b96b" name="plank.011_planks"/>
+	</meta>
+	<meta id="f250d503-9076-44ce-93b0-7aac8f78cfa9" name="Prefab">
+		<meta id="c6e0c7e4-f055-4439-95c7-bc1703196234" name="Planks1_Part">
+			<meta id="035a1499-d722-4b0f-8e14-bcee2c1fa36f" name="plank.004"/>
+			<meta id="5759af58-dc53-4274-8066-f099ec85670d" name="Attach_Bottom"/>
+		</meta>
+		<meta id="1e54e8b9-6617-4d63-927a-9ffafc29f6b6" name="Planks2_Part">
+			<meta id="d8d54cef-3e61-4c9f-8d03-c60e80cb6f8a" name="plank.018"/>
+			<meta id="ec176820-7259-4a43-871e-21118a13b291" name="Attach_Bottom.001"/>
+		</meta>
+		<meta id="993cc555-7935-4a57-a780-596623d0cd97" name="Planks3_Part">
+			<meta id="d8624267-dbb7-4d90-8413-7f90a1bbb4b7" name="plank.027"/>
+			<meta id="0ff41532-858e-44af-87c2-85e8c6623c74" name="Attach_Bottom.002"/>
+		</meta>
+		<meta id="a2b2d28c-26f8-4fec-8a47-5b0c88b38a21" name="Planks4_Part">
+			<meta id="f6446d78-a9c3-4b1d-9b84-42847d9a94c3" name="plank.001"/>
+			<meta id="22d9394c-03c1-4ec2-87e0-70d794ce8c47" name="Attach_Bottom.003"/>
+		</meta>
+		<meta id="d387051f-3e94-4159-87d2-b5e19cc2314b" name="Planks5_Part">
+			<meta id="5b1661b3-96da-4432-880c-c9a1cdb0e58c" name="plank.002"/>
+			<meta id="04b91384-f8ac-4eef-a72d-083885117f05" name="Attach_Bottom.004"/>
+		</meta>
+		<meta id="431ff0af-77bc-4876-b2b1-a3750bccee46" name="Planks6_Part">
+			<meta id="82b876c0-1bac-4239-a8e9-848bd9581aaf" name="plank.011"/>
+			<meta id="5b0cd1b1-0203-4564-80b2-b25e05202d29" name="Attach_Bottom.005"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="f263a672a43e1db4fd56e533b86c18d9"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="plank.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Planks1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="plank.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Planks2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="plank.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Planks3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="plank.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Planks4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="plank.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Planks5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="plank.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Planks6_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="be4059d9-e4be-4c86-83a7-a5a2a9c8e0b9"/>
+			<MaterialName value="planks"/>
+		</Item>
+	</MaterialList>
+</importer>
+

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="9ce42629-37b6-432e-8214-6e84bfdc2aea">
+	<meta id="a0b1378c-d6a6-4713-b4fc-1eaf9ce164a6" type="group" folder="true" name="Materials">
+		<meta id="539925b7-f163-4344-9ebd-a0c466111b7b" name="metal"/>
+		<meta id="b8bf2bcf-2378-481f-8e22-ab52cbaf82a8" name="green"/>
+		<meta id="b2e06449-0b9e-4ce3-9bfa-9baeb252ad31" name="wood"/>
+		<meta id="ffd959bc-55ec-4782-8c4a-11e06c45104b" name="log"/>
+		<meta id="c6644721-7d76-4321-9edf-716e2eb1cb63" name="end"/>
+	</meta>
+	<meta id="41d3262f-f936-4eec-aa5a-4e1e73680050" type="group" folder="true" name="Meshes">
+		<meta id="85e8c65a-136a-4e8b-aa8c-5cb5986cde6c" name="cauldron_metal"/>
+		<meta id="7023336f-769c-44d4-96bc-32597bde373c" name="cauldron_green"/>
+		<meta id="dc52a2ad-b70a-4d5b-8a9a-46c932e26098" name="ladle_wood"/>
+		<meta id="7a38b46b-2247-4551-b648-2c2ae2314bff" name="logs_log"/>
+		<meta id="81f50423-c266-4b97-b893-70fcec8b6377" name="logs_end"/>
+	</meta>
+	<meta id="13a67f35-cbe7-490d-b5cb-cc0ec0cadcf4" name="Prefab">
+		<meta id="b0d0d59b-c6a8-438a-8e17-ef7117b30e1b" name="Cauldron_Part">
+			<meta id="9182c1eb-e1dd-46ed-b22e-d1d744e93f9f" name="cauldron">
+				<meta id="038d44f5-0a69-45da-9f05-34c4cd546833" name="cauldron_0"/>
+				<meta id="47b06d6a-6f0a-49f6-8113-b4da6bf9d010" name="cauldron_1"/>
+			</meta>
+			<meta id="e7128ff1-3019-4ff3-b40c-f33a75478a1f" name="ladle"/>
+			<meta id="6bc0ef3a-e456-464b-9809-467c8c574ac4" name="logs">
+				<meta id="df4ce41b-abe2-4acf-b06c-a0a73cc74214" name="logs_0"/>
+				<meta id="a31935ba-1761-417a-8852-80765677b0d8" name="logs_1"/>
+			</meta>
+			<meta id="734fcc5c-acaf-4b05-b0f7-ee9d1bece123" name="Attach_Bottom"/>
+			<meta id="88f516be-cc34-4eaf-bd5b-5af08f1d4bb9" name="CauldronEmitter"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="d9ea12924eef1ebec8f7d5ad86b5a490"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cauldron_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cauldron_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cauldron"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="ladle"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="logs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CauldronEmitter"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cauldron_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c6644721-7d76-4321-9edf-716e2eb1cb63"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b8bf2bcf-2378-481f-8e22-ab52cbaf82a8"/>
+			<MaterialName value="green"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ffd959bc-55ec-4782-8c4a-11e06c45104b"/>
+			<MaterialName value="log"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="539925b7-f163-4344-9ebd-a0c466111b7b"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b2e06449-0b9e-4ce3-9bfa-9baeb252ad31"/>
+			<MaterialName value="wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

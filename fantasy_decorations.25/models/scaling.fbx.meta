@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="0d100359-0f94-4920-91f8-31f07f1af055">
+	<meta id="694d64d4-c72f-4861-b7b4-144610c816a8" type="group" folder="true" name="Materials"/>
+	<meta id="ad8b824b-5f1c-4eb1-81ae-ce056d9e7781" type="group" folder="true" name="Meshes"/>
+	<meta id="85ff2d83-4e0a-4978-96a4-2431d2ff8db2" name="Prefab">
+		<meta id="33f588f4-8fb3-4e73-8ceb-4dfc27d018aa" name="FD_Tiling_Part">
+			<meta id="efbee64c-796a-40f4-8b94-2b0f74f279e0" name="Attach_Bottom"/>
+			<meta id="2e10156b-d854-45de-8235-49ce34299a23" name="Attach_Top"/>
+		</meta>
+		<meta id="3d4b4a6e-6dfd-4b9f-9e8e-fecb3c6c8882" name="FD_Root_Part">
+			<meta id="f41c7383-90da-41e0-87f8-4c986650be10" name="Attach_Bottom.001"/>
+			<meta id="de260497-b1b1-492f-9971-48a4ca93a6af" name="Attach_Top.001"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="350d5513d8aba993b7fdad6efc12b449"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Top"/>
+					</Item>
+				</ChildList>
+				<NodeName value="FD_Tiling_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Top.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="FD_Root_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList/>
+</importer>
+

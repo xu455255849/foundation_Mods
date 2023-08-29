@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="4eb7005f-ee4f-4c8e-ad48-7f7249f5982e">
+	<meta id="c9dbf075-8025-4c34-98d9-1fe9e837ddd1" type="group" folder="true" name="Materials">
+		<meta id="064e9682-b5af-4a1f-b041-6dd3efd79fd6" name="stone"/>
+		<meta id="c1b76b8c-f5d1-4db7-9edd-e222300c3e3e" name="metal"/>
+		<meta id="0a602bbf-0409-449e-ac03-288dc98a548c" name="rope"/>
+		<meta id="8836fada-674e-49d5-86b7-2bf52f4777dd" name="planks"/>
+		<meta id="1e89c998-7b7e-4490-a537-cd1976aeb622" name="bark"/>
+		<meta id="55ffd68b-aea0-4a62-b35b-86c6711e50a4" name="log"/>
+		<meta id="e4bc36fa-efd3-440f-9032-a0814ab83246" name="darkbark"/>
+		<meta id="d8ac6428-e421-4bd5-835d-209cc228653d" name="darklog"/>
+		<meta id="94084ca7-22e4-4932-982f-17a3708338ed" name="water_cookpot"/>
+	</meta>
+	<meta id="c690774e-e36c-4543-9046-260b705db85f" type="group" folder="true" name="Meshes">
+		<meta id="81bcbea7-2e75-47a2-a812-74fdb91ee231" name="pot_metal"/>
+		<meta id="25a376f0-107b-4856-8f64-ab2ced5742ae" name="ties_rope"/>
+		<meta id="13ba88b5-5bf2-46a4-aeaa-ff1dffb25e41" name="poles_bark"/>
+		<meta id="9d1dd04a-732b-4d77-9795-98ab997547b2" name="poles_log"/>
+		<meta id="4029a7f7-c7b1-48d5-b550-f17838a4b0f1" name="water_water_cookpot"/>
+		<meta id="c3a3fdd1-718f-4c89-b311-8d17d2a40bcb" name="Campfire_Part_LOD_012_bark"/>
+		<meta id="b32751fa-9f92-4c75-9c55-c2c8871dfb4f" name="Campfire_Part_LOD_012_stone"/>
+		<meta id="f3553239-d64b-4a38-b45c-d1afe7b07584" name="Campfire_Part_LOD_012_log"/>
+		<meta id="168d7432-9909-4b8e-b678-1f29d6bbf7ed" name="Campfire_On_Fire_Part_LOD_012_darkbark"/>
+		<meta id="c55ab1d3-2023-43d5-96c5-7e0afb2ba800" name="Campfire_On_Fire_Part_LOD_012_darklog"/>
+		<meta id="b3c59559-b597-47e2-be93-8f3e7e34ce90" name="Cooking_Pot_Part_LOD_01_metal"/>
+		<meta id="ec0c34e5-a5f7-4c33-a48a-b2b1ff9d5b59" name="Cooking_Pot_Part_LOD_01_rope"/>
+		<meta id="24826b1d-3521-47c6-869e-e5702e97510b" name="Cooking_Pot_Part_LOD_01_planks"/>
+	</meta>
+	<meta id="ecf01d5f-4517-4b6b-b3e9-34ef62e772eb" name="Prefab">
+		<meta id="cee28eaa-24ba-4b74-bec0-5b20e411012f" name="Campfire_Part">
+			<meta id="76c60387-ad02-4c80-9eca-5fc44c8ecdb0" name="Attach_Bottom"/>
+			<meta id="ac4066b9-74b9-4c7f-b335-7774dbfeb712" name="Campfire_Part_0"/>
+			<meta id="63cb7e6d-bb78-4bcb-b88c-5b2b6bc1d6bb" name="Campfire_Part_1"/>
+			<meta id="c319c794-be24-4c39-be8c-faf85f79769e" name="Campfire_Part_2"/>
+		</meta>
+		<meta id="05023c72-b825-4532-811b-01e946f89296" name="Campfire_On_Fire_Part">
+			<meta id="535dea14-bb6a-46a7-b9cd-0b5b5c610c2c" name="FireEmitter1"/>
+			<meta id="ef3d2794-288c-49be-aa4e-68ddcd57bf1e" name="Attach_Bottom.001"/>
+			<meta id="68e02566-b1ba-4a46-aa6e-5be9bb38b09b" name="SmokeEmitter1"/>
+			<meta id="5c8ae660-5716-4150-ab59-c5c6bca5e039" name="SparkEmitter1-1"/>
+			<meta id="942f45c4-89bb-4697-91f8-6ea3226c92ad" name="SparkEmitter1-2"/>
+			<meta id="e4e260b8-a12e-4422-afe5-df4be91e7ca6" name="FireEmitter2"/>
+			<meta id="7d5fb8eb-ff67-4a3a-8a05-6f5a4e031d12" name="Campfire_On_Fire_Part_0"/>
+			<meta id="d5147b1f-8d87-4f3f-a0a3-f3127f7ca49c" name="Campfire_On_Fire_Part_1"/>
+			<meta id="462fe58e-63d3-47e2-b97d-6dc8e513851a" name="Campfire_On_Fire_Part_2"/>
+		</meta>
+		<meta id="1cdb4c94-2c6a-445e-af2f-7add2263264b" name="Cooking_Pot_Part">
+			<meta id="392c019d-4d7e-457f-8a42-59761875f905" name="pot"/>
+			<meta id="5580fabf-60f0-4489-88f4-5a9e7c74731e" name="poles">
+				<meta id="7c8f8c61-a4d6-46fa-9592-2b0773099881" name="poles_0"/>
+				<meta id="d1074ddb-9b82-4953-b8b6-857dfc844fe9" name="poles_1"/>
+			</meta>
+			<meta id="4fc4f02b-e436-430f-abd2-380bfe3a7f4b" name="ties"/>
+			<meta id="17c8c07d-98b4-485f-a8a8-4a6098f125de" name="water"/>
+			<meta id="efbca0f1-ca79-4f59-8094-06c3a65d1760" name="Attach_Bottom.002"/>
+			<meta id="b125a76f-ec2a-4fee-9cb0-d5c6b97f9b78" name="Cooking_Pot_Part_0"/>
+			<meta id="11fbd3fb-cc63-4d17-8808-234cfdd47144" name="Cooking_Pot_Part_1"/>
+			<meta id="1277c5c0-6172-4a04-a849-d529fdb30991" name="Cooking_Pot_Part_2"/>
+		</meta>
+		<meta id="6a1fd2b0-1f79-4395-9bc1-27954d266e94" name="Campfire_Signal_Part">
+			<meta id="79c9bf9d-4f75-4f70-8491-d5d996f5e97c" name="Attach_Bottom.003"/>
+			<meta id="545cfc3a-811f-4ca3-a7e4-844a953b9dfa" name="SignalEmitter1"/>
+			<meta id="06abaf0d-04f6-4914-a068-a39d46bf87c9" name="SignalEmitter2"/>
+			<meta id="40a71429-aa0a-4cb1-bc55-45ca2b137be1" name="Campfire_Signal_Part_0"/>
+			<meta id="fa612f76-2cb7-493c-9fb4-9b48cf50b4dd" name="Campfire_Signal_Part_1"/>
+			<meta id="149646a4-d99b-4fbb-be5d-2b3e544c18de" name="Campfire_Signal_Part_2"/>
+		</meta>
+	</meta>
+	<meta id="519e2d47-f9e8-46ea-8d25-8c7e42cf2188" type="group" folder="true" name="LOD">
+		<meta id="443d0f5b-ab22-416e-98dc-dbd0f6c02082" name="Campfire_Part_0"/>
+		<meta id="d79fb333-87ed-4f1f-92c2-7968dcb890c0" name="Campfire_Part_1"/>
+		<meta id="04b1db23-4e09-47b7-8fa4-8e9c09a7019b" name="Campfire_Part_2"/>
+		<meta id="9c4640ed-fb3a-4a90-8720-3c3590924346" name="Campfire_On_Fire_Part_0"/>
+		<meta id="528e4c33-7d9a-48e9-8211-0be8445f69c5" name="Campfire_On_Fire_Part_1"/>
+		<meta id="826181f9-19ba-4655-842f-1de78587f534" name="Campfire_On_Fire_Part_2"/>
+		<meta id="fb699c33-bc27-4e14-a56f-5181bfb667bf" name="Cooking_Pot_Part_0"/>
+		<meta id="a8975b1c-e720-420e-8f7d-a276853dd7a8" name="Cooking_Pot_Part_1"/>
+		<meta id="2d958598-b22e-4de4-b139-761c8dc02734" name="Cooking_Pot_Part_2"/>
+		<meta id="6d148b1d-7922-4840-894a-6911a697e63a" name="Campfire_Signal_Part_0"/>
+		<meta id="f39f95a0-6fb0-4e35-b7ae-b6aa66e2fc52" name="Campfire_Signal_Part_1"/>
+		<meta id="24d8cd15-db2b-44b7-8d3d-d1a591b520eb" name="Campfire_Signal_Part_2"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="40ca99ae465d9d1bd40ee4e815ab37a2"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Campfire_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter1-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter1-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_On_Fire_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_On_Fire_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_On_Fire_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Campfire_On_Fire_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pot"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poles_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="poles_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="poles"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="ties"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="water"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cooking_Pot_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cooking_Pot_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cooking_Pot_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cooking_Pot_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SignalEmitter1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SignalEmitter2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_Signal_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_Signal_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Campfire_Signal_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Campfire_Signal_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1e89c998-7b7e-4490-a537-cd1976aeb622"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e4bc36fa-efd3-440f-9032-a0814ab83246"/>
+			<MaterialName value="darkbark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d8ac6428-e421-4bd5-835d-209cc228653d"/>
+			<MaterialName value="darklog"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="55ffd68b-aea0-4a62-b35b-86c6711e50a4"/>
+			<MaterialName value="log"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c1b76b8c-f5d1-4db7-9edd-e222300c3e3e"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8836fada-674e-49d5-86b7-2bf52f4777dd"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0a602bbf-0409-449e-ac03-288dc98a548c"/>
+			<MaterialName value="rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="064e9682-b5af-4a1f-b041-6dd3efd79fd6"/>
+			<MaterialName value="stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="94084ca7-22e4-4932-982f-17a3708338ed"/>
+			<MaterialName value="water_cookpot"/>
+		</Item>
+	</MaterialList>
+</importer>
+

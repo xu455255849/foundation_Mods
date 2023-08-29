@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="4dcd1a02-d056-4318-bb17-5bf8df75bc99">
+	<meta id="4ca9f379-04de-4b7c-8447-6cbf39171532" type="group" folder="true" name="Materials">
+		<meta id="c93146f7-a28a-4223-ba1b-87c972b15059" name="blank_grass"/>
+		<meta id="9e30cacd-fc66-4240-a24a-1908fe70fa8a" name="icon_gc_circle_medium"/>
+		<meta id="c6f38c19-b88e-4e12-8ef3-593aea1e1455" name="icon_gc_circle_small"/>
+		<meta id="8ecbd2ca-6d7d-4da7-8c38-2428c5ded5a0" name="icon_gc_circle_large"/>
+		<meta id="b0084469-8cb4-4ac0-894b-7ed32dbf6ce6" name="icon_gc_square_medium"/>
+		<meta id="53d4f27a-558c-4d88-8f54-c03a3ad87d61" name="icon_gc_square_small"/>
+		<meta id="38a71c1d-b909-4d52-aaef-a86fd1ac38ac" name="icon_gc_square_large"/>
+		<meta id="f4e1e3de-05a4-410e-93de-f6546d2876f2" name="icon_gc_circle_xlarge"/>
+		<meta id="78bc00ae-4d33-4845-976d-99df712ecd6e" name="icon_gc_square_xlarge"/>
+	</meta>
+	<meta id="04186af7-30f1-46c5-81ac-6bb7af0eacfd" type="group" folder="true" name="Meshes">
+		<meta id="4d5cc53a-9a36-439b-815d-9a0b4117035d" name="Cube.001_blank_grass"/>
+		<meta id="d7825294-eec7-4ab4-9f6c-b7a07f34f88c" name="Cube_blank_grass"/>
+		<meta id="4fce9a6e-662e-4d13-9126-b69621747b55" name="Cube.002_blank_grass"/>
+		<meta id="3aefccad-af72-4ddf-b106-3cafcf9ad45d" name="Cylinder_blank_grass"/>
+		<meta id="138f76cb-c996-434f-af3f-c6632ea98490" name="Cylinder.001_blank_grass"/>
+		<meta id="3c5f8d97-9ba2-4c10-97b1-b1436a128b12" name="Cylinder.002_blank_grass"/>
+		<meta id="4d38affb-1da3-467f-8d07-5b99cbe25f50" name="icon_gc_circle_medium_icon_gc_circle_medium"/>
+		<meta id="60473baf-b139-4cc8-8c95-b172f4ae179c" name="icon_gc_circle_small_icon_gc_circle_small"/>
+		<meta id="8c49383b-3d2a-4456-b801-00af9f758059" name="icon_gc_circle_large_icon_gc_circle_large"/>
+		<meta id="5108acd5-a1d4-48c3-86f6-9c3ddb089c46" name="icon_gc_square_medium_icon_gc_square_medium"/>
+		<meta id="14d9b31e-e45c-4264-abab-0400949252d4" name="icon_gc_square_small_icon_gc_square_small"/>
+		<meta id="a5c817df-3b0d-41c1-98b3-f8807dea3fc7" name="icon_gc_square_large_icon_gc_square_large"/>
+		<meta id="67f6d01e-5b43-4f5d-8691-0d8267c3c647" name="icon_gc_circle_xlarge_icon_gc_circle_xlarge"/>
+		<meta id="ef2df2bc-9a32-4613-ae55-9519b5d427c2" name="Cylinder.004_blank_grass"/>
+		<meta id="f31f8c11-4d7b-4d87-85d2-d348d48d3263" name="icon_gc_square_xlarge_icon_gc_square_xlarge"/>
+		<meta id="9ece9f2f-31ef-4392-96fa-23c21f2e94df" name="Cube.007_blank_grass"/>
+	</meta>
+	<meta id="53f807a4-4010-4951-98f4-988ed7020582" name="Prefab">
+		<meta id="65bd04dd-160d-4efc-9f32-f314de90a69f" name="Grass_Clearing_Small_Part">
+			<meta id="3eeac8fc-b3a4-4d38-9a22-6e997b47dd39" name="Cylinder"/>
+			<meta id="745a6909-058e-4f9d-8127-259ef0c149ed" name="icon_gc_circle_small"/>
+		</meta>
+		<meta id="81f62dc9-a9e2-410a-9a33-2c1f260cfb5a" name="Grass_Clearing_Large_Part">
+			<meta id="95e06c67-1da8-4f48-a433-fec8c01bc7c7" name="Cylinder.002"/>
+			<meta id="387018f8-bb85-4149-a32f-9bbd7bce2578" name="icon_gc_circle_large"/>
+		</meta>
+		<meta id="21154e38-c527-4e2a-a470-18519e91b9f0" name="Grass_Clearing_Medium_Part">
+			<meta id="66ca65ee-1222-438c-9526-1e1fe4fb14ed" name="Cylinder.001"/>
+			<meta id="4b26eba7-852f-48c3-9a53-3b867ed84564" name="icon_gc_circle_medium"/>
+		</meta>
+		<meta id="c0ce7fd1-1602-4685-8936-e037824557ad" name="Grass_Clearing_Medium_Square_Part">
+			<meta id="6d080b18-5f82-4889-bbf0-ce36239e3563" name="Cube.001"/>
+			<meta id="1afa27bb-c60c-40ca-8090-1d6c6add6b0a" name="Attach_GCL_Medium.0"/>
+			<meta id="a206ff5b-66f2-48c0-9b34-1dca5303ab16" name="Attach_GCL_Medium.1"/>
+			<meta id="bdfd1403-8558-44ff-a218-de68d21a8712" name="Attach_GCL_Medium.2"/>
+			<meta id="64068acb-ba03-4e1f-9e58-a83495817037" name="Attach_GCL_Medium.3"/>
+			<meta id="1f359643-3fb5-4b53-8b6d-f722415aa0da" name="Attach_GCL_Medium.4"/>
+			<meta id="c1da31ea-7e56-4cbf-b6e1-daa2af96f027" name="Attach_GCL_Medium.5"/>
+			<meta id="85a08b2b-0993-4cf8-be91-be25fefec614" name="Attach_GCL_Medium.6"/>
+			<meta id="25349af7-ebc5-4f48-b520-2e1f27e2c336" name="Attach_GCL_Medium.7"/>
+			<meta id="145373a0-72fa-4d12-b05e-3394657b7d0a" name="icon_gc_square_medium"/>
+		</meta>
+		<meta id="4cc83b18-b8b1-4db2-b300-f1357cf30df2" name="Grass_Clearing_Small_Square_Part">
+			<meta id="3f76004c-ae80-44d8-93c9-76aa5ae24d18" name="Cube"/>
+			<meta id="f68b8ff2-7533-4f05-b289-6313a726facc" name="Attach_GCL_Small.0"/>
+			<meta id="ffd57f88-2e77-4496-be07-04af08a02c42" name="Attach_GCL_Small.1"/>
+			<meta id="c0be057f-cf73-4e32-b246-9357c3903efa" name="Attach_GCL_Small.2"/>
+			<meta id="3a0dd015-7857-410e-9c57-832a13179b48" name="Attach_GCL_Small.3"/>
+			<meta id="c5017a29-efdd-4491-b744-ab9622d1f777" name="Attach_GCL_Small.4"/>
+			<meta id="754fc1cb-cc56-4127-8161-defb2970388c" name="Attach_GCL_Small.5"/>
+			<meta id="86e8ed1a-cf08-412b-83a9-f2b336a9f6fe" name="Attach_GCL_Small.6"/>
+			<meta id="6fc7c8b2-cb9c-4382-b373-20376a0a41f3" name="Attach_GCL_Small.7"/>
+			<meta id="310cc878-e292-46b1-9f22-1a851acfa98d" name="icon_gc_square_small"/>
+		</meta>
+		<meta id="c50256cf-ac67-400e-93ae-ef83b8d7a4f0" name="Grass_Clearing_Large_Square_Part">
+			<meta id="023f5cf0-b915-4d3a-becd-f2502ba3bce0" name="Cube.002"/>
+			<meta id="dc859056-3e78-4eec-a6a8-96d12ce82ffa" name="Attach_GCL_Large.0"/>
+			<meta id="23cacd0a-200e-4237-95cc-9e30ddc5d203" name="Attach_GCL_Large.1"/>
+			<meta id="55e2e3c8-b306-4ea2-8d8f-f5fa92f7c631" name="Attach_GCL_Large.2"/>
+			<meta id="e79f4296-81a1-4eaa-b1de-b1677b783521" name="Attach_GCL_Large.3"/>
+			<meta id="f513a8f6-9d67-4c03-a054-ef10e1c93ee1" name="Attach_GCL_Large.4"/>
+			<meta id="0a43f977-2949-4833-88f4-ffe95a65f38f" name="Attach_GCL_Large.5"/>
+			<meta id="3c65659a-094d-4136-9cc5-18455884b999" name="Attach_GCL_Large.6"/>
+			<meta id="92fafd3f-cc9a-4e9c-a657-bb418f635e35" name="Attach_GCL_Large.7"/>
+			<meta id="e4243a77-6a07-4e9e-8e63-7d1df5acd02e" name="icon_gc_square_large"/>
+		</meta>
+		<meta id="3a88008f-545e-4d0e-8720-06576c4cb894" name="Grass_Clearing_XLarge_Part">
+			<meta id="76b6e300-1cee-4f74-a9a3-98c5e73cab07" name="icon_gc_circle_xlarge"/>
+			<meta id="5aa0f007-5beb-4447-ba96-183a1dc817e5" name="Cylinder.004"/>
+		</meta>
+		<meta id="ef18d78d-1f2d-4bc9-9f99-5a6828b3821a" name="Grass_Clearing_XLarge_Square_Part">
+			<meta id="f60091be-6d36-464e-aa52-d57fd709c1d6" name="Attach_GCL_XLarge.0"/>
+			<meta id="ee7fec2d-86df-4291-a634-a714a899a71b" name="Attach_GCL_XLarge.1"/>
+			<meta id="3adf53ea-7c02-49a4-9d6f-cf1037f43f96" name="Attach_GCL_XLarge.2"/>
+			<meta id="524eac8a-365c-4d9d-a35a-888c40acaaee" name="Attach_GCL_XLarge.3"/>
+			<meta id="9370f2b1-fbe0-4b6b-a193-2c8801fbc0c8" name="Attach_GCL_XLarge.4"/>
+			<meta id="448e184b-2f3c-41ed-8911-8f342c9cf697" name="Attach_GCL_XLarge.5"/>
+			<meta id="5fc577ce-8f74-470e-bdf9-3aede7a9fc26" name="Attach_GCL_XLarge.6"/>
+			<meta id="63d49823-1b4a-468f-8be1-3ffc041ae5c8" name="Attach_GCL_XLarge.7"/>
+			<meta id="f344a3f1-80c9-4c4c-8692-7ea8ad66ab89" name="icon_gc_square_xlarge"/>
+			<meta id="119551bb-6fa2-4cc4-bfb0-f449b4fe2f86" name="Cube.007"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="3fb3e3e88d9a2f4ef331d1d491543032"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_circle_small"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_Small_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_circle_large"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_Large_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_circle_medium"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_Medium_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cube.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Medium.7"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_square_medium"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_Medium_Square_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cube"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Small.7"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_square_small"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_Small_Square_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cube.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_Large.7"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_square_large"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_Large_Square_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_circle_xlarge"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_XLarge_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_GCL_XLarge.7"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="icon_gc_square_xlarge"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cube.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Grass_Clearing_XLarge_Square_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c93146f7-a28a-4223-ba1b-87c972b15059"/>
+			<MaterialName value="blank_grass"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8ecbd2ca-6d7d-4da7-8c38-2428c5ded5a0"/>
+			<MaterialName value="icon_gc_circle_large"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9e30cacd-fc66-4240-a24a-1908fe70fa8a"/>
+			<MaterialName value="icon_gc_circle_medium"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c6f38c19-b88e-4e12-8ef3-593aea1e1455"/>
+			<MaterialName value="icon_gc_circle_small"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f4e1e3de-05a4-410e-93de-f6546d2876f2"/>
+			<MaterialName value="icon_gc_circle_xlarge"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="38a71c1d-b909-4d52-aaef-a86fd1ac38ac"/>
+			<MaterialName value="icon_gc_square_large"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b0084469-8cb4-4ac0-894b-7ed32dbf6ce6"/>
+			<MaterialName value="icon_gc_square_medium"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="53d4f27a-558c-4d88-8f54-c03a3ad87d61"/>
+			<MaterialName value="icon_gc_square_small"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="78bc00ae-4d33-4845-976d-99df712ecd6e"/>
+			<MaterialName value="icon_gc_square_xlarge"/>
+		</Item>
+	</MaterialList>
+</importer>
+

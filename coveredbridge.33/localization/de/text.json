@@ -1,0 +1,73 @@
+{
+    "BUILDINGS": {
+        "COVERED_BRIDGE_V3_MONUMENT_NAME": "Überdachte Brücke-Set V3",
+        "COVERED_BRIDGE_V3_LARGE_MONUMENT_NAME": "Große Brücke-Set V3",
+        "COVERED_BRIDGE_V3_NAME": "Elemente für eine überdachte Brücke"
+    },
+    "BUILDING_PARTS": {
+        "COVERED_BRIDGE_V3_CORE_NAME": "Brücke",
+        "COVERED_BRIDGE_V3_HOUSE_NAME": "Holzgedecktes Haus",
+        "COVERED_BRIDGE_V3_CENTER_COVERAGE_NAME": "Dach in der Mitte",
+        "COVERED_BRIDGE_V3_START_END_COVERAGE_NAME": "Auslegerdach",
+        "COVERED_BRIDGE_V3_TAILOR_FUNCTION_NAME": "Schneiderwerkstatt",
+        "COVERED_BRIDGE_V3_GATE_FUNCTION2_NAME": "Soldat",
+        "COVERED_BRIDGE_V3_RED_NAME": "Rot gedecktes Haus",
+        "COVERED_BRIDGE_V3_GREEN_A_NAME": "Grün gedecktes Haus A",
+        "COVERED_BRIDGE_V3_GREEN_B_NAME": "Grün gedecktes Haus B",
+        "COVERED_BRIDGE_V3_BLUE_NAME": "Blau gedecktes Haus",
+        "COVERED_BRIDGE_V3_RED_WINE_NAME": "Weinrot gedecktes Haus",
+        "COVERED_BRIDGE_V3_CARBON_NAME": "Schwarz gedecktes Haus",
+        "COVERED_BRIDGE_V3_GATE_ROOT_NAME": "Tor",
+        "COVERED_BRIDGE_V3_GATE_TOWER_ROOT_NAME": "Torturm",
+        "COVERED_BRIDGE_V3_HOUSE_TOWER1_NAME": "Zweistöckiges Haus 1",
+        "COVERED_BRIDGE_V3_HOUSE_TOWER2_NAME": "Zweistöckiges Haus 2",
+        "COVERED_BRIDGE_V3_HOUSE_TOWER3_NAME": "Zweistöckiges Haus 3",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE1_NAME": "Einstöckiges Haus 1",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE2_NAME": "Einstöckiges Haus 2",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE3_NAME": "Einstöckiges Haus 3",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE4_NAME": "Einstöckiges Haus 4",
+        "COVERED_BRIDGE_V3_HAT_FUNCTION_NAME": "Produziert Hüte",
+        "COVERED_BRIDGE_V3_KNIFE_FUNCTION_NAME": "Produziert Messer",
+        "COVERED_BRIDGE_V3_BUILDING_FUNCTION_HOUSING_LVL1_NAME": "Bauernhaus",
+        "COVERED_BRIDGE_V3_BUILDING_FUNCTION_HOUSING_LVL2_NAME": "Bürgerhaus"
+    },
+
+    "BUILDING_DESCRIPTIONS": {
+        "COVERED_BRIDGE_V3_DESC": "Basis für überdachte Brücke",
+        "COVERED_BRIDGE_V3_MONUMENT_DESC": "Überdachte Brücke-Set",
+        "COVERED_BRIDGE_V3_HOUSE_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_CENTER_COVERAGE_DESC": "Wird über der Mitte der Brücke platziert",
+        "COVERED_BRIDGE_V3_START_END_COVERAGE_DESC": "Über dem Anfang oder Ende der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_RED_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_GREEN_A_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_GREEN_B_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_BLUE_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_RED_WINE_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_CARBON_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_GATE_ROOT_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_GATE_ROOT_DESC": "Über dem Anfang oder Ende der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_GATE_TOWER_ROOT_DESC": "An dem Seiten des Tores zu plazieren",
+        "COVERED_BRIDGE_V3_HOUSE_TOWER1_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_HOUSE_TOWER2_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_HOUSE_TOWER3_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE1_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE2_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE3_DESC": "An den Seitenkanten der Brücke zu platzieren",
+        "COVERED_BRIDGE_V3_HOUSE_MIDDLE4_DESC": "An den Seitenkanten der Brücke zu platzieren"
+    },
+
+    "MONUMENTS": {
+        "CATEGORY_CORE_SING": "Hauptbau",
+        "CATEGORY_CORE_PLUR": "Hauptbauten",
+        "CATEGORY_EXTENSION": "Erweiterung",
+        "CATEGORY_EXTENSION_SING": "Erweiterung",
+        "CATEGORY_EXTENSION_PLUR": "Erweiterungen",
+        "CATEGORY_DOOR_SING": "Tür",
+        "CATEGORY_DOOR_PLUR": "Türen",
+        "CATEGORY_DECORATION": "Dekoration",
+        "CATEGORY_DECORATION_SING": "Dekoration",
+        "CATEGORY_DECORATION_PLUR": "Dekorationen"
+    }
+}
+
+

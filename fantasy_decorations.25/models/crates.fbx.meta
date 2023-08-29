@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="3beb685e-1307-4dc9-8749-772fa9ef373e">
+	<meta id="dd572e62-ad07-4412-92a5-5b63e0f97ec7" type="group" folder="true" name="Materials">
+		<meta id="a14d0d6a-5c62-4680-a5e9-3b6194ec2351" name="metal"/>
+		<meta id="a81964d4-395e-4fa4-827c-d0a5f6096a73" name="colors"/>
+		<meta id="0c17932f-c1e0-4fdd-aa00-12c40fbaaf89" name="coal"/>
+		<meta id="1f9bef76-3c7b-4523-83b2-fcb04c44de09" name="iron"/>
+		<meta id="b73abfbd-6aa4-498e-83ea-a7e0cfbf1060" name="leather"/>
+		<meta id="77a86a78-efce-4ed6-8a92-760387e5492b" name="planks"/>
+		<meta id="fffca7e2-b706-40d5-9972-1ae047124378" name="rope"/>
+		<meta id="1e9b8835-f546-4640-9a8b-c70a305d908e" name="metal_gold"/>
+	</meta>
+	<meta id="c1c79a29-06db-4ed5-bf61-681a76f8abcd" type="group" folder="true" name="Meshes">
+		<meta id="7f916401-65a4-41a3-925f-ef10fc18cba9" name="hinge.005_metal"/>
+		<meta id="c4f48f3a-2762-4d0c-add2-a658f5ef733c" name="hinge.004_metal"/>
+		<meta id="3fa7456e-682f-4810-bf3d-6f7166e16eda" name="crate.010_coal"/>
+		<meta id="02fb79c9-0c4e-4fe6-bb93-a0722a7faba1" name="hinge_metal"/>
+		<meta id="e38d1323-25c3-443b-8146-7232c39dd153" name="hinge.002_metal"/>
+		<meta id="bb945c5b-c271-4c28-be8c-051c5691bd0a" name="hinge.006_metal"/>
+		<meta id="8a932457-aeef-45c5-bc02-bdae7734a22d" name="crate.014_iron"/>
+		<meta id="f1d0a633-9934-4f1b-997c-b11221c46dee" name="smallchest.001_metal"/>
+		<meta id="ceb01cac-7419-4357-bfc4-3bd7a9aa72d9" name="smallchest.001_colors"/>
+		<meta id="3c80d31d-5533-4dff-914f-573423a390da" name="smallchest.001_leather"/>
+		<meta id="aef2c770-7e54-4e7a-b090-bdbfebd7f804" name="smallchest.003_metal"/>
+		<meta id="67600201-7bc0-4842-ba30-d26983f66ef3" name="smallchest.003_colors"/>
+		<meta id="0e5ef382-6e5b-4a74-8508-8a0bd10ca1d8" name="smallchest.003_leather"/>
+		<meta id="83ec3bcd-2b64-45cb-9feb-d9b47644e08f" name="crate_planks"/>
+		<meta id="dc9a7bf7-6404-4d60-8417-094873f93b63" name="crate.001_planks"/>
+		<meta id="672a13e4-546b-419e-9338-5447c08583f7" name="handcrate.001_planks"/>
+		<meta id="e2d0231d-e41a-4c31-b198-f96008e6f84b" name="crate.002_planks"/>
+		<meta id="2ec34819-82e6-4e82-812d-0b47d1d52281" name="crate flat.005_planks"/>
+		<meta id="5a822018-c839-46bd-b1ef-ccac74365939" name="handcrate.002_planks"/>
+		<meta id="b3e8d6af-a7b2-49f1-bbab-78aeefe1357d" name="crate.003_planks"/>
+		<meta id="18fcfb2b-e870-4487-b599-9783df3e8dd9" name="crate.004_planks"/>
+		<meta id="c1220041-8e82-4822-b2c2-6420fdd485a2" name="crate.005_planks"/>
+		<meta id="de52e7c5-0ee7-431b-8691-6fb1aabe2564" name="handcrate.003_planks"/>
+		<meta id="9bf5c1ae-a5d6-45dc-ab75-868944313b80" name="smallchest.001_planks"/>
+		<meta id="7ecb3330-fdd7-454a-829f-83d51b2d8189" name="crate.006_planks"/>
+		<meta id="bc9fcdf0-872e-4650-ba88-365f4bcc14de" name="handcrate.004_planks"/>
+		<meta id="042cf81b-7933-427c-af1f-3b81bf4ad177" name="crate.007_planks"/>
+		<meta id="0a19e928-b84c-412e-9ed7-58b6821edc2f" name="crate.008_planks"/>
+		<meta id="03b28c02-3c37-4b50-98d6-93af0107b4e7" name="handcrate.005_planks"/>
+		<meta id="14083ab4-264e-4f7a-945d-ff5148581aae" name="crate flat.004_planks"/>
+		<meta id="028efc45-f152-435e-8e16-ce0428f5ab71" name="handcrate.006_planks"/>
+		<meta id="d9bf2387-3aff-4d2b-aabd-e26f20821576" name="handcrate.007_planks"/>
+		<meta id="e73ce88a-a0d4-455d-947f-37f537d431f2" name="handcrate.008_planks"/>
+		<meta id="732461f4-16f7-477f-ba3e-629ca2e4c116" name="crate.010_planks"/>
+		<meta id="59566f81-85ff-43f7-a586-f22a0b3c8fda" name="crate flat_planks"/>
+		<meta id="94c84dd5-f64f-454e-89c7-ceeac6aa6d08" name="crate flat.001_planks"/>
+		<meta id="8a0a4e07-0c6d-4ce0-a44b-d11b2207cdd9" name="crate flat.002_planks"/>
+		<meta id="b306fa60-4c95-4021-938b-fdcbf1dd5baa" name="crate flat.006_planks"/>
+		<meta id="99ff18eb-06df-40d9-890d-dd07eeabfc9f" name="lid_planks"/>
+		<meta id="5bc66549-4d23-4506-a310-866e7147728a" name="crate.011_planks"/>
+		<meta id="d32a87be-5c70-4d55-abdc-157007432543" name="smallchest.003_planks"/>
+		<meta id="f72129f0-2ccf-4d36-804c-f86f6a46c9cf" name="crate.014_planks"/>
+		<meta id="1d664ef8-e6cc-4297-9257-cf46709489c1" name="stones_iron"/>
+		<meta id="86bbafe5-a1bd-41cd-bf24-24fc21030fd5" name="crate.015_iron"/>
+		<meta id="69c087b3-4146-4078-84b7-677eac85e695" name="stones.001_iron"/>
+		<meta id="ff74c45a-af11-45b1-b45b-3ebca6937722" name="Crate2_Part_LOD_01_colors"/>
+		<meta id="085cd4ae-ad3c-435b-a82a-14a1d2aa7e99" name="Crate_Flat_Gold_Part_LOD_23_metal_gold"/>
+		<meta id="9c5bfe5c-d911-48c6-89de-8450cc7c8174" name="Crate_Flat_Gold_Part_LOD_01_metal_gold"/>
+		<meta id="85fbfc27-1763-4210-9856-1cc6455dd3db" name="Crate_Flat_Iron_Part_LOD_23_metal"/>
+		<meta id="5534f0e3-3aa3-424d-985c-64cc9f161c13" name="Crate_Flat_Iron_Part_LOD_01_metal"/>
+		<meta id="d583dfad-0330-46f8-bb12-f47df989feb5" name="Crate_Rope_Part_LOD_012_rope"/>
+		<meta id="69e9122d-8054-4296-bbba-4e78483644cc" name="Crate6_Part_LOD_012_rope"/>
+	</meta>
+	<meta id="e7645857-c73b-416f-acff-826167554e85" name="Prefab">
+		<meta id="cd4e5c09-c2ce-4bf6-94a7-4a0870309ea6" name="Crate1_Part">
+			<meta id="324d79eb-adeb-41c0-8c78-882dbc49c374" name="crate"/>
+			<meta id="036368a3-7d5f-4804-844d-3e6caed3684b" name="Attach_Bottom"/>
+		</meta>
+		<meta id="785ac554-33b2-4a10-8154-30dd58a824c2" name="Crate2_Part">
+			<meta id="7cc5542a-a373-4ec8-9c31-c36ba6a4d809" name="crate.001"/>
+			<meta id="9fb72490-d2c3-40d3-9bfa-fcb129d73692" name="handcrate.001"/>
+			<meta id="05c7bcf1-fd3c-4f35-806b-ddd593afdab9" name="crate.002"/>
+			<meta id="3aadbed0-328b-4fa3-ac88-7e9ac38ab820" name="crate flat.005"/>
+			<meta id="7931f651-15f3-4043-80e6-bc88b8effdef" name="hinge.005"/>
+			<meta id="0220c6d2-552c-436b-a423-064233747994" name="Attach_Bottom.001"/>
+		</meta>
+		<meta id="63f5d243-a8e9-477c-a0d3-95c8d8232335" name="Crate3_Part">
+			<meta id="23b8f7db-ccbd-4cdf-a9bb-d90ebcf236ab" name="handcrate.002"/>
+			<meta id="5ce4cb08-b3ef-4ded-8eee-b8382295e649" name="crate.003"/>
+			<meta id="e098ab18-be59-4fe4-a505-3b5a991b0d12" name="crate.004"/>
+			<meta id="63ec7472-c3d5-495f-892e-10de48f1c522" name="crate.005"/>
+			<meta id="16c1e79e-b081-4081-a53c-93a4098096c8" name="handcrate.003"/>
+			<meta id="dec59ee6-426b-4324-ad1d-cf4bef8c0676" name="Attach_Bottom.002"/>
+			<meta id="24f49410-ac9d-42d4-87f7-edd81511523e" name="smallchest.001">
+				<meta id="5b9a5c3f-0808-4550-b3da-7540ab850f94" name="smallchest.001_0"/>
+				<meta id="4e05fc94-965d-41fa-ace8-20728d444b6c" name="smallchest.001_1"/>
+				<meta id="3ec1a913-e9ca-4049-8ccd-6e4d6ac664a0" name="smallchest.001_2"/>
+				<meta id="73a07669-5b42-400f-8d4f-957cb82aefc8" name="smallchest.001_3"/>
+			</meta>
+		</meta>
+		<meta id="ecc5c16f-90dd-4815-bb70-052b465bba31" name="Crate4_Part">
+			<meta id="29ad6093-9323-4f29-b06d-4de2e60f1cca" name="crate.006"/>
+			<meta id="bad382fd-3e15-489b-b0d3-f9663bbd2094" name="handcrate.004"/>
+			<meta id="a43cb423-6b4e-4d92-b78d-a731fbdc7cdb" name="crate.007"/>
+			<meta id="aff787f8-d01c-4325-99a1-436a6d301751" name="crate.008"/>
+			<meta id="32707218-beba-448e-bdb2-0f25d6e69f05" name="handcrate.005"/>
+			<meta id="2c731bae-4bf8-49f9-87cb-15e1cf141224" name="crate flat.004"/>
+			<meta id="0ad9632d-923a-43f7-a4df-bf05e7e64922" name="hinge.004"/>
+			<meta id="05822b02-0a9d-4eaa-a159-7c33ebc6b204" name="Attach_Bottom.003"/>
+		</meta>
+		<meta id="2315d38d-68e0-443f-96ee-bb04771cbe42" name="Crate5_Part">
+			<meta id="b7fd6433-2b63-46ec-b99c-18cff19bef28" name="handcrate.006"/>
+			<meta id="105e90e3-a12c-4634-8e0a-fbf8e3b8a4e1" name="crate.009"/>
+			<meta id="d5bd0c18-2951-4ba4-9cfa-2903e99cf558" name="handcrate.007"/>
+			<meta id="e21889aa-8ffc-4b73-aea4-6faa3f66e746" name="handcrate.008"/>
+			<meta id="7516957e-fdaa-4d93-bac5-138212d16ff9" name="Attach_Bottom.004"/>
+		</meta>
+		<meta id="56a011f5-7247-400b-997f-920a36cc511d" name="Crate_Coal_Part">
+			<meta id="b29bb3d3-465e-40df-a6be-9851e1f81cf0" name="crate.010">
+				<meta id="18e5b6e0-f5e6-43aa-844d-5d050732c9f5" name="crate.010_0"/>
+				<meta id="d4b143a8-163f-4392-afe3-7b7f0041f79b" name="crate.010_1"/>
+			</meta>
+			<meta id="bb6051e5-a546-4787-aa81-8e39da38c52d" name="Attach_Bottom.005"/>
+		</meta>
+		<meta id="bb15c0ad-0a5a-46ac-a171-9f7576e83ac8" name="Crate_Flat1_Part">
+			<meta id="b526d6b7-8907-452e-8b07-088169dac5f2" name="crate flat"/>
+			<meta id="ed00182e-ec01-4009-b4bd-efa78875f1b4" name="hinge"/>
+			<meta id="a37dc32f-ef75-4255-9356-e131da0882cf" name="Attach_Bottom.006"/>
+		</meta>
+		<meta id="8230bcb1-0ac6-4c11-bd09-696e8d1cc9d7" name="Crate_Flat2_Part">
+			<meta id="f6c8528f-25e9-407b-bf9d-1227bc333e31" name="crate flat.001"/>
+			<meta id="46c30fcb-a95a-4567-81af-b72c1b0ccd1a" name="hinge.001"/>
+			<meta id="4ddbd17e-3afb-49d0-827f-005099c4daed" name="crate flat.002"/>
+			<meta id="27f09089-d581-46e0-b20e-4ab3607482d5" name="hinge.002"/>
+			<meta id="26043feb-189b-4b8f-912b-2ec4a8d81d95" name="crate flat.003"/>
+			<meta id="5d90afea-9228-4a58-8462-ad4f2d75e3ab" name="hinge.003"/>
+			<meta id="136a9332-e920-4b35-82f7-e6b826048005" name="Attach_Bottom.007"/>
+		</meta>
+		<meta id="526e301a-fee5-4772-9c1c-7c5cf3305bdf" name="Crate_Flat_Gold_Part">
+			<meta id="4e2f8d1c-87e2-4ca9-87eb-359dcfc77f06" name="crate flat.006"/>
+			<meta id="153dcda7-ef60-484b-a913-cfd8309f970e" name="hinge.006"/>
+			<meta id="f8ee6332-5f08-4ca9-a072-291deae8a98a" name="lid"/>
+			<meta id="25741d6c-e318-4e72-93be-8ee3935a3524" name="Attach_Bottom.008"/>
+		</meta>
+		<meta id="7471c349-0372-4647-bb02-36af5cec1dc3" name="Crate_Flat_Iron_Part">
+			<meta id="6215db1e-2454-4866-af06-b59b5c4f7a8d" name="crate flat.007"/>
+			<meta id="a7f1eb60-7604-497f-82a2-b84076233e93" name="lid.001"/>
+			<meta id="dd7ce56a-8479-49e8-9463-ed616bad14bb" name="hinge.007"/>
+			<meta id="d0dd3f02-fb35-4123-96b9-59470b856e61" name="Attach_Bottom.009"/>
+		</meta>
+		<meta id="a33e4290-9775-4917-8498-7bf9d9174e54" name="Crate_Rope_Part">
+			<meta id="a28ae48b-01ce-4c8a-a973-0a6113395796" name="crate.011"/>
+			<meta id="d397bcb5-5f69-4da7-b8c7-ff2a3c206276" name="Attach_Bottom.010"/>
+		</meta>
+		<meta id="d15502ac-f362-4117-a30d-3cdef0f280b0" name="Crate6_Part">
+			<meta id="07a0a1d7-3407-43d5-855a-dc57d7fa0002" name="crate.012"/>
+			<meta id="3f3e653c-68f2-4dc9-ac12-cef051cce365" name="Attach_Bottom.011"/>
+			<meta id="81f586bf-257b-4557-8a3d-810fdb728cd6" name="crate.013"/>
+			<meta id="9d4789c7-e9c7-4f85-8c98-b06ba6a4f594" name="crate flat.008"/>
+			<meta id="ea1d8d69-123e-4c8e-85dd-67f7cd188642" name="hinge.008"/>
+			<meta id="465408c0-508d-48f0-96c4-40eacd65eab1" name="smallchest.003">
+				<meta id="86952f80-397b-4961-8030-1ca530688822" name="smallchest.003_0"/>
+				<meta id="3255bb7a-9453-41bf-81c5-4e11e69a3309" name="smallchest.003_1"/>
+				<meta id="efdff3a2-37fa-486d-b1b2-84c4f1036cb1" name="smallchest.003_2"/>
+				<meta id="84b77521-520e-4b92-9d7a-9dffdca98151" name="smallchest.003_3"/>
+			</meta>
+			<meta id="66055a30-3a33-4ef6-9307-76ea2670f672" name="smallchest.002">
+				<meta id="921d9909-c095-41f5-924f-7714c7a96958" name="smallchest.002_0"/>
+				<meta id="2e7460c9-7f5b-4a2b-9c51-f988b40d2d21" name="smallchest.002_1"/>
+				<meta id="06255b12-5da7-46d7-a727-a39186699b8d" name="smallchest.002_2"/>
+				<meta id="ce0001f8-60f8-4e7b-af72-f2bd621a5b7c" name="smallchest.002_3"/>
+			</meta>
+		</meta>
+		<meta id="59e56097-8cc9-4535-b9d3-a2acd82b628b" name="Crate_Iron_Part">
+			<meta id="22d901b9-e93f-4b56-9fd6-fe6ba51cf79c" name="crate.014">
+				<meta id="1e78c7b3-5c20-4964-a523-933bf457dcba" name="crate.014_0"/>
+				<meta id="cd078002-7eb3-4f92-a04c-69e4a70925dc" name="crate.014_1"/>
+			</meta>
+			<meta id="d7cc590d-ada5-4f2c-bd9f-ff0724800595" name="Attach_Bottom.012"/>
+			<meta id="64b10799-3515-4240-be95-4ea715195547" name="stones"/>
+		</meta>
+		<meta id="0621a066-6e64-46d7-a411-25a9e1bfcae1" name="Crate_Stone_Part">
+			<meta id="dff6c510-c2db-4084-b8de-d77dd69b0228" name="crate.015">
+				<meta id="e0b078d9-62e4-411f-8f3b-9b658d8d822f" name="crate.015_0"/>
+				<meta id="c548f623-2401-4abf-8b91-8b511fab3499" name="crate.015_1"/>
+			</meta>
+			<meta id="bb3c741a-8425-481e-9e7f-4996f44937cc" name="Attach_Bottom.013"/>
+			<meta id="0faa53bf-2074-43f6-a5ed-0275043fddcf" name="stones.001"/>
+		</meta>
+	</meta>
+	<meta id="c0754ee8-f673-42d9-bb44-a99ae771f4dd" type="group" folder="true" name="LOD">
+		<meta id="0b728eea-9b9e-4f2c-a684-ab1836747619" name="Crate2_Part"/>
+		<meta id="d8326378-3f4f-4dce-8b0d-074b416d887f" name="Crate_Flat_Gold_Part"/>
+		<meta id="d28d6484-0287-419a-83c7-6d2885409e57" name="Crate_Flat_Iron_Part"/>
+		<meta id="2af5bb66-a1a0-4c11-a2b7-802f7d277974" name="Crate_Rope_Part"/>
+		<meta id="23b24795-f855-4978-a264-f277b47a6721" name="Crate6_Part"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="0c6f8b1f6cd475b24854d5efcd6a13cc"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.001_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.001_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="smallchest.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="handcrate.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="crate.010_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="crate.010_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="crate.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Coal_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Flat1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Flat2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="lid"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Flat_Gold_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="lid.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.009"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Flat_Iron_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Rope_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="crate flat.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hinge.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.003_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.003_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="smallchest.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.002_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="smallchest.002_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="smallchest.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate6_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="crate.014_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="crate.014_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="crate.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="stones"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Iron_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="crate.015_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="crate.015_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="crate.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="stones.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Crate_Stone_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0c17932f-c1e0-4fdd-aa00-12c40fbaaf89"/>
+			<MaterialName value="coal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a81964d4-395e-4fa4-827c-d0a5f6096a73"/>
+			<MaterialName value="colors"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1f9bef76-3c7b-4523-83b2-fcb04c44de09"/>
+			<MaterialName value="iron"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b73abfbd-6aa4-498e-83ea-a7e0cfbf1060"/>
+			<MaterialName value="leather"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a14d0d6a-5c62-4680-a5e9-3b6194ec2351"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1e9b8835-f546-4640-9a8b-c70a305d908e"/>
+			<MaterialName value="metal_gold"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="77a86a78-efce-4ed6-8a92-760387e5492b"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fffca7e2-b706-40d5-9972-1ae047124378"/>
+			<MaterialName value="rope"/>
+		</Item>
+	</MaterialList>
+</importer>
+

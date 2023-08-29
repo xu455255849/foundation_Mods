@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="abcc724d-df51-48f6-b464-3c69f300fc3c">
+	<meta id="e93b39fc-d7c0-480b-99d5-5857238ef74c" type="group" folder="true" name="Materials">
+		<meta id="78cd44c8-8549-45d1-a49b-97428e20b754" name="stone"/>
+		<meta id="5251fe83-beb3-4602-98de-521ad4fc530d" name="light metal"/>
+		<meta id="997f38ef-bbd1-48dc-b14e-87a4cd0d92da" name="dark metal"/>
+		<meta id="1901712d-2dcc-47bc-98c3-8f1760d7a122" name="brick"/>
+		<meta id="5210e710-13ff-4f59-8031-3c89e887f0d4" name="planks"/>
+		<meta id="cc874359-cd63-48da-b51d-ed67e2a41737" name="dirt"/>
+	</meta>
+	<meta id="166a768a-38ce-4773-828d-5eeaf007c84d" type="group" folder="true" name="Meshes">
+		<meta id="dd809c8d-0da7-4fb7-824e-4a24eea1bfa8" name="box.001_stone"/>
+		<meta id="9ea084a3-d74f-4a5f-a3bc-5b9eaeaff15c" name="box.001_light metal"/>
+		<meta id="47a06ccc-6b35-42cf-a994-2be0f9340052" name="box.001_dark metal"/>
+		<meta id="178b68b7-b4a9-47a6-94a7-8891d4e64457" name="base_brick"/>
+		<meta id="5a4433d2-6c94-4d8b-9bc5-097155bc3e76" name="box_planks"/>
+		<meta id="b6c254d9-b4ca-4a9d-9a8d-5e16e5f8028f" name="lid_planks"/>
+		<meta id="e5459e53-ecb1-49e6-9736-403398983288" name="Plane_dirt"/>
+	</meta>
+	<meta id="1d601118-72cf-402f-b3f5-d21e54d0d2a9" name="Prefab">
+		<meta id="cd4dbc7b-ae55-4c4d-a7ce-b93c2adceb32" name="Coffin_Stone_Part">
+			<meta id="a355dfba-1593-4bde-96b6-5a554f10e872" name="base"/>
+			<meta id="c80bcafd-69b7-4629-aa2d-685690828bcf" name="Attach_Bottom"/>
+			<meta id="d3bfcc3a-1018-4611-9ecb-190556b274f7" name="box.001">
+				<meta id="6ff47020-ad7b-4058-b935-951ad4c940e7" name="box.001_0"/>
+				<meta id="672a1e39-e87d-4b67-82a0-9ae9e6d2a115" name="box.001_1"/>
+				<meta id="d40c0920-215d-4817-898f-bd1fef59d350" name="box.001_2"/>
+			</meta>
+		</meta>
+		<meta id="6394c29d-bfe8-45e7-a4f4-be5c7e472245" name="Coffin_Wood_Part">
+			<meta id="accce864-fea7-4607-81cc-63f721f92f6a" name="box"/>
+			<meta id="47d36d56-6547-4224-9582-20c30442b586" name="Attach_Bottom.001"/>
+			<meta id="17d78ccf-4d6c-4a0c-b41c-6fbfe18d6239" name="lid"/>
+		</meta>
+		<meta id="9faca94d-758f-4b85-930b-9f6e9fee2755" name="Plane"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="62ce9ffe9b1067d17eb65a026de347f5"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="base"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="box.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="box.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="box.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="box.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Coffin_Stone_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="box"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="lid"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Coffin_Wood_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Plane"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1901712d-2dcc-47bc-98c3-8f1760d7a122"/>
+			<MaterialName value="brick"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="997f38ef-bbd1-48dc-b14e-87a4cd0d92da"/>
+			<MaterialName value="dark metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cc874359-cd63-48da-b51d-ed67e2a41737"/>
+			<MaterialName value="dirt"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5251fe83-beb3-4602-98de-521ad4fc530d"/>
+			<MaterialName value="light metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5210e710-13ff-4f59-8031-3c89e887f0d4"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="78cd44c8-8549-45d1-a49b-97428e20b754"/>
+			<MaterialName value="stone"/>
+		</Item>
+	</MaterialList>
+</importer>
+

@@ -1,0 +1,78 @@
+{
+	"BUILDINGS": {
+		"COVERED_BRIDGE_V3_MONUMENT_NAME": "Ensemble pour pont couvert V3",
+		"COVERED_BRIDGE_V3_LARGE_MONUMENT_NAME": "Ensemble pour pont large V3",
+		"COVERED_BRIDGE_V3_NAME": "Eléments pour pont couvert"
+	},
+
+	"BUILDING_PARTS": {
+		"COVERED_BRIDGE_V3_CORE_NAME": "Pont",
+		"COVERED_BRIDGE_V3_LARGE_CORE_NAME": "Grand pont",
+		"COVERED_BRIDGE_V3_HOUSE_NAME": "Maison au toit en bois",
+		"COVERED_BRIDGE_V3_CENTER_COVERAGE_NAME": "Couverture centrale",
+		"COVERED_BRIDGE_V3_START_END_COVERAGE_NAME": "Couverture pour les extrémités",
+		"COVERED_BRIDGE_V3_TAILOR_FUNCTION_NAME": "Atelier de tailleur",
+		"COVERED_BRIDGE_V3_GATE_FUNCTION2_NAME": "Soldat",
+		"COVERED_BRIDGE_V3_GATE_FUNCTION_NAME": "Soldat",
+		"BUILDING_FUNCTION_FOOD_MARKET_NAME": "Marché de nourriture",
+		"BUILDING_FUNCTION_GOODS_MARKET_NAME": "Marché de biens",
+		"BUILDING_FUNCTION_LUXURY_MARKET_NAME": "Marché de luxe",
+                "COVERED_BRIDGE_V3_RED_NAME": "Maison au toit rouge",
+		"COVERED_BRIDGE_V3_GREEN_A_NAME": "Maison au toit vert A",
+                "COVERED_BRIDGE_V3_GREEN_B_NAME": "Maison au toit vert B",
+                "COVERED_BRIDGE_V3_BLUE_NAME": "Maison au toit bleu",
+                "COVERED_BRIDGE_V3_RED_WINE_NAME": "Maison au toit lie de vin",
+                "COVERED_BRIDGE_V3_CARBON_NAME": "Maison au toit charbon",
+        	"COVERED_BRIDGE_V3_GATE_ROOT_NAME": "Portail à l'entrée du pont",
+        	"COVERED_BRIDGE_V3_GATE_TOWER_ROOT_NAME": "Tour flanquante de portail",
+        	"COVERED_BRIDGE_V3_HOUSE_TOWER1_NAME": "Maison 1 à 2 étages",
+        	"COVERED_BRIDGE_V3_HOUSE_TOWER2_NAME": "Maison 2 à 2 étages",
+        	"COVERED_BRIDGE_V3_HOUSE_TOWER3_NAME": "Maison 3 à 2 étages",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE1_NAME": "Maison 1 à 1 étage",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE2_NAME": "Maison 2 à 1 étage",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE3_NAME": "Maison 3 à 1 étage",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE4_NAME": "Maison 4 à 1 étage",
+        	"COVERED_BRIDGE_V3_HAT_FUNCTION_NAME": "Atelier du chapelier",
+        	"COVERED_BRIDGE_V3_KNIFE_FUNCTION_NAME": "Atelier du rémouleur",
+		"COVERED_BRIDGE_V3_BUILDING_FUNCTION_HOUSING_LVL1_NAME": "Maison niveau 1",
+		"COVERED_BRIDGE_V3_BUILDING_FUNCTION_HOUSING_LVL2_NAME": "Maison niveau 2"
+	},
+
+	"BUILDING_DESCRIPTIONS": {
+		"COVERED_BRIDGE_V3_DESC": "Base du pont",
+		"COVERED_BRIDGE_V3_MONUMENT_DESC": "Ensemble pour pont couvert",
+		"COVERED_BRIDGE_V3_LARGE_MONUMENT_DESC": "Ensemble pour pont large",
+		"COVERED_BRIDGE_V3_HOUSE_DESC": "A placer sur un bord latéral du pont",
+		"COVERED_BRIDGE_V3_CENTER_COVERAGE_DESC": "A placer au-dessus de la partie centrale du pont",
+		"COVERED_BRIDGE_V3_START_END_COVERAGE_DESC": "A placer au-dessus du début ou de la fin du pont",
+
+                "COVERED_BRIDGE_V3_RED_DESC": "A placer sur un bord latéral du pont",
+		"COVERED_BRIDGE_V3_GREEN_A_DESC": "A placer sur un bord latéral du pont",
+                "COVERED_BRIDGE_V3_GREEN_B_DESC": "A placer sur un bord latéral du pont",
+                "COVERED_BRIDGE_V3_BLUE_DESC": "A placer sur un bord latéral du pont",
+                "COVERED_BRIDGE_V3_RED_WINE_DESC": "A placer sur un bord latéral du pont",
+                "COVERED_BRIDGE_V3_CARBON_DESC": "A placer sur un bord latéral du pont",
+        	"COVERED_BRIDGE_V3_GATE_ROOT_DESC": "A placer au-dessus du début ou de la fin du pont",
+        	"COVERED_BRIDGE_V3_GATE_TOWER_ROOT_DESC": "A placer sur un bord latéral du portail",
+        	"COVERED_BRIDGE_V3_HOUSE_TOWER1_DESC": "A placer sur un bord latéral du pont",
+        	"COVERED_BRIDGE_V3_HOUSE_TOWER2_DESC": "A placer sur un bord latéral du pont",
+        	"COVERED_BRIDGE_V3_HOUSE_TOWER3_DESC": "A placer sur un bord latéral du pont",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE1_DESC": "A placer sur un bord latéral du pont",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE2_DESC": "A placer sur un bord latéral du pont",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE3_DESC": "A placer sur un bord latéral du pont",
+        	"COVERED_BRIDGE_V3_HOUSE_MIDDLE4_DESC": "A placer sur un bord latéral du pont"
+	},
+
+	"MONUMENTS": {
+		"CATEGORY_CORE_SING": "corps",
+		"CATEGORY_CORE_PLUR": "corps",
+		"CATEGORY_EXTENSION": "Extension",
+		"CATEGORY_EXTENSION_SING": "extension",
+		"CATEGORY_EXTENSION_PLUR": "extensions",
+		"CATEGORY_DOOR_SING": "porte",
+		"CATEGORY_DOOR_PLUR": "portes",
+		"CATEGORY_DECORATION": "Décoration",
+		"CATEGORY_DECORATION_SING": "décoration",
+		"CATEGORY_DECORATION_PLUR": "décorations"
+	}
+}

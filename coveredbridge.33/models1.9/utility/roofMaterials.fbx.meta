@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="88a55e2e-36d7-4da6-bc28-0ac1ff1874e9">
+	<meta id="406fa7f5-754d-4cb5-ba2e-459ccae08fec" type="group" folder="true" name="Materials">
+		<meta id="111ce9f1-2b27-4b9b-a504-305a56d1416e" name="brownRoof"/>
+		<meta id="e90a2bd2-15c7-41a9-a6c9-ea762c3dc971" name="blueRoof"/>
+		<meta id="f5a87074-a2c1-44f4-82a5-35b25624dc08" name="greyRoof"/>
+		<meta id="2412ef4e-e890-4b07-9c2e-9b70c1b6f70c" name="grey2Roof"/>
+		<meta id="633ca8ae-2b81-4dd4-a7f9-27d3a86b1e94" name="redRoof"/>
+		<meta id="16bf8e46-dd80-42f7-8446-3754b4b00640" name="wYellowRoof"/>
+		<meta id="a0965200-35a7-4298-808a-ec2866fdcfb2" name="wBlueRoof"/>
+		<meta id="70f1403f-e100-4648-b2df-464565af7395" name="wBrownRoof"/>
+		<meta id="9a81612f-cea8-4f95-9a18-38f51fa87ed0" name="wGreenRoof"/>
+		<meta id="9c46c7c1-009e-4326-bddb-431526e786e9" name="wRedRoof"/>
+		<meta id="16267782-bf53-4ba6-99c9-e3be634cce0e" name="wManorRoof"/>
+		<meta id="4905d543-7071-4263-8ee0-a4d19804686e" name="wManor2Roof"/>
+		<meta id="abfbaa14-5330-4b06-845e-1a0f22b1c860" name="brownMonasteryRoof"/>
+		<meta id="55cda7ba-ef34-4db3-93e4-e56abb12d66d" name="blueMonasteryRoof"/>
+		<meta id="d6b01231-aba2-4aa2-8906-a521bcfd9b9a" name="purpleMonasteryRoof"/>
+		<meta id="55732f12-f652-4e73-8806-dee47487b61f" name="strawRoof"/>
+	</meta>
+	<meta id="f03426ba-c825-498b-bb56-af6689354e80" type="group" folder="true" name="Meshes">
+		<meta id="275eb9d8-2469-4e11-ba31-c1062ea70e9e" name="brownMaterial_brownRoof"/>
+		<meta id="3896e96b-02cd-4a2e-a4f6-87c8de7faf9b" name="blueMaterial_blueRoof"/>
+		<meta id="4ff8e28f-e821-4b81-89c5-fc6278d49bde" name="greyMaterial_greyRoof"/>
+		<meta id="d305030c-e9a5-4344-b58a-2167f70cacbc" name="grey2Material_grey2Roof"/>
+		<meta id="fa219639-69a3-4c6f-9ef6-deae1e0eb075" name="redMaterial_redRoof"/>
+		<meta id="d2566afa-288e-48a7-aa94-d093ec6b13b7" name="yellowWMaterial_wYellowRoof"/>
+		<meta id="4ec22549-f43a-43ec-bb2c-737dc57efcbb" name="blueWMaterial_wBlueRoof"/>
+		<meta id="fd58126e-008c-4688-a4f1-665ed0e6c015" name="brownWMaterial_wBrownRoof"/>
+		<meta id="fd9060f7-2da8-496a-99c6-1cd7886d5847" name="greenWMaterial_wGreenRoof"/>
+		<meta id="b2694236-b0ee-40f2-a419-7deef1cdc724" name="redWMaterial_wRedRoof"/>
+		<meta id="554a530a-fc07-4286-acee-8c211a522d45" name="manorWMaterial_wManorRoof"/>
+		<meta id="438cdf86-6418-45ea-823d-2f4290fdfd44" name="manor2WMaterial_wManor2Roof"/>
+		<meta id="e7c4c01c-3883-436e-98b6-ac84a5670273" name="browMonasteryRoofMaterial_brownMonasteryRoof"/>
+		<meta id="7ba88bb4-bb8e-40e2-8da4-77cf0a9e816c" name="blueMonasteryRoofMaterial_blueMonasteryRoof"/>
+		<meta id="0e46299d-d0f0-4c18-8dbd-1d7d17bf35a5" name="blueMonasteryRoofMaterial1_purpleMonasteryRoof"/>
+		<meta id="b3070201-3e15-40e7-a927-6d04d184b3ab" name="strawMaterial1_strawRoof"/>
+	</meta>
+	<meta id="31f817de-cc54-4004-b9df-139c6ed7863d" name="Prefab">
+		<meta id="54a85e58-eb2b-4cf0-a1e8-1a0b06e8b2cd" name="brownMaterial"/>
+		<meta id="e851da07-f325-4fe4-8113-fe2e371c54cf" name="blueMaterial"/>
+		<meta id="ff31f4eb-4dbd-4ee1-8e42-2e5ebd285344" name="greyMaterial"/>
+		<meta id="c456e766-fdd1-4942-9ec2-86abdb76facb" name="grey2Material"/>
+		<meta id="eb06d94e-2dd9-478f-9957-a37fb2351c58" name="redMaterial"/>
+		<meta id="51769916-4a94-40c7-b26d-081c9e611f22" name="yellowWMaterial"/>
+		<meta id="a97a2bcc-e916-4215-b9b9-84fb3a54ff39" name="blueWMaterial"/>
+		<meta id="9a7e021f-edd9-46cd-b17f-b7fb011a9bd8" name="brownWMaterial"/>
+		<meta id="3a502a98-f862-40dd-8619-ae5e4de290b2" name="greenWMaterial"/>
+		<meta id="b5f4da55-9662-4499-867b-0d03b51f1805" name="redWMaterial"/>
+		<meta id="2e1075db-23c0-4661-a0cd-fcb05a63f407" name="manorWMaterial"/>
+		<meta id="70df4003-456b-4c61-a8b9-602c740f77a8" name="manor2WMaterial"/>
+		<meta id="fe0f99a1-857a-4390-ae9d-b51e4e731aff" name="browMonasteryRoofMaterial"/>
+		<meta id="0203ddcb-69a7-43c0-8ee7-5fe83da1162a" name="blueMonasteryRoofMaterial"/>
+		<meta id="243ce983-0d36-4ced-b5f7-fef48b85e535" name="blueMonasteryRoofMaterial1"/>
+		<meta id="38d6e936-29d2-47de-8422-9507b7d81b6c" name="strawMaterial1"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="99f093d3929a89c55cddc556c3805648"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="brownMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="blueMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="greyMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="grey2Material"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="redMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="yellowWMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="blueWMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="brownWMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="greenWMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="redWMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="manorWMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="manor2WMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="browMonasteryRoofMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="blueMonasteryRoofMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="blueMonasteryRoofMaterial1"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="strawMaterial1"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="55cda7ba-ef34-4db3-93e4-e56abb12d66d"/>
+			<MaterialName value="blueMonasteryRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e90a2bd2-15c7-41a9-a6c9-ea762c3dc971"/>
+			<MaterialName value="blueRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="abfbaa14-5330-4b06-845e-1a0f22b1c860"/>
+			<MaterialName value="brownMonasteryRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="111ce9f1-2b27-4b9b-a504-305a56d1416e"/>
+			<MaterialName value="brownRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2412ef4e-e890-4b07-9c2e-9b70c1b6f70c"/>
+			<MaterialName value="grey2Roof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f5a87074-a2c1-44f4-82a5-35b25624dc08"/>
+			<MaterialName value="greyRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d6b01231-aba2-4aa2-8906-a521bcfd9b9a"/>
+			<MaterialName value="purpleMonasteryRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="633ca8ae-2b81-4dd4-a7f9-27d3a86b1e94"/>
+			<MaterialName value="redRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="55732f12-f652-4e73-8806-dee47487b61f"/>
+			<MaterialName value="strawRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a0965200-35a7-4298-808a-ec2866fdcfb2"/>
+			<MaterialName value="wBlueRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="70f1403f-e100-4648-b2df-464565af7395"/>
+			<MaterialName value="wBrownRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9a81612f-cea8-4f95-9a18-38f51fa87ed0"/>
+			<MaterialName value="wGreenRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4905d543-7071-4263-8ee0-a4d19804686e"/>
+			<MaterialName value="wManor2Roof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="16267782-bf53-4ba6-99c9-e3be634cce0e"/>
+			<MaterialName value="wManorRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9c46c7c1-009e-4326-bddb-431526e786e9"/>
+			<MaterialName value="wRedRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="16bf8e46-dd80-42f7-8446-3754b4b00640"/>
+			<MaterialName value="wYellowRoof"/>
+		</Item>
+	</MaterialList>
+</importer>
+

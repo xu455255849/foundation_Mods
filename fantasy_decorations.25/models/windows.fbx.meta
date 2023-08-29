@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="86f1fa16-ff44-4af4-bb07-dda4fb710295">
+	<meta id="9deb5852-4253-4fb0-bc04-f8c3e6920ba1" type="group" folder="true" name="Materials">
+		<meta id="62c5c148-7dd3-4c35-9ab0-229de62335ab" name="wood2"/>
+		<meta id="f868b501-dee1-437c-b04d-2a831c061244" name="black"/>
+		<meta id="3dc02c91-fa20-4242-ae7c-b3ebdb614243" name="wood"/>
+		<meta id="7f538c78-b660-4889-9618-d5289ee301b1" name="rope"/>
+		<meta id="4af4b085-d61f-4ab3-bbea-dc9a4708f69d" name="brick"/>
+		<meta id="3301841c-c79a-4f52-95ad-c31edfb61e85" name="marble"/>
+		<meta id="e9f08b8b-118a-4a8b-928e-5c30b3338409" name="lightmetal"/>
+		<meta id="27a72a74-fdbb-438b-bfc2-be044d7badb7" name="bark"/>
+		<meta id="897c9ee9-68e6-4b90-bb3e-c50a895d64a7" name="end"/>
+		<meta id="840f0f90-5eca-4a69-9864-ff748d0c0f7a" name="darkmetal"/>
+		<meta id="6d9b53e8-c3df-4461-bf2c-b8ecb44a45e8" name="dirt"/>
+		<meta id="5fc7ed61-fe71-401b-997d-823c9cd873d9" name="cloth_white"/>
+	</meta>
+	<meta id="cc31e1f0-87e7-473d-b80a-b22043cc154c" type="group" folder="true" name="Meshes">
+		<meta id="fd63914b-bf2d-420c-8985-6a4342f06e95" name="windowframe_wood"/>
+		<meta id="b5f7f15a-3eb9-4917-b818-7fe2d56c9c79" name="black.001_black"/>
+		<meta id="f4925d26-7d69-46ff-8163-d4d7185bc908" name="rope_rope"/>
+		<meta id="f5cd6fe4-f7ed-47e3-a7b7-18a18dc4aa4f" name="window_black"/>
+		<meta id="454e288a-9bc7-4724-b375-1e21cb2a1a49" name="window_marble"/>
+		<meta id="1fe77988-0222-4276-a688-3370f5b0572e" name="frame.002_marble"/>
+		<meta id="aeca77b2-a883-4504-8e9d-8fc15df3c1a4" name="frame.008_wood"/>
+		<meta id="7c04e918-a01d-4041-a58a-b43971a3925b" name="black_black"/>
+		<meta id="dbb58e71-a552-46ff-a38f-048e43cf4812" name="windowframe.005_wood"/>
+		<meta id="4c93cdd4-1620-4519-8dbf-409b5e17dfe9" name="black.003_black"/>
+		<meta id="3b45f4ac-03b9-4479-bccc-991cd309f5f1" name="planter_wood"/>
+		<meta id="4068a1fb-914b-4d08-8bfa-37c984191465" name="planter_dirt"/>
+		<meta id="b5ae33f9-e0fb-4753-a196-1edca533db13" name="frame_bark"/>
+		<meta id="19a91ea7-11b6-4e2a-96de-de9ebddb18e5" name="frame_end"/>
+		<meta id="c80f7b3e-60bd-4396-9b2b-c092dfefe41c" name="curtain.001_cloth_white"/>
+		<meta id="47c721d4-aee5-45b8-8cf2-54c41d964fe7" name="Window1_Part_LOD_012_wood2"/>
+		<meta id="ac447f03-2423-4fbe-91e5-3df19190514d" name="Window1_Part_LOD_012_wood"/>
+		<meta id="e408148b-9318-4402-89b1-e382b2c3fa38" name="Window3_Part_LOD_012_wood2"/>
+		<meta id="2a53bbec-1bc6-4706-a81f-69888d0c1f07" name="Window3_Part_LOD_012_black"/>
+		<meta id="96cc676d-f24f-473d-9a91-2deae880f3e6" name="Window3_Part_LOD_012_wood"/>
+		<meta id="79afa303-985f-4c2d-a237-7b913c8f39d0" name="Window5_Part_LOD_012_lightmetal"/>
+		<meta id="633438b1-dedd-4e8e-bb5b-31692012cf40" name="Window5_Part_LOD_012_marble"/>
+		<meta id="15e5daa4-2c96-41d9-a111-2d5cb7c33bc4" name="Window4_Part_LOD_0123_wood"/>
+		<meta id="aad22ec5-aea9-46fb-8e4a-326dcaca17b5" name="Window4_Part_LOD_0123_bark"/>
+		<meta id="99cfe7db-1ce9-4df2-81b8-e43ab380e84d" name="Window4_Part_LOD_0123_end"/>
+		<meta id="9f3d9aae-d259-4c0f-8d77-eb7c794234d1" name="Window2_Part_LOD_012_wood"/>
+		<meta id="bb8a1264-e522-4c66-870e-f058d61bfb23" name="Window2_Part_LOD_012_lightmetal"/>
+		<meta id="940d60c8-c7a8-4699-83cf-d4a29f663ae7" name="Window2_Part_LOD_012_darkmetal"/>
+		<meta id="e1565bbc-cbf7-4393-b94a-b1e2dbf7f176" name="bricks_brick"/>
+		<meta id="9148c843-8221-4c06-85cf-e6fbc6c20dab" name="mount_bark"/>
+		<meta id="b40b5a05-457a-4ad6-a2ef-ed8624627089" name="Window2_Part_LOD_012_rope"/>
+		<meta id="e21a6392-473a-42e8-9cbb-0c291ed070b9" name="Window2_Part_LOD_012_cloth_white"/>
+	</meta>
+	<meta id="350af78b-bef8-448e-9b05-85635e23f6ff" name="Prefab">
+		<meta id="e00ba632-f4df-49a9-b415-89befa3ea3c9" name="Window1_Part">
+			<meta id="aa55dcf9-d2ba-4f77-9078-1f28a215b92a" name="Attach_Bottom"/>
+			<meta id="38388e0f-ff4e-4bac-8f02-a5f114d79f10" name="windowframe"/>
+			<meta id="9db787ea-1ce9-4254-b0fa-e074562b32d7" name="black.001"/>
+			<meta id="eb8e569c-e79b-4e4f-bc3a-a4ae5857f492" name="curtain.001"/>
+			<meta id="575ea2b3-6516-4a5d-973a-ab5170de930a" name="rope"/>
+			<meta id="6ab53c39-2085-4a96-9211-6aa158d7c37a" name="Window1_Part_0"/>
+			<meta id="0a20ebe4-de76-4502-bf98-0006ac6c0010" name="Window1_Part_1"/>
+			<meta id="b2cb3f4b-2e83-4d90-a80a-dbba8326155c" name="black.002"/>
+		</meta>
+		<meta id="625c76d0-65ab-4037-8d6e-32d2ddeb7289" name="Window3_Part">
+			<meta id="0faf9b2e-a9e5-46ee-af76-80b18e1e4394" name="Attach_Bottom.001"/>
+			<meta id="9c91ac79-34f0-456a-af88-59a18f6aa5c7" name="Window3_Part_0"/>
+			<meta id="5f57b0ba-51e6-4f38-81d5-af8c4a69c08d" name="Window3_Part_1"/>
+			<meta id="d1457517-0afc-4b87-aae5-a79723475d91" name="Window3_Part_2"/>
+			<meta id="37fb9dbb-9da5-491e-91a4-4e923de3a8eb" name="bricks"/>
+		</meta>
+		<meta id="3bc944aa-9e00-4078-9063-358c7a356309" name="Window5_Part">
+			<meta id="b63d5b5a-1acb-4836-8028-9981f9189ba6" name="Attach_Bottom.002"/>
+			<meta id="b46e864c-3241-4bbb-80d8-045f11c19057" name="window">
+				<meta id="13083aaa-4576-4f84-81a6-22f303ba1d14" name="window_0"/>
+				<meta id="cca60581-f060-475f-a73f-be7b713fe37c" name="window_1"/>
+			</meta>
+			<meta id="6bf72b15-d83f-416e-8cc1-e801ea6a0fe4" name="frame.002"/>
+			<meta id="e5499f9c-87c8-4925-a452-e8c627a6f403" name="Window5_Part_0"/>
+			<meta id="e2ece4e3-1595-4f41-ac0f-345ed5f04ed0" name="Window5_Part_1"/>
+		</meta>
+		<meta id="1fe0e46a-7d77-4ef2-9d81-fbf10f8f1e43" name="Window4_Part">
+			<meta id="b2ab9848-7ec4-4574-82a8-7d0642756195" name="Attach_Bottom.003"/>
+			<meta id="d8b24da7-5858-4be9-b764-1c4ecf4b7fa4" name="frame.008"/>
+			<meta id="4a5d6aa6-165d-44a3-a360-8d3c1a3d4e9a" name="black"/>
+			<meta id="39128512-cb76-41f6-a028-e66512fe3392" name="frame">
+				<meta id="391e64d6-071b-44f4-92be-63709e7a21b4" name="frame_0"/>
+				<meta id="408a047c-d9f6-4d15-969a-9ac18456db76" name="frame_1"/>
+			</meta>
+			<meta id="6350c1b7-fdc4-4b8c-aed8-a316827db43b" name="Window4_Part_0"/>
+			<meta id="3f7c6fb4-8265-4a6c-8439-81c4de3eac9e" name="Window4_Part_1"/>
+			<meta id="36e3ff32-e764-4283-b87e-f86943d776ed" name="Window4_Part_2"/>
+		</meta>
+		<meta id="d61aa920-35ba-47d3-a3ed-a50dacb9148e" name="Window2_Part">
+			<meta id="5386731a-fe47-477a-9bc5-575fa10550cb" name="Attach_Bottom.004"/>
+			<meta id="50d5d5f3-5ade-4c70-9b43-41827d88c618" name="Attach_Left.045"/>
+			<meta id="6b799e59-aee3-4dd1-b636-d710e1a83d00" name="Attach_Left.001"/>
+			<meta id="a3f6fb94-13d2-4874-936d-7f6cd712c1f3" name="Attach_Left.002"/>
+			<meta id="00f40bc7-a497-4a93-8d42-5f56fb6f57e7" name="windowframe.005"/>
+			<meta id="e41b85bb-40fb-4f5e-90da-e786e6b39033" name="black.003"/>
+			<meta id="5fdc4174-da0c-4836-8062-175352af290c" name="planter">
+				<meta id="5db64189-046d-424e-a087-772734de375d" name="planter_0"/>
+				<meta id="1d9b7eaf-ae20-425e-adae-f7fa075e3f99" name="planter_1"/>
+			</meta>
+			<meta id="2493d3e0-e2c0-4c27-9a6e-4290469c731e" name="Window2_Part_0"/>
+			<meta id="12d6d7c1-6300-476d-af84-ebbf855f5d72" name="Window2_Part_1"/>
+			<meta id="3d495d59-dadd-46f9-9242-34b59e4a02bf" name="Window2_Part_2"/>
+			<meta id="53041cc0-b5fe-4c47-be1c-8532014c0dc1" name="mount"/>
+			<meta id="10a0800a-db07-4ebd-b086-79d4d397bd26" name="Window2_Part_3"/>
+			<meta id="7662e0f4-a392-48f5-a11e-eb2197db983b" name="Window2_Part_4"/>
+		</meta>
+	</meta>
+	<meta id="bbcf32ec-7764-44bc-81bd-583b3d0b1e20" type="group" folder="true" name="LOD">
+		<meta id="56f9cf47-d5c1-4aae-901f-27c06801b3a7" name="Window1_Part_0"/>
+		<meta id="8b8bb32b-dae6-44a2-b332-07fce37887c9" name="Window1_Part_1"/>
+		<meta id="1a079bc5-686a-45c1-9d6c-8ef88263e507" name="Window3_Part_0"/>
+		<meta id="38bc43a4-f836-48dc-9448-a377411b0b4e" name="Window3_Part_1"/>
+		<meta id="74db1a9e-d1ac-449e-ba5c-2b1334f5907b" name="Window3_Part_2"/>
+		<meta id="62fbe6a6-1cca-43b1-a5ca-f6cfca86753a" name="Window5_Part_0"/>
+		<meta id="412cb24b-b632-4f74-a1f9-d7eefad5c738" name="Window5_Part_1"/>
+		<meta id="2da6088a-4221-47d7-ac18-337df0e170ba" name="Window4_Part_0"/>
+		<meta id="95f44607-f78c-44c5-9545-ce8c9ac07175" name="Window4_Part_1"/>
+		<meta id="0b8c1806-2e4b-47a4-b976-831cc5e0793c" name="Window4_Part_2"/>
+		<meta id="cabd270f-3770-4d1b-9562-bd58ee7e1445" name="Window2_Part_0"/>
+		<meta id="8f072c3b-10f7-4ede-a609-21cf27fe10e6" name="Window2_Part_1"/>
+		<meta id="6c59336f-89e5-43ff-832c-88ef93e0167e" name="Window2_Part_2"/>
+		<meta id="263b1348-d9b4-4d29-a779-acdb17e96309" name="Window2_Part_3"/>
+		<meta id="61fa5e13-f47e-4990-a6ef-4ebc0bf27b2f" name="Window2_Part_4"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="584af8569b4280d8bea9ae18a612e934"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="windowframe"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="black.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="curtain.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window1_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window1_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="black.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Window1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window3_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window3_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window3_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bricks"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Window3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="window_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="window"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window5_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window5_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Window5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="frame.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="black"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="frame_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="frame_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="frame"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window4_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window4_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window4_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Window4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Left.045"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Left.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Left.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="windowframe.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="black.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="planter_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="planter_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="planter"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window2_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window2_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="mount"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window2_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Window2_Part_4"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Window2_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="27a72a74-fdbb-438b-bfc2-be044d7badb7"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f868b501-dee1-437c-b04d-2a831c061244"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4af4b085-d61f-4ab3-bbea-dc9a4708f69d"/>
+			<MaterialName value="brick"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5fc7ed61-fe71-401b-997d-823c9cd873d9"/>
+			<MaterialName value="cloth_white"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="840f0f90-5eca-4a69-9864-ff748d0c0f7a"/>
+			<MaterialName value="darkmetal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6d9b53e8-c3df-4461-bf2c-b8ecb44a45e8"/>
+			<MaterialName value="dirt"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="897c9ee9-68e6-4b90-bb3e-c50a895d64a7"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e9f08b8b-118a-4a8b-928e-5c30b3338409"/>
+			<MaterialName value="lightmetal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3301841c-c79a-4f52-95ad-c31edfb61e85"/>
+			<MaterialName value="marble"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7f538c78-b660-4889-9618-d5289ee301b1"/>
+			<MaterialName value="rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3dc02c91-fa20-4242-ae7c-b3ebdb614243"/>
+			<MaterialName value="wood"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="62c5c148-7dd3-4c35-9ab0-229de62335ab"/>
+			<MaterialName value="wood2"/>
+		</Item>
+	</MaterialList>
+</importer>
+

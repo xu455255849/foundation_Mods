@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="fe8d8b4e-fcc5-4e9d-a344-06e049725156">
+	<meta id="3365aba9-31f7-4f1e-b019-66d9f2d0f489" type="group" folder="true" name="Materials">
+		<meta id="abb4e592-deb7-4104-842f-7990ea2b8ee3" name="tools"/>
+		<meta id="c7ef582c-0e35-4cba-b9d0-cfecc9cea4c1" name="end"/>
+		<meta id="466a9b2e-14c4-480e-ac2a-df23f98a684f" name="metal"/>
+		<meta id="8988e942-e743-49b0-834c-8dfa010c776a" name="planks"/>
+		<meta id="ed9c5bfd-53b6-4806-8ea1-5fd8e609680a" name="bark"/>
+	</meta>
+	<meta id="5bbe2742-1faa-4991-9b04-a34c8413dff2" type="group" folder="true" name="Meshes">
+		<meta id="2fb6d4c1-e673-48f9-ab62-d2e7e42760f7" name="pitchfork_tools"/>
+		<meta id="8447d438-be96-4c7d-9743-9ff201e4eba9" name="pickaxe_tools"/>
+		<meta id="f8179042-a722-4ff8-855f-cbd3bcb3b40f" name="pickaxe_end"/>
+		<meta id="da84c1ce-8f19-44d5-a0ea-7563c2e5024e" name="scythe_tools"/>
+		<meta id="8e28cc9c-b3dd-4eae-9ab9-d737fa06850e" name="scythe_end"/>
+		<meta id="c3f90fd5-0b13-41db-91f2-b39dfc7cf1ae" name="axe_tools"/>
+		<meta id="e54b8c71-c339-4f48-a65e-cef06df0e123" name="axe_end"/>
+		<meta id="3d1daa14-7efb-490f-95c3-c177422e16fc" name="saw_tools"/>
+		<meta id="467533b4-e27c-45a6-8637-bfcecc652038" name="saw_end"/>
+		<meta id="39fede8e-99db-4c67-8f83-afe7ef8a2056" name="saw.001_tools"/>
+		<meta id="4d347a47-0684-4c57-84f9-bbe0f3f2bf93" name="saw.001_end"/>
+		<meta id="4cb81f4d-1c0b-4c33-8956-9e82d17fec24" name="axe.001_tools"/>
+		<meta id="3c097eef-abd4-4ac7-a1b5-193f06b892bb" name="axe.001_end"/>
+		<meta id="ee34ca7b-0dc9-402e-818b-4c41a762e502" name="sickle.001_tools"/>
+		<meta id="58a7ba45-fd53-406b-a906-9cd89ea77f7e" name="sickle.001_end"/>
+		<meta id="5d8695e1-e17f-42c9-aa14-d440a88ce973" name="pickaxe.002_tools"/>
+		<meta id="92f6a6cd-b46d-451f-839f-6d8057dfd2cb" name="pickaxe.002_end"/>
+		<meta id="b14f7c17-a5e7-4cdb-bf57-351291b0e48d" name="pitchfork.002_tools"/>
+		<meta id="ae8b6d13-f04c-4b22-b6b4-3f37bd96a0e0" name="pitchfork.003_tools"/>
+		<meta id="56a92f86-400c-4d9a-bad6-ac29d32e8e24" name="pitchfork.004_tools"/>
+		<meta id="66f901c2-76f5-462b-a0fd-e21dda3be274" name="scythe.002_tools"/>
+		<meta id="acde98dc-eeda-4b8c-87ff-81b3d2fce94f" name="scythe.002_end"/>
+		<meta id="f124d2f9-ecd3-4807-9943-604cdf00cd23" name="scythe.003_tools"/>
+		<meta id="8d3c0ad8-cd0d-4e9b-8c9f-6b2d6b342b71" name="scythe.003_end"/>
+		<meta id="b4f6192c-943c-486b-880b-3aa5859f994c" name="pitchfork.005_tools"/>
+		<meta id="47462ced-bde6-4f76-be7d-8d8bf76dc5d7" name="hatchet.002_tools"/>
+		<meta id="7b92e85c-7275-46a0-beeb-fa0e4c5d7027" name="pitchfork.006_tools"/>
+		<meta id="b57bdbc0-09d8-43d7-8dc0-5f2a063dd600" name="pitchfork.006_end"/>
+		<meta id="3e5682a6-afc8-4bae-bfa3-b620d85b08fa" name="scythe.004_tools"/>
+		<meta id="ca315f0d-6786-4c5d-97b1-c9b06a563870" name="scythe.004_end"/>
+		<meta id="d0ce6d98-bcf6-49ef-a931-c44409c82931" name="pitchfork.007_tools"/>
+		<meta id="609951fd-4dcc-448d-9c22-1f5c89d89c03" name="pitchfork.007_end"/>
+		<meta id="6de252a0-cd67-4ca8-874b-32c2d8261cc4" name="pitchfork.008_tools"/>
+		<meta id="bf6fc723-9b9c-4477-a77b-8a00a9251dfd" name="pitchfork.008_end"/>
+		<meta id="77143e0e-5191-4b1d-82fd-3facbb0749e9" name="scythe.007_tools"/>
+		<meta id="87c53b0b-7ef5-4b9c-a167-8e5d9cd8a8a5" name="scythe.007_end"/>
+		<meta id="e42fd3be-257e-425e-ad94-9c6d569ca44a" name="pitchfork_bark"/>
+		<meta id="532c25ea-77cc-400d-a91c-8d7f4f77ced3" name="pickaxe_bark"/>
+		<meta id="9d029c37-6d65-4ece-ba25-ec07db775ef1" name="scythe_bark"/>
+		<meta id="7b06b99d-676e-470d-8553-a4b609e18079" name="axe_bark"/>
+		<meta id="e628f8c9-29a8-4757-ba1a-dcad53b9b347" name="saw_bark"/>
+		<meta id="2f8f9104-f517-434a-b9bc-7019d03c11b0" name="saw.001_bark"/>
+		<meta id="adb07320-1fd2-41da-8287-fffe569e9847" name="pickaxe.002_bark"/>
+		<meta id="5e29c7bd-d6ab-4e7c-8260-9598d0563e14" name="pitchfork.002_bark"/>
+		<meta id="33cbdb3f-2372-4f22-9dfb-220810e46117" name="pitchfork.003_bark"/>
+		<meta id="1d3937e8-edd6-4135-927e-8b92c825a38d" name="pitchfork.004_bark"/>
+		<meta id="e562e150-9e0f-41b7-8c5f-80060e4e2278" name="scythe.002_bark"/>
+		<meta id="10becb9d-62d5-48fe-8bf2-50de4bc5fa1a" name="scythe.003_bark"/>
+		<meta id="94b9c483-9f23-45c4-952c-28736a5648b2" name="pitchfork.005_bark"/>
+		<meta id="30e7d669-03f4-4817-ae3b-11e130383925" name="hatchet.002_bark"/>
+		<meta id="356c780d-c855-4f42-b80f-64ec2c98d1b6" name="axe.001_bark"/>
+		<meta id="9a176d05-0388-4c7d-96d2-0bb04272b8c1" name="sickle.001_bark"/>
+		<meta id="3b102089-4ca0-4b6e-ad2c-adf930c07c14" name="pitchfork.006_bark"/>
+		<meta id="fa7b64d6-986e-46d3-9359-0b8758b52a21" name="scythe.004_bark"/>
+		<meta id="f7b92ed4-c2bd-4965-b2f2-615af329a282" name="pitchfork.007_bark"/>
+		<meta id="f55948ef-eae6-41be-b972-b394c2c3cb12" name="pitchfork.008_bark"/>
+		<meta id="de4de783-af42-48cf-bf23-2008b979a02f" name="scythe.007_bark"/>
+		<meta id="0dca8ea6-86e3-4981-b6b9-657f0618b17e" name="spade.001_tools"/>
+		<meta id="b741983b-1309-46e9-859d-ef74551a3972" name="spade.001_bark"/>
+		<meta id="0f390a8e-bb01-4880-8137-d937feec2c7d" name="spade.001_end"/>
+		<meta id="f0218f5b-baef-42ac-8b4b-56194d39c493" name="axe.004_tools"/>
+		<meta id="af990440-9a17-4115-a96e-1c01c8952384" name="axe.004_bark"/>
+		<meta id="c4dc05ac-5891-4022-919b-1ee36496b89a" name="axe.004_end"/>
+		<meta id="f02df976-3e80-4b4b-b7fd-19c53ed5cdee" name="pitchfork.001_tools"/>
+		<meta id="136a4f80-eff5-4da3-b871-480f577dafce" name="pitchfork.001_bark"/>
+		<meta id="f54d4178-3192-4a84-a740-2fa59d13ca50" name="pitchfork.001_end"/>
+		<meta id="0e0e43ea-d744-4382-914e-789496b0747d" name="pickaxe.001_tools"/>
+		<meta id="f219739e-0c51-40ff-aed3-05aca6982023" name="pickaxe.001_bark"/>
+		<meta id="80811e8c-43e5-4df4-8369-b02db36d7b12" name="pickaxe.001_end"/>
+		<meta id="282288dc-f2b4-4caf-a6c7-8c92b25b3ed0" name="spade.007_tools"/>
+		<meta id="bc580fd1-4e54-4c1a-b09d-0df33c0315db" name="spade.007_bark"/>
+		<meta id="e47391e5-7cbf-474a-b711-bad2815d2f4d" name="spade.007_end"/>
+		<meta id="7d09192e-dd34-4b0f-bc17-2d26b288242c" name="scythe.001_tools"/>
+		<meta id="19ada98f-a587-44f6-85e8-f846bdb3e1d9" name="scythe.001_bark"/>
+		<meta id="444712c4-2cc2-4be5-882c-916d807a7138" name="scythe.001_end"/>
+		<meta id="e9c43260-1eec-449d-bc77-3889e5e5840e" name="spade.003_tools"/>
+		<meta id="81a02483-093a-4569-8e0b-f3bd0742efb1" name="spade.003_bark"/>
+		<meta id="ebd70368-f2ba-4ed1-ae50-30668d0cdf9b" name="spade.003_end"/>
+		<meta id="42b704e0-f4d1-4c4e-a0e1-1bded3316123" name="saw.003_tools"/>
+		<meta id="36a01329-47a2-40b2-a908-222540f5c1d7" name="saw.003_bark"/>
+		<meta id="b86c6410-30a6-4242-9efb-4ce28eb93401" name="saw.003_end"/>
+		<meta id="797f4fd0-c25e-41a7-86ce-78248fc0ac11" name="axe.003_tools"/>
+		<meta id="b593ba8f-b43b-490d-90d8-ede68882f8b0" name="axe.003_bark"/>
+		<meta id="5163a14c-700b-4563-88f6-99917f458908" name="axe.003_end"/>
+		<meta id="63559290-236f-442a-ad37-69b2273088b0" name="saw.004_tools"/>
+		<meta id="ffea888b-b7e4-494a-a8b1-829baca922c6" name="saw.004_bark"/>
+		<meta id="5a0d2808-1a34-413d-adc3-68881f3ef517" name="saw.004_end"/>
+		<meta id="eab8bca3-3046-4e0f-a3b4-c72593ddf8f6" name="rack.002_planks"/>
+		<meta id="00f62b90-abe1-44db-b62f-4a2b5f18e580" name="barrel.001_planks"/>
+		<meta id="c3c9c5c2-11bc-413e-a0c8-aaf07d871267" name="barrel.001_metal"/>
+	</meta>
+	<meta id="2faa4832-89a6-43a9-86d1-69fc00b6f5cb" name="Prefab">
+		<meta id="3e2914b2-d7d1-489d-a58b-b932b3bf413e" name="Tools_Barrel_Part">
+			<meta id="dc62703b-725c-4aa6-8c57-9d197faae64e" name="pitchfork">
+				<meta id="d1cf910d-63dd-47f2-9dcd-130f4a434690" name="pitchfork_0"/>
+				<meta id="b21e85ac-9036-4900-b6a9-54e48b5137aa" name="pitchfork_1"/>
+			</meta>
+			<meta id="3cde535d-2701-4b01-b49a-4f2ae911242b" name="pickaxe">
+				<meta id="291bff3b-5833-441e-b018-79432e6b8487" name="pickaxe_0"/>
+				<meta id="f79b78df-db20-40f5-a891-1d314d9c4850" name="pickaxe_1"/>
+				<meta id="786e677c-cc73-4ff7-a391-5abdf11c28da" name="pickaxe_2"/>
+			</meta>
+			<meta id="aedc0831-18ed-4a4d-b7b3-1a54500349d1" name="scythe">
+				<meta id="a1d5418c-28df-4112-912c-44774e3af4d5" name="scythe_0"/>
+				<meta id="700fb5f3-04e1-47a2-aa35-a34ebf53e199" name="scythe_1"/>
+				<meta id="c770037b-f670-47b2-b9b7-b1d60cf52722" name="scythe_2"/>
+			</meta>
+			<meta id="a59ce50f-0c78-443e-a033-94201e7753dd" name="axe">
+				<meta id="ae058fea-8870-40ec-9560-433eb79c44b4" name="axe_0"/>
+				<meta id="2fca7306-dea8-4a32-b443-d04118454e6b" name="axe_1"/>
+				<meta id="1ac393f6-a895-4dc2-911e-f0c3c31d4e4b" name="axe_2"/>
+			</meta>
+			<meta id="0158818b-3a9a-4db1-9a8d-1b29c30e4852" name="saw">
+				<meta id="f38db48f-0895-4307-a48c-bd47cae9f3cd" name="saw_0"/>
+				<meta id="c1072afd-e9dd-420b-9125-bb16565485ae" name="saw_1"/>
+				<meta id="e7c08da7-a1dd-4bc7-98d2-d8588b41c4ed" name="saw_2"/>
+			</meta>
+			<meta id="011c7ebe-2b13-4efd-9a41-0d039a74a5b7" name="Attach_Bottom"/>
+			<meta id="8e81c566-ba85-4cf4-aca6-818ae120ac49" name="spade.001">
+				<meta id="8b9c77a3-1da9-4605-b6da-1ac7657b0c85" name="spade.001_0"/>
+				<meta id="f4883898-8115-4a2f-a583-366d50a077f8" name="spade.001_1"/>
+				<meta id="3ea75c5e-a82b-4a30-b8dc-81c6d88bce72" name="spade.001_2"/>
+			</meta>
+			<meta id="59b8ec78-b4f1-45df-8a5f-22d76d27e644" name="barrel.001">
+				<meta id="188bf873-9448-41ad-9011-400535298efd" name="barrel.001_0"/>
+				<meta id="d389f908-b480-492d-9dd8-6ad7a7a8f177" name="barrel.001_1"/>
+			</meta>
+		</meta>
+		<meta id="70922b74-f2d1-4206-9da3-cd5319b43374" name="Tools_Rack_Part">
+			<meta id="708b5dc0-e773-4fcd-91dc-db07a6dfb9f8" name="saw.001">
+				<meta id="e520821f-b9e9-4c01-ab47-426a71dd8146" name="saw.001_0"/>
+				<meta id="d3352018-32f4-4a0e-84e7-27344d9987f8" name="saw.001_1"/>
+				<meta id="b8c980c3-24cb-40aa-b1a7-275698330788" name="saw.001_2"/>
+			</meta>
+			<meta id="20487603-0d1f-4af2-a5c5-37c8cbb9ad24" name="Attach_Bottom.001"/>
+			<meta id="80b69c7c-d12c-4af9-8a78-5bf971c1063e" name="axe.004">
+				<meta id="3c882c84-0740-49bd-a576-df10a6d774bf" name="axe.004_0"/>
+				<meta id="f0c7b128-bdcb-49a4-b2c6-1d830345aa7a" name="axe.004_1"/>
+				<meta id="ac2d9ec7-48fe-4975-9548-16c87ed626af" name="axe.004_2"/>
+			</meta>
+			<meta id="e06ea8bc-6dd3-472d-932d-5f511a3d5ea6" name="pitchfork.001">
+				<meta id="e5e75402-b15a-404a-bb04-e173dcf7dbe3" name="pitchfork.001_0"/>
+				<meta id="4bd1199d-a014-480a-a77f-2da5dc868a65" name="pitchfork.001_1"/>
+				<meta id="397fe615-cb98-47c2-b542-ee62872311a7" name="pitchfork.001_2"/>
+			</meta>
+			<meta id="8fc6188c-23ad-46cc-be1c-b25529a0d93d" name="pickaxe.001">
+				<meta id="a4d82ceb-1603-4915-b6f8-3d524fe2b25c" name="pickaxe.001_0"/>
+				<meta id="90d3b5df-71ec-4ad3-8727-52e0e445682a" name="pickaxe.001_1"/>
+				<meta id="38cb9f39-1239-49b2-97c3-09e58c1dfd1e" name="pickaxe.001_2"/>
+			</meta>
+			<meta id="c301e420-e6da-40a0-a0f2-7652d05ed7d0" name="spade.007">
+				<meta id="6d99535e-aedf-47ec-9a08-08c6e197753a" name="spade.007_0"/>
+				<meta id="bf3e0a25-0e71-4255-b440-9e340e473905" name="spade.007_1"/>
+				<meta id="d29cd273-61f5-4f8b-9a9f-ecd0dba65a54" name="spade.007_2"/>
+			</meta>
+			<meta id="b6419ff0-2579-4bd6-b88f-e256fefea3d3" name="scythe.001">
+				<meta id="d007d77c-4559-44cf-b470-e5c171dac8e7" name="scythe.001_0"/>
+				<meta id="05e06a97-4fc6-41dc-888c-e754a5718a92" name="scythe.001_1"/>
+				<meta id="19cfac7b-ece5-48ff-b36d-d40e1b80f508" name="scythe.001_2"/>
+			</meta>
+			<meta id="9371d748-0190-469b-ac63-79b75e55a8a6" name="rack.002"/>
+		</meta>
+		<meta id="b4d5e601-8ef8-4e6a-9e43-9f6d77a68c2c" name="Tools_Rack_Picks_Part">
+			<meta id="2474aa0a-4527-4ec6-8ca6-e65aedc06957" name="pickaxe.002">
+				<meta id="b3e24425-6549-44f1-959f-c9b306335769" name="pickaxe.002_0"/>
+				<meta id="75642222-7d55-4260-80e0-45e7a142a70c" name="pickaxe.002_1"/>
+				<meta id="63416597-1e57-4523-a969-9843b49723b4" name="pickaxe.002_2"/>
+			</meta>
+			<meta id="fb4ea0e9-3732-4ca3-943e-7cfadad522d0" name="Attach_Bottom.002"/>
+			<meta id="6a80a383-2c4c-46f1-a285-07720ca2ee79" name="rack.003"/>
+		</meta>
+		<meta id="85938b1e-5568-4c3e-9795-969ef3340aa0" name="Tools_Barrel_Farm_Part">
+			<meta id="13673d45-0d6d-4c76-8a36-2ab5f1372b93" name="pitchfork.002">
+				<meta id="fa239470-8e44-4b3b-9f3a-3a76e46ea57b" name="pitchfork.002_0"/>
+				<meta id="f095b777-44c3-4fc4-b7b9-8a5463c91045" name="pitchfork.002_1"/>
+			</meta>
+			<meta id="b856bf72-fbde-4c54-b3e3-9b95875107b3" name="Attach_Bottom.003"/>
+			<meta id="b819bbe9-8531-4a74-900e-27692c669429" name="pitchfork.003">
+				<meta id="21ac1714-ac2b-4421-8b3d-a54c23765301" name="pitchfork.003_0"/>
+				<meta id="17dc4fe1-c31f-4fbe-a286-3003cbbff37c" name="pitchfork.003_1"/>
+			</meta>
+			<meta id="a4cddbdd-d53c-4d58-b332-2b042ec7b57e" name="pitchfork.004">
+				<meta id="af2db87c-f281-4af2-82ec-92857505432d" name="pitchfork.004_0"/>
+				<meta id="88f5c4f7-c117-4341-9fef-2264da1ecc8e" name="pitchfork.004_1"/>
+			</meta>
+			<meta id="b655b64e-00b9-45c1-8336-f1edeacd7f50" name="scythe.002">
+				<meta id="fcb2103b-18ce-48b6-a1c3-05518abd08c8" name="scythe.002_0"/>
+				<meta id="bd2062a2-5846-40c7-bd39-a5dbc4ba6d78" name="scythe.002_1"/>
+				<meta id="426688a5-2801-427c-bf6c-0ad8b6db6560" name="scythe.002_2"/>
+			</meta>
+			<meta id="716e7fe9-b696-43f5-9e30-1fb9c9385e34" name="scythe.003">
+				<meta id="952a6b93-4975-409e-8035-23fa056b420c" name="scythe.003_0"/>
+				<meta id="e44825f6-485f-4779-818f-b22ebb655630" name="scythe.003_1"/>
+				<meta id="d1dcd9c6-4aed-462c-b459-b4dfc549c55b" name="scythe.003_2"/>
+			</meta>
+			<meta id="029dc7ae-28a3-4748-a937-3bc4d28a3bdd" name="pitchfork.005">
+				<meta id="c9b900e9-d0c9-49c9-a9f4-8b768523d2d6" name="pitchfork.005_0"/>
+				<meta id="7777d329-00cf-4e55-9c3c-b7e7501f074b" name="pitchfork.005_1"/>
+			</meta>
+			<meta id="e117b682-7537-4a60-a17a-a2e3a7acd15b" name="barrel">
+				<meta id="36f8d348-22d8-4f10-8ce9-00cd8946fd76" name="barrel_0"/>
+				<meta id="dc95b2e0-a479-490c-817f-7f98d5840fcb" name="barrel_1"/>
+			</meta>
+		</meta>
+		<meta id="e04cae85-f971-4792-996e-049d847e1faf" name="Tools_Rack_Axes_Part">
+			<meta id="8ece845c-d5a3-45e5-965a-758d5469486b" name="Attach_Bottom.004"/>
+			<meta id="9547f0ae-10a1-4622-8860-c3ee2010b471" name="hatchet.002">
+				<meta id="9985b656-dfdf-4a93-9dc9-d97bc0427933" name="hatchet.002_0"/>
+				<meta id="e799f737-0602-412c-ae8a-8683d6d41239" name="hatchet.002_1"/>
+			</meta>
+			<meta id="b5bd29c9-2779-4246-973b-49f9ce20eb0d" name="axe.001">
+				<meta id="d87da8db-68b8-48e9-b96c-f55f705ca400" name="axe.001_0"/>
+				<meta id="6a6252ea-3670-447c-9b14-3a363d4963ba" name="axe.001_1"/>
+				<meta id="997c1aa5-4a94-40c7-b14f-7e0b6da1c31d" name="axe.001_2"/>
+			</meta>
+			<meta id="a1354cc0-4c45-43b3-985f-14263533df0a" name="rack"/>
+		</meta>
+		<meta id="0b9e6315-c057-4a15-8175-bf05626661a7" name="Tools_Rack_Farm_Part">
+			<meta id="74fb1ef1-d1e5-47f5-8833-1fe5808a1a7a" name="sickle.001">
+				<meta id="800d2231-6551-4388-97e6-06447b832c05" name="sickle.001_0"/>
+				<meta id="9429ba7a-dd67-4d72-a61f-f366dac5759f" name="sickle.001_1"/>
+				<meta id="130bcfaf-abe6-4943-9e40-d08c329e54b8" name="sickle.001_2"/>
+			</meta>
+			<meta id="7b5fd8d1-a1e8-45f5-abfd-a9d49f8bb0a0" name="Attach_Bottom.005"/>
+			<meta id="60e4dcbb-2144-4f61-b2de-2e1d65866416" name="pitchfork.006">
+				<meta id="0d49fd33-a0ec-46d4-aca9-3625f97188ed" name="pitchfork.006_0"/>
+				<meta id="ff606c3c-f7d7-45e0-9179-1698464e95de" name="pitchfork.006_1"/>
+				<meta id="0b350824-2252-4a6c-bfd2-a3bf2a3aedbb" name="pitchfork.006_2"/>
+			</meta>
+			<meta id="92d117bf-37fb-49fd-806a-1fc5b67d346a" name="scythe.004">
+				<meta id="c0bb69cb-ae7f-4482-8611-123eee9070d9" name="scythe.004_0"/>
+				<meta id="b3a2754f-1328-4159-b73d-725263b5f521" name="scythe.004_1"/>
+				<meta id="22faa273-0a70-4e6d-beaa-bfb3ea96b5d8" name="scythe.004_2"/>
+			</meta>
+			<meta id="4c54d4d5-efe8-4f7b-8ac1-11062642ea81" name="pitchfork.007">
+				<meta id="baae1bd9-cf72-4ed1-b7f6-2b7ee6edf272" name="pitchfork.007_0"/>
+				<meta id="e0a8242c-3c02-4fdd-824f-2a6aea4b2b0d" name="pitchfork.007_1"/>
+				<meta id="77b65de6-f341-4229-9748-737973d2dad5" name="pitchfork.007_2"/>
+			</meta>
+			<meta id="49b1cfe1-c236-424e-82b8-809f0a5e10b1" name="pitchfork.008">
+				<meta id="d8fbd226-edd2-4123-8d24-03b28af0fde2" name="pitchfork.008_0"/>
+				<meta id="ec9a2d37-6cbf-42f5-a555-3ed552b6e745" name="pitchfork.008_1"/>
+				<meta id="98b1b97d-d6bf-4f52-8588-41e0c75b91a3" name="pitchfork.008_2"/>
+			</meta>
+			<meta id="98648d21-7a56-4b1f-b5f1-5e86cda62fdc" name="scythe.007">
+				<meta id="7f481390-dd22-47c2-ae37-02cd7eff2066" name="scythe.007_0"/>
+				<meta id="73bbf96e-eccc-45f6-9a3f-3d9201ea8bda" name="scythe.007_1"/>
+				<meta id="b12a049d-1ce9-4a3c-bb7f-0f25f6b99465" name="scythe.007_2"/>
+			</meta>
+			<meta id="3ef753dc-2c28-4f45-9bd0-d152d97d24fd" name="rack.001"/>
+		</meta>
+		<meta id="de899d78-eb0d-4b77-8b23-fa8ff53b9b49" name="Tools_Rack_Shovels_Part">
+			<meta id="31733fdf-8ffd-4cca-ad31-7ec3f4e9a21c" name="Attach_Bottom.006"/>
+			<meta id="2342da8d-1184-4d2b-acf6-d3dd81330838" name="spade.003">
+				<meta id="1ec9cadb-3283-460b-9474-94f4dcdd5944" name="spade.003_0"/>
+				<meta id="32c9ff9d-b03d-455f-8f6c-4deddc36bf40" name="spade.003_1"/>
+				<meta id="bba344e2-5bbf-4223-b4b9-06a8d46a6ce8" name="spade.003_2"/>
+			</meta>
+			<meta id="8ee0fb3f-e824-4b96-ae57-fe3b8ddcdceb" name="rack.004"/>
+		</meta>
+		<meta id="1080cd96-3144-4431-b97a-f725ff347bba" name="Tools_Rack_Woodcutting_Part">
+			<meta id="78137383-5ae2-4d67-913e-ece92f8d6899" name="saw.003">
+				<meta id="ea5e5d4a-0239-4077-9cac-589638655660" name="saw.003_0"/>
+				<meta id="682e7035-8b81-4bf0-8a1c-33692eb3360b" name="saw.003_1"/>
+				<meta id="ee4d0186-a89b-4537-9d98-2b67fbcff994" name="saw.003_2"/>
+			</meta>
+			<meta id="092ba224-b5d6-4616-89c6-91f02e2d466d" name="Attach_Bottom.007"/>
+			<meta id="ad88f3d5-c046-4342-acfe-97d373729dbf" name="axe.003">
+				<meta id="429ddf69-fa98-4c0d-8bae-927387427c8d" name="axe.003_0"/>
+				<meta id="a1820c1b-ce09-4c8f-9e7c-0eb32823b412" name="axe.003_1"/>
+				<meta id="5c59fa9e-b1fb-40a3-bdef-9f49a3d8a947" name="axe.003_2"/>
+			</meta>
+			<meta id="f0e95eab-b2bb-4c07-8a27-7319e8bef98a" name="saw.004">
+				<meta id="c758e27b-6b76-40b4-8555-a73ba89f766a" name="saw.004_0"/>
+				<meta id="1fe73a2a-d762-43b7-a9e0-0f9f20ed5f42" name="saw.004_1"/>
+				<meta id="68c3ff65-d6a0-4c04-bd90-dd8c2fff09b4" name="saw.004_2"/>
+			</meta>
+			<meta id="4acdf0d5-7120-43fb-8e71-d7200b0d513b" name="rack.005"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="881024fb5a6fd502849147490ece955e"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pickaxe"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="scythe"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="axe"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="saw"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spade.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Barrel_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="saw.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.004_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.004_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="axe.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pickaxe.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.007_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.007_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spade.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="scythe.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rack.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Rack_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pickaxe.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pickaxe.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rack.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Rack_Picks_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="scythe.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.003_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="scythe.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Barrel_Farm_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="hatchet.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="hatchet.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="hatchet.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="axe.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rack"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Rack_Axes_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sickle.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sickle.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sickle.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sickle.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.006_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.006_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.004_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.004_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="scythe.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.007_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.007_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.008_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pitchfork.008_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pitchfork.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.007_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="scythe.007_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="scythe.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rack.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Rack_Farm_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spade.003_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spade.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rack.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Rack_Shovels_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.003_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="saw.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="axe.003_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="axe.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.004_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="saw.004_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="saw.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rack.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tools_Rack_Woodcutting_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ed9c5bfd-53b6-4806-8ea1-5fd8e609680a"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c7ef582c-0e35-4cba-b9d0-cfecc9cea4c1"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="466a9b2e-14c4-480e-ac2a-df23f98a684f"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8988e942-e743-49b0-834c-8dfa010c776a"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="abb4e592-deb7-4104-842f-7990ea2b8ee3"/>
+			<MaterialName value="tools"/>
+		</Item>
+	</MaterialList>
+</importer>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="db6dbfe3-972b-4a3d-8c92-05005226fefe">
+	<meta id="a9db483c-1dd7-430e-8c77-197404f2a9db" type="group" folder="true" name="Materials">
+		<meta id="d45ba11d-f176-44dc-8cc5-2c0e9e64ef52" name="marble"/>
+		<meta id="8ac5c6ac-f92e-4d48-bc70-0b0e6ee0782e" name="metal"/>
+	</meta>
+	<meta id="05e8fb6a-efb0-4aae-8d4a-b7414aa3b990" type="group" folder="true" name="Meshes">
+		<meta id="2aaa4eb0-841d-49fd-8b50-eab456ad1c8a" name="dragon2.001_marble"/>
+		<meta id="fe336853-5b15-4bd7-8db6-479e99dbd234" name="base_marble"/>
+		<meta id="faf758ab-746d-4ccf-b3b5-5f44bded5cee" name="plaque_metal"/>
+	</meta>
+	<meta id="f28abba4-c78a-4c53-bfbf-64d110dde1b6" name="Prefab">
+		<meta id="5ce514a6-c9f4-4714-afa2-6ae9ec2cef79" name="Dragon_Part">
+			<meta id="48f76740-9f60-4512-ac53-6e87d6544ea0" name="Attach_Bottom"/>
+			<meta id="336bb0e8-0f13-4906-82c3-2a6c8f437d43" name="dragon2.001"/>
+			<meta id="d87e2acc-759c-4a60-bdd4-6b61ee036def" name="base"/>
+			<meta id="e9f6468b-383a-4c8c-9976-8531d7ddc10a" name="plaque"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="f664f96a1ce098bb29b26941a3686931"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="dragon2.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="base"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="plaque"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Dragon_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d45ba11d-f176-44dc-8cc5-2c0e9e64ef52"/>
+			<MaterialName value="marble"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8ac5c6ac-f92e-4d48-bc70-0b0e6ee0782e"/>
+			<MaterialName value="metal"/>
+		</Item>
+	</MaterialList>
+</importer>
+

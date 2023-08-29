@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="18226e4b-75a7-4211-9b61-305546826e84">
+	<meta id="84067944-d80b-48f0-be57-4710415fdb62" type="group" folder="true" name="Materials">
+		<meta id="076893ce-b50f-4354-89b5-242a975d16eb" name="bone"/>
+		<meta id="1a530790-1245-46e0-a4d5-6ab47ac3c4dc" name="eyes"/>
+		<meta id="6d3961ea-2cbb-4026-9cf6-d4f3a2c74bcb" name="metal"/>
+		<meta id="fcbedee8-e8fd-4d7f-a9f3-e2f99f89fba8" name="bark"/>
+	</meta>
+	<meta id="c68278c0-6422-444b-a413-c35fe492e6dc" type="group" folder="true" name="Meshes">
+		<meta id="48862e46-efe0-42f9-bfdf-9757c69e9cc5" name="Pole_metal"/>
+		<meta id="7599ded4-dafe-46b5-ac59-e497684edaad" name="Skulls1_Part_LOD_01_bone"/>
+		<meta id="7a33e736-df35-49dc-bca3-dea28e7fa21b" name="Skulls1_Part_LOD_01_eyes"/>
+		<meta id="fe5964d2-2ace-42dc-9554-5080bb09a625" name="Skulls1_Part_LOD_23_bone"/>
+		<meta id="eeba2eb2-e99e-4670-b0b9-860e8836bc10" name="Skulls2_Part_LOD_01_bone"/>
+		<meta id="c8551d9a-177b-4fb1-93c5-ded96d082b58" name="Skulls2_Part_LOD_01_eyes"/>
+		<meta id="fed07767-91d3-4217-ad50-4f519f3c80a9" name="Skulls2_Part_LOD_23_bone"/>
+		<meta id="f5a9397e-89d9-4d09-9a88-95640f5856be" name="Pole_bark"/>
+	</meta>
+	<meta id="144448cf-994a-4a71-ab50-af77e984e3e8" name="Prefab">
+		<meta id="5003dd0d-6858-4393-9490-895ab5c64800" name="Skulls1_Part">
+			<meta id="03b679ee-4e8a-4bc5-a755-091d56f64316" name="Pole">
+				<meta id="bbcdc3f5-2340-417a-9691-a52992d93ec1" name="Pole_0"/>
+				<meta id="f0aa1d41-c444-486c-99f6-28796e415473" name="Pole_1"/>
+			</meta>
+			<meta id="9a80d2e9-d267-486b-bca3-caa3b8189c2f" name="Attach_Bottom"/>
+			<meta id="2cd07787-ae62-46b8-b17a-9cac9b165bc9" name="Skulls1_Part_0"/>
+			<meta id="06873289-e2ee-48bd-a2d2-e1311757870e" name="Skulls1_Part_1"/>
+		</meta>
+		<meta id="87344ddb-89b2-470d-bb06-0593e8ff8d7a" name="Skulls2_Part">
+			<meta id="6775ed48-bcfd-4ff7-bc53-9f29dcde1241" name="Pole.001">
+				<meta id="4d70c767-985c-4be9-9c44-e2bcfad63f14" name="Pole.001_0"/>
+				<meta id="f179453d-b9c2-418b-b41d-ddaf5650d585" name="Pole.001_1"/>
+			</meta>
+			<meta id="65d4b0f2-5053-40c0-883f-15cdfcbd105f" name="Attach_Bottom.001"/>
+			<meta id="81627374-7b75-4bce-b084-4d7ba0bb6c74" name="Skulls2_Part_0"/>
+			<meta id="0e0b6aa9-0388-4d26-858a-298455c216e5" name="Skulls2_Part_1"/>
+		</meta>
+	</meta>
+	<meta id="fb51ab8a-43b3-4c76-91ad-7052ba79c86d" type="group" folder="true" name="LOD">
+		<meta id="da51beb2-e30d-493f-8e65-7d27a3339fcd" name="Skulls1_Part_0"/>
+		<meta id="7fb92412-04d2-46a8-8ff9-9d700bc2656d" name="Skulls1_Part_1"/>
+		<meta id="49a8d197-99b0-45ad-9d54-817095f2248e" name="Skulls2_Part_0"/>
+		<meta id="e3bf4194-c731-4f4f-a381-2605cbca62a2" name="Skulls2_Part_1"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="d8682468357ed8fac0cfeb589966350b"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Pole_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Pole_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Pole"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Skulls1_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Skulls1_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Skulls1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Pole.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Pole.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Pole.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Skulls2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Skulls2_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Skulls2_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fcbedee8-e8fd-4d7f-a9f3-e2f99f89fba8"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="076893ce-b50f-4354-89b5-242a975d16eb"/>
+			<MaterialName value="bone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1a530790-1245-46e0-a4d5-6ab47ac3c4dc"/>
+			<MaterialName value="eyes"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6d3961ea-2cbb-4026-9cf6-d4f3a2c74bcb"/>
+			<MaterialName value="metal"/>
+		</Item>
+	</MaterialList>
+</importer>
+

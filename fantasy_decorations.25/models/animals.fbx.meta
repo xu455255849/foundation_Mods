@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="b81d0f54-38dd-4f45-9ae5-086c1219fe9d">
+	<meta id="80366be9-5c17-4231-89b4-b0691bb8dab9" type="group" folder="true" name="Materials">
+		<meta id="bca0aa61-bb4f-4755-b341-497bb1700ed2" name="palette"/>
+		<meta id="6900c69d-92ff-439f-97eb-e9ad0f51d396" name="blank_box_animal"/>
+		<meta id="9600a4ab-8ebf-4f37-a1f7-4959713985da" name="dog"/>
+		<meta id="4c071973-324c-4382-8bf1-cf85033474fd" name="leather"/>
+		<meta id="934f63f3-81b1-4953-bfa5-7ac5259a278d" name="metal"/>
+		<meta id="ceaaef6a-06df-43e6-a1a3-2d421386247f" name="cat"/>
+	</meta>
+	<meta id="87429f83-3aa1-4c0e-bf46-e0a4c5c5786c" type="group" folder="true" name="Meshes">
+		<meta id="b359a5b4-d116-44a3-b419-9702cef1b96f" name="InvisBox.001_blank_box_animal"/>
+		<meta id="40dc2f7b-03ce-43d0-ab15-0529d0bfed1a" name="Frog_Part_LOD_01_palette"/>
+		<meta id="9fe85b77-9555-4809-a101-d17c76591d93" name="Dog_Part_LOD_012_dog"/>
+		<meta id="1142638f-6f9a-4e8f-82b4-6df691ad0c67" name="Chicken1_Part_LOD_012_palette"/>
+		<meta id="9cb10dc8-349e-4ca5-990b-4f3c24abdc10" name="Chicken2_Part_LOD_012_palette"/>
+		<meta id="f8c825b1-53cd-4286-a89d-ce958c1a6c62" name="Goose1_Part_LOD_012_palette"/>
+		<meta id="fb934162-56b9-4d71-8321-bb68268cc488" name="Rabbit_Part_LOD_012_palette"/>
+		<meta id="d2e9de49-ef1d-489b-b5fb-bcda12a53f13" name="Dog_Part_LOD_012_palette"/>
+		<meta id="7bd2bd11-483f-41cd-9e8b-205e153c74ba" name="Dog_Part_LOD_012_leather"/>
+		<meta id="c4e46a1b-0d04-4d5c-ad4e-1cf68e09416f" name="Dog_Part_LOD_012_metal"/>
+		<meta id="fd369801-5930-45de-bf4b-91b5d15b81ca" name="Cat_Part_LOD_012_cat"/>
+	</meta>
+	<meta id="61b3d24a-1faa-43cf-b542-b38118ec7127" name="Prefab">
+		<meta id="99da9b4f-7299-4f6c-b76c-cf6602511178" name="Chicken1_Part">
+			<meta id="55edad07-0d26-4cab-906c-0901360027f2" name="Attach_Bottom"/>
+		</meta>
+		<meta id="b7363378-cde0-4ae0-9851-762e8c3a0880" name="Chicken2_Part">
+			<meta id="ce4b6cdd-035a-4aa6-9b44-a0efa462bee6" name="Attach_Bottom.001"/>
+		</meta>
+		<meta id="b96a6368-15e6-4a93-98a3-f09f4b3578ca" name="Goose1_Part">
+			<meta id="86ac5c47-63d3-49aa-8109-4388456a30be" name="Attach_Bottom.002"/>
+		</meta>
+		<meta id="a867919e-c1b8-4210-894a-0a699401aa53" name="Rabbit_Part">
+			<meta id="f5b1c0cf-a3a3-4e1b-970d-2b3a987be259" name="Attach_Bottom.003"/>
+			<meta id="e3cd7ceb-d29f-4aef-9b31-4f368a5f7950" name="InvisBox.001"/>
+		</meta>
+		<meta id="071bd64b-c06e-433d-aa95-45967f9a7712" name="Frog_Part">
+			<meta id="0120dcf5-0e53-45eb-a568-06ba85bf21b3" name="Attach_Bottom.004"/>
+			<meta id="baccff43-ee39-4097-b57d-2742fc3f5077" name="InvisBox"/>
+		</meta>
+		<meta id="576cd34c-533f-4516-8948-d6ded87f3e1c" name="Dog_Part">
+			<meta id="916a14a8-c420-466e-92a4-eaff2b7e85cf" name="Attach_Bottom.005"/>
+			<meta id="11ef0ea9-a8b3-4702-baf4-6f1ad2c64ba8" name="Dog_Part_0"/>
+			<meta id="265a7525-2ee2-4ed5-930f-f9cf2c709084" name="Dog_Part_1"/>
+			<meta id="22461fc3-d8a4-4947-801b-a719ccb82b16" name="Dog_Part_2"/>
+			<meta id="b7838a53-1c37-4661-91a1-c4eeab5a71d9" name="Dog_Part_3"/>
+		</meta>
+		<meta id="d8f9cf2d-ee77-43b5-9b4d-7233683d6b3b" name="Cat_Part">
+			<meta id="500cd8ef-3c6a-4e0b-8c28-27100cac933e" name="Attach_Bottom.006"/>
+		</meta>
+	</meta>
+	<meta id="cf63531e-9ba1-48bb-9d5d-11ffef740c38" type="group" folder="true" name="LOD">
+		<meta id="4d39f6ba-5045-4cc8-9f7f-6f658abc2256" name="Chicken1_Part"/>
+		<meta id="3887f2ae-bea3-4f4d-aaff-a3d5cefa568a" name="Chicken2_Part"/>
+		<meta id="660bd7a4-cbb9-455f-bb6f-b15b76447818" name="Goose1_Part"/>
+		<meta id="402d71b4-747a-425a-bc3d-f68d949dfb0a" name="Rabbit_Part"/>
+		<meta id="ce33be1e-9a55-49fe-8a4a-9e728a31b0f0" name="Frog_Part"/>
+		<meta id="4d4ca512-7d1f-40f0-be28-3f26077dcbae" name="Cat_Part"/>
+		<meta id="54e1eb3a-3189-4cc4-9ade-716dee0b560a" name="Dog_Part_0"/>
+		<meta id="95ae6cd5-e847-40db-817e-5630fb9e6e52" name="Dog_Part_1"/>
+		<meta id="9cfe25e8-f9e0-4092-be4e-1ad091b8a17f" name="Dog_Part_2"/>
+		<meta id="3059cd1a-6c2b-4d91-a4e1-531314cbe743" name="Dog_Part_3"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="473d3ea36ccf2b6c8869ded520fce636"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Chicken1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Chicken2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Goose1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="InvisBox.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Rabbit_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="InvisBox"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Frog_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dog_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dog_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dog_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dog_Part_3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Dog_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cat_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6900c69d-92ff-439f-97eb-e9ad0f51d396"/>
+			<MaterialName value="blank_box_animal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ceaaef6a-06df-43e6-a1a3-2d421386247f"/>
+			<MaterialName value="cat"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9600a4ab-8ebf-4f37-a1f7-4959713985da"/>
+			<MaterialName value="dog"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4c071973-324c-4382-8bf1-cf85033474fd"/>
+			<MaterialName value="leather"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="934f63f3-81b1-4953-bfa5-7ac5259a278d"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bca0aa61-bb4f-4755-b341-497bb1700ed2"/>
+			<MaterialName value="palette"/>
+		</Item>
+	</MaterialList>
+</importer>
+

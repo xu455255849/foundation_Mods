@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="a63e6fec-849a-4a53-b3c0-ad31d7cbaa45">
+	<meta id="a896bd10-d77f-4825-9f1b-92db9501b96c" type="group" folder="true" name="Materials">
+		<meta id="bc7b3443-29bf-45aa-8eee-0cfaf80ffe30" name="cloth_white"/>
+		<meta id="12a404a8-6f4a-42d3-8511-df10e198c422" name="rope"/>
+		<meta id="b00976cf-f4f5-4a57-90c7-12bea550b31a" name="bark"/>
+		<meta id="6c88b582-8824-461d-b147-1db93c322a8a" name="end"/>
+		<meta id="0229def6-36e2-430d-863e-c19b18674966" name="water_containers"/>
+		<meta id="ef3ff4de-334f-45d7-90b5-1fde5e72cdc0" name="light metal"/>
+		<meta id="19bee770-c361-4276-b627-ff8148d7ea96" name="wood"/>
+		<meta id="0d6ef5f9-b1fb-4471-bb21-449e03e4a4a7" name="milk"/>
+		<meta id="143baf4d-e94a-4081-9809-0fe9eadfa60b" name="wicker"/>
+		<meta id="2cdc0e0f-e813-47ed-845c-01c729913069" name="red_wicker"/>
+		<meta id="c0b174e1-a4f8-4692-9225-95a8f5947e6a" name="food"/>
+		<meta id="65d17b29-a38d-4949-84ef-64291b77a665" name="fish"/>
+		<meta id="e8a10509-eae2-472c-ad54-84ac4d9b95a2" name="fishgreen"/>
+		<meta id="079c12be-4f8e-480b-ada5-6e50e0b49f00" name="food2"/>
+		<meta id="2f260b97-eee5-4df7-a1d0-45949c82fa8c" name="clay"/>
+		<meta id="4768a8f4-432a-4f47-9928-2358aba6edfe" name="grain"/>
+		<meta id="5f23a79b-bacf-44bb-81da-42874935230c" name="hay"/>
+	</meta>
+	<meta id="07a10969-6532-4e93-8cc6-66d3fc81a9d8" type="group" folder="true" name="Meshes">
+		<meta id="fbde28d8-bfd4-477a-8191-ff342044180b" name="Tub_Part_LOD_0123_cloth_white"/>
+		<meta id="e24ba663-5ec9-4037-b732-0ac8dca8a228" name="Tub_Part_LOD_0123_rope"/>
+		<meta id="301b2323-e111-43ff-9781-3c5f6546191c" name="Tub_Part_LOD_0123_bark"/>
+		<meta id="be92f660-58db-4682-8d72-b5a4eac3f072" name="Tub_Part_LOD_0123_end"/>
+		<meta id="c572ac56-83bb-4ab9-a08f-134e9a9e86dd" name="Tub_Part_LOD_0123_water_containers"/>
+		<meta id="f1cc7695-971d-4836-aa81-3db3c722a7b1" name="Tub_Part_LOD_0123_light metal"/>
+		<meta id="16cbee02-03a4-4222-b5a3-12baa88b2301" name="Tub_Part_LOD_0123_wood"/>
+		<meta id="b441a5ab-d9fd-4d99-8f3f-8d41e88ad6d6" name="Tub_Milk_Part_LOD_0123_rope"/>
+		<meta id="dc5d16d8-d478-498c-a2b6-b88991a10720" name="Tub_Milk_Part_LOD_0123_light metal"/>
+		<meta id="9ecc0738-29d4-4bfe-a49c-2ed6530dbbf5" name="Tub_Milk_Part_LOD_0123_wood"/>
+		<meta id="386ac359-8df9-4c51-8fbd-1a243cbfb9b2" name="Tub_Milk_Part_LOD_0123_milk"/>
+		<meta id="e355d22b-b66a-4b6a-a467-7159dcc4a58a" name="Bucket_Milk_Part_LOD_0123_light metal"/>
+		<meta id="e58beede-c140-4678-888c-c7b1f9e6683c" name="Bucket_Milk_Part_LOD_0123_wood"/>
+		<meta id="d7b52754-93e2-47b6-a588-279bdfc1e426" name="Bucket_Milk_Part_LOD_0123_milk"/>
+		<meta id="ce7a415f-4d41-484d-b70e-7b1596cd421f" name="Bucket_Water_Part_LOD_0123_water_containers"/>
+		<meta id="97d38093-f4dd-478a-98cd-edd7f206dbd3" name="Basket_Berries_Part_LOD_0123_wicker"/>
+		<meta id="8df0980a-a667-4b77-b747-170632e6a619" name="Basket_Berries_Part_LOD_0123_red_wicker"/>
+		<meta id="0d471758-fa19-4ff2-8e12-0d761826d7e6" name="Basket_Berries_Part_LOD_0123_food"/>
+		<meta id="5d35d248-9117-463f-9635-123bcf0840f7" name="Basket_Grapes_Part_LOD_0123_red_wicker"/>
+		<meta id="c9396649-bbbe-4d12-b647-1551afdee127" name="Basket_Grapes_Part_LOD_0123_food"/>
+		<meta id="3e7a6c4d-ef2f-4d0d-b8b2-d5e1a1dde37b" name="Basket_Hops_Part_LOD_0123_food"/>
+		<meta id="3162762b-cc5e-4590-948a-179fc550e853" name="berries_wicker"/>
+		<meta id="f8d46ea7-65a0-4d20-8e4a-a8a8136277ec" name="berries_food"/>
+		<meta id="02b1d886-6329-4309-bd8a-c74cda4f81b4" name="fish_wicker"/>
+		<meta id="46488413-ffa8-44b3-8d53-f40470a6fd00" name="fish_food"/>
+		<meta id="1b68193d-00d1-47ed-b6bc-67f4e3e530cd" name="fish_fish"/>
+		<meta id="95b9460d-93e8-4c3b-915d-77c385b718d3" name="fish_fishgreen"/>
+		<meta id="99aea07e-c5ba-474a-aa05-eb2bafbd8527" name="hops_food"/>
+		<meta id="a70c5a83-a53a-47f0-af3a-cd8fa8053472" name="grapes_food"/>
+		<meta id="4efc0cd2-322d-4fdd-8160-e7f8c213dc3d" name="bread_wicker"/>
+		<meta id="c2fe01d0-9956-43b4-8de7-cb7fe457a921" name="bread_food2"/>
+		<meta id="ae860ccc-ead3-4c83-ac28-6492e816c8e7" name="basketL_wicker"/>
+		<meta id="eecfd044-4186-4fa0-a1f9-66c8b19686e4" name="basketL_red_wicker"/>
+		<meta id="d9086381-7bf2-436f-953a-71a88893c37f" name="pot.004_bark"/>
+		<meta id="3ac85761-ed71-4f5b-9daf-462535ea0e38" name="pot.004_end"/>
+		<meta id="68f72637-e724-472b-8745-b097470fef0a" name="pot.004_food2"/>
+		<meta id="a1365537-4641-41b0-b917-db65440233ed" name="pot.004_clay"/>
+		<meta id="36a18b48-8610-4719-b7f4-1b571b09afef" name="lid_clay"/>
+		<meta id="01474fad-588e-4d64-abe0-a62a550c6b99" name="pot_clay"/>
+		<meta id="ea3f7f48-cbf9-47bf-8984-6b6ddfbfce4c" name="pot.001_clay"/>
+		<meta id="f9f2fba8-a789-4df1-af1d-8c8f16e9f8ff" name="pot.002_clay"/>
+		<meta id="6ef2a84e-8c95-4b0c-9977-c91400da6e65" name="pot.003_clay"/>
+		<meta id="cac099b5-72de-4a07-843c-4d1675923522" name="pot.005_clay"/>
+		<meta id="8d3c5ca7-5f34-4839-8a1e-8c7591dd48c4" name="lid.002_clay"/>
+		<meta id="140539e8-bbae-4a0a-a9ee-a255f6db3efb" name="water_water_containers"/>
+		<meta id="192c76a5-7567-44be-9f65-2cf04a109828" name="pot.006_milk"/>
+		<meta id="e3afe439-2878-4b4a-adcb-e4ce34999140" name="pot.006_clay"/>
+		<meta id="062bf34e-a038-4f5d-b366-2cb20b79e126" name="lid.001_clay"/>
+		<meta id="a21692d7-d465-4d03-a7e7-21043dfa5686" name="vase_cloth_white"/>
+		<meta id="c5d87eae-707f-42c3-b3e0-5b57bc1745b1" name="vase_rope"/>
+		<meta id="3a8c645c-73fc-47b5-8703-d197ce1403ea" name="vase_clay"/>
+		<meta id="3b3b27ce-db85-43d7-a1e7-f2461b65924e" name="trough.002_wood"/>
+		<meta id="9aac4fa7-edbc-4ef4-a9af-d77e3c71a38d" name="trough.002_grain"/>
+		<meta id="8fb1fab0-7268-4b65-98bc-167ecddf4706" name="trough.001_hay"/>
+		<meta id="15ce42dc-fcd7-497c-ac2e-02487a25eaac" name="trough_water_containers"/>
+		<meta id="00711efb-9e6f-4d7f-98e4-3713c38ccda6" name="trough_wood"/>
+	</meta>
+	<meta id="a0fe95ac-c4b2-4012-b9b4-5c496fe795a6" type="group" folder="true" name="LOD">
+		<meta id="0ed5f9b9-44a9-41c1-b226-11ee889e709b" name="Tub_Part_0"/>
+		<meta id="faad3233-c3f1-4894-a42c-a6123caf1467" name="Tub_Part_1"/>
+		<meta id="ed75ae03-28e1-41e0-94b0-e2810d64a1d8" name="Tub_Part_2"/>
+		<meta id="61c1261e-97d7-48aa-9b79-89c673b74833" name="Tub_Part_3"/>
+		<meta id="7d1186bb-f778-40ea-9f4c-4a9e6e0e22c2" name="Tub_Part_4"/>
+		<meta id="9c33c5e4-2d6a-4048-8607-961366256b8c" name="Tub_Part_5"/>
+		<meta id="33eb1c63-508c-4519-9bcd-bdb0a360fe91" name="Tub_Part_6"/>
+		<meta id="e12f255d-ec53-467b-adee-d926f3ea4151" name="Tub_Milk_Part_0"/>
+		<meta id="504afe8b-1c32-42a5-98e5-4e69a577696c" name="Tub_Milk_Part_1"/>
+		<meta id="7bb89040-cad2-4c92-993d-a7de40b420f8" name="Tub_Milk_Part_2"/>
+		<meta id="0414400c-3c3d-45b5-963c-259470348c8e" name="Tub_Milk_Part_3"/>
+		<meta id="89b07e20-a1dc-4a95-b126-ba0f21dca3c4" name="Bucket_Milk_Part_0"/>
+		<meta id="97475601-5d8b-471d-8781-1ec6a6e1c557" name="Bucket_Milk_Part_1"/>
+		<meta id="ef3e4903-4d96-47c7-8536-c4b02e58fb33" name="Bucket_Milk_Part_2"/>
+		<meta id="9d67c545-a198-4cd5-b091-704e999a3f78" name="Bucket_Water_Part_0"/>
+		<meta id="0a380fb1-f456-4384-be29-ea001119fed3" name="Bucket_Water_Part_1"/>
+		<meta id="a0897ab4-5c1a-4186-b35c-61c0e4d6637c" name="Bucket_Water_Part_2"/>
+		<meta id="17ae6ab7-e7ae-433e-a789-4f24e817f842" name="Basket_Berries_Part_0"/>
+		<meta id="f6cce663-f728-4d22-9cbd-72ad99bbfaf7" name="Basket_Berries_Part_1"/>
+		<meta id="c4c4b5ea-4ffa-4984-9983-bba34ac67833" name="Basket_Berries_Part_2"/>
+		<meta id="b2b8bdd2-f04a-4df1-8264-f6d026e4ab21" name="Basket_Grapes_Part_0"/>
+		<meta id="5deb5f95-f282-455c-b5d4-502a692352c3" name="Basket_Grapes_Part_1"/>
+		<meta id="4ae8b6f4-6e91-4397-850a-42cad6fc6213" name="Basket_Grapes_Part_2"/>
+		<meta id="47bb8238-fc81-4b6b-a805-b39d331c19b3" name="Basket_Hops_Part_0"/>
+		<meta id="53cfb55c-cc27-48a2-ac34-e98bcf008872" name="Basket_Hops_Part_1"/>
+		<meta id="7f64cb87-83f6-4f65-a8b6-5f4e9ceec9cf" name="Basket_Hops_Part_2"/>
+	</meta>
+	<meta id="d88b5e0a-1fed-48d2-9d95-08750bb3df88" name="Prefab">
+		<meta id="09fa8c07-7cce-4560-b6f4-e207cdd93d73" name="Tub_Part">
+			<meta id="7ecb7210-d4a5-4d78-801e-63347d2ec73d" name="Attach_Bottom.002"/>
+			<meta id="a1d5b981-9637-4846-8de9-50d0a3efea87" name="Tub_Part_0"/>
+			<meta id="e463e335-6ac5-4f00-bcd4-919b3265c19f" name="Tub_Part_1"/>
+			<meta id="bdad17e6-8783-437b-aa97-6d68712b72b4" name="Tub_Part_2"/>
+			<meta id="59b85ead-c6ea-4182-ba7b-a5615413cd66" name="Tub_Part_3"/>
+			<meta id="ac932734-3c5b-423e-8b64-1fe22730b0ec" name="Tub_Part_4"/>
+			<meta id="154fb815-a415-4da8-824a-0c0c1871cdf2" name="Tub_Part_5"/>
+			<meta id="4abcd464-e669-485f-a6d8-317a4e79eab5" name="Tub_Part_6"/>
+		</meta>
+		<meta id="a0ec952f-2b2f-41fd-b783-b7b864a671d2" name="Tub_Milk_Part">
+			<meta id="b305a477-f201-4b02-99ff-bab4a7833ac9" name="Attach_Bottom.003"/>
+			<meta id="275fa4db-0d0a-4929-97d9-c34241d3d355" name="Tub_Milk_Part_0"/>
+			<meta id="f9d32bcc-9fa9-4a54-93aa-fdc3273b07c1" name="Tub_Milk_Part_1"/>
+			<meta id="1d755f5f-de62-49fe-a5a4-cd605ea5bca3" name="Tub_Milk_Part_2"/>
+			<meta id="923f2552-6806-470c-901e-81b08a754593" name="Tub_Milk_Part_3"/>
+		</meta>
+		<meta id="fde6fa15-83c9-4a5c-b8c0-77fa49d07495" name="Bucket_Milk_Part">
+			<meta id="c6dddb92-3e41-4ef6-8a2c-aab988b0a2eb" name="Attach_Bottom"/>
+			<meta id="d93f157d-8f8d-404b-9fa5-b4157e6205fc" name="Bucket_Milk_Part_0"/>
+			<meta id="990ecf3b-fbc2-470c-8da6-21b5e4947c67" name="Bucket_Milk_Part_1"/>
+			<meta id="9339901b-c3cc-4041-a5e0-f8c0796d06d3" name="Bucket_Milk_Part_2"/>
+		</meta>
+		<meta id="3bfbd637-e0ac-47ff-a064-0ac6db7d3ada" name="Bucket_Water_Part">
+			<meta id="2a430916-1dcb-4a47-9b41-4093442eaa7d" name="Attach_Bottom.001"/>
+			<meta id="12b91df5-2b1c-4039-9882-3a0d5b06ad1b" name="Bucket_Water_Part_0"/>
+			<meta id="084a0b78-b56b-4c26-95ce-356fc48da9da" name="Bucket_Water_Part_1"/>
+			<meta id="83c439b5-822b-4bf8-af3d-2d827c09982f" name="Bucket_Water_Part_2"/>
+		</meta>
+		<meta id="60055a4d-1fba-4577-a10e-f752eac52bef" name="Basket_Berries_Part">
+			<meta id="4615d017-53b6-490d-8fad-404227782fab" name="Attach_Bottom.004"/>
+			<meta id="13aba01e-0c56-4af8-9797-c1f3c33f2075" name="Basket_Berries_Part_0"/>
+			<meta id="00cb08af-fd1f-4947-8fbb-70db74ffbec9" name="Basket_Berries_Part_1"/>
+			<meta id="5162c943-7275-4175-ba70-2bee2d6342cc" name="Basket_Berries_Part_2"/>
+		</meta>
+		<meta id="43c1545a-92d2-4b03-9fa5-24181bf8543b" name="Basket_Grapes_Part">
+			<meta id="8d85ac31-e72c-4cf4-bcab-d8c3eeee185f" name="Attach_Bottom.005"/>
+			<meta id="38e5f5ae-085c-41fd-a79a-45593d001614" name="Basket_Grapes_Part_0"/>
+			<meta id="9bdd1ae1-384c-4c36-a72a-76db020a805e" name="Basket_Grapes_Part_1"/>
+			<meta id="92119baa-4b62-480a-872d-040eb79cb111" name="Basket_Grapes_Part_2"/>
+		</meta>
+		<meta id="f0bc455a-d754-41b7-a882-5738a9770a39" name="Basket_Hops_Part">
+			<meta id="e5379067-2504-445f-a3e1-bdecb28aa703" name="Attach_Bottom.006"/>
+			<meta id="b820da7b-4b80-4b35-92e0-bc7042ca36ed" name="Basket_Hops_Part_0"/>
+			<meta id="1427dfb5-d719-4331-93d5-7203109e3896" name="Basket_Hops_Part_1"/>
+			<meta id="ac59cf8b-599f-424c-947e-08d689606651" name="Basket_Hops_Part_2"/>
+		</meta>
+		<meta id="2a4c90df-1287-4ab2-878e-8ac23c32f269" name="Basket_Large_Berries_Part">
+			<meta id="8b02937f-e070-4f0b-8f57-43e7a2014fff" name="berries">
+				<meta id="59655ce2-9bdb-4a34-a423-ce13a9319b5e" name="berries_0"/>
+				<meta id="aabc69e9-dc01-44b2-84fd-98549707ce1b" name="berries_1"/>
+			</meta>
+			<meta id="b5de89f5-8e7f-408d-8b6f-d81aaf884f41" name="Attach_Bottom.019"/>
+		</meta>
+		<meta id="4646aad3-461e-403d-86b7-560f0642fc56" name="Basket_Large_Fish_Part">
+			<meta id="0b479e8d-a077-454c-bd12-dc23b560859f" name="fish">
+				<meta id="35e81acc-ce8a-46b8-99ce-1cec137dc4fb" name="fish_0"/>
+				<meta id="43475090-e124-400f-a92c-9096444e3265" name="fish_1"/>
+				<meta id="1cf91584-182e-4f83-830f-92260a7d0817" name="fish_2"/>
+				<meta id="0e5d8060-7bc3-49d1-914e-b3435ceea6a3" name="fish_3"/>
+			</meta>
+			<meta id="99df0d7c-e8c7-45cc-a90e-939daef01bc2" name="Attach_Bottom.017"/>
+		</meta>
+		<meta id="713f7d4e-83e0-46b1-8986-8f3ac6265dc1" name="Basket_Large_Hops_Part">
+			<meta id="2c90c0f0-0931-4391-9e8b-fc69cdb76d1f" name="hops">
+				<meta id="3559ede8-a27d-4e04-bf4f-9835152262fd" name="hops_0"/>
+				<meta id="1f7e775c-b3ec-4e3e-be0b-5c45c76b2685" name="hops_1"/>
+			</meta>
+			<meta id="f4576f4e-8937-4025-a4d2-a0ae93d5fcb7" name="Attach_Bottom.015"/>
+		</meta>
+		<meta id="e0bc80d9-f298-4e99-a03d-699e92a729bf" name="Basket_Large_Grapes_Part">
+			<meta id="bd306945-60a9-4bd7-b32f-f7b57a4ac40b" name="grapes">
+				<meta id="e534bbe1-9c48-4222-8aa9-9e61b2565c0e" name="grapes_0"/>
+				<meta id="285c0674-47b9-4513-bcec-c13d429bf99c" name="grapes_1"/>
+			</meta>
+			<meta id="aec7d7ed-13be-4bbf-960d-92c2e44f8aeb" name="Attach_Bottom.016"/>
+		</meta>
+		<meta id="303e6a0d-32c4-4ae6-937e-2ef706e738a8" name="Basket_Large_Bread_Part">
+			<meta id="758e9c62-407d-49f8-963a-e62949ea5842" name="bread">
+				<meta id="b5dcb829-e7fa-4bbf-abdd-905f651b9482" name="bread_0"/>
+				<meta id="ee7c793b-5436-4d58-bb12-56f7f7925210" name="bread_1"/>
+			</meta>
+			<meta id="348f3de5-b1b3-4a7c-8e5e-7bb9dc37a6a8" name="Attach_Bottom.018"/>
+		</meta>
+		<meta id="77e5f6dd-e32c-4afa-a2de-63632a675b63" name="Basket_XLarge_Part">
+			<meta id="1e677130-c656-45b0-93d3-01bd39353e36" name="basketL">
+				<meta id="b2d9e9f9-fd92-4225-b248-e0d947ebed51" name="basketL_0"/>
+				<meta id="b92d6ef8-04e8-4f10-aa48-78aa1bbaa38e" name="basketL_1"/>
+			</meta>
+			<meta id="429cd017-5d6b-495f-81f4-3d78ecdf3ad6" name="Attach_Bottom.014"/>
+		</meta>
+		<meta id="6b3baf5a-1500-4d99-b3f8-18a76fd3d5be" name="Pot_Honey_Part">
+			<meta id="a306a1eb-e696-43ca-8ed0-715eb4426a29" name="pot.004">
+				<meta id="d3a752bc-612a-4e1a-96ec-66ec6e33e9a3" name="pot.004_0"/>
+				<meta id="aaa40168-f11a-4743-bed1-127204e75ede" name="pot.004_1"/>
+				<meta id="b525cde7-a22f-4810-960d-49b333897580" name="pot.004_2"/>
+				<meta id="e7c77b21-98d4-4660-b0a2-bc305ad24770" name="pot.004_3"/>
+			</meta>
+			<meta id="631e9095-2402-4a79-9fae-a59c56945615" name="lid"/>
+			<meta id="a7e6b99e-2ad7-4709-b7f1-d8305f5575ac" name="Attach_Bottom.008"/>
+		</meta>
+		<meta id="94e2dc88-c261-4d3f-912f-868ce2a0204a" name="Pot_Closed_Part">
+			<meta id="626b8e03-5a32-4de0-a9c9-47c3aa9e564c" name="pot"/>
+			<meta id="ec1a357c-677c-4195-9193-e00fc404a53e" name="Attach_Bottom.007"/>
+		</meta>
+		<meta id="f5355fba-db38-478b-9802-097e0af3943a" name="Pot_Vase1_Part">
+			<meta id="a4e470ed-01c5-4ce2-b721-792e362cfe2c" name="pot.001"/>
+			<meta id="3e0fef15-43eb-403b-a0be-c0f5798e2753" name="Attach_Bottom.010"/>
+		</meta>
+		<meta id="fbd2b583-5091-4b55-9951-c00c8264434e" name="Pot_Vase2_Part">
+			<meta id="91970f73-8bd4-43eb-a652-4833e978e51a" name="pot.002"/>
+			<meta id="cb831bde-a365-4ca6-9bfa-8880d16a37a0" name="Attach_Bottom.011"/>
+		</meta>
+		<meta id="c252f0ff-07ae-4018-905b-7e99a0f5fc75" name="Pot_Vase3_Part">
+			<meta id="af4c0dd0-86ed-4310-a8d1-55921efcb9cf" name="pot.003"/>
+			<meta id="2c023bb7-fe5a-4e42-b24f-68cef241a6dd" name="Attach_Bottom.012"/>
+		</meta>
+		<meta id="85c49b07-e322-465a-8b15-a339c4de9b06" name="Pot_Water_Part">
+			<meta id="8fe50962-60ea-416d-8c3d-60abdcfdfd34" name="pot.005"/>
+			<meta id="e5378b10-02d3-4b19-9c96-79510bc8645e" name="lid.002"/>
+			<meta id="3ec5c7dc-09f3-4c08-9734-5c6ae143a3fb" name="Attach_Bottom.013"/>
+			<meta id="3778e588-d3cf-401c-b8fc-1e5b4cd0d5f5" name="water"/>
+		</meta>
+		<meta id="f54521a1-5764-4162-8844-d343c7c4d613" name="Pot_Milk_Part">
+			<meta id="e07351e4-f1a1-49e9-8ec4-420327365b1b" name="pot.006">
+				<meta id="9c037bdd-7a95-46d5-ba8b-c7048994b44f" name="pot.006_0"/>
+				<meta id="c088cf95-81bb-4efc-90ec-044c8fefb5b7" name="pot.006_1"/>
+			</meta>
+			<meta id="90069de7-4445-4bef-95f7-d34efdcb4e8a" name="lid.001"/>
+			<meta id="e2f87186-5cce-4b7b-a362-a80330c8987d" name="Attach_Bottom.009"/>
+		</meta>
+		<meta id="587438ce-d4fd-4a65-afd1-c2d5e22eff6a" name="Pot_Vase_Closed_Part">
+			<meta id="10784f7f-b1d7-41bb-8955-245d42304e69" name="Attach_Bottom.020"/>
+			<meta id="9ded53b6-a2b8-40db-8531-bf06dff81534" name="vase">
+				<meta id="b6860c6d-4362-4064-9c9b-4d921752566b" name="vase_0"/>
+				<meta id="c337885f-b7b3-484b-99a0-cd7a06e8a970" name="vase_1"/>
+				<meta id="9161aee0-be4a-4a75-b6ee-5635ee315f73" name="vase_2"/>
+			</meta>
+		</meta>
+		<meta id="bc686fdd-5386-48e6-a59f-576181397bf5" name="Trough_Grain_Part">
+			<meta id="452b4053-dd2e-4459-955a-d274fe365176" name="Attach_Bottom.023"/>
+			<meta id="dc24c51c-1f89-4735-a23a-028465cbd625" name="trough.002">
+				<meta id="2b0a1ba0-986b-418a-907f-c802bf3d59ce" name="trough.002_0"/>
+				<meta id="2d2d13de-8a13-45c1-9ab8-c212fb0a184b" name="trough.002_1"/>
+			</meta>
+		</meta>
+		<meta id="474a98cf-a1bc-463f-be03-9ab2c7b842df" name="Trough_Hay_Part">
+			<meta id="75839ad1-fe8a-4502-9f9e-4c9742531bb6" name="Attach_Bottom.022"/>
+			<meta id="9263bad0-c866-4321-8249-1dd4fd29cc82" name="trough.001">
+				<meta id="09e6ee73-94f4-4cc3-a968-c5a5513e45f6" name="trough.001_0"/>
+				<meta id="2efb5754-640a-431d-bf81-bab92ec0c3b4" name="trough.001_1"/>
+			</meta>
+		</meta>
+		<meta id="d8aacef2-4415-444f-9fe3-d1a3c9375521" name="Trough_Part">
+			<meta id="5a9c58c5-a2fc-439f-974b-8cb9f2aec267" name="Attach_Bottom.021"/>
+			<meta id="be61b752-e8e5-46f9-b4cb-f99df3af181d" name="trough">
+				<meta id="cb147129-920d-484b-8ddd-33ffd4753eb3" name="trough_0"/>
+				<meta id="b06b870b-cc7f-46b0-8d57-c56e23ee9229" name="trough_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="ee906c844bfaf56125128dfeb739240c"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Part_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Part_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Part_6"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tub_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Milk_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Milk_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Milk_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tub_Milk_Part_3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Tub_Milk_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bucket_Milk_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bucket_Milk_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bucket_Milk_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bucket_Milk_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bucket_Water_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bucket_Water_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bucket_Water_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bucket_Water_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Berries_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Berries_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Berries_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Berries_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Grapes_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Grapes_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Grapes_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Grapes_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Hops_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Hops_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket_Hops_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Hops_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="berries_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="berries_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="berries"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.019"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Large_Berries_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fish_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fish_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fish_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fish_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="fish"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.017"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Large_Fish_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="hops_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="hops_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="hops"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.015"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Large_Hops_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grapes_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="grapes_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="grapes"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.016"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Large_Grapes_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bread_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bread_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="bread"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.018"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_Large_Bread_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="basketL_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="basketL_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="basketL"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.014"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Basket_XLarge_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pot.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pot.004_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pot.004_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pot.004_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pot.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="lid"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Honey_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pot"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Closed_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pot.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Vase1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pot.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.011"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Vase2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pot.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.012"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Vase3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pot.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="lid.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="water"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Water_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pot.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pot.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pot.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="lid.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.009"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Milk_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="vase_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="vase_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="vase_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="vase"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pot_Vase_Closed_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="trough.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="trough.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="trough.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Trough_Grain_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="trough.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="trough.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="trough.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Trough_Hay_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="trough_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="trough_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="trough"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Trough_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b00976cf-f4f5-4a57-90c7-12bea550b31a"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2f260b97-eee5-4df7-a1d0-45949c82fa8c"/>
+			<MaterialName value="clay"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bc7b3443-29bf-45aa-8eee-0cfaf80ffe30"/>
+			<MaterialName value="cloth_white"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6c88b582-8824-461d-b147-1db93c322a8a"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="65d17b29-a38d-4949-84ef-64291b77a665"/>
+			<MaterialName value="fish"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e8a10509-eae2-472c-ad54-84ac4d9b95a2"/>
+			<MaterialName value="fishgreen"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c0b174e1-a4f8-4692-9225-95a8f5947e6a"/>
+			<MaterialName value="food"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="079c12be-4f8e-480b-ada5-6e50e0b49f00"/>
+			<MaterialName value="food2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4768a8f4-432a-4f47-9928-2358aba6edfe"/>
+			<MaterialName value="grain"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5f23a79b-bacf-44bb-81da-42874935230c"/>
+			<MaterialName value="hay"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ef3ff4de-334f-45d7-90b5-1fde5e72cdc0"/>
+			<MaterialName value="light metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0d6ef5f9-b1fb-4471-bb21-449e03e4a4a7"/>
+			<MaterialName value="milk"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2cdc0e0f-e813-47ed-845c-01c729913069"/>
+			<MaterialName value="red_wicker"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="12a404a8-6f4a-42d3-8511-df10e198c422"/>
+			<MaterialName value="rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0229def6-36e2-430d-863e-c19b18674966"/>
+			<MaterialName value="water_containers"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="143baf4d-e94a-4081-9809-0fe9eadfa60b"/>
+			<MaterialName value="wicker"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="19bee770-c361-4276-b627-ff8148d7ea96"/>
+			<MaterialName value="wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="3454d296-e7ce-4fef-ad09-5b1c1804d709">
+	<meta id="414d5e52-504f-421e-bd10-a9523529526d" type="group" folder="true" name="Materials">
+		<meta id="1237c3d1-bb4d-4d43-bb18-dbf6ca46aa2c" name="wood"/>
+		<meta id="3845607c-28ec-4c88-936d-ceaf793ef236" name="metal light"/>
+		<meta id="65575aca-a952-4c52-bfff-f150c3c51535" name="metal dark"/>
+		<meta id="8308b445-c75a-4e05-8098-6832b89c170c" name="cloth_white"/>
+		<meta id="ea674002-ef97-4813-bf81-8a36f9323f4a" name="rope"/>
+		<meta id="44862994-7950-4be7-b807-04c886f93406" name="bark"/>
+		<meta id="f2ff9355-4854-4de8-a89c-09f5e7ed8a6b" name="end"/>
+		<meta id="0fc29524-1587-4192-9700-e7287f7716af" name="water_source"/>
+		<meta id="a23dc3d1-dd14-4cbb-9db9-ca3bb3735198" name="brick"/>
+		<meta id="6c604117-e2d5-4b1d-9223-651ddbe2fca8" name="cloth_red_well"/>
+		<meta id="a6e3d0a2-7cf9-4f64-a7b4-ffad138cab24" name="cloth_blue_well"/>
+		<meta id="639c1483-47b6-4a0b-8d30-4343cc9df2f6" name="cloth_yellow_well"/>
+		<meta id="53ceb427-81c9-4349-a1ee-05dfd70a940d" name="cloth_green_well"/>
+		<meta id="6de2b36e-739f-4e47-998d-6c7909b2a8b1" name="cloth_purple_well"/>
+		<meta id="19afe02e-dbde-4a6c-acf5-9ac680420afa" name="cloth_brown_well"/>
+		<meta id="471e4f47-b4fc-46b4-baba-032a52bba5a4" name="cloth_black_well"/>
+		<meta id="35e75fc5-4581-45cb-a914-2ff2cfd0311f" name="cloth_white_well"/>
+		<meta id="9dd1767a-ee83-4e3d-bb1c-084229c11361" name="cloth_grey_well"/>
+		<meta id="29bf6b1b-a774-4fd8-a402-afc529f81cfc" name="vines_well"/>
+		<meta id="fe571ca4-62e6-4b77-a4b4-36cc83e31ed2" name="marble"/>
+		<meta id="1502989c-bff5-4c80-a2e1-eb28d73dff66" name="black"/>
+	</meta>
+	<meta id="0bd60fa7-09e5-41c6-ab35-c09aa9d6c2f2" type="group" folder="true" name="Meshes">
+		<meta id="f39f95e4-1508-4624-b297-1501edcdd015" name="barrel.009_wood"/>
+		<meta id="9a6ba537-d02a-4976-801c-d9630d0c1ade" name="barrel_wood"/>
+		<meta id="56bab5db-fb77-4d64-8c01-6409dd629ba0" name="barrel.001_wood"/>
+		<meta id="d352a553-0c1e-4a75-892b-addd5b497c10" name="barrel.009_metal light"/>
+		<meta id="911432be-06c7-460f-8cb8-0c50c66e6d0a" name="barrel_metal light"/>
+		<meta id="a90cd74f-4df7-4ca2-a0c1-a405e265fee9" name="barrel.001_metal light"/>
+		<meta id="3c45fb41-3e65-4774-9c81-3044b195a5fc" name="water.001_water_source"/>
+		<meta id="610484fe-ec31-4a86-b4e9-2399316feaf7" name="water.002_water_source"/>
+		<meta id="766f5745-fb11-4a20-8d9c-a6be58a8704a" name="cover_wood"/>
+		<meta id="78eaeb20-c3be-4b23-aed2-4b142955c65f" name="cover_cloth_red_well"/>
+		<meta id="7b6257f8-f936-4f62-972f-463c914a30a3" name="back_marble"/>
+		<meta id="70156c02-14ac-47d7-9d76-3f4f8fc35746" name="basin_marble"/>
+		<meta id="08e2a03a-a808-4bb8-aebe-36209594a6d9" name="opening_marble"/>
+		<meta id="d4323907-50eb-466a-ae42-e3b6d75bdf5a" name="opening_black"/>
+		<meta id="296a3f0c-05f1-4224-9c86-a9feaef44eb8" name="spout_marble"/>
+		<meta id="ba073d7a-aba8-43dd-ad37-c5f5c2c015eb" name="bowl_marble"/>
+		<meta id="b9a51c60-6d33-495d-86d8-f0bce773f065" name="water.003_water_source"/>
+		<meta id="793869fd-2795-4464-99c0-f01662fb1621" name="Water_Source_Barrel_Part_LOD_012_wood"/>
+		<meta id="1384e07e-6d2f-4296-baa4-052aee31738e" name="Water_Source_Barrel_Part_LOD_012_metal light"/>
+		<meta id="a1086ec1-6170-46e5-8708-716fb55bd7dc" name="Water_Source_Barrel_Part_LOD_012_water_source"/>
+		<meta id="c37196b7-9e21-41a1-9cb5-eb5973a3f78a" name="Water_Source_Well_Part_LOD_012_wood"/>
+		<meta id="adcd5564-86b1-4765-bf52-4f6a45803659" name="Water_Source_Well_Part_LOD_012_metal light"/>
+		<meta id="892276a4-f7b0-442d-934c-e7349e0ad477" name="Water_Source_Well_Part_LOD_012_rope"/>
+		<meta id="8344cfef-dca1-44e0-993f-c95c29a2baa1" name="Water_Source_Well_Part_LOD_012_vines_well"/>
+		<meta id="d128de4b-716f-456b-aab7-88918ac1b745" name="Water_Source_Well_Part_LOD_012_bark"/>
+		<meta id="5067fa77-7c05-440a-9682-bce67f4a430f" name="Water_Source_Well_Part_LOD_012_end"/>
+		<meta id="a20bd372-c71d-48c9-9efe-e43580a2c944" name="Water_Source_Handpump_Part_LOD_01_metal light"/>
+		<meta id="b483159e-c4ae-4d59-b92f-b4d2f85d039b" name="Water_Source_Handpump_Part_LOD_01_metal dark"/>
+		<meta id="c2c5a823-5c4d-4f87-be36-52f27b821896" name="Water_Source_Handpump_Part_LOD_23_metal light"/>
+		<meta id="c48724d1-9bec-4ebc-987c-6d07e0a64f53" name="bricks_brick"/>
+		<meta id="bb96a7aa-c75d-4498-b6c5-3e4e8e56b68a" name="bricks_black"/>
+		<meta id="7546e8ee-3d1a-4589-b8fe-3648371d6748" name="bottom_marble"/>
+	</meta>
+	<meta id="b976ccef-fe37-4341-b03a-fb152e6ca79b" name="Prefab">
+		<meta id="f8f21cf9-dbcf-43c0-8989-62026c98b459" name="Water_Source_Barrel_Part">
+			<meta id="093da7a4-c613-49cd-a62f-23ef2e0749ee" name="barrel.009">
+				<meta id="27ebbb41-09fc-42cb-b93e-01933994bb63" name="barrel.009_0"/>
+				<meta id="ea9905e9-1ab2-4c02-92a5-8280aefbccb6" name="barrel.009_1"/>
+			</meta>
+			<meta id="c238b8a8-0ec9-462a-9ed0-e7b217b7e5f3" name="WATER_SOURCE_BARREL_PATH_A1"/>
+			<meta id="aa8817a8-1f18-4c92-9780-776170c622aa" name="barrel">
+				<meta id="45e51a4a-4690-4633-bc7d-bafade38f052" name="barrel_0"/>
+				<meta id="897f5416-b223-4d89-a7d5-f772facf32fb" name="barrel_1"/>
+			</meta>
+			<meta id="d2a18c11-880c-428a-b521-285248b26c30" name="barrel.001">
+				<meta id="5b619b8c-cf39-4bbf-adf2-ce120b89fe89" name="barrel.001_0"/>
+				<meta id="41f3f92b-62e6-4d50-be03-63564ea175dd" name="barrel.001_1"/>
+			</meta>
+			<meta id="2884ff97-29b6-48bf-a0b3-6d80023ba728" name="water.001"/>
+			<meta id="1006a0a6-ddbb-4838-96ae-d84113998560" name="WATER_SOURCE_BARREL_PATH_B1"/>
+			<meta id="f505680e-ab44-4aa7-bb82-a9574ac6d9b4" name="WATER_SOURCE_BARREL_PATH_C1"/>
+			<meta id="20201c7b-d6f6-4561-b38e-44cd5ddb887b" name="WATER_SOURCE_BARREL_PATH_D1"/>
+			<meta id="58668048-e771-4be8-949c-f2c2d4626263" name="Water_Source_Barrel_Part_0"/>
+			<meta id="5f2ef016-43a8-4a8d-a132-54385f803fd5" name="Water_Source_Barrel_Part_1"/>
+			<meta id="e5493fc5-b025-4855-846f-3c863762ddf5" name="Water_Source_Barrel_Part_2"/>
+		</meta>
+		<meta id="b3a9c0e7-a70b-41f2-95b6-0069b98d6660" name="Water_Source_Well_Part">
+			<meta id="f1645cd8-da74-46ac-97c9-b3a588bc916f" name="WATER_SOURCE_WELL_PATH_A1"/>
+			<meta id="556a0027-4634-4272-95ea-f6753731cba7" name="water.002"/>
+			<meta id="43704350-3377-4a7e-9678-8115e576055f" name="WATER_SOURCE_WELL_PATH_E1"/>
+			<meta id="5175ffe2-d434-4c55-894a-bc439a7f7fe3" name="WATER_SOURCE_WELL_PATH_C1"/>
+			<meta id="581b1c88-0512-4de3-ac1c-cb3fafb9bf35" name="WATER_SOURCE_WELL_PATH_F1"/>
+			<meta id="85e0c9c7-a80f-441a-a799-6e0c127e7ce9" name="WATER_SOURCE_WELL_PATH_D1"/>
+			<meta id="553ca2c1-f49c-4e39-8dbb-5620c3423a06" name="WATER_SOURCE_WELL_PATH_B1"/>
+			<meta id="aff31025-69de-41e2-bd0f-78af7e0585fc" name="Water_Source_Well_Part_0"/>
+			<meta id="f2479972-7985-4a92-9780-2a88428ef7c8" name="Water_Source_Well_Part_1"/>
+			<meta id="b5a6954d-c006-4014-9af6-2beb461df9e4" name="Water_Source_Well_Part_2"/>
+			<meta id="75b165d1-b004-4079-a486-6d85ee1495f0" name="Water_Source_Well_Part_3"/>
+			<meta id="34860148-160d-44ca-ba57-0bf17e9a8fdc" name="Water_Source_Well_Part_4"/>
+			<meta id="1c72f746-0237-4312-89b1-645af1ae70cc" name="Water_Source_Well_Part_5"/>
+			<meta id="cc5ed9a4-d9ea-436b-9503-f062f0299471" name="cover">
+				<meta id="d64ebae2-229c-488b-8566-fc357c6dfa05" name="cover_0"/>
+				<meta id="6d7aef33-bc34-4512-9a51-c03e5fc49c78" name="cover_1"/>
+			</meta>
+			<meta id="89809559-f47f-4d81-9794-ed081a59af2d" name="Attach_Right"/>
+			<meta id="5d8a154e-69b5-4e9a-9f1d-907ea642d6ca" name="Attach_Right.001"/>
+			<meta id="b621e052-99bf-4093-9ddf-c3e2a1b7c57f" name="Attach_Right.002"/>
+			<meta id="289c5069-3c5a-4234-a184-7e1b3febf652" name="Attach_Right.003"/>
+			<meta id="4de95b56-6a04-40d2-86e4-c875d30ff3a8" name="bricks">
+				<meta id="427c3cf2-0300-4ec9-9108-3a25b2062df7" name="bricks_0"/>
+				<meta id="de5d218f-f972-46c4-95ca-6d6b9ddf5b2b" name="bricks_1"/>
+			</meta>
+		</meta>
+		<meta id="c3f4bb9c-4d3f-4422-8175-65dc4f59a74d" name="Water_Source_Handpump_Part">
+			<meta id="34e9d2b0-e7a0-4050-9927-9686c1930ad5" name="WATER_SOURCE_HANDPUMP_PATH_A1"/>
+			<meta id="61557f50-1042-4909-a983-0f2f57958210" name="WATER_SOURCE_HANDPUMP_PATH_C1"/>
+			<meta id="1bceacce-f730-4b7c-8fb7-a013c99a71b1" name="WATER_SOURCE_HANDPUMP_PATH_B1"/>
+			<meta id="78fcd667-6eff-495c-aa53-195a3317b089" name="Water_Source_Handpump_Part_0"/>
+			<meta id="5cd7f488-d6a9-43d6-b866-a7e7e872311f" name="Water_Source_Handpump_Part_1"/>
+			<meta id="86b830a5-0f17-4106-b084-7bb1b1ddb5ad" name="WaterDropEmitter1"/>
+		</meta>
+		<meta id="1b3d861b-4ac0-4650-89fa-820237498516" name="Water_Source_Basin_Part">
+			<meta id="fcb41286-c870-4c85-b09b-c46ead3dc1be" name="WATER_SOURCE_BASIN_PATH_A1"/>
+			<meta id="d9693809-c266-4c33-807c-9227f974f267" name="back"/>
+			<meta id="b8ce1753-b54d-4559-8190-1e9d02162b49" name="basin"/>
+			<meta id="6edfdc4c-a9be-4911-ac41-3e0c9a4af8f9" name="opening">
+				<meta id="479b74b0-dcc8-42ec-999e-895b2bc99a5b" name="opening_0"/>
+				<meta id="dae19bfc-df05-460a-a6e1-e4bc04f80c91" name="opening_1"/>
+			</meta>
+			<meta id="e87a10fa-40d8-42da-8792-e59e44c1c4dc" name="spout"/>
+			<meta id="01e497e7-4641-4a84-b732-555205e9cfed" name="bowl"/>
+			<meta id="fbab7360-7136-4b84-9955-4e75ac95367e" name="water.003"/>
+			<meta id="0b3baf0a-e306-4496-94c9-75d5a502b4a0" name="WaterRippleEmitter1"/>
+			<meta id="311227b1-d718-4127-988b-46e4d4ef6128" name="WaterRippleEmitter2"/>
+			<meta id="730a05ad-d2b2-46b0-94ef-f774e9cd3586" name="WaterRippleEmitter3"/>
+			<meta id="fdfccacd-b88c-465a-b694-d64093d830ec" name="WaterSplashEmitter1"/>
+			<meta id="f910740a-1f5a-4804-aa88-2ce353db9061" name="WaterSplashEmitter2"/>
+			<meta id="9b210c9d-59fe-4474-9690-30da9dcf9b96" name="WaterSplashEmitter3"/>
+			<meta id="4c4b097a-e0d7-471b-89e4-15d3efb8ca10" name="bottom"/>
+		</meta>
+	</meta>
+	<meta id="0a99f276-2014-4165-ac55-e0ccac898a2a" type="group" folder="true" name="LOD">
+		<meta id="a4a2368c-7678-4963-8bfa-a9c98239e02e" name="Water_Source_Barrel_Part_0"/>
+		<meta id="e9e09456-7e0e-4abf-af0f-8b53e83a0deb" name="Water_Source_Barrel_Part_1"/>
+		<meta id="80993deb-2652-403c-979d-a9e5c5bdb81d" name="Water_Source_Barrel_Part_2"/>
+		<meta id="ffb7b806-dbdd-44ca-adfa-226d98b628e3" name="Water_Source_Well_Part_0"/>
+		<meta id="4f70f2c4-1998-4d29-9230-602936126923" name="Water_Source_Well_Part_1"/>
+		<meta id="008c1450-8bab-44f8-8979-3a6639e0af73" name="Water_Source_Well_Part_2"/>
+		<meta id="72ecf20a-a790-4f11-b941-e1e6615b7d1a" name="Water_Source_Well_Part_3"/>
+		<meta id="53098783-cd49-409b-9555-1a8e4b0aae7f" name="Water_Source_Well_Part_4"/>
+		<meta id="a677b30e-67d6-418d-b638-54bc13ccf960" name="Water_Source_Well_Part_5"/>
+		<meta id="773586b5-0420-4525-a3b2-ef71ae911e30" name="Water_Source_Handpump_Part_0"/>
+		<meta id="0eb8b25d-3dd2-4332-beaf-113235ebd8f9" name="Water_Source_Handpump_Part_1"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="72bad839dc537d3d65b39f94743d7ba4"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_BARREL_PATH_A1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="water.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_BARREL_PATH_B1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_BARREL_PATH_C1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_BARREL_PATH_D1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Barrel_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Barrel_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Barrel_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Water_Source_Barrel_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_WELL_PATH_A1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="water.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_WELL_PATH_E1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_WELL_PATH_C1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_WELL_PATH_F1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_WELL_PATH_D1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_WELL_PATH_B1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Well_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Well_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Well_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Well_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Well_Part_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Well_Part_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cover_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cover_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cover"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bricks_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bricks_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="bricks"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Water_Source_Well_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_HANDPUMP_PATH_A1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_HANDPUMP_PATH_C1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_HANDPUMP_PATH_B1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Handpump_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water_Source_Handpump_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WaterDropEmitter1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Water_Source_Handpump_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WATER_SOURCE_BASIN_PATH_A1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="back"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="basin"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="opening_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="opening_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="opening"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="spout"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bowl"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="water.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WaterRippleEmitter1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WaterRippleEmitter2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WaterRippleEmitter3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WaterSplashEmitter1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WaterSplashEmitter2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="WaterSplashEmitter3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Water_Source_Basin_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="44862994-7950-4be7-b807-04c886f93406"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1502989c-bff5-4c80-a2e1-eb28d73dff66"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a23dc3d1-dd14-4cbb-9db9-ca3bb3735198"/>
+			<MaterialName value="brick"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="471e4f47-b4fc-46b4-baba-032a52bba5a4"/>
+			<MaterialName value="cloth_black_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a6e3d0a2-7cf9-4f64-a7b4-ffad138cab24"/>
+			<MaterialName value="cloth_blue_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="19afe02e-dbde-4a6c-acf5-9ac680420afa"/>
+			<MaterialName value="cloth_brown_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="53ceb427-81c9-4349-a1ee-05dfd70a940d"/>
+			<MaterialName value="cloth_green_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9dd1767a-ee83-4e3d-bb1c-084229c11361"/>
+			<MaterialName value="cloth_grey_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6de2b36e-739f-4e47-998d-6c7909b2a8b1"/>
+			<MaterialName value="cloth_purple_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6c604117-e2d5-4b1d-9223-651ddbe2fca8"/>
+			<MaterialName value="cloth_red_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8308b445-c75a-4e05-8098-6832b89c170c"/>
+			<MaterialName value="cloth_white"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="35e75fc5-4581-45cb-a914-2ff2cfd0311f"/>
+			<MaterialName value="cloth_white_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="639c1483-47b6-4a0b-8d30-4343cc9df2f6"/>
+			<MaterialName value="cloth_yellow_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f2ff9355-4854-4de8-a89c-09f5e7ed8a6b"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fe571ca4-62e6-4b77-a4b4-36cc83e31ed2"/>
+			<MaterialName value="marble"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="65575aca-a952-4c52-bfff-f150c3c51535"/>
+			<MaterialName value="metal dark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3845607c-28ec-4c88-936d-ceaf793ef236"/>
+			<MaterialName value="metal light"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ea674002-ef97-4813-bf81-8a36f9323f4a"/>
+			<MaterialName value="rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="29bf6b1b-a774-4fd8-a402-afc529f81cfc"/>
+			<MaterialName value="vines_well"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0fc29524-1587-4192-9700-e7287f7716af"/>
+			<MaterialName value="water_source"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1237c3d1-bb4d-4d43-bb18-dbf6ca46aa2c"/>
+			<MaterialName value="wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

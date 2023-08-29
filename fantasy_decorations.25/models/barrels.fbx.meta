@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="08560bed-30e8-4f05-9234-a48a30f4ddfe">
+	<meta id="0dc9fccc-99c2-446d-b673-5c76f5d12595" type="group" folder="true" name="Materials">
+		<meta id="957778e4-ced5-4ee9-b4c6-3dafba94109e" name="wood"/>
+		<meta id="5ade2f76-dd8c-4f5e-a7f1-8cdd6b291bc3" name="metal"/>
+		<meta id="507e240c-4351-411c-b303-162fd1dd7fa7" name="food"/>
+		<meta id="b0e64730-667b-44fd-96e5-130a9f919269" name="food2"/>
+		<meta id="8e789215-869b-4c07-a239-deb6c77cf5c8" name="bark"/>
+		<meta id="a8420a00-61e7-4ac6-9929-df1bded17b7d" name="end"/>
+		<meta id="006d630e-25e7-4a01-908a-b6723c4da717" name="fish"/>
+		<meta id="d225d7ac-4916-4b39-b0f4-8a15676b1a66" name="fishgreen"/>
+		<meta id="d028395b-d594-44b4-b63b-d9679119f286" name="water_barrel"/>
+	</meta>
+	<meta id="407a3866-72d9-4855-b9a1-4d5e6df12090" type="group" folder="true" name="Meshes">
+		<meta id="7e5b082f-30f3-470e-9669-4029d7fc9ee2" name="barrel_wood"/>
+		<meta id="a745f987-337d-4469-9d54-c9a034ffed57" name="barrel_metal"/>
+		<meta id="7340a37b-8fae-443f-9690-59b11080d493" name="barrel.001_wood"/>
+		<meta id="f72113c2-a0fd-470b-9864-dd18ae2dc504" name="barrel.001_metal"/>
+		<meta id="757f7f64-debf-42ab-b90a-396a4059f550" name="barrel.006_wood"/>
+		<meta id="b0faa3a7-1137-48b5-bead-c3393034209b" name="barrel.006_metal"/>
+		<meta id="2a89ad5c-761f-40cf-adb4-99f24f4b5061" name="barrel.007_wood"/>
+		<meta id="2e0d1e91-28ed-49ba-bf81-d65544edc26d" name="barrel.007_metal"/>
+		<meta id="10855e76-7564-43b0-84e4-b29895cc2140" name="barrel.008_wood"/>
+		<meta id="37c48dc9-4346-493a-84fe-63275d738a43" name="barrel.008_metal"/>
+		<meta id="2df614bf-6fd0-4692-a34b-b3c3690db388" name="barrelsmall_wood"/>
+		<meta id="fb39ebff-0625-4826-858d-a53d599ec5bc" name="barrelsmall_metal"/>
+		<meta id="2822c7c6-e1be-4824-9940-2f502b48cfc1" name="barrel.009_wood"/>
+		<meta id="0df10cba-b324-4833-a2fe-c9bbd7109eee" name="barrel.009_metal"/>
+		<meta id="bae9c291-ec18-49f4-aa3e-5fb8170b5209" name="barrel.010_wood"/>
+		<meta id="99456ea1-9d77-4b53-ab42-44dff4d98443" name="barrel.010_metal"/>
+		<meta id="9f2af067-687a-4e5c-87c6-7b4750625171" name="barrel.011_wood"/>
+		<meta id="75d9ab72-a2b6-4910-b5a0-cf23c672f0ed" name="barrel.011_metal"/>
+		<meta id="e3a2f780-6b93-4ffb-9c30-e3bcf03cb6a0" name="spout_metal"/>
+		<meta id="ca6048ad-cc4f-499d-aaf4-3368d788856f" name="barrel.012_wood"/>
+		<meta id="c6d2ed3d-e4ed-4ad6-8092-869dc003471c" name="barrel.012_food2"/>
+		<meta id="cb8e16cb-2bbf-46da-9506-cfe7ad15180f" name="stick_bark"/>
+		<meta id="f7230ad6-c2b4-49fb-8026-a80bb7ba905b" name="stick_end"/>
+		<meta id="da96087f-7641-497d-a65b-7f5dd719cba2" name="legs_wood"/>
+		<meta id="a4f8248b-34d2-47c8-8f07-2f57e16fb19f" name="barrel.012_metal"/>
+		<meta id="cc8ba4a7-fdf6-4229-b1d5-cba9f9731891" name="stand_wood"/>
+		<meta id="e2684ed6-bd9e-447d-a5ad-cf0157556097" name="top.002_wood"/>
+		<meta id="7ef3f2e0-a462-4e92-9ad1-ee302c353ebe" name="barrel.002_wood"/>
+		<meta id="61ab65c0-5e43-46dc-aa3c-14f1fddd6c0b" name="barrel.002_metal"/>
+		<meta id="8d5ba990-a3fa-4cb7-8772-38574fae278a" name="fish_fish"/>
+		<meta id="87a6c8c7-128d-4630-b2a1-eb655a0d88af" name="fish_fishgreen"/>
+		<meta id="3f225964-1be7-40f3-9b4b-8b804ab29047" name="grapes_food"/>
+		<meta id="60356af3-9e90-4170-95f9-592682d90c25" name="berries_food"/>
+		<meta id="dbde99c9-ae0f-4f17-a35c-38f5559e0973" name="fish.001_food"/>
+		<meta id="116aa7a9-b8eb-43bc-8cf1-49263133e817" name="barrel.013_food"/>
+		<meta id="82ebc7e8-d5db-4480-a717-90ac6abb4464" name="water_water_barrel"/>
+		<meta id="8556fa51-9484-4b36-bd6a-5fe37708c66c" name="barrel.004_metal"/>
+	</meta>
+	<meta id="f9d822ed-f1f4-4c1a-bb4c-34a2b71337bb" name="Prefab">
+		<meta id="758d9639-1b83-4f53-9315-1133020c2a56" name="Barrel1_Part">
+			<meta id="31b0fcee-7c03-46ad-b445-4004f6ddeb45" name="barrel">
+				<meta id="7a0cc1c5-a6ad-41ef-a99d-b649cfccdecf" name="barrel_0"/>
+				<meta id="340042e5-8905-4abb-8ec0-2f888921598c" name="barrel_1"/>
+			</meta>
+			<meta id="7421b744-42a5-4a1c-989f-1e75897e6152" name="Attach_Bottom"/>
+		</meta>
+		<meta id="a19041a7-7bcf-4633-a734-9cb3c6f237d3" name="Barrel2_Part">
+			<meta id="57a61d04-cafe-4f7a-a4e4-c2bf3e7714b1" name="barrel.001">
+				<meta id="786f27d5-5219-4362-8c56-74f3ba4c7a3c" name="barrel.001_0"/>
+				<meta id="b1469577-2ab0-43f7-84e4-8f2cbbdbe018" name="barrel.001_1"/>
+			</meta>
+			<meta id="7332aeeb-06c0-448f-b6c4-53ad8f8f5dc9" name="Attach_Bottom.001"/>
+		</meta>
+		<meta id="469806f2-7f38-4d20-93b7-1064b3974da8" name="Barrel_Grapes_Part">
+			<meta id="7ce1c48f-9a68-41fb-b0f0-a21429ae7bb3" name="Attach_Bottom.005"/>
+			<meta id="cb6463e6-6721-4ea6-aa30-0360273b7662" name="top.002"/>
+			<meta id="a6cf39c1-3217-4390-82fb-7fae8b012672" name="barrel.002">
+				<meta id="126260ea-f861-44cb-a04b-8d81f3de38b7" name="barrel.002_0"/>
+				<meta id="561b1540-4055-4eb3-b061-6f4592279ab6" name="barrel.002_1"/>
+			</meta>
+			<meta id="878780d3-a9f5-4393-88c9-72d9af47a699" name="grapes"/>
+		</meta>
+		<meta id="0a66b986-668c-49bb-95dd-35fc5fbf199d" name="Barrel_Berries_Part">
+			<meta id="387aa6a2-f20d-4925-a1f0-764e937634f2" name="barrel.004">
+				<meta id="d812ed3c-028a-4581-a450-1bb33ae0b9cd" name="barrel.004_0"/>
+				<meta id="68f18b89-9026-4ca4-a5de-4c9d92dbdc5c" name="barrel.004_1"/>
+			</meta>
+			<meta id="8400fa4f-5bd4-418c-97e8-b87a5c9188fb" name="top"/>
+			<meta id="81db1fed-bc7c-40c5-8511-5f7211888c09" name="Attach_Bottom.003"/>
+			<meta id="65ebe745-e255-42a2-81eb-a25180c69a04" name="berries"/>
+		</meta>
+		<meta id="00a3b932-3bcd-4788-b1c2-4dd29275740f" name="Barrel_Fish_Part">
+			<meta id="0d08db43-c1d2-4e7b-9ee7-14873db2fcaa" name="barrel.005">
+				<meta id="f39f2ea9-b0ff-4a48-b4d9-1decbe61f785" name="barrel.005_0"/>
+				<meta id="18ec3889-f7eb-4183-84d6-72b0fae2514f" name="barrel.005_1"/>
+			</meta>
+			<meta id="fd84f159-5f1d-40ad-a39c-962e6836b250" name="Attach_Bottom.004"/>
+			<meta id="289ed4c7-127f-4adb-8a4d-07580e458703" name="top.001"/>
+			<meta id="1e1dcdf2-6bdf-4e59-afdf-7637872cf0a5" name="fish">
+				<meta id="3282701a-15c7-4393-9833-d83e662a72ad" name="fish_0"/>
+				<meta id="fee8f7c1-af96-4e17-8572-22738196c19f" name="fish_1"/>
+			</meta>
+			<meta id="492b2d99-e0c4-4087-bc2d-e4c49cba1ace" name="fish.001"/>
+		</meta>
+		<meta id="a47d9a8c-d5b2-40c6-abde-9f3b0bbd3bcf" name="Barrel3_Part">
+			<meta id="bb093115-191e-4170-b9ea-de1c7d0439c3" name="barrel.006">
+				<meta id="56a95451-3dcb-48df-9d08-770d9ee2979d" name="barrel.006_0"/>
+				<meta id="af0c1d4c-075d-4c22-9057-e8e9cc9c787f" name="barrel.006_1"/>
+			</meta>
+			<meta id="31278a22-f36d-4b74-9353-a41b4a663467" name="barrel.007">
+				<meta id="655abf0c-6e2b-462b-812c-a74aea53ca8c" name="barrel.007_0"/>
+				<meta id="bac6d0f8-1c4e-4e14-8cc5-94155711f4f0" name="barrel.007_1"/>
+			</meta>
+			<meta id="fec8a1a2-0971-4ef4-9757-8a20bed01867" name="barrel.008">
+				<meta id="f539c4ce-461d-447c-9f8b-59b0de189e99" name="barrel.008_0"/>
+				<meta id="a12b4e71-da1c-4c07-9b26-1892d8f38421" name="barrel.008_1"/>
+			</meta>
+			<meta id="51c88505-218d-43fa-b38e-9aa94554f5c2" name="Attach_Bottom.002"/>
+		</meta>
+		<meta id="6d62fa20-1366-466f-b11e-2866edc4116d" name="Barrel_Hops_Part">
+			<meta id="aa315149-c850-4cb3-9209-dfc82cb2ce6d" name="Attach_Bottom.006"/>
+			<meta id="63d0cb7a-afbf-48c1-b7be-c0dd7cbd1104" name="top.004"/>
+			<meta id="e74421c6-1a18-408b-9ace-a3a289376a7a" name="barrel.003">
+				<meta id="e9782f3e-6c99-4058-9f85-5258d17a06a6" name="barrel.003_0"/>
+				<meta id="d5b97b58-b19f-4d4c-b763-2099fcde1036" name="barrel.003_1"/>
+			</meta>
+			<meta id="a5a1d4af-b9ea-4ed6-836a-97f097893eed" name="barrel.013"/>
+		</meta>
+		<meta id="68818140-583c-4906-8539-fa042824eb0a" name="Barrel_Small1_Part">
+			<meta id="a122a63e-3b42-4d09-a52a-c51cd07473d5" name="barrelsmall">
+				<meta id="4db7912f-812b-4cb8-8d9f-73c054ec3019" name="barrelsmall_0"/>
+				<meta id="6012e2e4-1c14-40c8-8b5f-3ef6b6801e9a" name="barrelsmall_1"/>
+			</meta>
+			<meta id="44ff7804-87ce-4a49-a5e1-83c35f3b267f" name="Attach_Bottom.007"/>
+		</meta>
+		<meta id="13c1a4d5-7eda-4ca1-aec4-8f0d0becd880" name="Barrel_Water_Part">
+			<meta id="140917b6-ba06-4b6c-a22b-2703b90dbf74" name="barrel.009">
+				<meta id="b1da6b6d-7e14-425e-8c59-4165462f7235" name="barrel.009_0"/>
+				<meta id="73341fd2-0497-4adb-b3d8-f2774f058ea6" name="barrel.009_1"/>
+			</meta>
+			<meta id="45a87bd6-01d2-43f6-b821-7c01761e2e88" name="Attach_Bottom.008"/>
+			<meta id="1e4b3339-260c-4914-a510-cfe6b9a089cd" name="water"/>
+		</meta>
+		<meta id="06b11483-4ae6-400d-b135-0d07d3272613" name="Barrel_Empty_Part">
+			<meta id="3aa14070-2bfa-4d94-ae6e-558b639c62c3" name="barrel.010">
+				<meta id="f5fd48e4-3eb7-4ffa-9c77-a78b065bb24b" name="barrel.010_0"/>
+				<meta id="88b80914-26a2-4213-b4ac-f6e9af2ecda0" name="barrel.010_1"/>
+			</meta>
+			<meta id="5468e891-438a-4607-953f-33c6b9c6b056" name="Attach_Bottom.009"/>
+			<meta id="fbb4869e-ba7c-48a3-88ff-62a0409f828f" name="legs"/>
+		</meta>
+		<meta id="31770e64-5e01-408f-acc4-d1a5cd9e2173" name="Barrel_Beer_Part">
+			<meta id="a1876bfe-74f3-4819-a71f-06ae50250c2c" name="Attach_Bottom.010"/>
+			<meta id="94743c1c-b724-4cc8-9dc6-cf5ba0b5271a" name="barrel.011">
+				<meta id="5c5ca14e-43b4-4f89-868d-584ddd57f963" name="barrel.011_0"/>
+				<meta id="45359237-26ae-43cf-bbd3-2a10b2110547" name="barrel.011_1"/>
+			</meta>
+			<meta id="03c8d58f-2fd0-4a80-accd-9cec926eba3c" name="spout"/>
+			<meta id="e877731a-b2d8-420b-ae43-06af5ac88adb" name="stand"/>
+		</meta>
+		<meta id="9d4e1682-3b20-45a2-93ee-5fcaca9a5f76" name="Barrel_Honey_Part">
+			<meta id="27edff3b-8219-4d08-8979-424c6a85a603" name="Attach_Bottom.011"/>
+			<meta id="10f18edb-04ec-4c22-968f-a5c34b873aac" name="barrel.012">
+				<meta id="685d9c27-dd67-4da0-8e79-39b7c2b2a2fa" name="barrel.012_0"/>
+				<meta id="b325ca8e-1cef-4cf4-9685-e29f8bc2681c" name="barrel.012_1"/>
+				<meta id="7cbb6fe9-940c-4313-ad45-883cfee01bf5" name="barrel.012_2"/>
+			</meta>
+			<meta id="60928171-f4d0-46e4-8fb9-b77da8219911" name="stick">
+				<meta id="a8080a4d-d31c-466f-acf2-558a88269993" name="stick_0"/>
+				<meta id="664bb76b-3627-4cca-9956-9fd30d0e9610" name="stick_1"/>
+			</meta>
+			<meta id="1eaf68be-76e4-4710-99ac-2dd72765056f" name="top.003"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="a00862349972d9bd26cb7497f0f69d3b"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="grapes"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Grapes_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="berries"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Berries_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fish_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fish_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="fish"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="fish.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Fish_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.007_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="barrel.013"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Hops_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrelsmall_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrelsmall_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrelsmall"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Small1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="water"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Water_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.010_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.010_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="legs"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Empty_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.011_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.011_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="spout"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="stand"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Beer_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.012_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.012_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="barrel.012_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="barrel.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stick_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stick_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stick"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Barrel_Honey_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8e789215-869b-4c07-a239-deb6c77cf5c8"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a8420a00-61e7-4ac6-9929-df1bded17b7d"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="006d630e-25e7-4a01-908a-b6723c4da717"/>
+			<MaterialName value="fish"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d225d7ac-4916-4b39-b0f4-8a15676b1a66"/>
+			<MaterialName value="fishgreen"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="507e240c-4351-411c-b303-162fd1dd7fa7"/>
+			<MaterialName value="food"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b0e64730-667b-44fd-96e5-130a9f919269"/>
+			<MaterialName value="food2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5ade2f76-dd8c-4f5e-a7f1-8cdd6b291bc3"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d028395b-d594-44b4-b63b-d9679119f286"/>
+			<MaterialName value="water_barrel"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="957778e4-ced5-4ee9-b4c6-3dafba94109e"/>
+			<MaterialName value="wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

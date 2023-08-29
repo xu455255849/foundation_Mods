@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="13f831ac-b50f-4095-8686-3a3cd54e38fa">
+	<meta id="a9ada86e-cd92-4272-a231-821deeb8eaf7" type="group" folder="true" name="Materials">
+		<meta id="cb45206f-71d8-41fc-be22-a9f22aca34ff" name="rope"/>
+		<meta id="d86cfb88-d7c5-4af7-b103-cdac3958a83a" name="bark"/>
+		<meta id="b3014f74-b471-4564-a629-1b4599e0483e" name="end"/>
+		<meta id="ac3321d6-90f8-4478-8969-c40e2dad9481" name="cloth_red"/>
+		<meta id="c85873b8-437c-4450-8231-eb8bafe4ab1b" name="cloth_green"/>
+		<meta id="5e2103fb-0c6c-4407-ac1e-172398be34c2" name="cloth_white"/>
+		<meta id="62fcaf31-c987-4f03-b57c-1aa6c86c5999" name="cloth_purple"/>
+		<meta id="ab290399-4470-4054-ad94-787f29005f71" name="cloth_blue"/>
+		<meta id="856ba71e-f98e-47c5-8f90-8e03ef6279f5" name="cloth_black"/>
+		<meta id="db2c2f4e-3116-40ca-b918-444396370e8e" name="cloth_yellow"/>
+		<meta id="5df45f97-11f7-468e-9d8a-752b73ee1b54" name="cloth_brown"/>
+	</meta>
+	<meta id="fd1491c9-55c4-47ca-a874-423a65879278" type="group" folder="true" name="Meshes">
+		<meta id="13c136b6-d018-47af-b3ec-ddce839db72a" name="line_rope"/>
+		<meta id="5e25f7a8-874f-4c4e-a39a-c01d17eaf651" name="pole_bark"/>
+		<meta id="f69cf0a5-d158-4bc1-8223-eaabf38d1aee" name="pole_end"/>
+		<meta id="72fb6bb8-4bd5-4e17-b3e2-ad9ea22215ea" name="rope_rope"/>
+		<meta id="9a677503-cafb-483d-8859-d89ca5fe47ad" name="rope.001_rope"/>
+		<meta id="0accfae9-368a-47be-a1ca-02f465db9ee1" name="cloth_cloth_red"/>
+		<meta id="bc8e580c-4c35-4405-9724-7c42b70a0980" name="cloth_cloth_green"/>
+		<meta id="b3d08c2a-bfef-49e8-bc90-3db51afd5152" name="cloth_cloth_white"/>
+		<meta id="afa0fa1b-76ba-4b4c-a039-78c564acb19e" name="cloth3_cloth_purple"/>
+		<meta id="57850b70-7983-42ef-8f65-07e35268de3b" name="cloth3_cloth_blue"/>
+		<meta id="aa6ea320-d312-45de-8a00-4b50906d2e89" name="cloth3_cloth_black"/>
+		<meta id="2de9571e-3401-4eaf-8efb-6ab9327bf382" name="cloth2_cloth_white"/>
+		<meta id="2c3de45a-6ee0-46f6-b221-b3bc6fa6d5bf" name="cloth2_cloth_yellow"/>
+		<meta id="f7d39fcd-9726-439d-8dd9-3fcf26025462" name="cloth2_cloth_brown"/>
+		<meta id="c5332690-3974-4112-bf70-6978d0ddf3f7" name="Plane.006_cloth_white"/>
+		<meta id="c7cfbad2-832a-459c-950c-6439e0f39a5f" name="Plane.007_cloth_white"/>
+		<meta id="630a76a3-7bea-4460-8d29-e392f63a3ed6" name="Plane.008_cloth_white"/>
+		<meta id="dd91a6cb-2d41-474d-aab6-59a0c2378133" name="Plane.001_cloth_white"/>
+		<meta id="ba7db06e-328b-48ea-81fd-7cd3e4e4cc49" name="pole.003_end"/>
+	</meta>
+	<meta id="3810e213-14fd-49c0-b8a4-7b555b784a3d" name="Prefab">
+		<meta id="962e1b2d-09df-4d1b-83ad-b2c15e926f3b" name="Cloth_Line1_Part">
+			<meta id="4baf2107-5b8e-4ba8-b6a1-8bd8fb6e2cb1" name="Attach_Bottom"/>
+			<meta id="0e30dcff-ebe9-4840-b8e4-1fd931383f51" name="cloth">
+				<meta id="d0b4fb89-e3a4-4df7-9ab3-f6aa767b0d54" name="cloth_0"/>
+				<meta id="5fce1d24-8bd2-4102-97e8-cc99e9630265" name="cloth_1"/>
+				<meta id="73a4a9d4-3611-4730-9322-db5116d540ff" name="cloth_2"/>
+			</meta>
+			<meta id="ccf917e6-93f3-4199-8258-8d44e812cb77" name="line"/>
+			<meta id="c1498b7b-cc2f-4504-ad8e-69cef7f23b04" name="pole">
+				<meta id="19b25c7b-cff4-468a-bd26-5f2d09b47b95" name="pole_0"/>
+				<meta id="db2dda4d-621c-48c1-971f-13159400caa6" name="pole_1"/>
+			</meta>
+			<meta id="c1f288b9-466a-45f6-be91-d74298a5a690" name="rope"/>
+		</meta>
+		<meta id="a0d02f02-f33f-4561-92f9-ff5b4cfc1331" name="Cloth_Line3_Part">
+			<meta id="0c7c52d8-5275-4939-adbe-42d23c2fb9dc" name="Attach_Bottom.002"/>
+			<meta id="67c81f42-62db-4c7e-8b84-131bd45c1162" name="pole.002">
+				<meta id="faca14c3-cca2-44a9-ac3e-d425dd5c7276" name="pole.002_0"/>
+				<meta id="0fbeba0b-aadf-42a1-ad7c-7ecc3cf0afeb" name="pole.002_1"/>
+			</meta>
+			<meta id="eab2b03b-4289-4adc-95bf-30fc4f22c97e" name="rope.002"/>
+			<meta id="974f2001-be37-41e5-9447-3c1f92189134" name="line.002"/>
+			<meta id="c040db8d-5b38-4d4f-9e77-3db20d591235" name="cloth3">
+				<meta id="1796f5a4-0e34-4554-adcf-3009c71ef670" name="cloth3_0"/>
+				<meta id="be460b2a-9dd2-447a-be64-59ba7cef436f" name="cloth3_1"/>
+				<meta id="f89dab91-830f-4311-aebf-5622cd3ef418" name="cloth3_2"/>
+			</meta>
+		</meta>
+		<meta id="0f892a4f-5432-44a4-beda-b73662f5d0a8" name="Cloth_Line2_Part">
+			<meta id="85c94c9a-b8a7-4d98-a2a4-57fe205f281c" name="Attach_Bottom.001"/>
+			<meta id="362ceb16-712b-4127-afd9-17725f48278b" name="line.001"/>
+			<meta id="b0f1b2cb-383e-451c-9b69-52995c2bffaa" name="pole.001">
+				<meta id="e7f8d916-d84a-494c-a8a6-4e76748d1e13" name="pole.001_0"/>
+				<meta id="072488ae-1074-4480-99df-e2d2a0efa2af" name="pole.001_1"/>
+			</meta>
+			<meta id="884e4754-9a27-43fa-a5d4-37d7f24d7f40" name="rope.001"/>
+			<meta id="e685e65a-b3ae-4c20-a29a-e3804e9a79b1" name="cloth2">
+				<meta id="d9e46210-66bb-4b23-b949-acddf406f67a" name="cloth2_0"/>
+				<meta id="00e7ac01-bb04-483f-b07f-b77b0c140c32" name="cloth2_1"/>
+				<meta id="88ac5038-a258-482b-a223-b6f0efb2ba80" name="cloth2_2"/>
+			</meta>
+		</meta>
+		<meta id="f855a594-b54b-4797-b45d-bbc62f779594" name="Cloth_Line4_Part">
+			<meta id="975d27bb-9c86-436b-8295-dd6dc87492bf" name="Attach_Bottom.003"/>
+			<meta id="787ae8bb-d7fe-42ff-a148-968402570767" name="line.003"/>
+			<meta id="24069942-9986-4008-920d-0d0c152d7139" name="pole.003">
+				<meta id="cf53144e-8950-47b3-a92c-75f6db157ec4" name="pole.003_0"/>
+				<meta id="c79eac0b-b24e-4e48-a2e3-13fab5d91a56" name="pole.003_1"/>
+			</meta>
+			<meta id="6ec12360-fe73-49e8-aaa8-d1911206adb5" name="rope.003"/>
+			<meta id="6357ff40-9ded-419d-b2ea-5d28a2d4d526" name="Plane.006"/>
+			<meta id="204bee7c-c3c4-43b2-ad37-194ece4e37fc" name="Plane.007"/>
+			<meta id="9a25be47-5bb1-46f9-b26a-c403c87583b0" name="Plane.008"/>
+			<meta id="a47c10c6-9d35-4322-9317-a7c7f1dba216" name="Plane.001"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="9363378328b94487b2f82eeb51054edf"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cloth"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="line"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pole"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Line1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pole.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="line.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth3_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth3_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth3_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cloth3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Line3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="line.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pole.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth2_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth2_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth2_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cloth2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Line2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="line.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="pole.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="pole.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Plane.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Plane.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Plane.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Plane.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Line4_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d86cfb88-d7c5-4af7-b103-cdac3958a83a"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="856ba71e-f98e-47c5-8f90-8e03ef6279f5"/>
+			<MaterialName value="cloth_black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ab290399-4470-4054-ad94-787f29005f71"/>
+			<MaterialName value="cloth_blue"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5df45f97-11f7-468e-9d8a-752b73ee1b54"/>
+			<MaterialName value="cloth_brown"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c85873b8-437c-4450-8231-eb8bafe4ab1b"/>
+			<MaterialName value="cloth_green"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="62fcaf31-c987-4f03-b57c-1aa6c86c5999"/>
+			<MaterialName value="cloth_purple"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ac3321d6-90f8-4478-8969-c40e2dad9481"/>
+			<MaterialName value="cloth_red"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5e2103fb-0c6c-4407-ac1e-172398be34c2"/>
+			<MaterialName value="cloth_white"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="db2c2f4e-3116-40ca-b918-444396370e8e"/>
+			<MaterialName value="cloth_yellow"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b3014f74-b471-4564-a629-1b4599e0483e"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cb45206f-71d8-41fc-be22-a9f22aca34ff"/>
+			<MaterialName value="rope"/>
+		</Item>
+	</MaterialList>
+</importer>
+

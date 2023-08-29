@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="287ec838-9dce-413e-bc3b-640529d99033">
+	<meta id="95ce32d4-6471-432d-9ab8-f54bb67b6cc9" type="group" folder="true" name="Materials">
+		<meta id="ab6316a0-a916-44c4-828f-51f2e6f6f453" name="planks"/>
+		<meta id="19eb2826-4048-49a5-b14f-03c163dc878e" name="cloth_white"/>
+		<meta id="8f53140d-6620-4558-b697-374fa640e6a3" name="cloth_black"/>
+		<meta id="8a3aa614-c389-4fee-8424-e451aa61fe81" name="cloth_grey"/>
+		<meta id="92b3f9a9-9cfe-4f2d-8c56-f94c95dab4da" name="stone"/>
+	</meta>
+	<meta id="ef05269e-3f71-422a-9cb7-51bf1494eca2" type="group" folder="true" name="Meshes">
+		<meta id="77756a84-e38e-4b25-9c89-c94ab31232f0" name="Table_Wood1_Part_LOD_0123_planks"/>
+		<meta id="cb0f9eae-b11c-447f-a47f-7d355c07e35f" name="Chair_Wood1_Part_LOD_0123_planks"/>
+		<meta id="db7acf11-8925-4102-9b18-703a96760b97" name="Bench_Wood1_Part_LOD_0123_planks"/>
+		<meta id="8de4c06a-8a1e-4dfa-ba29-4471a927b205" name="Stool_Wood1_Part_LOD_0123_planks"/>
+		<meta id="215840f1-0c11-4e01-90e9-3c6d68c52a26" name="Stool_Wood2_Part_LOD_0123_planks"/>
+		<meta id="ada86449-122a-4f86-8948-c8acb7cebb34" name="Table_Wood2_Part_LOD_0123_planks"/>
+		<meta id="3eb3e260-4e3e-4bba-be9f-9c19d755d547" name="Table_Wood2_Part_LOD_0123_cloth_white"/>
+		<meta id="a3c951c3-3f8b-45c0-aa1b-5074b8553423" name="Table_Wood2_Part_LOD_0123_cloth_grey"/>
+		<meta id="d1c3daf9-4626-47cb-837b-3c57667f1cb1" name="Table_Wood2_Part_LOD_0123_cloth_black"/>
+		<meta id="f03760b8-5a00-4853-a065-61fdb4934778" name="Chair_Wood2_Part_LOD_0123_planks"/>
+		<meta id="1af64d6a-87a2-413f-ba54-04e5c2500e09" name="Bench_Wood2_Part_LOD_0123_planks"/>
+		<meta id="94d13988-8e3c-4e1f-afca-a45a5ab7703a" name="Table_Round1_Part_LOD_0123_planks"/>
+		<meta id="9adf730e-b30a-42e4-9892-ac5ca58fb962" name="Table_Round2_Part_LOD_0123_planks"/>
+		<meta id="b9eb1690-1046-457a-8b17-cb85b9d12403" name="Table_Round2_Part_LOD_0123_cloth_white"/>
+		<meta id="461bfeb7-1b56-4c82-bf41-c6ec2c637b7e" name="Table_Round2_Part_LOD_0123_cloth_grey"/>
+		<meta id="f1b93e46-0c79-4736-8299-20e04e2dc457" name="Table_Round2_Part_LOD_0123_cloth_black"/>
+		<meta id="05118738-c527-4184-a3da-e80457b072c3" name="Boundery Box"/>
+		<meta id="7d9d78a1-67e1-4466-81b1-19c8b792e336" name="bench1_stone"/>
+		<meta id="6afc0c1b-ee30-4d8e-9364-26dde255d0b2" name="bench2_stone"/>
+	</meta>
+	<meta id="fe9f24ad-1191-4195-8469-9e3b9a9b0290" name="Prefab">
+		<meta id="76d8dd15-b4f7-434f-bf92-348b874245dd" name="Table_Wood1_Part">
+			<meta id="533b3164-ea15-43e3-a6e7-408923590234" name="Attach_Bottom.001"/>
+		</meta>
+		<meta id="7e2990ee-60ed-4606-b5d9-ad4c1ad0c174" name="Chair_Wood1_Part">
+			<meta id="2af9278b-bbdf-46a8-b245-c133ebb6ccd5" name="Attach_Bottom"/>
+			<meta id="1aa4003e-9041-463a-845b-80c09e799448" name="Attach_Chair_Wood1.01"/>
+		</meta>
+		<meta id="7777377a-d066-427c-a758-05f734f6617d" name="Bench_Wood1_Part">
+			<meta id="c1aaa046-40e1-46ba-9631-404f6634776f" name="Attach_Bottom.002"/>
+			<meta id="83a36535-b0e3-46c9-8459-17202802de1e" name="Attach_Bench_Wood1.01"/>
+			<meta id="ee1cff9d-2434-4a9a-a5b8-b3748f3bee8c" name="Attach_Bench_Wood1.02"/>
+		</meta>
+		<meta id="00b95c12-96e2-47a1-82f2-52bf824ad527" name="Stool_Wood1_Part">
+			<meta id="f692d50f-a83a-4d1a-a0b8-930e614932cf" name="Attach_Bottom.003"/>
+			<meta id="be2de3b5-76d2-4d23-973d-213faed64d6a" name="Attach_Stool_Wood1.01"/>
+		</meta>
+		<meta id="fdf9d237-39a2-431d-a6af-b746bca43012" name="Stool_Wood2_Part">
+			<meta id="c37d3680-f74b-4357-913e-7d2a72411c12" name="Attach_Bottom.004"/>
+			<meta id="ac10057b-626e-40f7-9ef6-3be846e54773" name="Attach_Stool_Wood2.01"/>
+		</meta>
+		<meta id="1cee328d-4b4f-4ca4-b71b-dd23ff360671" name="Table_Wood2_Part">
+			<meta id="c4fece46-ce03-4780-aabf-a4a1680f16d9" name="Attach_Bottom.006"/>
+			<meta id="390bc027-375c-47e2-9ee2-51ed5d4554a4" name="Table_Wood2_Part_0"/>
+			<meta id="2f19d1a0-2322-473f-acce-799f4199969a" name="Table_Wood2_Part_1"/>
+			<meta id="fc8d92be-e00b-44a4-9457-d01a7286acfc" name="Table_Wood2_Part_2"/>
+			<meta id="0388c74b-13a6-4fd3-9281-29885081e020" name="Table_Wood2_Part_3"/>
+		</meta>
+		<meta id="2dca7387-2e94-46b6-8cdc-24324750fbae" name="Chair_Wood2_Part">
+			<meta id="e6abe5c7-f760-4da7-89e2-f43f27493679" name="Attach_Bottom.005"/>
+			<meta id="d5d62785-0360-4095-9e85-a2eeed1e2021" name="Attach_Chair_Wood2.01"/>
+		</meta>
+		<meta id="96e12c9b-964f-4738-9282-7feddf60dc5b" name="Bench_Wood2_Part">
+			<meta id="01bf4ba7-1e75-46ee-9e16-2cd86e9c9b4e" name="Attach_Bottom.007"/>
+			<meta id="2c28f757-a423-4885-b80e-864eee0f5b81" name="Attach_Bench_Wood2.01"/>
+			<meta id="a5560edf-85e6-4113-a47b-68713c78c4a3" name="Attach_Bench_Wood2.02"/>
+		</meta>
+		<meta id="e59d547a-0f99-4957-9e07-63b6db2d4187" name="Table_Round1_Part">
+			<meta id="e842967a-bdf7-4c41-88e0-ed58713cea44" name="Attach_Bottom.008"/>
+		</meta>
+		<meta id="8a88835c-6c98-4976-ae01-5738d9d489c8" name="Table_Round2_Part">
+			<meta id="defb0c2c-a872-4a49-b210-3e4656ebe3a4" name="Attach_Bottom.009"/>
+			<meta id="1e54dc1a-6b8a-4980-92b6-8900c49c1e65" name="Table_Round2_Part_0"/>
+			<meta id="ac4cb8b0-0b31-4d7f-b205-7929af95f31e" name="Table_Round2_Part_1"/>
+			<meta id="0245d4fe-36cb-4fb7-b13a-64bb73606e83" name="Table_Round2_Part_2"/>
+			<meta id="58fb681b-073c-42f5-82d8-886fe73740f5" name="Table_Round2_Part_3"/>
+		</meta>
+		<meta id="e75f3514-1e50-4a01-a054-291cdac9fe15" name="Boundery Box"/>
+		<meta id="f9739a14-5d78-4746-a45e-9bbc712b05df" name="Bench_Stone1_Part">
+			<meta id="af3e0548-c284-4276-ba58-effbe31d23a8" name="Attach_Bottom.010"/>
+			<meta id="74ded117-a492-4f34-94fc-6d66700eb315" name="bench1"/>
+			<meta id="057ff193-e2d3-4adc-a960-ad5d2e3128e0" name="Attach_Bench_Stone1.01"/>
+			<meta id="9345bb2b-eed2-4a24-8a62-a143682a6e15" name="Attach_Bench_Stone1.02"/>
+		</meta>
+		<meta id="6c2b2a3d-bdd4-49a3-a738-e25c059e57fd" name="Bench_Stone2_Part">
+			<meta id="9290868f-a564-40fe-8c10-ff892966b488" name="Attach_Bottom.011"/>
+			<meta id="f00f936f-07dc-43a5-8c64-cb355194fb35" name="bench2"/>
+			<meta id="13e16bd0-6631-491c-b486-88c8d0c574b0" name="Attach_Bench_Stone2.01"/>
+			<meta id="f3e4df2a-f521-401e-8633-37492a535709" name="Attach_Bench_Stone2.02"/>
+		</meta>
+	</meta>
+	<meta id="862e5650-06bb-4ccd-9ec5-a9eeed94c2d1" type="group" folder="true" name="LOD">
+		<meta id="176a63cc-1fb2-4c39-b2d5-c13f8af570b4" name="Table_Wood1_Part"/>
+		<meta id="3f0482dc-7fc4-4231-843a-b175c5723407" name="Chair_Wood1_Part"/>
+		<meta id="05cc29bb-bb00-4a09-b136-b67dc208dcff" name="Bench_Wood1_Part"/>
+		<meta id="21733f1a-5a7b-42f0-9aed-14a136e2a94d" name="Stool_Wood1_Part"/>
+		<meta id="7b1e8ae2-c49c-4ab3-b172-7a6bbd17a8eb" name="Stool_Wood2_Part"/>
+		<meta id="46557a40-bdad-4b25-9393-10639bab05c2" name="Table_Wood2_Part_0"/>
+		<meta id="d92216e9-edcd-41a1-8c3e-3e5c3525c3b0" name="Table_Wood2_Part_1"/>
+		<meta id="1cb12f79-5f28-4b98-965d-0f918586409b" name="Table_Wood2_Part_2"/>
+		<meta id="2043cd72-7a1a-48e9-b136-c0f90ced23b9" name="Table_Wood2_Part_3"/>
+		<meta id="d1f7fc7f-1aa9-440a-a24c-ea43361964be" name="Chair_Wood2_Part"/>
+		<meta id="e8623a51-f70f-4ae4-86c9-54dd607390fd" name="Bench_Wood2_Part"/>
+		<meta id="7e8630b8-a804-491a-8b1e-1dfe702cc3f9" name="Table_Round1_Part"/>
+		<meta id="b5cb6747-b6b9-4bc3-ba32-509a960bd6af" name="Table_Round2_Part_0"/>
+		<meta id="21a3e504-c6da-425e-b794-8c1daa60a8ed" name="Table_Round2_Part_1"/>
+		<meta id="5c985987-4cbf-4430-aa5e-9fa3eaec7ec7" name="Table_Round2_Part_2"/>
+		<meta id="97fd7976-4a0d-41f1-8f80-5d5aaed805c3" name="Table_Round2_Part_3"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="04f6e0921a5eec1752746cddeb0daf00"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Table_Wood1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Chair_Wood1.01"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Chair_Wood1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Wood1.01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Wood1.02"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bench_Wood1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Stool_Wood1.01"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Stool_Wood1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Stool_Wood2.01"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Stool_Wood2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Wood2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Wood2_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Wood2_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Wood2_Part_3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Table_Wood2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Chair_Wood2.01"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Chair_Wood2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Wood2.01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Wood2.02"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bench_Wood2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Table_Round1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Round2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Round2_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Round2_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Table_Round2_Part_3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Table_Round2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Boundery Box"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bench1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Stone1.01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Stone1.02"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bench_Stone1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bench2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Stone2.01"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bench_Stone2.02"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bench_Stone2_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8f53140d-6620-4558-b697-374fa640e6a3"/>
+			<MaterialName value="cloth_black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8a3aa614-c389-4fee-8424-e451aa61fe81"/>
+			<MaterialName value="cloth_grey"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="19eb2826-4048-49a5-b14f-03c163dc878e"/>
+			<MaterialName value="cloth_white"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ab6316a0-a916-44c4-828f-51f2e6f6f453"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="92b3f9a9-9cfe-4f2d-8c56-f94c95dab4da"/>
+			<MaterialName value="stone"/>
+		</Item>
+	</MaterialList>
+</importer>
+

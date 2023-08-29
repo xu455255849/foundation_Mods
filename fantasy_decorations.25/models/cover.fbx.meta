@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="4b000fc4-0131-4e3f-bc14-c8382200d039">
+	<meta id="45d722cd-3082-44ef-a78f-97e5b856f7e3" type="group" folder="true" name="Materials">
+		<meta id="b341745f-f8bb-4256-afcf-a2fc6026971c" name="cover_fantasy"/>
+	</meta>
+	<meta id="e75f6872-acf1-4c9e-baf4-6c36d5ce61b0" type="group" folder="true" name="Meshes">
+		<meta id="1f7c1acf-28b6-49bb-b8eb-7b4fcd3c11a3" name="cover.002_cover_fantasy"/>
+	</meta>
+	<meta id="72252f3b-8e71-44a1-8c1d-74cf5ec61881" name="Prefab">
+		<meta id="4225f86d-df30-4a8e-b0d6-83c59267cb6f" name="Fantasy_Deco_Cover">
+			<meta id="f0c5b258-8396-4d36-9d26-22ef71b0312a" name="cover.002"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="633a8301a3990efc8c93c6c5dad0f054"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="cover.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fantasy_Deco_Cover"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b341745f-f8bb-4256-afcf-a2fc6026971c"/>
+			<MaterialName value="cover_fantasy"/>
+		</Item>
+	</MaterialList>
+</importer>
+

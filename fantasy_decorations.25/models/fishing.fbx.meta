@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="b18e823b-606f-45e2-8b37-99338e491714">
+	<meta id="284da7c5-1e7b-478a-a981-02c20ae3e9e8" type="group" folder="true" name="Materials">
+		<meta id="28a96fc7-002b-4ab7-85c7-cdadae49f7bb" name="rope"/>
+		<meta id="0ca67bbe-0835-4c60-8760-a82ab0d921e2" name="wood"/>
+		<meta id="2ef86710-6092-4fcf-823f-c260d1df2bdb" name="net"/>
+		<meta id="1cf70d48-5673-484b-9efe-cf95e49fa471" name="bark"/>
+		<meta id="413a9ad1-4f07-49fd-90a8-8517c6618eb0" name="end"/>
+		<meta id="919e6591-263d-47ed-b4f4-eb8a3778acc7" name="metal"/>
+	</meta>
+	<meta id="ca72f663-aaa3-46a5-90ac-980ab23376b5" type="group" folder="true" name="Meshes">
+		<meta id="d6f2abff-dea6-4273-8ea7-a7d9268974a4" name="rope_rope"/>
+		<meta id="5568f188-3d5b-4283-82ef-b6e4ecea6f9b" name="wood_wood"/>
+		<meta id="3a20cdcd-2886-41fd-8ad5-4b887752a92d" name="net_net"/>
+		<meta id="b45230f0-82af-4590-9f10-7fdcfded56cc" name="stand_wood"/>
+		<meta id="b4c1b441-9243-4324-a6a5-3bd694833651" name="logs_bark"/>
+		<meta id="15f733f6-a9da-4291-b6b5-f38f692a800d" name="logs_end"/>
+		<meta id="48afafba-10dc-4cbd-a9a6-50f3cef8f63e" name="base_metal"/>
+		<meta id="672aa0f0-24b9-4f4e-a8f0-8077cf787fbd" name="rope.001_rope"/>
+	</meta>
+	<meta id="03d8f51f-d114-4458-9343-4b39c5d5c743" name="Prefab">
+		<meta id="861430ce-e2ad-417d-876a-631d966cc448" name="Fishing_Net_Part">
+			<meta id="9165e556-f764-40cd-9567-93151304a706" name="rope"/>
+			<meta id="e57666d3-8407-4336-ace3-ad1d3bf8d3c2" name="wood"/>
+			<meta id="66ab216b-24b4-45c0-bb2e-37f67627614b" name="net"/>
+			<meta id="420948cb-1949-4475-bebe-8187b78adbff" name="Attach_Bottom"/>
+		</meta>
+		<meta id="871c4615-1597-4fca-ad2a-f4a40c9fec7e" name="Hanging_Rope_Part">
+			<meta id="5dd588d4-b830-42a5-8566-ac9cca1203e3" name="Attach_Bottom.004"/>
+			<meta id="d3ef681d-8cd3-403e-aa94-27380162c965" name="stand"/>
+			<meta id="12587d91-72aa-4b07-ae46-c1b6094c54b5" name="logs">
+				<meta id="126cae60-d015-48db-a69f-9337771548dd" name="logs_0"/>
+				<meta id="ab097303-0047-40df-80f0-fd11ee901938" name="logs_1"/>
+			</meta>
+			<meta id="32c6631c-e3bf-4ea2-97ec-71382d66e9e7" name="base"/>
+			<meta id="2b219454-558d-4e5e-9b21-f2742d2f5437" name="rope.001"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="3a77448e96de853f4c3c1179ba063031"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="net"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fishing_Net_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="stand"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="logs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="base"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Hanging_Rope_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1cf70d48-5673-484b-9efe-cf95e49fa471"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="413a9ad1-4f07-49fd-90a8-8517c6618eb0"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="919e6591-263d-47ed-b4f4-eb8a3778acc7"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2ef86710-6092-4fcf-823f-c260d1df2bdb"/>
+			<MaterialName value="net"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="28a96fc7-002b-4ab7-85c7-cdadae49f7bb"/>
+			<MaterialName value="rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0ca67bbe-0835-4c60-8760-a82ab0d921e2"/>
+			<MaterialName value="wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

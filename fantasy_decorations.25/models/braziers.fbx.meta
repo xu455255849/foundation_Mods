@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="9c3d5b54-e421-47e9-8fbb-1a15e07674b7">
+	<meta id="d7ce56cb-77f1-453a-aa1e-7c8dfc37ef6f" type="group" folder="true" name="Materials">
+		<meta id="10f4f530-4fec-4d2a-9124-3edccca9efc5" name="planks"/>
+		<meta id="756e4330-5bf3-42d7-97dc-b973dc19a785" name="light metal"/>
+		<meta id="e1bec3fe-21fe-4d3f-8aa3-eba2dd32f6de" name="wood"/>
+		<meta id="55b9582c-0cf8-4643-8f95-d7af74d9f25c" name="stone"/>
+		<meta id="1aedb3c9-ecaf-4ea8-a45b-325fc6f2497b" name="coal"/>
+		<meta id="6f3cf462-9027-4778-b49c-619dbfbde8ca" name="dark metal"/>
+		<meta id="21e77405-7dc2-406e-bdb0-c2ae259cb695" name="darkbark"/>
+		<meta id="ab3206b2-1ead-4570-81b6-d0414e3704c9" name="darkend"/>
+		<meta id="e3aa8dbd-8b60-48a7-a296-c4ef3a326f0e" name="marble"/>
+		<meta id="cf3f2179-1537-41f2-b864-3b35d13a55d0" name="bark"/>
+		<meta id="232e8749-d860-4fe7-aed9-c86cb511ca27" name="end"/>
+		<meta id="b7faddd5-9225-482b-b84f-320f91d9d2bb" name="rope"/>
+		<meta id="5259e86b-7a23-4699-ba35-7c2744968545" name="cloth_brown"/>
+		<meta id="d0a994f4-aa11-457b-979a-83031e443872" name="darkrope"/>
+	</meta>
+	<meta id="3d5d30e0-9590-4558-bbda-561c6626b3a4" type="group" folder="true" name="Meshes">
+		<meta id="ca256ba6-bab1-4812-9c20-6377aed2ce11" name="bottom_planks"/>
+		<meta id="3a3809ea-1514-4534-a2b5-cec1bdaea82a" name="wood_planks"/>
+		<meta id="23c4b2b8-82de-41d5-addd-8eb2c7b96180" name="metal_light metal"/>
+		<meta id="4b9064b8-34f7-4a10-afdf-1178d855d0ec" name="brackets_wood"/>
+		<meta id="2504bf06-d0c0-4235-ae52-bc3c389748ec" name="base.001_stone"/>
+		<meta id="d456fe47-c358-40e3-b3da-10cb07aacdfc" name="base.001_coal"/>
+		<meta id="e18ea54f-24f0-4717-9e9e-594bb011d0b4" name="top_light metal"/>
+		<meta id="e034204c-e025-4637-a6f2-9e258d6df632" name="top_dark metal"/>
+		<meta id="ac9b1bcb-a0c8-4fd5-8574-0f87ce6df0c0" name="bottom.001_planks"/>
+		<meta id="67205e92-e560-4169-97ec-443034bf87a5" name="bolts.004_dark metal"/>
+		<meta id="51ebd4e2-36ca-4f5c-9c1c-1ba4e8c9c4af" name="Brazier1_Part_LOD_01_darkbark"/>
+		<meta id="5b7d77f3-4957-4a43-bc05-00ff199f4a04" name="Brazier1_Part_LOD_01_darkend"/>
+		<meta id="abb0e2fa-3767-4bc2-baf1-333059548534" name="Cylinder.003_light metal"/>
+		<meta id="a25ba39d-1188-49e6-8819-6ac07cfef9f1" name="Cube.008_light metal"/>
+		<meta id="b05bc4c4-5f8a-4e2b-9dbe-29f28b45c98c" name="Cube.009_stone"/>
+		<meta id="4b9018c0-a928-4cdb-b390-87fff0074c29" name="Cube.009_coal"/>
+		<meta id="c8856f33-15eb-410d-9640-b6958ac8853c" name="Cube.001_planks"/>
+		<meta id="3891bcac-c49a-47df-8ee4-20bda2940749" name="Brazier2_Part_LOD_01_dark metal"/>
+		<meta id="0814bb3c-09a9-4065-9019-cd56f69eef19" name="Brazier2_Part_LOD_01_darkbark"/>
+		<meta id="7dbcad8a-2982-4c6f-9fee-2d60a100763c" name="Brazier2_Part_LOD_01_darkend"/>
+		<meta id="4d60c93a-266b-4462-b751-9a2807a30489" name="braizer_coal"/>
+		<meta id="cbbd551a-9e34-4151-b451-482b4edf35e8" name="braizer_marble"/>
+		<meta id="ce1b3ae5-7600-4e16-930e-3535282904a5" name="Brazier3_Part_LOD_01_darkbark"/>
+		<meta id="2c4ee0b8-64a6-40d8-beb5-1ac9218da8ef" name="Brazier3_Part_LOD_01_darkend"/>
+		<meta id="af9feee6-9869-46b3-98b9-14b7bc89fcb0" name="bowl.003_light metal"/>
+		<meta id="0bd312e4-1dd1-4e7d-85f4-c0e4d8d064b0" name="bowl.003_coal"/>
+		<meta id="6b851a51-d6e5-4ed2-81b4-2af6c17ec19d" name="post.001_bark"/>
+		<meta id="7650c328-684e-401c-a6d8-f61aeb3378f8" name="post.001_end"/>
+		<meta id="adbe86a8-7d24-4f81-a901-bf20417c51ed" name="rope.001_rope"/>
+		<meta id="36d85709-ed6d-414a-857b-df272a6b5de5" name="Brazier4_Part_LOD_01_darkbark"/>
+		<meta id="179b09a9-a862-4037-ac50-093adc8a8fe2" name="Brazier4_Part_LOD_01_darkend"/>
+		<meta id="02b74638-d811-4c8a-9609-89de5e2fd943" name="Cylinder_light metal"/>
+		<meta id="195a8549-d950-4b48-8c0e-95595425b0dc" name="Cylinder_stone"/>
+		<meta id="85c7bd6f-d14e-4e5b-8d74-25336680e36f" name="Cylinder_coal"/>
+		<meta id="3a38b719-2434-4a4e-b5b5-df006e8ac70d" name="Brazier6_Part_LOD_01_darkbark"/>
+		<meta id="d3770061-b80a-4cd8-9eb3-a065bddece10" name="Brazier6_Part_LOD_01_darkend"/>
+		<meta id="b08dc17a-adf2-4344-b7a9-b0bb7d533f5e" name="bowl.002_light metal"/>
+		<meta id="df4bd462-0bb8-44de-924f-e35e24a32e4f" name="bowl.002_coal"/>
+		<meta id="4ef83132-ae9d-418a-9166-afd4ecadc029" name="bowl.002_dark metal"/>
+		<meta id="1a1040aa-1dfb-456c-a8a4-00ff9c5dc49c" name="legs_light metal"/>
+		<meta id="41152079-2958-4e50-8774-a6a34d8ed41d" name="rings_dark metal"/>
+		<meta id="b7f34f98-2a6d-4561-9219-e615eb74e9c4" name="bolts.002_dark metal"/>
+		<meta id="d9e4b5e8-505d-48e4-ab12-8885f8d9aba3" name="Brazier5_Part_LOD_01_darkbark"/>
+		<meta id="2c15a608-ff65-47ff-bdac-2a78d1bc633f" name="Brazier5_Part_LOD_01_darkend"/>
+		<meta id="fbf52ad3-6646-422a-8f31-d677d0dfc529" name="post_darkbark"/>
+		<meta id="a9dd03c9-2178-4a39-8ba7-b38bd4c6a310" name="post_bark"/>
+		<meta id="d24d2be7-513c-45d0-97f9-d8c06b133ee0" name="cloth_cloth_brown"/>
+		<meta id="37555dcc-c606-45f8-ae29-7417518c6437" name="cloth_darkrope"/>
+		<meta id="7341aca2-0228-4cdf-a0f9-62f9cc5baccc" name="brazier_stone"/>
+		<meta id="ca8a6a91-e357-4941-83c3-af3b09c3103c" name="brazier_coal"/>
+		<meta id="95b3958f-d964-444a-b5d1-c641445cca25" name="Brazier7_Part_LOD_01_darkbark"/>
+		<meta id="547ec1ed-50c7-43ad-ae13-ff4939a7340c" name="Brazier7_Part_LOD_01_darkend"/>
+		<meta id="cdd1e3bc-72c1-4fb5-b423-34000d246a8c" name="post.003_planks"/>
+		<meta id="021d0ed0-92d1-48fd-bb52-359f56c1491f" name="top.002_light metal"/>
+		<meta id="485fc8f0-c366-4e57-8f4d-ce120d4fb6f9" name="top.002_coal"/>
+		<meta id="4ea580de-933f-4397-92be-65e9f7492641" name="top.002_dark metal"/>
+		<meta id="7ecf0164-2e0f-4f3a-a27e-523df59d99e0" name="Brazier8_Part_LOD_01_dark metal"/>
+		<meta id="2795439b-43ca-4fa9-ba8f-45234c906c2e" name="Brazier8_Part_LOD_01_darkbark"/>
+		<meta id="9adc9a3b-16a6-461f-b0f3-a9b83ff7909c" name="Brazier8_Part_LOD_01_darkend"/>
+		<meta id="75a922c5-077b-41cd-80f4-537006f8713f" name="logs_darkbark"/>
+		<meta id="43e6bee4-dac5-4cd5-93ee-fc5d7b1e3107" name="logs_darkend"/>
+		<meta id="4f8df3c8-8bf8-497d-9be8-5da83e5d02e4" name="stones_stone"/>
+		<meta id="96a7251d-566a-4519-85b7-3026d3a1ea28" name="post.004_bark"/>
+		<meta id="4d7449f7-56de-49e4-af96-38b054404104" name="bowl.001_light metal"/>
+		<meta id="fa3cca63-edb7-4d52-bd0f-7a47fcf6f49e" name="bowl.001_coal"/>
+		<meta id="93d1d395-179b-4e00-82a2-b62b0b322684" name="accents_light metal"/>
+		<meta id="9de6c14e-035d-4e70-9573-ce7a5eea23aa" name="base_light metal"/>
+		<meta id="4c015bbe-8def-4927-8cae-179138080d11" name="Torch2_Part_LOD_01_darkbark"/>
+		<meta id="99f6222e-0700-4c6b-b81a-c9ec9c9c3969" name="Torch2_Part_LOD_01_darkend"/>
+		<meta id="c049f581-e1e3-473b-aeaf-8c55a52e6553" name="bowl_coal"/>
+		<meta id="5a5a6e8c-d1ff-44bc-afa4-5adb985e9dd5" name="bowl_marble"/>
+		<meta id="18ca6d54-6e72-478b-a303-f409c48fa266" name="post.005_marble"/>
+		<meta id="eb5dbb1c-223d-4c49-9424-9a1d16dd03f6" name="Torch3_Part_LOD_01_darkbark"/>
+		<meta id="bdd61674-6054-4bb2-b781-173db767ebf3" name="Torch3_Part_LOD_01_darkend"/>
+		<meta id="ff391965-5a01-4d85-8584-d6d9902b541f" name="post.002_light metal"/>
+		<meta id="a5b0adaa-1484-4bd1-94f8-9066c08a1ed4" name="post.002_coal"/>
+		<meta id="771edb37-c10d-4192-85c4-6d829eafcdfb" name="accents.001_dark metal"/>
+		<meta id="fe49f15d-1d86-4f50-9867-b790a8186a41" name="base.002_dark metal"/>
+		<meta id="26b17e89-07c7-46d4-a190-55c5550f79f1" name="top.008_light metal"/>
+		<meta id="28c81a65-2570-4d78-a2a5-02b739f37971" name="Torch4_Part_LOD_01_dark metal"/>
+		<meta id="0ae9aad4-8d11-4cd2-954b-dc5108897085" name="Torch4_Part_LOD_01_darkbark"/>
+		<meta id="c814bc8d-7eb4-4d29-a554-270f47fc0a25" name="Torch4_Part_LOD_01_darkend"/>
+	</meta>
+	<meta id="246e8b72-8bf7-4300-a198-e554c91f80e7" type="group" folder="true" name="LOD">
+		<meta id="a2f003df-1d4a-4a77-9f20-655b8b1fb6ac" name="Brazier1_Part_0"/>
+		<meta id="efdd55c7-8681-45ce-8d92-85c2181ef11c" name="Brazier1_Part_1"/>
+		<meta id="19e1f21d-24e2-456f-9af7-58172bc96e12" name="Brazier2_Part_0"/>
+		<meta id="10c03d9f-c81f-4159-bd55-ca954ecf4203" name="Brazier2_Part_1"/>
+		<meta id="3d01b394-5a7b-4d92-911f-d01630ea1115" name="Brazier2_Part_2"/>
+		<meta id="79ddeb9e-79ed-4bc9-bc29-2b790e66d8ae" name="Brazier3_Part_0"/>
+		<meta id="df7c5ea7-667a-4d30-bbbb-a6d80c833f0f" name="Brazier3_Part_1"/>
+		<meta id="4e03d9f2-08b2-4796-9533-4059951f70d2" name="Brazier4_Part_0"/>
+		<meta id="4f053f93-e7f9-419b-8309-8b8133faeb32" name="Brazier4_Part_1"/>
+		<meta id="ffb59aaa-b8d9-4874-909f-7fb5360c50df" name="Brazier6_Part_0"/>
+		<meta id="f3089c58-df35-4305-94c7-c1f5890b7b48" name="Brazier6_Part_1"/>
+		<meta id="00f93628-aa8e-4d67-a904-ed9090bf54a5" name="Brazier5_Part_0"/>
+		<meta id="fbdf2d2d-5c57-4c14-a940-f21099c569c7" name="Brazier5_Part_1"/>
+		<meta id="875587ae-726d-444b-998f-b67c63a7219f" name="Brazier7_Part_0"/>
+		<meta id="b7fae3b8-de57-4e00-a249-0e2d341da9eb" name="Brazier7_Part_1"/>
+		<meta id="356dc2c2-bad1-419b-bba4-4d040d95b050" name="Brazier8_Part_0"/>
+		<meta id="7cb538dc-e603-4df3-98d6-7c9e7aa1e6e4" name="Brazier8_Part_1"/>
+		<meta id="11e853d1-e96e-45be-962c-286fb1d41db0" name="Brazier8_Part_2"/>
+		<meta id="9feb43d6-feaa-47ff-aec0-7bb15d06a6c4" name="Torch2_Part_0"/>
+		<meta id="0e103920-ca13-4939-9677-b0582447a8a1" name="Torch2_Part_1"/>
+		<meta id="228afb68-f174-468e-9f96-7cf2ab5305c9" name="Torch3_Part_0"/>
+		<meta id="087dded8-19a0-4581-9345-b42da7ccf170" name="Torch3_Part_1"/>
+		<meta id="ca830b77-d185-4bc4-af54-b25a5f34f3bd" name="Torch4_Part_0"/>
+		<meta id="f2928fd8-cbc3-4c11-b706-bc0c7648c826" name="Torch4_Part_1"/>
+		<meta id="1cc90e92-0721-4e4c-babb-10e23865fb9d" name="Torch4_Part_2"/>
+	</meta>
+	<meta id="70a5eab9-1a61-4ba4-97ec-c8e9d45607ed" name="Prefab">
+		<meta id="0b94070b-3aa0-4951-8a35-70f210d70147" name="Brazier1_Part">
+			<meta id="557039e1-4eb2-4a09-bcfb-7da5c0abc393" name="FireEmitter1"/>
+			<meta id="3b0bbc46-2b2a-4d0e-a14b-e596d6b8a745" name="Attach_Bottom"/>
+			<meta id="9fed4b53-480a-4382-8ba8-cf27a127f443" name="bottom"/>
+			<meta id="065e4e83-2016-455f-b63a-664169487c60" name="wood"/>
+			<meta id="2810cc2b-1c87-40f6-9f5d-690621ff793f" name="metal"/>
+			<meta id="e9c83a40-7755-4e67-ac7b-7cb48d37d1f0" name="brackets"/>
+			<meta id="34071978-97f3-4a97-b29a-b5a97a058092" name="base.001">
+				<meta id="e3abf6ea-deaf-484e-8ab6-c20d7be475a7" name="base.001_0"/>
+				<meta id="407a9c8c-1703-4d79-946e-dab2b8f46fcf" name="base.001_1"/>
+			</meta>
+			<meta id="8b62819e-80e5-414d-a493-5f64b84edef1" name="top">
+				<meta id="4116b70b-b8e8-40f1-ad00-a64e20f2bad0" name="top_0"/>
+				<meta id="966da28c-d4f9-4888-a6f3-0dcacfb40464" name="top_1"/>
+			</meta>
+			<meta id="c08c67c7-42c0-4bf0-b855-1bb0e4839bc7" name="bottom.001"/>
+			<meta id="e95f1e0b-e637-4257-8878-98e3fcbb4c1f" name="SmokeEmitter1"/>
+			<meta id="d34c2d6a-e9b1-45c6-b285-8bf8fcbed611" name="SparkEmitter1-1"/>
+			<meta id="bebadfef-6be9-4551-bbce-723d43523519" name="SparkEmitter1-2"/>
+			<meta id="daf30b65-5937-4e9a-a083-f398f967447c" name="bolts.004"/>
+			<meta id="4ff648de-bc7b-4d6c-b911-118f994dff59" name="Brazier1_Part_0"/>
+			<meta id="a2a5c984-1a50-4df8-b480-b5fa63fa5793" name="Brazier1_Part_1"/>
+		</meta>
+		<meta id="810a27f8-5568-4ee9-aaf7-fa078225eade" name="Brazier2_Part">
+			<meta id="5ea63274-6c29-458c-b9a3-78c9a858dc6c" name="FireEmitter2"/>
+			<meta id="4bdae96c-c0b9-4880-9a7a-bfc8243964e6" name="Cylinder.003"/>
+			<meta id="6494eb07-0c07-46e1-87e7-892af4d55bb2" name="Cube.008"/>
+			<meta id="11af1df4-fa0e-4cdb-8f3a-bcd7308e8bc0" name="Cube.009">
+				<meta id="1dc2511e-0775-41b6-a9af-2b27808c4614" name="Cube.009_0"/>
+				<meta id="d33e2e38-491f-4312-9f65-52a5600aebc5" name="Cube.009_1"/>
+			</meta>
+			<meta id="b19ac0b0-3dc1-4027-94da-0c2dc18a86ed" name="Cube.001"/>
+			<meta id="a5e03066-e3a7-4c5c-b535-3421912bf7f3" name="Attach_Bottom.001"/>
+			<meta id="a466524e-3d4e-4fd6-a13a-40dc02ae6469" name="SmokeEmitter2"/>
+			<meta id="89720421-0e35-43a1-873a-f3fc42115f91" name="SparkEmitter2-1"/>
+			<meta id="baccf422-9f7e-4d15-8779-35ea99e1f400" name="SparkEmitter2-2"/>
+			<meta id="96630ba8-668a-48c8-9130-cae0d1783d3a" name="Brazier2_Part_0"/>
+			<meta id="016f291c-57c2-4118-b3eb-f863e0963e83" name="Brazier2_Part_1"/>
+			<meta id="85e47d26-9d75-447b-b98d-4ce56902a04e" name="Brazier2_Part_2"/>
+		</meta>
+		<meta id="f05e8359-32a6-4733-bbfb-21a59fbb6141" name="Brazier3_Part">
+			<meta id="6c07e421-e94e-41c6-867f-b8bc35677763" name="FireEmitter3"/>
+			<meta id="1395d030-2c5e-4d17-b9e3-d2d6c3a5dbce" name="braizer">
+				<meta id="cdd4680c-bc1b-4ccc-9bd8-78b494bb89c0" name="braizer_0"/>
+				<meta id="b98fa078-c57e-47e0-afe6-9d1f18ba32e9" name="braizer_1"/>
+			</meta>
+			<meta id="bbce0b0e-5dd0-469a-baf9-d40008f040dd" name="Attach_Bottom.002"/>
+			<meta id="5cfe1549-dc7f-44fc-8e82-5f730feebff4" name="SmokeEmitter3"/>
+			<meta id="214f9c35-677e-4021-80d8-57c3eff77b11" name="SparkEmitter3-1"/>
+			<meta id="bde114c5-d3f9-4db7-b1b3-a26307b69513" name="SparkEmitter3-2"/>
+			<meta id="df68e309-72bd-4c0b-a662-56280cba4f38" name="Brazier3_Part_0"/>
+			<meta id="986f9f5d-f66d-4cbf-94f3-21f0080959a0" name="Brazier3_Part_1"/>
+		</meta>
+		<meta id="1d349ae9-c275-4da3-9832-8a655c5d4a95" name="Brazier4_Part">
+			<meta id="687c3503-1b3d-4b7f-a617-813ca6f09631" name="FireEmitter4"/>
+			<meta id="350ee3a9-23b2-4701-a9e3-783f4f8caecd" name="Attach_Bottom.003"/>
+			<meta id="6d936e53-f827-4284-acbc-0d2ce2e88404" name="bowl.003">
+				<meta id="652ed7f4-12e6-4af9-badd-e564be31a3b1" name="bowl.003_0"/>
+				<meta id="d0f2f5e9-e6cf-420d-8355-d5e1b20723f1" name="bowl.003_1"/>
+			</meta>
+			<meta id="41dd090d-496c-4107-a31f-6973633d8b38" name="post.001">
+				<meta id="3c293173-9e10-46a3-8272-4999ccd08eca" name="post.001_0"/>
+				<meta id="ef0fc81e-6b77-491d-86a2-202c66e8dd0e" name="post.001_1"/>
+			</meta>
+			<meta id="be316df8-1d27-48af-9593-71ce71e18c87" name="rope.001"/>
+			<meta id="6c4f2984-b9a1-4cc7-bd32-8f7cf9cf2e71" name="SmokeEmitter4"/>
+			<meta id="23879bf4-bf94-4bf8-997a-1dbbef1aac0c" name="SparkEmitter4-1"/>
+			<meta id="0ef65574-c858-4d89-94c8-2feb864c7167" name="SparkEmitter4-2"/>
+			<meta id="515debb8-5b6c-449b-ac96-95666e47d766" name="Brazier4_Part_0"/>
+			<meta id="056396f4-d8af-4509-b82d-96249a9e0db3" name="Brazier4_Part_1"/>
+		</meta>
+		<meta id="0772a197-f493-44aa-89a2-d58033e86ecb" name="Brazier6_Part">
+			<meta id="3407ea86-9df2-465b-bd4b-09627d86e70a" name="Cylinder">
+				<meta id="c3ca61a5-8900-4900-a7c3-28e74d974aef" name="Cylinder_0"/>
+				<meta id="396d6004-ad64-4bec-aa8a-88b952753c9d" name="Cylinder_1"/>
+				<meta id="e72e072e-22df-4ba6-abc0-b3aa8b62efe9" name="Cylinder_2"/>
+			</meta>
+			<meta id="77367b9c-1bf1-40aa-86ee-76f7c1a6c97b" name="FireEmitter6"/>
+			<meta id="4b0621fa-b848-41e2-88f2-6e82ad61234d" name="Attach_Bottom.004"/>
+			<meta id="a94c0b29-ae27-407e-b6d2-09066d38b7e5" name="SmokeEmitter6"/>
+			<meta id="1b542d0e-d8b4-42d6-b995-4f3cd0ad4d06" name="SparkEmitter6-1"/>
+			<meta id="4badb247-cdd0-404c-91be-7c218a2dba56" name="SparkEmitter6-2"/>
+			<meta id="6c317e55-bb70-4dde-b836-097acad42d59" name="Brazier6_Part_0"/>
+			<meta id="c470feed-14cb-463d-b73b-f51d716501cc" name="Brazier6_Part_1"/>
+		</meta>
+		<meta id="15f03cac-8653-4f4c-8719-b6dbd82ae871" name="Brazier5_Part">
+			<meta id="acfe879b-c6d8-47e6-be91-723bfcbd778d" name="bowl.002">
+				<meta id="5e75a793-2c29-47da-ae83-6c7b6e59c4cd" name="bowl.002_0"/>
+				<meta id="66f2ab21-efc0-4d5d-a570-ea5ffb6181d5" name="bowl.002_1"/>
+				<meta id="3a962d74-691b-41d3-86fb-6cb8cc27f9e1" name="bowl.002_2"/>
+			</meta>
+			<meta id="6aaf1f6c-092d-4b30-8ea7-51d42efabbdb" name="Attach_Bottom.005"/>
+			<meta id="518c29c6-6acc-4ef2-99be-8b168a6caa28" name="legs"/>
+			<meta id="f016eb78-aa07-4404-96cd-a806e9d033e3" name="rings"/>
+			<meta id="ef24aedb-e31e-477a-a94c-53577eee547e" name="FireEmitter5"/>
+			<meta id="edf5552f-82ca-4d6e-a8cc-de9fb2f32afb" name="SmokeEmitter5"/>
+			<meta id="39c1af71-88d6-4d38-a52f-ac4591cc7b46" name="SparkEmitter5-1"/>
+			<meta id="88143bc9-f942-4da3-8871-f32d6e55e92c" name="SparkEmitter5-2"/>
+			<meta id="6ceebda9-fd98-4d9d-b3dc-d6fcd61d9d12" name="bolts.002"/>
+			<meta id="d86bce1c-4fde-421f-83fe-4c43d921694f" name="Brazier5_Part_0"/>
+			<meta id="bbc816e2-80b4-499b-b471-28f76e1f2dc2" name="Brazier5_Part_1"/>
+		</meta>
+		<meta id="13ff8604-95d4-49b2-ad2c-723a0997e455" name="Torch_Part">
+			<meta id="53233d5f-5074-4fdb-9efe-e84ff1c239e7" name="post">
+				<meta id="30f2a5bd-6afd-424c-a12b-e660c4dd557f" name="post_0"/>
+				<meta id="4eed0957-a1ed-4d2d-90bb-b76e4dc70d60" name="post_1"/>
+			</meta>
+			<meta id="beadbbf4-62ac-40c7-9fc6-dfa99fed891d" name="cloth">
+				<meta id="e960b0a2-b442-4432-a95b-7fc64cf163a1" name="cloth_0"/>
+				<meta id="93a04e03-2c9f-4db8-b18a-695d24f8a973" name="cloth_1"/>
+			</meta>
+			<meta id="3bdde3c6-d510-4eff-8ac4-7b81a7bf9e74" name="FireEmitterTorch"/>
+			<meta id="d8b57201-39d7-47a8-bf2a-14eddbe24d36" name="Attach_Bottom.006"/>
+			<meta id="847d1d51-0af3-4e1d-9013-1f99e94ca378" name="SmokeEmitterTorch"/>
+		</meta>
+		<meta id="eedb06b8-7ca7-457f-a9b5-1af476a1e7e5" name="Brazier7_Part">
+			<meta id="0a4db465-c8a9-40c1-9034-d1f9a1b03ad1" name="FireEmitter7"/>
+			<meta id="e0a3b709-135f-4bdf-8c5a-9d4198f3d477" name="Attach_Bottom.007"/>
+			<meta id="8517501d-94d5-4246-afcf-5915629a2b58" name="SmokeEmitter7"/>
+			<meta id="620b2d0a-71e1-4232-b5d3-762d1d16fbda" name="SparkEmitter7-1"/>
+			<meta id="4bc1e5ce-2153-450e-9504-ca55f4bed5c1" name="SparkEmitter7-2"/>
+			<meta id="a8ce62f2-2150-4a59-8968-b80cf8cc1501" name="brazier">
+				<meta id="827d180f-d0ed-4bdf-9c91-17217276ee84" name="brazier_0"/>
+				<meta id="01fcfc8f-bc86-4d85-84e9-7a5e81fb0bd6" name="brazier_1"/>
+			</meta>
+			<meta id="7451f6d6-12a0-4dd5-a9dc-9c91efa68eee" name="Brazier7_Part_0"/>
+			<meta id="ef6be94e-03e3-4fd2-a433-da93acdae5d4" name="Brazier7_Part_1"/>
+		</meta>
+		<meta id="7435dc7e-b978-4f2e-b5af-36d885d8123a" name="Brazier8_Part">
+			<meta id="5bdc1cee-5a99-4a33-8910-54a316389819" name="FireEmitter8"/>
+			<meta id="e8465d73-33f7-4404-a057-a9ee7601d839" name="Attach_Bottom.008"/>
+			<meta id="0b444573-1fd9-4d1c-b62a-d3559f976400" name="SmokeEmitter8"/>
+			<meta id="080dff95-bbae-4954-a356-856ba7377518" name="SparkEmitter8-1"/>
+			<meta id="a97b5c37-4a08-47a4-afc9-98a57244f4ed" name="SparkEmitter8-2"/>
+			<meta id="0317a5b0-8bfb-4092-b401-32859dfd8d1a" name="post.003"/>
+			<meta id="719b9760-4a4a-4116-b423-2e51113add75" name="top.002">
+				<meta id="49a4d3e5-3482-4a3d-9da4-5d6b8b81553a" name="top.002_0"/>
+				<meta id="b09e22e7-551f-4fb2-8ef7-12840ac4c578" name="top.002_1"/>
+				<meta id="a8946839-ff66-48e1-afd0-8525fc149759" name="top.002_2"/>
+			</meta>
+			<meta id="9a0794d1-8d3f-4d08-8d47-3f0ee9b3f38d" name="Brazier8_Part_0"/>
+			<meta id="a5e4e099-4174-42da-8347-46705f318820" name="Brazier8_Part_1"/>
+			<meta id="e64cc275-cf92-4ee2-bfe8-8f80de71631f" name="Brazier8_Part_2"/>
+		</meta>
+		<meta id="b3f1cfcc-3abc-47f3-bd69-416178a994c0" name="Bonfire_Part">
+			<meta id="f9138377-63a4-46b8-b405-dd9d877d9ca1" name="logs">
+				<meta id="6e2dbb1a-28f8-40d7-917a-dc6df65dfb49" name="logs_0"/>
+				<meta id="be3a1955-c72b-4df8-b7c9-1c38786395e2" name="logs_1"/>
+			</meta>
+			<meta id="81dd84db-4977-435c-9537-b0ad05a6336a" name="FireEmitterBonfire-1"/>
+			<meta id="f129099d-9de1-4321-a076-8dddfcff748f" name="Attach_Bottom.009"/>
+			<meta id="e80d8fc2-ed90-4452-bbad-acceaaa608a5" name="SmokeEmitterBonfire"/>
+			<meta id="d3f96f59-c71c-4e60-93db-5e139bf3fd14" name="SparkEmitterBonfire-1"/>
+			<meta id="b979b97f-8dcc-4cf1-bea7-be3e0c0656f4" name="SparkEmitterBonfire-2"/>
+			<meta id="10667717-991a-43ae-8063-0006ebaf773b" name="FireEmitterBonfire-2"/>
+			<meta id="6abc44b0-cfdf-413c-88e8-b5a60b94180b" name="stones"/>
+			<meta id="193396da-990b-4a28-ae3d-3a534a5d288d" name="SparkEmitterBonfire-3"/>
+			<meta id="e6bb51e4-ac8f-48df-aeef-2464f2164ea0" name="SparkEmitterBonfire-4"/>
+		</meta>
+		<meta id="4d490688-8ca6-4c6b-ab6b-67493405f81b" name="Torch2_Part">
+			<meta id="7e93e107-c7cc-4803-abeb-d5e34411796e" name="post.004"/>
+			<meta id="88289705-a265-436d-be79-135efb3f80ce" name="bowl.001">
+				<meta id="821fa7c1-9a21-4bd8-aaa0-98c50514d453" name="bowl.001_0"/>
+				<meta id="e61cb60c-7be7-4f3e-9e1e-89f606d9f64c" name="bowl.001_1"/>
+			</meta>
+			<meta id="1ec00626-5b88-47a5-a8a9-ad44c9a92107" name="FireEmitterTorch2"/>
+			<meta id="9e98cf8a-6869-42c3-8977-cc336242693f" name="Attach_Bottom.012"/>
+			<meta id="19d0acb0-fa03-4640-96c5-20dd5aaf5c38" name="SmokeEmitterTorch2"/>
+			<meta id="19c72411-7523-4385-9ede-23effe5e4f74" name="SparkEmitterTorch2-1"/>
+			<meta id="8c58af4e-6538-4b77-a64a-794fd8c7ac36" name="SparkEmitterTorch2-2"/>
+			<meta id="2accf5c8-4967-4159-9bea-b098c0627974" name="accents"/>
+			<meta id="69662cd5-23e9-4ca7-9ea6-a6a1ed918ff8" name="base"/>
+			<meta id="35394a74-b2bf-4f3b-a0e8-824475069935" name="Torch2_Part_0"/>
+			<meta id="5fbd8eb9-9e43-4b7d-879b-f0d5dffacb9b" name="Torch2_Part_1"/>
+		</meta>
+		<meta id="3708319a-cc9a-44e0-b758-414c1cca38a4" name="Torch3_Part">
+			<meta id="47626efc-bb0b-4cf8-8caf-9bc7cc7a4480" name="FireEmitterTorch3"/>
+			<meta id="98c561a5-577b-47f9-a4d5-c3ea5778a852" name="Attach_Bottom.011"/>
+			<meta id="9cd56e36-9539-47c4-bb15-101b8381a2be" name="SmokeEmitterTorch3"/>
+			<meta id="6d8b5674-5aae-4952-ad1d-860703402f0b" name="SparkEmitterTorch3-1"/>
+			<meta id="c1e940f4-2d6b-4b69-b2a9-4238aafd1106" name="SparkEmitterTorch3-2"/>
+			<meta id="d0cb0b82-52d7-4bec-95c5-d93482e19dd5" name="bowl">
+				<meta id="cf0fcb42-6b29-4c26-bef3-e140bf346afe" name="bowl_0"/>
+				<meta id="2d2fd68c-a3b6-434e-b693-05d342e5602c" name="bowl_1"/>
+			</meta>
+			<meta id="51466fa0-5ba6-4a52-809b-d84a1ac95d2b" name="post.005"/>
+			<meta id="b1c58f19-56fb-4ce9-9356-3cd88c005ca9" name="Torch3_Part_0"/>
+			<meta id="bebca3e5-fd65-4a34-a127-9702dcd66fee" name="Torch3_Part_1"/>
+		</meta>
+		<meta id="9c57b426-cc2e-42c9-a5b8-5d9b19da605b" name="Torch4_Part">
+			<meta id="a78418e0-9f9e-4e99-888e-a855df7b2858" name="FireEmitterTorch4"/>
+			<meta id="3bcfa218-684b-4d78-b447-97166c5c23ad" name="Attach_Bottom.010"/>
+			<meta id="dd0fbd5d-1faf-42ac-968e-c85213be6ad9" name="SmokeEmitterTorch4"/>
+			<meta id="70fc0f77-a8d9-4e12-b1aa-f712c4266969" name="post.002">
+				<meta id="58133e2d-52cb-4b5c-93fd-6731fce09ebb" name="post.002_0"/>
+				<meta id="7de06555-fc6b-42f1-9673-ad5f86ad6db6" name="post.002_1"/>
+			</meta>
+			<meta id="bf780e0a-5ed9-4f6e-87d5-834f673a2bd5" name="SparkEmitterTorch4-1"/>
+			<meta id="64a9b1ec-3b99-4f02-9be8-81e1d9817d3b" name="SparkEmitterTorch4-2"/>
+			<meta id="a498278c-eb77-497b-b333-5c055a3c6312" name="accents.001"/>
+			<meta id="537a8aa9-8478-4b40-81f5-129102b329e1" name="base.002"/>
+			<meta id="71c3516d-49a4-4c2f-922f-2ce2eacdc299" name="top.008"/>
+			<meta id="12a8c44a-357a-4ae7-babc-6cac8355f207" name="Torch4_Part_0"/>
+			<meta id="f53ad126-c713-4fd6-96d2-1ecb2ffc0c74" name="Torch4_Part_1"/>
+			<meta id="252f2353-e126-4723-8e38-b20b98f9bf0d" name="Torch4_Part_2"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="f47cfcd3698f8dcd4588a8122e8e119e"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wood"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="metal"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="brackets"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="base.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="base.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="base.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="top_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="top_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="top"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter1-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter1-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bolts.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier1_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier1_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cube.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cube.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cube.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cube.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cube.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter2-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter2-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier2_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier2_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="braizer_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="braizer_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="braizer"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter3-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter3-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier3_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier3_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="bowl.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="post.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter4-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter4-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier4_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier4_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter6-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter6-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier6_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier6_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier6_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="bowl.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="legs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rings"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter5-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter5-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bolts.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier5_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier5_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="post"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="cloth_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cloth"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitterTorch"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitterTorch"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Torch_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter7"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter7"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter7-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter7-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="brazier_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="brazier_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="brazier"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier7_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier7_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier7_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitter8"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter8"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter8-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitter8-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="post.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="top.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="top.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="top.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="top.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier8_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier8_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Brazier8_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Brazier8_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="logs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitterBonfire-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitterBonfire"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterBonfire-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterBonfire-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitterBonfire-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="stones"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterBonfire-3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterBonfire-4"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bonfire_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="post.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="bowl.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitterTorch2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitterTorch2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterTorch2-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterTorch2-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="base"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torch2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torch2_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Torch2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitterTorch3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitterTorch3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterTorch3-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterTorch3-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="bowl_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="bowl"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="post.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torch3_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torch3_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Torch3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="FireEmitterTorch4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitterTorch4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="post.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterTorch4-1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SparkEmitterTorch4-2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="accents.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="base.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torch4_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torch4_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torch4_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Torch4_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cf3f2179-1537-41f2-b864-3b35d13a55d0"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5259e86b-7a23-4699-ba35-7c2744968545"/>
+			<MaterialName value="cloth_brown"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1aedb3c9-ecaf-4ea8-a45b-325fc6f2497b"/>
+			<MaterialName value="coal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6f3cf462-9027-4778-b49c-619dbfbde8ca"/>
+			<MaterialName value="dark metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="21e77405-7dc2-406e-bdb0-c2ae259cb695"/>
+			<MaterialName value="darkbark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ab3206b2-1ead-4570-81b6-d0414e3704c9"/>
+			<MaterialName value="darkend"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d0a994f4-aa11-457b-979a-83031e443872"/>
+			<MaterialName value="darkrope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="232e8749-d860-4fe7-aed9-c86cb511ca27"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="756e4330-5bf3-42d7-97dc-b973dc19a785"/>
+			<MaterialName value="light metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e3aa8dbd-8b60-48a7-a296-c4ef3a326f0e"/>
+			<MaterialName value="marble"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="10f4f530-4fec-4d2a-9124-3edccca9efc5"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b7faddd5-9225-482b-b84f-320f91d9d2bb"/>
+			<MaterialName value="rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="55b9582c-0cf8-4643-8f95-d7af74d9f25c"/>
+			<MaterialName value="stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e1bec3fe-21fe-4d3f-8aa3-eba2dd32f6de"/>
+			<MaterialName value="wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

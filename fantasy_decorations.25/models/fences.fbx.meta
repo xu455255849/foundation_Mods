@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="9ce19659-6595-4a70-9f74-a10a3579c59f">
+	<meta id="58b5aa96-ddc0-42b2-9529-0a65501a6175" type="group" folder="true" name="Materials">
+		<meta id="ac6a95ed-f72f-4401-acbd-cf7273f165dc" name="bark"/>
+		<meta id="abb7e011-607d-4a6b-aa0d-479fe8708427" name="end"/>
+		<meta id="c2c0530d-5dd2-4127-8e1c-8f26103552ee" name="rope"/>
+		<meta id="5ad5e859-7a11-4e22-bb0e-9361e6aad5a2" name="blank_fence_trigger"/>
+	</meta>
+	<meta id="9edc2caa-7dd8-4179-b527-d21030b914dd" type="group" folder="true" name="Meshes">
+		<meta id="6eb7e37c-a913-46d7-baf4-65cfecb18b8f" name="posts_bark"/>
+		<meta id="f7c75155-8686-400c-886a-5894f6c486c2" name="posts_end"/>
+		<meta id="a7f71ad7-068b-498e-9f9f-4f3b32467820" name="Cylinder_bark"/>
+		<meta id="22d73e7e-da5b-4d95-985a-b7c97b4a20e8" name="Cylinder_end"/>
+		<meta id="411fc763-8ad1-42ce-b502-098d26c8b4a2" name="Cylinder.001_bark"/>
+		<meta id="11e37a4f-59a8-4ab7-9ceb-ce37835e6822" name="Cylinder.001_end"/>
+		<meta id="2f921b0c-7dd7-40e3-8f95-b93c77e11b9a" name="Cylinder.002_bark"/>
+		<meta id="431158f4-45b6-4411-a8b2-b3fdc7fb9ba9" name="Cylinder.002_end"/>
+		<meta id="d36cfacf-8f88-4c01-84ad-8ce553d4529d" name="Cylinder.007_bark"/>
+		<meta id="fcc5c537-c877-41dd-afea-9d423e706328" name="posts.003_bark"/>
+		<meta id="2369173d-c38e-4ff3-9d0b-5037756c08b2" name="posts.003_end"/>
+		<meta id="f1d96317-3a77-4206-9584-9dcab28b0c1f" name="Cylinder.011_bark"/>
+		<meta id="f23ab001-2a3e-425a-96a4-9f1390313ba1" name="Cylinder.011_end"/>
+		<meta id="c0455bf9-1c52-4a34-981f-a0bd46f0aa5e" name="Cylinder.012_bark"/>
+		<meta id="591f09a7-25a3-4942-9274-e3de0c71ebbc" name="Cylinder.012_end"/>
+		<meta id="ad7b78b4-1fed-46d4-847b-d7c432d07335" name="Cylinder.013_bark"/>
+		<meta id="154899ab-7718-4fa3-bdb4-b94779ab3205" name="posts.002_bark"/>
+		<meta id="3ace946e-eaab-44cb-8ff5-d4196a36a3f2" name="posts.002_end"/>
+		<meta id="94866d67-990d-4471-92b8-768a7e2cf81a" name="Cylinder.008_bark"/>
+		<meta id="5942cb6e-8637-4e3c-a0b5-97dea46ce68b" name="Cylinder.008_end"/>
+		<meta id="a43e36fe-c8b9-4443-8670-1ea0949631e9" name="Cylinder.009_bark"/>
+		<meta id="c3582793-83b6-461f-a11d-f75d2869489f" name="Cylinder.009_end"/>
+		<meta id="bea54f03-6c70-4873-a398-2d14a758b43f" name="Cylinder.010_bark"/>
+		<meta id="219b6639-a2a5-4fe0-88f4-d7ede46fed48" name="posts.001_bark"/>
+		<meta id="11f1a48e-b4c5-49f5-812f-f51a5e8acb09" name="posts.001_end"/>
+		<meta id="05628807-02d6-4e11-8eee-dd4f1d06d733" name="Cylinder.003_bark"/>
+		<meta id="ffb44bdf-9776-480a-be26-ef7632172d3f" name="Cylinder.003_end"/>
+		<meta id="6b13d5a0-a77c-41b5-8346-b48dd49aee73" name="Cylinder.004_bark"/>
+		<meta id="f137253b-3da2-4f12-9938-0d29c9dd7111" name="Cylinder.004_end"/>
+		<meta id="d510b871-fda2-4fc4-8846-04f048ba57e2" name="Cylinder.005_bark"/>
+		<meta id="756154ec-d41a-438c-b9d3-555a47fef478" name="Cylinder.005_end"/>
+		<meta id="d283e215-6386-4220-a5d6-921e3afac653" name="Cylinder.006_bark"/>
+		<meta id="072abfd0-f9b0-45a9-bc5e-3d601b3a447d" name="posts.004_bark"/>
+		<meta id="65a46112-fdc0-41c8-aab9-197d3a0ede62" name="posts.004_end"/>
+		<meta id="52f2472f-223c-4f77-82a3-693b43547321" name="posts.006_bark"/>
+		<meta id="e86f9896-5fa2-4082-8582-97c6120af4f9" name="posts.006_end"/>
+		<meta id="cfb0b319-b6d6-4aed-b7a2-95c96d2b72e5" name="Cylinder.015_bark"/>
+		<meta id="8b65229b-ca4a-4012-b7a0-9f2fbbd593a9" name="Cylinder.014_bark"/>
+		<meta id="a90cd453-a19a-4951-b4a0-d0a0c5bdc665" name="Cylinder.014_end"/>
+		<meta id="de500d59-a648-4ac1-ae6c-7e6cc15df19c" name="Cylinder.015_end"/>
+		<meta id="c07e51a6-f78a-4809-8c84-59dbe65d8336" name="Cylinder.016_bark"/>
+		<meta id="3d04aaab-af55-4ecd-a992-e816ab35aae1" name="Cylinder.016_end"/>
+		<meta id="b1457396-901b-4211-a89f-72c50b14bd31" name="fence_bark"/>
+		<meta id="ec8ba9a3-d4df-4b0a-a874-ac0818eb89e7" name="fence_end"/>
+		<meta id="6cd376b8-044a-405c-979d-2bd69b9c8317" name="Gate_bark"/>
+		<meta id="0816f635-d674-41a8-9398-b5d3fd65e501" name="Gate_end"/>
+		<meta id="35624dcc-411c-4352-986f-514d9da8fd60" name="posts.005_bark"/>
+		<meta id="2c3e6ab9-cda9-48c5-8ff1-3bf248d90dfa" name="posts.005_end"/>
+		<meta id="8ebe0f9c-6151-4bf4-8af7-4ff5905db473" name="fence.001_bark"/>
+		<meta id="73fdab2b-2654-42c2-9ec9-30a65b515986" name="fence.001_end"/>
+		<meta id="86004233-4e27-422e-ac35-d0d1bfe601c7" name="posts.007_bark"/>
+		<meta id="1883584f-32fd-4e71-926e-9c45533b74dc" name="posts.007_end"/>
+		<meta id="fcfdc7c6-be6d-4315-b3c3-48f58ecc6ce0" name="posts.008_bark"/>
+		<meta id="79042f93-9c52-4251-8c43-4018ee301433" name="posts.008_end"/>
+		<meta id="9a90d192-81e1-4fdb-8fc0-3f34bae552d7" name="Left_bark"/>
+		<meta id="0d6c8748-d84e-4c21-9e13-76b40876d2ad" name="Left_end"/>
+		<meta id="241d9f6c-2f95-4d24-972d-cce3e212e451" name="Right_bark"/>
+		<meta id="2d2c488f-65a3-4e16-9b98-963e08719695" name="Right_end"/>
+		<meta id="1038e160-0dc3-41b9-a0e1-a4236a0b43fc" name="Trigger1_blank_fence_trigger"/>
+		<meta id="1fb308b4-a589-461b-98a5-c0dc3b4b15ba" name="arrow_blank_fence_trigger"/>
+		<meta id="4bb04daf-d852-4b88-9afd-ed7283e0c40c" name="Trigger2_blank_fence_trigger"/>
+		<meta id="b12ff4b3-e859-4c24-81b2-ee0e21d5dd12" name="Fence5_Part_LOD_012_bark"/>
+		<meta id="9a4ee524-55f3-46d2-a1bf-4f21f3e6d263" name="Fence5_Part_LOD_012_rope"/>
+		<meta id="cf4de828-dbd7-4ff8-b4ba-2b14723eb851" name="Fence6_Part_LOD_012_bark"/>
+	</meta>
+	<meta id="0b7939c3-0417-4235-9988-7d912ac6d71a" name="Prefab">
+		<meta id="c2a5d506-4f5b-47b4-b8a9-a04182747b02" name="Fence1_Part">
+			<meta id="1b271d34-7d8e-409c-8551-5089d06e4b29" name="posts">
+				<meta id="fb4f5731-9316-4c99-bdd8-1f1f0539374b" name="posts_0"/>
+				<meta id="0aeda503-01a5-48c3-9d25-e0d6ee2d3be0" name="posts_1"/>
+			</meta>
+			<meta id="4a087079-b18d-4b67-b97b-75c0e4136981" name="Cylinder">
+				<meta id="7617affb-2c21-4245-ae01-4860505b6eab" name="Cylinder_0"/>
+				<meta id="6d71eab1-0081-4f45-8690-4219967862b3" name="Cylinder_1"/>
+			</meta>
+			<meta id="6d2b23a7-017d-4f55-9474-02b4984e2539" name="Cylinder.001">
+				<meta id="5325392e-5653-4611-9774-716aad899bd0" name="Cylinder.001_0"/>
+				<meta id="e98561ec-2aac-4534-b40e-39caad07d35c" name="Cylinder.001_1"/>
+			</meta>
+			<meta id="9228e496-1cf6-4128-9ec7-a34ef5246b3c" name="Cylinder.002">
+				<meta id="67ba0ecc-9a8c-4b3e-969f-bccb5b51f5fe" name="Cylinder.002_0"/>
+				<meta id="e275d4e2-f7b5-4f0c-830b-bfc40f33c8b1" name="Cylinder.002_1"/>
+			</meta>
+			<meta id="89c24b51-b511-4907-a121-18aa084c3bca" name="Cylinder.007"/>
+			<meta id="a82a907f-280d-4a45-bab9-c8776a84d085" name="Attach_Minor"/>
+			<meta id="091afd1b-9b54-4abe-914a-17cd3ba5a43b" name="Attach_Minor.001"/>
+			<meta id="9b6d4629-1be9-4098-a433-c9c68f1d67e4" name="Attach_Minor.012"/>
+			<meta id="75f22140-f149-407f-8962-c9954779b27a" name="Attach_Minor.013"/>
+		</meta>
+		<meta id="09dc6f19-be40-43b3-b1b5-62d7e42a1dc9" name="Fence4_Part">
+			<meta id="0491aae6-08a4-4bbd-91e0-4887c69948e8" name="posts.003">
+				<meta id="dda80328-0c5e-4e4a-9fea-514c850015a7" name="posts.003_0"/>
+				<meta id="994bfc8c-93c2-4039-93a0-ef0f39f5761c" name="posts.003_1"/>
+			</meta>
+			<meta id="7dc1f77d-a3e8-4013-844c-c102c36d5929" name="Cylinder.011">
+				<meta id="4ca7ec03-7386-4d3f-88ae-640bfa1bef0f" name="Cylinder.011_0"/>
+				<meta id="2ef88dcb-1936-4666-8531-b822b6ea9fc5" name="Cylinder.011_1"/>
+			</meta>
+			<meta id="f1d17792-022a-4b8c-be68-db199f17caee" name="Cylinder.012">
+				<meta id="90b98083-5a45-4c84-adb6-542444f17bd9" name="Cylinder.012_0"/>
+				<meta id="eaecc606-e86a-4248-8d69-6ad49a1db71f" name="Cylinder.012_1"/>
+			</meta>
+			<meta id="ec78f303-3179-4f3b-9076-b49278a416f7" name="Cylinder.013"/>
+			<meta id="8a895a5b-2e2f-44e1-bc35-aa671a73122f" name="Attach_Minor.006"/>
+			<meta id="cb56d2bc-acef-4edb-9849-6e677f333661" name="Attach_Minor.007"/>
+			<meta id="74ae6b14-2e71-41c8-aebd-8181f0a77100" name="Attach_Minor.018"/>
+			<meta id="1456635a-1bfb-4554-b086-edd895c455a3" name="Attach_Minor.019"/>
+		</meta>
+		<meta id="661ba608-ebd3-4042-a219-b2cee0cd114f" name="Fence3_Part">
+			<meta id="416971a5-ac6c-42af-8ebe-53257ad0ce3e" name="posts.002">
+				<meta id="16a8a966-82da-4c1f-8d95-4cd24160444e" name="posts.002_0"/>
+				<meta id="3de51e1d-82e5-479c-aa71-f825be99e137" name="posts.002_1"/>
+			</meta>
+			<meta id="5f2a3d5f-e271-4db2-abf6-1c120e53b643" name="Cylinder.008">
+				<meta id="7e90e7da-da30-455a-9b22-d26563015bfd" name="Cylinder.008_0"/>
+				<meta id="0b8985b6-c5d5-4a3b-9fa0-35c669199803" name="Cylinder.008_1"/>
+			</meta>
+			<meta id="6b71bff6-ce0e-4a4f-a97d-4ba971fe327a" name="Cylinder.009">
+				<meta id="5cb1c53f-5b2f-421f-a514-15c52bcc3ca5" name="Cylinder.009_0"/>
+				<meta id="79514d96-7d6e-4a39-872b-34fcf2631a41" name="Cylinder.009_1"/>
+			</meta>
+			<meta id="4a7e3da0-a150-4242-86c4-89a3de98929c" name="Cylinder.010"/>
+			<meta id="0021f5d9-e8a0-485f-b7fc-d5bcbbe09890" name="Attach_Minor.004"/>
+			<meta id="08d8b009-52cf-48ce-9f4b-020dfaa279b3" name="Attach_Minor.005"/>
+			<meta id="fefe5f46-59a9-4d1e-b03e-1a81f470e103" name="Attach_Minor.016"/>
+			<meta id="9aaaf25c-886b-46be-b822-afc56c9849c2" name="Attach_Minor.017"/>
+		</meta>
+		<meta id="755942e8-79b3-490e-bed5-98d86b2725ab" name="Fence2_Part">
+			<meta id="c7084142-e554-444b-9820-ea88d9a41cb8" name="posts.001">
+				<meta id="1cfdbbbc-8bdd-45d6-9f3a-04a97ea90690" name="posts.001_0"/>
+				<meta id="90330cb0-038b-4659-89ca-6efa9a3a3aae" name="posts.001_1"/>
+			</meta>
+			<meta id="377422a7-d2a8-489b-9a41-2fe7dec5397f" name="Cylinder.003">
+				<meta id="75678e91-cdaa-43c2-a2be-2a6b26fdca9c" name="Cylinder.003_0"/>
+				<meta id="709f4f6a-70d3-4f02-bc78-9086a3b0361c" name="Cylinder.003_1"/>
+			</meta>
+			<meta id="68dd36d7-ad09-4f07-b3b3-17d1d0b95b41" name="Cylinder.004">
+				<meta id="ab310ae3-2ac5-4d7a-b6a3-072a6328da70" name="Cylinder.004_0"/>
+				<meta id="64e7eb2b-005b-4b38-bbc9-71c9e7abb7c8" name="Cylinder.004_1"/>
+			</meta>
+			<meta id="ce191442-8e13-4911-b5a0-dc7528e28e22" name="Cylinder.005">
+				<meta id="1a909bc5-6835-45e1-86ef-c2aa361316d0" name="Cylinder.005_0"/>
+				<meta id="a83a7998-d677-4df3-9ff7-1765966c9801" name="Cylinder.005_1"/>
+			</meta>
+			<meta id="41a3b0f7-ce9b-4c97-8bc5-b6fa022c0962" name="Cylinder.006"/>
+			<meta id="05d1b79e-256c-4184-8b2f-63ac5cbdac4f" name="Attach_Minor.002"/>
+			<meta id="d29ff89b-8fd9-48d2-abb4-fd902ad31625" name="Attach_Minor.003"/>
+			<meta id="d9e86b29-9ebd-4d8b-a228-10f18d152e2e" name="Attach_Minor.014"/>
+			<meta id="0d3f4641-7d37-4de7-9c20-7f9301ab4345" name="Attach_Minor.015"/>
+		</meta>
+		<meta id="55508bcb-0070-41ed-82a4-c56b6199270b" name="Fence5_Part">
+			<meta id="2406c869-de0d-4e7a-883d-e6b2c75b9a7e" name="posts.004">
+				<meta id="b393317c-99cf-42f3-9fb9-2e17f0a485f8" name="posts.004_0"/>
+				<meta id="a858ca97-7cac-4dab-897e-ef19aa76e15c" name="posts.004_1"/>
+			</meta>
+			<meta id="c147099e-b4d6-4390-8828-3443626011c0" name="Attach_Minor.008"/>
+			<meta id="2638ea23-546c-492d-ac94-517bb693d610" name="Attach_Minor.009"/>
+			<meta id="b8afe57f-24d1-48be-98ec-f64fbfe3c478" name="Attach_Minor.020"/>
+			<meta id="44c5a637-578f-45a5-8b2b-abf03a0f8a52" name="Attach_Minor.021"/>
+			<meta id="6d2398f6-c1e0-46ab-8b44-a09d857fe0d8" name="Attach_Minor.022"/>
+			<meta id="aa0661a7-06ef-42eb-817d-d92311c94624" name="Attach_Minor.023"/>
+			<meta id="54261435-1b6a-4a4b-bea1-a4066d282094" name="Fence5_Part_0"/>
+			<meta id="990907af-3c59-494a-913d-b06ecfdb474c" name="Fence5_Part_1"/>
+			<meta id="02d98ace-652d-4f6e-a29e-6dd36c1593e9" name="fence">
+				<meta id="0542f16c-87d2-4d1a-a2f0-d014e40d872c" name="fence_0"/>
+				<meta id="4ba589d6-a200-4ba4-8a49-053e33995642" name="fence_1"/>
+			</meta>
+		</meta>
+		<meta id="98588c8e-1114-4a65-96a4-3c04444c9f4e" name="Fence6_Part">
+			<meta id="c3176ddf-7881-4992-bbcb-b0bdfd32eccd" name="posts.005">
+				<meta id="2e1688d6-2a58-4a3a-aef3-af15d6eb4846" name="posts.005_0"/>
+				<meta id="cd8503ba-a7b8-4fa9-ada7-6466ff74dd58" name="posts.005_1"/>
+			</meta>
+			<meta id="b0f113bb-5bb0-43c8-af55-e4ebb6fc9fb4" name="Attach_Minor.010"/>
+			<meta id="ec155c7d-ff7f-4009-aaac-a3610b427551" name="Attach_Minor.011"/>
+			<meta id="546df689-d395-4c6a-aab8-b9cbea03a8d2" name="Attach_Minor.024"/>
+			<meta id="6f9f0fae-adb4-42ad-ad08-eac4c2100c3b" name="Attach_Minor.025"/>
+			<meta id="af2f10b7-7c16-4a7b-b7d0-4f28aaa2ccb2" name="Attach_Minor.026"/>
+			<meta id="97c49563-e812-46a7-91af-f86e50a7c309" name="Attach_Minor.027"/>
+			<meta id="be23db03-0bdb-41f7-9dac-35e6bd716021" name="fence.001">
+				<meta id="7dcd5865-9394-4196-bf9e-412c1d11dee3" name="fence.001_0"/>
+				<meta id="f1096678-2a73-4046-9a3d-0cad4ff619c6" name="fence.001_1"/>
+			</meta>
+		</meta>
+		<meta id="64a75803-8803-4134-a038-56e9c19b9912" name="Fence_Wall_Part">
+			<meta id="0c80d442-5174-45a9-9cad-d269e2d09b2d" name="posts.006">
+				<meta id="7877a428-2411-450a-99f6-64d59bdbe218" name="posts.006_0"/>
+				<meta id="9c113508-f627-4e43-bd8f-59a5265f8b16" name="posts.006_1"/>
+			</meta>
+			<meta id="cb80bd5b-e3a0-4eb3-aca8-a14dfc354b0d" name="Cylinder.014">
+				<meta id="7aefafba-53df-468d-9bd3-8af97ef14702" name="Cylinder.014_0"/>
+				<meta id="670a7588-a4d3-4532-88a6-52d1c62d209d" name="Cylinder.014_1"/>
+			</meta>
+			<meta id="00410b65-327b-4de9-afc9-093937c11509" name="Cylinder.015">
+				<meta id="d7ee7f48-0aad-48aa-9db3-27b9d34626c6" name="Cylinder.015_0"/>
+				<meta id="a0dbe80a-fe25-42dd-8de6-09d176a3ec08" name="Cylinder.015_1"/>
+			</meta>
+			<meta id="87dd43a0-b01d-4a35-a4d9-9e4300d5c3bc" name="Cylinder.016">
+				<meta id="d663411f-9dec-43c2-896d-bd3a49697faa" name="Cylinder.016_0"/>
+				<meta id="4c80de92-a500-48c8-bfbb-76fdba311119" name="Cylinder.016_1"/>
+			</meta>
+		</meta>
+		<meta id="360bd152-85ae-4e4c-a732-05774f0c85ce" name="Fence7_Part">
+			<meta id="561e84be-948b-4bbe-9563-82d41128ae70" name="posts.007">
+				<meta id="7a3b5717-4764-4d08-b666-01a71af7e62d" name="posts.007_0"/>
+				<meta id="2319edf2-5cf9-40e9-b369-d20f34343972" name="posts.007_1"/>
+			</meta>
+			<meta id="acd45ee4-beb2-4198-989a-93adb12b3270" name="Attach_Minor.028"/>
+			<meta id="12975eba-c51c-4847-bfe8-18a624b6d896" name="Attach_Minor.029"/>
+			<meta id="69665e86-53ca-4792-9bb0-23f193c48b41" name="Attach_Minor.030"/>
+			<meta id="8cc9b8eb-3bf4-4d0a-8c94-c6553587daaf" name="Attach_Minor.031"/>
+			<meta id="1c5fd035-f3d4-4ad8-9a26-12cf1ac3b0b7" name="Attach_Minor.032"/>
+			<meta id="db28eb3d-e94b-412b-90e0-e569e59b1366" name="Attach_Minor.033"/>
+			<meta id="964d5b28-9294-4edd-865a-1237e06bc5f9" name="Gate">
+				<meta id="14a44197-6a76-451d-a7d8-360b936c3ba4" name="Gate_0"/>
+				<meta id="49f43469-9cc0-4cdd-939a-2d79ef75ac1c" name="Gate_1"/>
+			</meta>
+			<meta id="4edce9fd-77dd-4390-83ee-c61f87f2c1a4" name="Trigger1"/>
+			<meta id="c9920c0b-dd71-4d7c-bb79-4a97afe30319" name="arrow"/>
+		</meta>
+		<meta id="4b19fe32-6e0e-4d56-b614-efe60aa34290" name="Fence8_Part">
+			<meta id="394ed77f-0c5f-4dec-bc7d-2cd06ea785d1" name="posts.008">
+				<meta id="d995287f-4dbd-4cd3-9515-3cfde53de5c5" name="posts.008_0"/>
+				<meta id="2dc5cdd1-3f53-4a64-903a-12fde10828c6" name="posts.008_1"/>
+			</meta>
+			<meta id="ca57c484-100a-4d93-a2c4-da39d0007469" name="Attach_Minor.034"/>
+			<meta id="8000cedd-4ed7-49d2-b962-ab8a22de253b" name="Attach_Minor.035"/>
+			<meta id="fdeb6faa-1f77-402b-be24-3b082d264b59" name="Attach_Minor.036"/>
+			<meta id="b3c5c036-0310-4f50-b1e7-491675a0b30c" name="Attach_Minor.037"/>
+			<meta id="a1ba068d-0369-41b0-8049-f1f4c9e63910" name="Attach_Minor.038"/>
+			<meta id="19ffc0ea-02ab-45ea-9787-4e128782aa59" name="Attach_Minor.039"/>
+			<meta id="f63a4404-537f-4fde-85a7-55590d1a2fe2" name="Left">
+				<meta id="51c710a6-3d83-44fa-8ac2-6d707a11c9ee" name="Left_0"/>
+				<meta id="cc2cea4e-ba7f-425d-bb75-788ac87e1b25" name="Left_1"/>
+			</meta>
+			<meta id="11e94ce7-2666-4805-a8f9-b8ab30cfb55f" name="Trigger2"/>
+			<meta id="5cd98573-1011-4d1b-a447-221a1cad5520" name="Right">
+				<meta id="cba8fd99-aa0f-4e06-be2e-2997fbecbe63" name="Right_0"/>
+				<meta id="263cf86e-50dc-4f7d-872f-fd3985d505a3" name="Right_1"/>
+			</meta>
+			<meta id="91d48b0e-f407-4c5d-ba85-2e5a9bbe939e" name="arrow.001"/>
+		</meta>
+	</meta>
+	<meta id="6654733e-c7a5-4b09-be9e-1c656c56a1ca" type="group" folder="true" name="LOD">
+		<meta id="eaf5576c-af78-419a-8bf5-d3dbf1e1e9b1" name="Fence5_Part_0"/>
+		<meta id="7a7620c9-6864-49d8-b558-4d0afb8dfc1f" name="Fence5_Part_1"/>
+		<meta id="35899784-921f-4015-a926-920f189bb902" name="Fence6_Part"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="e3ac1ec465b704222d1c5b0747c2faee"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.013"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.011_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.011_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.012_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.012_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.019"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.017"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cylinder.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.015"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence5_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence5_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fence_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fence_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="fence"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fence.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fence.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="fence.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence6_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.014_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.014_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.015_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.015_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.016_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Cylinder.016_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Cylinder.016"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence_Wall_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.007_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Gate_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Gate_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Gate"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Trigger1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="arrow"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence7_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="posts.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="posts.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.039"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Left_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Left_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Left"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Trigger2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Right_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Right_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Right"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="arrow.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Fence8_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ac6a95ed-f72f-4401-acbd-cf7273f165dc"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5ad5e859-7a11-4e22-bb0e-9361e6aad5a2"/>
+			<MaterialName value="blank_fence_trigger"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="abb7e011-607d-4a6b-aa0d-479fe8708427"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c2c0530d-5dd2-4127-8e1c-8f26103552ee"/>
+			<MaterialName value="rope"/>
+		</Item>
+	</MaterialList>
+</importer>
+

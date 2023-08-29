@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="f8865428-a7e0-4558-a7fe-e6dafd382df8">
+	<meta id="56824476-1b46-4384-82c8-1fbead2d00c8" type="group" folder="true" name="Materials">
+		<meta id="ddd9425c-faea-4078-b96d-720fbc9055b5" name="tools"/>
+		<meta id="12298d5d-e654-4d41-8912-cfb8d2ac94e8" name="planks"/>
+		<meta id="fffed0b2-bb24-4bbd-bd9f-0931790239ec" name="cloth_red_logs"/>
+		<meta id="172e3329-9e97-49b1-82a2-c380cd713b12" name="cloth_blue_logs"/>
+		<meta id="2b971a5b-2502-4a16-a157-0ccb0eb379ba" name="cloth_green_logs"/>
+		<meta id="9a66d50e-772d-4550-b0be-e96752e4ec3e" name="cloth_purple_logs"/>
+		<meta id="74dbe6b7-a9d2-4ab2-baec-b1318c02ab39" name="cloth_yellow_logs"/>
+		<meta id="7a0597b5-4318-4d3c-84a2-5b34748e7a53" name="cloth_black_logs"/>
+		<meta id="e784a9d2-59f9-4b76-8c04-1adc890a8656" name="cloth_white_logs"/>
+		<meta id="8dd3dbaa-5938-4600-85d4-76d57d8bbbb8" name="cloth_brown_logs"/>
+		<meta id="c17a06f9-9ce3-4d3e-95f3-c31959fd329f" name="cloth_grey_logs"/>
+		<meta id="7415294a-aa2b-4a53-9b1b-ba2654cb996c" name="end"/>
+		<meta id="fbeec6f9-85eb-45fb-aecb-5725bd992e1a" name="bark"/>
+	</meta>
+	<meta id="8a088869-7e98-45c2-8b24-dc419d708d0f" type="group" folder="true" name="Meshes">
+		<meta id="4e5a6668-13a5-4863-84be-f36cabdfd372" name="Axe.001_tools"/>
+		<meta id="109f3e5c-ed24-4363-a004-c9be947f9448" name="stand.002_planks"/>
+		<meta id="62d60a09-7fd4-4a22-87a4-4ebd7062bb6d" name="cloth.002_cloth_red_logs"/>
+		<meta id="802393fc-8b2a-4e27-bb5c-9f4eb330d27f" name="Stump1_end"/>
+		<meta id="e24e18cc-cb64-4d58-9002-fc48430b191f" name="Axe.001_end"/>
+		<meta id="4d94e016-437b-475d-896d-dbc3151ee28a" name="firewood.002_end"/>
+		<meta id="cec98aed-0c90-4f68-8d74-ed57ff170c53" name="firewood.003_end"/>
+		<meta id="04d5232d-789f-4ee2-afb9-635d8c851743" name="Log1.001_end"/>
+		<meta id="a9dea2df-210c-47ee-93ec-f8b44b1d279a" name="Log3.001_end"/>
+		<meta id="ad1233ea-4dbb-481d-a653-9b09b7aa0f1f" name="Log4.001_end"/>
+		<meta id="afd1ff82-5cc9-4a28-9221-b37ec4e556f2" name="Log2.001_end"/>
+		<meta id="aede5f09-15d8-4d0f-9a5d-702d070fe903" name="Log6.001_end"/>
+		<meta id="710421dd-e094-4794-974d-0ee0c263612b" name="Log1.002_end"/>
+		<meta id="d8fc1508-9e41-41f4-bef1-63a13766d6dd" name="Log5.001_end"/>
+		<meta id="b4b8856e-8e4b-4970-9550-37b16ee6d5af" name="Firewood_Covered1_Part_LOD_012_end"/>
+		<meta id="cab82c6f-adb1-4669-b34d-3dec7223fbe4" name="Firewood_Covered2_Part_LOD_012_end"/>
+		<meta id="31f46c9e-7710-4c0d-b0d9-5c4f608be8ab" name="Stump1_bark"/>
+		<meta id="7f62042f-e80e-4a97-97c2-e97775244daa" name="Axe.001_bark"/>
+		<meta id="8fbe9979-44bc-4b68-a2be-a3dd796775da" name="firewood.002_bark"/>
+		<meta id="6f7e4d1d-0568-410c-8616-dfa4b2fb1042" name="firewood.003_bark"/>
+		<meta id="6e586d93-dc41-4aae-9068-26050c242f2c" name="Log1.001_bark"/>
+		<meta id="c47be592-21b1-4983-9f8e-279c7f32b472" name="Log3.001_bark"/>
+		<meta id="43f77361-50b6-442b-b3c1-1f375ded9ffe" name="Log4.001_bark"/>
+		<meta id="685d90c9-c6b0-44cf-8673-2826d7a74adc" name="Log2.001_bark"/>
+		<meta id="a865ba79-c1db-4c1c-9e7e-8eed90b1f32b" name="Log6.001_bark"/>
+		<meta id="8def7d78-79b7-4ad0-b670-78dd3614d9c9" name="Log1.002_bark"/>
+		<meta id="74bc1a77-c983-4149-a747-1e85000b59a5" name="Log5.001_bark"/>
+		<meta id="62ba9c34-2c73-4c05-91d8-ad4a9c229040" name="Firewood_Covered1_Part_LOD_012_bark"/>
+		<meta id="4a7630cf-0621-46aa-8567-a591fb101825" name="Firewood_Covered1_Part_LOD_34_bark"/>
+		<meta id="0e8adcb6-b3a0-4979-82e3-a1fa9b8d2342" name="Firewood_Covered2_Part_LOD_012_bark"/>
+	</meta>
+	<meta id="422923e1-797b-499e-a16d-c306acc2f50a" name="Prefab">
+		<meta id="50d173e7-c2c1-4cab-8189-4c3c3c2e7c63" name="Stump_Part">
+			<meta id="917825c7-478e-4948-b61b-5a13b2fa2147" name="Stump1">
+				<meta id="e94b6380-dbe3-45dc-9b5c-505cfc7b1982" name="Stump1_0"/>
+				<meta id="f1c6d23a-c868-4878-91da-a6e6d23296d9" name="Stump1_1"/>
+			</meta>
+			<meta id="f9c801cf-9393-42ae-9ca5-e29cc2900c35" name="Axe.001">
+				<meta id="59ee7291-f71b-4974-aa8c-bd874892f3ce" name="Axe.001_0"/>
+				<meta id="65c37d30-4def-4b40-81b6-1638633d4471" name="Axe.001_1"/>
+				<meta id="601feb11-5c24-485f-9152-1aa793591ee2" name="Axe.001_2"/>
+			</meta>
+			<meta id="8f5cc2aa-875f-4eec-8ea1-19e576dbc503" name="Attach_Bottom.008"/>
+		</meta>
+		<meta id="dd83e7ca-78eb-4488-9e58-70a60c2f2bc7" name="Firewood1_Part">
+			<meta id="b3fa2a7f-6005-49b0-a99a-c4636b85b2c1" name="Attach_Bottom.010"/>
+			<meta id="4db6e3ce-e7f0-4072-bffb-4d1338bf31f7" name="firewood.002">
+				<meta id="b94a6ee6-a05c-464d-8623-eac973de7807" name="firewood.002_0"/>
+				<meta id="ae1e81b6-a0ef-4d06-bc65-2b0aef916506" name="firewood.002_1"/>
+			</meta>
+		</meta>
+		<meta id="aaa21226-f894-4802-ba27-0e959e51eeaf" name="Firewood2_Part">
+			<meta id="1133d754-2780-4dd2-af31-f2b67b6b1351" name="Attach_Bottom.011"/>
+			<meta id="1cd261fb-4fff-49d0-9548-58f1ecc09805" name="firewood.003">
+				<meta id="6e81f42d-002b-401d-8ed2-3d712e1a3f66" name="firewood.003_0"/>
+				<meta id="8dc5f93e-16b1-4130-8513-a20349142f57" name="firewood.003_1"/>
+			</meta>
+		</meta>
+		<meta id="6cbfa104-8688-4e69-82c6-8517079eb30c" name="Logs_Small1_Part">
+			<meta id="978003d1-7110-4e17-9ca8-1ced3a23e27b" name="Log1.001">
+				<meta id="b143be41-e8c4-42e9-abcf-cc223fb43e97" name="Log1.001_0"/>
+				<meta id="28968135-5edd-4041-a6da-1d0be2583939" name="Log1.001_1"/>
+			</meta>
+			<meta id="86b64c5e-aed0-4c7f-94de-b9041b7dadeb" name="Attach_Bottom.016"/>
+		</meta>
+		<meta id="ca67ae51-512c-4f5a-8a07-b34756e1624e" name="Logs_Large2_Part">
+			<meta id="fee6d5b5-f2fe-47a9-85ca-30613def34d1" name="Log3.001">
+				<meta id="07d6b216-b541-46f8-a8a0-cc36e4ac5cd4" name="Log3.001_0"/>
+				<meta id="d8edaa17-d316-427a-9c2b-a1285fdb98ef" name="Log3.001_1"/>
+			</meta>
+			<meta id="b94b02ee-791c-4f65-969a-02b471c3f9f6" name="Attach_Bottom.014"/>
+		</meta>
+		<meta id="bad41539-7423-44a6-86ac-966f2dcce205" name="Logs_Large3_Part">
+			<meta id="4d3b0f98-88cf-40e1-b38a-c76abbe26514" name="Log4.001">
+				<meta id="c1c4f7ba-5120-4150-beb9-541114d38773" name="Log4.001_0"/>
+				<meta id="b3c243b5-e5f0-4bf5-a018-991345f6ef46" name="Log4.001_1"/>
+			</meta>
+			<meta id="9669315f-b1a4-45dd-b0d8-f86cafb33566" name="Attach_Bottom.015"/>
+		</meta>
+		<meta id="907cb90f-a111-4599-8020-a185ee40a1da" name="Logs_Large1_Part">
+			<meta id="ea5437ca-2081-4d87-979f-066f9d73d0ef" name="Log2.001">
+				<meta id="804db7d6-1d3a-4e6e-8780-36acb7f946ec" name="Log2.001_0"/>
+				<meta id="1a92d1eb-8e92-4da3-a1f7-bf8533c5945c" name="Log2.001_1"/>
+			</meta>
+			<meta id="a231c874-a4c8-4cc0-a874-7e156a994ca4" name="Attach_Bottom.013"/>
+		</meta>
+		<meta id="b445e95d-bafb-4f91-9441-07f70e4d139c" name="Logs_Small3_Part">
+			<meta id="d60e006c-7198-4b17-ae3c-76d71a84b783" name="Log6.001">
+				<meta id="3547b1f7-98f1-4217-a0a6-329957b709b5" name="Log6.001_0"/>
+				<meta id="81ecec05-74ac-4e90-9a37-5fe304c2be60" name="Log6.001_1"/>
+			</meta>
+			<meta id="0133b7c8-e51e-448b-b346-dd1721ad9418" name="Attach_Bottom.018"/>
+		</meta>
+		<meta id="8a72e002-dcd5-4331-ab13-23e024949bc6" name="Logs_Small4_Part">
+			<meta id="f097aa85-8111-4f8f-bdb2-c0b0cd2c4660" name="Log1.002">
+				<meta id="37bea07f-a3d2-43cf-8300-7e0c23eb4582" name="Log1.002_0"/>
+				<meta id="b252ac73-0cda-46a1-8594-835b3771e286" name="Log1.002_1"/>
+			</meta>
+			<meta id="ab4c68b6-c50d-4e2f-aeac-4d4849e3aa48" name="Attach_Bottom.019"/>
+		</meta>
+		<meta id="055e88b4-9a08-43ab-86cc-60642ebdb37a" name="Logs_Small2_Part">
+			<meta id="22f6ce0e-c381-46b1-9b41-5dc7409b8504" name="Log5.001">
+				<meta id="e00f3ebe-d44f-4b87-bcae-65003df60994" name="Log5.001_0"/>
+				<meta id="6b677cc0-7ce2-4bfe-a994-bed4b94af7fe" name="Log5.001_1"/>
+			</meta>
+			<meta id="87bbcc50-0e66-4dfb-98f9-e84a1df89472" name="Attach_Bottom.017"/>
+		</meta>
+		<meta id="ddea3e60-ce0e-4ef1-af50-e926fd5686dd" name="Firewood_Covered1_Part">
+			<meta id="beb55953-f9b8-4478-896f-2473fbb0d57f" name="stand.002"/>
+			<meta id="343298f3-8688-4329-b8ab-828efeaa8c88" name="cloth.002"/>
+			<meta id="c49449ba-fe7d-42e4-a9d0-6dff7bd8342c" name="Attach_Bottom.012"/>
+			<meta id="1872457f-c526-4926-bda4-2510736316c2" name="Firewood_Covered1_Part_0"/>
+			<meta id="a8ffe9f0-a52d-4ce2-8406-960e4440142e" name="Firewood_Covered1_Part_1"/>
+		</meta>
+		<meta id="46dacb22-f005-4ddc-8aa6-f87f54816ffa" name="Firewood_Covered2_Part">
+			<meta id="b7d0bc21-a253-4b7e-b134-db368f797797" name="Attach_Bottom.020"/>
+			<meta id="ddd43a2c-76f9-4ff5-bb2a-e096039e240f" name="stand.001"/>
+			<meta id="40bf561a-570e-48a4-acd8-8ea7471bc603" name="cloth.001"/>
+			<meta id="e1e2a3d2-b00f-43ca-bb84-9377d106a34b" name="Firewood_Covered2_Part_0"/>
+			<meta id="d033870c-d9d9-46d4-b2ae-c52ae1deb9a6" name="Firewood_Covered2_Part_1"/>
+		</meta>
+	</meta>
+	<meta id="152fed17-fdbf-4ea4-bfc6-6279df3b541a" type="group" folder="true" name="LOD">
+		<meta id="def06c71-4600-46d4-a325-6f69cf3de702" name="Firewood_Covered1_Part_0"/>
+		<meta id="2bd850a3-3182-4c1e-bab3-bdf0d35efeb1" name="Firewood_Covered1_Part_1"/>
+		<meta id="c1512797-06f0-461c-86f2-7a428b8172ca" name="Firewood_Covered2_Part_0"/>
+		<meta id="ef360912-9b1e-4d3c-bf8a-5f7cd18a8ba1" name="Firewood_Covered2_Part_1"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="5f8bb30a38d60215a15c4a35d2f9b734"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Stump1_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Stump1_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Stump1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Axe.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Axe.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Axe.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Axe.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Stump_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="firewood.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="firewood.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="firewood.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Firewood1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="firewood.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="firewood.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="firewood.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Firewood2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log1.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log1.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.016"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Logs_Small1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log3.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log3.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log3.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.014"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Logs_Large2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log4.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log4.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log4.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.015"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Logs_Large3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log2.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log2.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log2.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.013"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Logs_Large1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log6.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log6.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log6.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.018"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Logs_Small3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log1.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log1.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log1.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.019"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Logs_Small4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log5.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log5.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log5.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.017"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Logs_Small2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stand.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="stand.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="stand.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="cloth.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Firewood_Covered1_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Firewood_Covered1_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Firewood_Covered1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="stand.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="cloth.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Firewood_Covered2_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Firewood_Covered2_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Firewood_Covered2_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fbeec6f9-85eb-45fb-aecb-5725bd992e1a"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7a0597b5-4318-4d3c-84a2-5b34748e7a53"/>
+			<MaterialName value="cloth_black_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="172e3329-9e97-49b1-82a2-c380cd713b12"/>
+			<MaterialName value="cloth_blue_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8dd3dbaa-5938-4600-85d4-76d57d8bbbb8"/>
+			<MaterialName value="cloth_brown_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2b971a5b-2502-4a16-a157-0ccb0eb379ba"/>
+			<MaterialName value="cloth_green_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c17a06f9-9ce3-4d3e-95f3-c31959fd329f"/>
+			<MaterialName value="cloth_grey_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9a66d50e-772d-4550-b0be-e96752e4ec3e"/>
+			<MaterialName value="cloth_purple_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fffed0b2-bb24-4bbd-bd9f-0931790239ec"/>
+			<MaterialName value="cloth_red_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e784a9d2-59f9-4b76-8c04-1adc890a8656"/>
+			<MaterialName value="cloth_white_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="74dbe6b7-a9d2-4ab2-baec-b1318c02ab39"/>
+			<MaterialName value="cloth_yellow_logs"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7415294a-aa2b-4a53-9b1b-ba2654cb996c"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="12298d5d-e654-4d41-8912-cfb8d2ac94e8"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ddd9425c-faea-4078-b96d-720fbc9055b5"/>
+			<MaterialName value="tools"/>
+		</Item>
+	</MaterialList>
+</importer>
+

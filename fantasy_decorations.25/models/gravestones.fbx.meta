@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="464a8b20-c08c-4e44-932e-7c492593f8f4">
+	<meta id="7f066d9c-b9ad-4ac0-b641-49250f9f2f70" type="group" folder="true" name="Materials">
+		<meta id="95f07ed9-a804-430f-8ebc-843caefda2fe" name="stone"/>
+		<meta id="327af068-0382-4c68-abc0-50b6c8340c33" name="darkstone"/>
+	</meta>
+	<meta id="529db198-0255-4853-a805-b1b77f0c9ea5" type="group" folder="true" name="Meshes">
+		<meta id="2ed89bcc-b298-41d5-abae-5758d61b542f" name="gravestone1_stone"/>
+		<meta id="c74c3942-8dcd-4c94-a0cf-d6e190e804e6" name="gravestone1_darkstone"/>
+		<meta id="02c32d87-31a7-4ffb-b8f9-952615f561c0" name="gravestone2_stone"/>
+		<meta id="f4f78aca-fc46-425a-940a-42b09680057c" name="gravestone2_darkstone"/>
+		<meta id="39153834-eda5-4601-b0e6-a2122d791384" name="gravestone3_stone"/>
+		<meta id="4e3e771d-8bdf-4856-a3ed-dd6445c82783" name="gravestone3_darkstone"/>
+		<meta id="ee897c38-4115-4a9c-8e4e-b8951aeceeed" name="gravestone4_stone"/>
+		<meta id="b843a8d3-000f-449f-9e03-8d703508517a" name="gravestone4_darkstone"/>
+		<meta id="688c138b-a315-42a7-808a-6ad96248165a" name="gravestone5_stone"/>
+		<meta id="edaab2df-12fd-4307-99a1-31f6c396d213" name="gravestone5_darkstone"/>
+		<meta id="767c8df0-3b58-4c78-a40c-b28ef7885f4b" name="gravestone6_stone"/>
+		<meta id="a7fd5663-0eed-49f8-b09a-199a798542dd" name="gravestone6_darkstone"/>
+		<meta id="fd00038f-fc11-4b21-b436-1198e95f1413" name="gravestone7_stone"/>
+		<meta id="450c66a9-ca1a-4569-bb48-d97d608701ed" name="gravestone7_darkstone"/>
+		<meta id="24b46b2e-5a99-4156-86a5-f39c9af32224" name="gravestone8_stone"/>
+		<meta id="5c33257e-f09b-44d9-9680-e88df5a89cef" name="gravestone8_darkstone"/>
+		<meta id="1a7a5e83-b3e0-423d-bd31-67f86f9767cb" name="gravestone9_stone"/>
+		<meta id="c92a9050-ecbd-4b24-a0dd-16c12e653bb2" name="gravestone9_darkstone"/>
+		<meta id="28b41f5e-ea55-4e06-a736-682fcaba109f" name="gravestone10_stone"/>
+		<meta id="f001cabe-4276-4efe-8d9b-ce8c0d0ea844" name="gravestone10_darkstone"/>
+		<meta id="26c788f8-2539-4761-821f-d206c7c7f41d" name="gravestone11_stone"/>
+		<meta id="b4f2a847-a0af-465e-aab9-a99198f99712" name="gravestone11_darkstone"/>
+		<meta id="aab6ca29-d4d6-4bdc-8d97-24248db746c4" name="gravestone12_stone"/>
+		<meta id="c3cfd731-d300-4389-95b0-c492e8a78ae8" name="gravestone12_darkstone"/>
+	</meta>
+	<meta id="c86a5516-2ee2-4095-879d-ef20ceb3c5d5" name="Prefab">
+		<meta id="08c53005-eba0-47ad-8e30-9469ef07ded2" name="Gravestone1_Part">
+			<meta id="a53a78c3-fa51-429e-b378-99936c1cca58" name="Attach_Bottom"/>
+			<meta id="81e33fc0-9e02-4f6a-b43a-61efa86314ce" name="gravestone1">
+				<meta id="9abbbcc2-3541-416e-95e1-8c1d53bb19a9" name="gravestone1_0"/>
+				<meta id="d07532cc-de8f-4780-b9c3-eb8fd2b502ee" name="gravestone1_1"/>
+			</meta>
+		</meta>
+		<meta id="fe1fcd0d-6fa8-4266-9756-728a4161ce5e" name="Gravestone2_Part">
+			<meta id="e2aa5e5a-6e50-40a5-b94d-5cea15602541" name="Attach_Bottom.001"/>
+			<meta id="41e97fbc-aa2c-4a7c-b8f8-45ccfe6f6728" name="gravestone2">
+				<meta id="e43cbe66-c60e-4e5d-8ebb-cb4bc1de65f4" name="gravestone2_0"/>
+				<meta id="724259bb-422a-4bc4-a854-3682cbb93622" name="gravestone2_1"/>
+			</meta>
+		</meta>
+		<meta id="776d833a-c932-400e-b74a-50eb9180cc94" name="Gravestone3_Part">
+			<meta id="248d5ad8-5265-4c46-a694-846ac80320d0" name="Attach_Bottom.002"/>
+			<meta id="1ef06c87-439f-4ca0-bf9c-90201419c2ab" name="gravestone3">
+				<meta id="0d3e9080-315f-4a74-b039-80305f9407c2" name="gravestone3_0"/>
+				<meta id="47afa2ad-ba47-46c6-ac22-73fa2b4f5fe4" name="gravestone3_1"/>
+			</meta>
+		</meta>
+		<meta id="cb3f1391-2db1-47e2-864d-a89cb11f1a84" name="Gravestone4_Part">
+			<meta id="4a550775-e323-4049-8196-e387c7f5eda7" name="Attach_Bottom.003"/>
+			<meta id="53667947-3906-4a3c-bc83-422ce283d34d" name="gravestone4">
+				<meta id="2bc672a2-002c-4706-ab54-7d8885f4344e" name="gravestone4_0"/>
+				<meta id="50c61dc3-9d8b-4ab6-92f1-9a42a2f5b545" name="gravestone4_1"/>
+			</meta>
+		</meta>
+		<meta id="a2b76caa-42d3-4a45-b744-b376de72a268" name="Gravestone5_Part">
+			<meta id="625b180e-86e7-41ae-811a-5a3130155773" name="Attach_Bottom.004"/>
+			<meta id="e21ea4e3-979a-4a8b-a493-3e5c1d8f3cef" name="gravestone5">
+				<meta id="81b9923a-5e0e-48dd-a81d-8de987bf9fbd" name="gravestone5_0"/>
+				<meta id="7b9c4537-bb26-45fc-925c-c81fb7127f5d" name="gravestone5_1"/>
+			</meta>
+		</meta>
+		<meta id="345daa9a-9059-4dd1-8bbe-d1ce31d54c48" name="Gravestone6_Part">
+			<meta id="993b5931-278d-4bf0-868e-273e833cf180" name="Attach_Bottom.005"/>
+			<meta id="39f3ee1c-7e7b-457e-bb34-294dbcc60aaf" name="gravestone6">
+				<meta id="0ab74cce-20c8-43a1-870f-f0d52b15f060" name="gravestone6_0"/>
+				<meta id="1f656fac-2eb6-4c73-ac0b-45e007052479" name="gravestone6_1"/>
+			</meta>
+		</meta>
+		<meta id="42876990-111f-4823-ae03-f8d89248ee62" name="Gravestone7_Part">
+			<meta id="abe4fe7e-e25c-41e3-b250-a956e190f70d" name="Attach_Bottom.006"/>
+			<meta id="0c7e68de-c063-41cc-a56c-14135f0e8b24" name="gravestone7">
+				<meta id="a4065bad-095d-4ace-bf1b-3ac8a95d0b2e" name="gravestone7_0"/>
+				<meta id="e343e615-cf3c-4886-8f91-6bb3a7e282d9" name="gravestone7_1"/>
+			</meta>
+		</meta>
+		<meta id="4bbd748b-9fa0-4230-895f-8d8a37ba0606" name="Gravestone8_Part">
+			<meta id="e8d175d8-ea68-41dc-8f7b-2f150fe03e4a" name="gravestone8">
+				<meta id="d7522ada-8d0e-49ad-8df9-1758abba25d0" name="gravestone8_0"/>
+				<meta id="0e211d1f-6650-4ded-becf-e84a6b47a11b" name="gravestone8_1"/>
+			</meta>
+			<meta id="c08aee9e-232b-4f52-86b5-2b386bdbdaff" name="Attach_Bottom.007"/>
+		</meta>
+		<meta id="cb308d7d-4825-47bd-9458-a7409e6cb2ec" name="Gravestone9_Part">
+			<meta id="af7c0898-56a3-4765-93ac-8465724627d0" name="gravestone9">
+				<meta id="2b4f92af-aa2a-4953-b8ce-4795ec364c86" name="gravestone9_0"/>
+				<meta id="c8c45160-6a5e-4add-95b3-3eb5164017bb" name="gravestone9_1"/>
+			</meta>
+			<meta id="2df135e7-1b53-47d9-b19f-b6ee8ebc366e" name="Attach_Bottom.008"/>
+		</meta>
+		<meta id="3e5b8b50-a9c1-47b2-ab98-f5f94304d65a" name="Gravestone10_Part">
+			<meta id="7a7791c0-6a2f-4209-ae20-5f0631f1e9d8" name="gravestone10">
+				<meta id="deae9135-6667-4f69-9b22-bb194e809441" name="gravestone10_0"/>
+				<meta id="74d2eeda-ddb5-4249-a4f8-76ae37baf83a" name="gravestone10_1"/>
+			</meta>
+			<meta id="024b9ccf-02d7-4995-8687-4a90988a740c" name="Attach_Bottom.009"/>
+		</meta>
+		<meta id="05457983-1176-43cb-9bf4-3c4ef7535353" name="Gravestone11_Part">
+			<meta id="d317927d-4785-4f58-be80-38b712b8a8d8" name="gravestone11">
+				<meta id="050c8160-ead0-4e43-8348-bb7b2953593b" name="gravestone11_0"/>
+				<meta id="0620a9e5-0e4a-48f5-afd0-bce8fc60f070" name="gravestone11_1"/>
+			</meta>
+			<meta id="d22a4edb-0efd-4fd3-884a-8c3bbd4bcda7" name="Attach_Bottom.010"/>
+		</meta>
+		<meta id="8170376d-40a4-42a5-a8c1-b2b82d262682" name="Gravestone12_Part">
+			<meta id="5c213c75-01a8-44c4-95c7-8e7eff86058c" name="gravestone12">
+				<meta id="79487080-915b-4153-b94e-74f2f993a1ad" name="gravestone12_0"/>
+				<meta id="b1e83f31-6256-4ad8-be90-9cb181f83812" name="gravestone12_1"/>
+			</meta>
+			<meta id="1ddcdd0c-8440-41d8-8d1b-6297431fa609" name="Attach_Bottom.011"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="b577b534ff777ee7407b7cb4087b5652"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone1_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone1_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone2_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone2_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone3_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone3_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone4_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone4_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone4"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone4_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone5_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone5_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone5"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone5_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone6_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone6_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone6"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone6_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone7_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone7_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone7"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone7_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone8_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone8_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone8"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone8_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone9_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone9_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone9"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone9_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone10_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone10_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone10"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.009"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone10_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone11_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone11_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone11"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.010"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone11_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone12_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="gravestone12_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="gravestone12"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.011"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Gravestone12_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="327af068-0382-4c68-abc0-50b6c8340c33"/>
+			<MaterialName value="darkstone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="95f07ed9-a804-430f-8ebc-843caefda2fe"/>
+			<MaterialName value="stone"/>
+		</Item>
+	</MaterialList>
+</importer>
+

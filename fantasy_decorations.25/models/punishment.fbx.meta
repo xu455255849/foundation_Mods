@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="f80490be-26a9-4131-a37d-f22e0efc8eca">
+	<meta id="a8082713-1d1f-4496-a3ab-da7549ce6c8d" type="group" folder="true" name="Materials">
+		<meta id="b1fe7b0a-8b7f-4715-9813-675edfea2248" name="planks"/>
+		<meta id="e7ce7478-1202-4f64-9ce1-3bca5f4909a9" name="rope"/>
+		<meta id="e511136d-4095-4da9-8ecd-70ee6b13a8c2" name="black"/>
+		<meta id="b71df7f4-ce67-406b-822c-c75c4fac1785" name="bark"/>
+		<meta id="86a80457-3bb0-48f5-8b7f-9c47bd1d3b65" name="end"/>
+		<meta id="35cab017-2d07-4828-b0b8-aa8cec592b0f" name="metal_light"/>
+		<meta id="a0a8d286-3a5b-4c8b-a387-32c83d91a063" name="metal_dark"/>
+		<meta id="13afe9c3-c5b5-478d-9b31-b33d97aa5759" name="weapons"/>
+	</meta>
+	<meta id="7d049545-f82d-4a0a-bb4d-9984dc422807" type="group" folder="true" name="Meshes">
+		<meta id="957d680a-1fdf-456a-b9e3-5682297c79f9" name="Guillotine_Part_LOD_012_planks"/>
+		<meta id="4b8c5079-ac30-4a55-94b2-34d2fa5690ca" name="Guillotine_Part_LOD_012_rope"/>
+		<meta id="29d1426d-bf01-4f20-9eec-a8deab8561ad" name="leg_planks"/>
+		<meta id="0da0254d-c664-4f48-b09e-131c04922e76" name="side_planks"/>
+		<meta id="a571a599-a6b8-4d13-88a1-aa729e4a5004" name="top_planks"/>
+		<meta id="37ef7d06-c684-469e-b25d-a785ff883530" name="pole_planks"/>
+		<meta id="a00d3676-3f71-43f1-84f2-b670afc6ee1f" name="top.007_planks"/>
+		<meta id="1dc634bb-483a-4223-b8ef-2b7577646162" name="Pillory_Part_LOD_01_black"/>
+		<meta id="fb23514c-eca3-48bf-8999-40c3876badc1" name="post_bark"/>
+		<meta id="521f3be0-8bd5-467b-a043-6126026e758f" name="post_end"/>
+		<meta id="edccb73f-1d90-47a0-a87f-dfb8c49d2032" name="Stake_Part_LOD_012_rope"/>
+		<meta id="393ac796-de71-4be9-8188-9efcc2c0b8bb" name="Stake_Part_LOD_012_bark"/>
+		<meta id="fbd64dd7-8e88-4691-95ee-690966162e33" name="Stake_Part_LOD_012_end"/>
+		<meta id="41b5ccd1-341e-428b-bad9-09d360f446f2" name="bottom_planks"/>
+		<meta id="597b75bd-ada6-4a28-a358-7246c6754610" name="hitch_planks"/>
+		<meta id="5494ec38-486a-41ad-b4d7-a2addd6c3cbb" name="wheels_planks"/>
+		<meta id="ea9a35d6-21ff-4553-adf2-227c6568116e" name="Cart_Cage_Part_LOD_012_planks"/>
+		<meta id="9a01f09a-8c6c-4236-bb32-26703771a492" name="beams.001_planks"/>
+		<meta id="51ecd2c4-03c4-4706-a143-5df5de5b3e71" name="rope.001_rope"/>
+		<meta id="d980d852-d63a-4a2c-84a5-1265ca628d88" name="beams_planks"/>
+		<meta id="2fb14689-9e5f-4c87-8de8-2ea3e1f6749e" name="rope_rope"/>
+		<meta id="ca75a587-ed2a-4f1a-8335-eec1711fe537" name="logs_bark"/>
+		<meta id="1f1eeb25-86b7-4b2d-8840-58c7906173b3" name="logs_end"/>
+		<meta id="f3d01372-480c-40ce-aaed-a25dff9188b4" name="horse_planks"/>
+		<meta id="c83e771b-6016-4d1b-b377-ba61f3cceb7d" name="guillotine.002_planks"/>
+		<meta id="50819630-9fa4-4859-bd47-624738790051" name="guillotine.002_metal_light"/>
+		<meta id="ebab4034-c38f-444d-8c61-d0520dfd05c8" name="Guillotine_Part_LOD_012_metal_light"/>
+		<meta id="4bd7ff94-3b78-45cd-b9b0-651a7de4a8d8" name="Pillory_Part_LOD_01_metal_light"/>
+		<meta id="faa7cbaf-6de7-478e-858e-cc3a826ef606" name="Pillory_Part_LOD_01_metal_dark"/>
+		<meta id="db85fbe8-4042-4372-befa-35564593782d" name="bars_metal_light"/>
+		<meta id="5238dc18-1ecf-4504-883b-3a7dc8459de1" name="Cart_Cage_Part_LOD_012_metal_light"/>
+		<meta id="9d16cc46-5f5c-4fc4-805c-624238c2802e" name="cage.001_metal_light"/>
+		<meta id="918e394a-d0fe-41cc-8206-bfdf6ccbff81" name="stand_planks"/>
+		<meta id="ad898e22-c0a0-49ad-be0b-2ae375466607" name="guillotine.002_metal_dark"/>
+		<meta id="473e74a3-6c19-431f-b6b5-b7bcfd260359" name="cage_metal_light"/>
+		<meta id="fd17a9f1-8e85-49cf-a6cb-8c10ada36762" name="Execution_Block_Part_LOD_012_planks"/>
+		<meta id="d6f93ac3-4049-4bad-89e9-61c491334580" name="Execution_Block_Part_LOD_012_metal_light"/>
+		<meta id="084d562c-8a89-4273-a18c-8a62e6c65b25" name="Execution_Block_Part_LOD_012_bark"/>
+		<meta id="30c65314-c01a-42d5-a624-9df5756f49cf" name="Execution_Block_Part_LOD_012_end"/>
+		<meta id="f155beda-16a8-41a2-8934-3d39c66590cf" name="Execution_Block_Part_LOD_012_weapons"/>
+		<meta id="2497b5bc-83ae-4222-b3f8-21086c6be5be" name="block_bark"/>
+	</meta>
+	<meta id="a25f8c59-97d0-4d83-8830-269a99aa0110" type="group" folder="true" name="LOD">
+		<meta id="66d66d52-78fe-453b-be30-13488d6025dd" name="Guillotine_Part_0"/>
+		<meta id="cf64857c-8c76-4b12-9b76-d6977ac1d679" name="Guillotine_Part_1"/>
+		<meta id="671cdc0b-a133-484b-8350-b71313a337c0" name="Guillotine_Part_2"/>
+		<meta id="cfe57ace-de48-49ef-b2de-c51bce0db503" name="Pillory_Part_0"/>
+		<meta id="c6aa0e5a-a840-49f9-943c-7c21817a8370" name="Pillory_Part_1"/>
+		<meta id="b92dad2d-cd6f-4283-b236-75e1dd4471b2" name="Pillory_Part_2"/>
+		<meta id="2223bab8-1e30-4c8a-a93e-2097b7ce1f84" name="Stake_Part_0"/>
+		<meta id="6d06ab3d-a60b-49aa-8c49-5939a686fd3d" name="Stake_Part_1"/>
+		<meta id="bd40b25d-73c2-472a-ac16-89b0e3a06cb1" name="Stake_Part_2"/>
+		<meta id="132584fd-0bcb-4323-b810-a839df12c348" name="Cart_Cage_Part_0"/>
+		<meta id="7cc7470a-15aa-4df0-8cfb-6de80464c1d8" name="Cart_Cage_Part_1"/>
+		<meta id="9be18791-a611-4460-a1bb-f4f65f1b5770" name="Execution_Block_Part_0"/>
+		<meta id="38cb9b5b-8c35-440a-bc25-10c786d5dadd" name="Execution_Block_Part_1"/>
+		<meta id="fe808f62-9853-4c72-b52a-0901323ad797" name="Execution_Block_Part_2"/>
+		<meta id="4f0c8196-bd20-40de-be1c-253a99145f31" name="Execution_Block_Part_3"/>
+		<meta id="d325eff5-b808-4ecb-af85-53e070627336" name="Execution_Block_Part_4"/>
+		<meta id="5a540bae-9749-4824-b0e5-e1215d4470d4" name="Wagon_Cage_Part_0"/>
+		<meta id="678953b4-9751-4187-b95f-28f4fd9da2cf" name="Wagon_Cage_Part_1"/>
+	</meta>
+	<meta id="aa5f3534-9201-4eb8-b4c1-82b30c5730d6" name="Prefab">
+		<meta id="451ee039-fa82-435e-9bc3-0b143be97a76" name="Guillotine_Part">
+			<meta id="81e53b06-0df3-4c78-8a57-dfdf90ea4ae2" name="Attach_Bottom"/>
+			<meta id="d39fb339-059f-4bfb-a776-bf6f6f8a6208" name="Guillotine_Part_0"/>
+			<meta id="86f743f9-8397-4feb-949c-c815b9a910ae" name="Guillotine_Part_1"/>
+			<meta id="8afc221c-5104-4ef6-87a6-7fab7127c694" name="Guillotine_Part_2"/>
+			<meta id="9c224b3a-2d9f-412b-9d90-7281c9ac9a87" name="guillotine.002">
+				<meta id="9318e7e7-0cfc-4166-8eef-b22eb315a5d7" name="guillotine.002_0"/>
+				<meta id="5116635a-6272-4423-a9c1-1addafe5e13a" name="guillotine.002_1"/>
+				<meta id="b66d0d92-ebb0-4935-959f-b499f6ac28b5" name="guillotine.002_2"/>
+			</meta>
+		</meta>
+		<meta id="56cffaa4-210d-4750-b019-5e8d2afb9781" name="Pillory_Part">
+			<meta id="21ce20f6-7121-4b7d-94bb-88a5ec7f18fc" name="leg"/>
+			<meta id="ea8dc90d-ea4b-4a7e-bbbb-45f80261ba3e" name="side"/>
+			<meta id="3025e538-d5a5-4bb7-b6a7-ec263cebd762" name="top"/>
+			<meta id="61b518d7-6515-46bc-9de0-b1c6dc1e4565" name="pole"/>
+			<meta id="3353b4cd-f8a2-4634-a33f-147ce5c123c3" name="top.007"/>
+			<meta id="02c9901e-a2c6-4836-845a-fdf7b442a3c0" name="Attach_Bottom.001"/>
+			<meta id="a155c211-170a-4c84-b84f-e28bc2c7fb7b" name="Pillory_Part_0"/>
+			<meta id="0d8e09ee-5c78-4a8d-9426-79bec171e7c2" name="Pillory_Part_1"/>
+			<meta id="0e06722d-5c67-4a82-aebc-fd7dd4b115f2" name="Pillory_Part_2"/>
+		</meta>
+		<meta id="d88253b5-a49e-48d7-94b2-79021a951a68" name="Stake_Part">
+			<meta id="048e9839-2e54-402c-ac65-fa086c7a1c37" name="post">
+				<meta id="7ac8226b-2181-4aa2-8d3f-d3e5571f7c0f" name="post_0"/>
+				<meta id="7a6b9d06-c5ba-41dd-a83c-c161978c31cb" name="post_1"/>
+			</meta>
+			<meta id="e34019df-ff7c-46c5-bce9-72438c45250f" name="Attach_Bottom.002"/>
+			<meta id="7114a7b4-d6c3-4ba1-b415-3bd40e5b6a52" name="Stake_Part_0"/>
+			<meta id="64edbbdb-61ff-48f1-b605-c0692b41e7c4" name="Stake_Part_1"/>
+			<meta id="9dccc347-fd6a-496e-ac05-d6b1caf742bc" name="Stake_Part_2"/>
+			<meta id="cd5c77c8-f96a-412d-ac90-5915eb845d18" name="logs">
+				<meta id="926bc31d-6409-4fe3-8f06-38038da10a63" name="logs_0"/>
+				<meta id="b1b331ac-80a1-4c82-9b16-28cbda1a3ad5" name="logs_1"/>
+			</meta>
+		</meta>
+		<meta id="692e4449-4d74-4154-ad17-afd6b334d90d" name="Wooden_Horse_Part">
+			<meta id="edab76d1-7887-46dd-a243-6561cb514f07" name="Attach_Bottom.004"/>
+			<meta id="c3cba5db-f69d-4d04-86b8-c17be7df0969" name="horse"/>
+		</meta>
+		<meta id="03c14e2f-051a-4dd2-9055-143494eedaa0" name="Cart_Cage_Part">
+			<meta id="09c7104b-ebd2-4ef5-8e14-a42f1fc41313" name="Attach_Bottom.006"/>
+			<meta id="18cefab3-72e6-4a7f-b85d-9c284ac25428" name="Attach_Right"/>
+			<meta id="707561e6-0a60-44b1-8dc2-970ea26a4154" name="Attach_Right.001"/>
+			<meta id="7336cd66-3b74-490d-aada-16782c39e5c5" name="bars"/>
+			<meta id="1f5834d4-c2c7-4d2b-b735-de6c2c74d158" name="bottom"/>
+			<meta id="f870b7a9-e414-48d1-8084-e0e56ab1925f" name="hitch"/>
+			<meta id="67328977-77d2-459d-ac9c-792d770b98d6" name="wheels"/>
+			<meta id="dff8047d-acf5-43b0-a136-9d00ec5f1f5b" name="Cart_Cage_Part_0"/>
+			<meta id="24c30a37-c246-4c05-aebf-b3d87014b92d" name="Cart_Cage_Part_1"/>
+		</meta>
+		<meta id="7ebb276e-d5e0-45cf-930b-7a20e2035b66" name="Hanging_Cage_Part">
+			<meta id="4d94619f-6266-4e25-b952-bab575886c77" name="Attach_Bottom.005"/>
+			<meta id="dc4ce573-3c20-4a72-8de6-446aa862b9c4" name="beams.001"/>
+			<meta id="12cdd4cf-d376-439e-8b62-5eada9d5a7a7" name="cage.001"/>
+			<meta id="c1e0f6ec-32ba-4563-bf53-c5b549349ff4" name="rope.001"/>
+		</meta>
+		<meta id="72e1a610-15af-4f4c-815a-f78374def917" name="Hanging_Cages_Part">
+			<meta id="9148e44d-47b3-4bde-9f96-a15fc7c4f7bc" name="Attach_Bottom.003"/>
+			<meta id="4a9be8f9-f7a0-4c91-a402-e5feecde8484" name="beams"/>
+			<meta id="3b215c9a-1ed0-482c-bbb0-c10831f414b0" name="cage"/>
+			<meta id="8f56c6bd-a4f2-48b6-a83e-35f99677fe84" name="rope"/>
+		</meta>
+		<meta id="4550c01a-e76d-4e8b-be37-9b0ac4f3b242" name="Execution_Block_Part">
+			<meta id="4b28c6f1-39be-45d5-8da9-0cc62169bfb8" name="block"/>
+			<meta id="e5194f94-8d52-44e6-8b69-2b99305f48fe" name="stand"/>
+			<meta id="87229697-1192-47de-89e8-8263136380dc" name="Attach_Bottom.007"/>
+			<meta id="60b5be82-4958-43a7-ac80-8578bcdf451c" name="Execution_Block_Part_0"/>
+			<meta id="2dd0f85d-1774-470c-9292-fe19fb8b40ab" name="Execution_Block_Part_1"/>
+			<meta id="d39c4373-c87c-40e8-a9c5-263defa4efc2" name="Execution_Block_Part_2"/>
+			<meta id="a0a1de46-02ca-4b39-9aeb-21b8dd9c7a55" name="Execution_Block_Part_3"/>
+			<meta id="35baf088-ccc4-4489-ae9c-2eac1851b63a" name="Execution_Block_Part_4"/>
+		</meta>
+		<meta id="29a43668-8f44-4423-8c86-9ee92991a141" name="Wagon_Cage_Part">
+			<meta id="84eeec4f-dcee-4929-aea8-0f6663eae64c" name="Attach_Right.002"/>
+			<meta id="928278ea-aef1-45bf-8ef1-d9ea57d1769d" name="Attach_Right.003"/>
+			<meta id="a6da7377-417c-4115-91d5-c59b46c3f1df" name="bars.001"/>
+			<meta id="e8ddd397-96a6-4767-9511-25c369a2f441" name="bottom.001"/>
+			<meta id="c3aa58dd-f63e-4c84-bfef-ab101c32e5e2" name="hitch.001"/>
+			<meta id="d6b34e8e-b830-4505-9222-dea5cc80fa2c" name="wheels.001"/>
+			<meta id="0d8f9a9e-2f66-4634-80cd-56de06eb84ee" name="Wagon_Cage_Part_0"/>
+			<meta id="151b4b0f-7c34-4efd-ac37-17872a80eb6f" name="Wagon_Cage_Part_1"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="2cc92a73b623d7781b97919638a8baf7"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Guillotine_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Guillotine_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Guillotine_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="guillotine.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="guillotine.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="guillotine.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="guillotine.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Guillotine_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="leg"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="side"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="pole"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="top.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pillory_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pillory_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pillory_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Pillory_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="post_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="post"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stake_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stake_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stake_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="logs_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="logs"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Stake_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="horse"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wooden_Horse_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bars"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hitch"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wheels"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cart_Cage_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cart_Cage_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cart_Cage_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="beams.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="cage.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Hanging_Cage_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="beams"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="cage"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="rope"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Hanging_Cages_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="block"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="stand"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Execution_Block_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Execution_Block_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Execution_Block_Part_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Execution_Block_Part_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Execution_Block_Part_4"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Execution_Block_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Right.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bars.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="hitch.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="wheels.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon_Cage_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon_Cage_Part_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Wagon_Cage_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b71df7f4-ce67-406b-822c-c75c4fac1785"/>
+			<MaterialName value="bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e511136d-4095-4da9-8ecd-70ee6b13a8c2"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="86a80457-3bb0-48f5-8b7f-9c47bd1d3b65"/>
+			<MaterialName value="end"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a0a8d286-3a5b-4c8b-a387-32c83d91a063"/>
+			<MaterialName value="metal_dark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="35cab017-2d07-4828-b0b8-aa8cec592b0f"/>
+			<MaterialName value="metal_light"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b1fe7b0a-8b7f-4715-9813-675edfea2248"/>
+			<MaterialName value="planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e7ce7478-1202-4f64-9ce1-3bca5f4909a9"/>
+			<MaterialName value="rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="13afe9c3-c5b5-478d-9b31-b33d97aa5759"/>
+			<MaterialName value="weapons"/>
+		</Item>
+	</MaterialList>
+</importer>
+

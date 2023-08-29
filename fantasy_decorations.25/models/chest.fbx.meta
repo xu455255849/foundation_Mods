@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="12f2ed2e-618e-42be-9f9f-70be982750bd">
+	<meta id="aead25ce-86ce-4682-bf8f-ce2b13f22e83" type="group" folder="true" name="Materials">
+		<meta id="4da600c8-41a3-4b91-ad40-a4b22213ed6e" name="planks"/>
+		<meta id="0ded7fff-563e-420c-8c8e-03150be93c95" name="metal"/>
+		<meta id="5a6bf676-c2b2-43ac-bdf7-100346412f20" name="darkmetal"/>
+		<meta id="5e6b17fe-0fed-4fc6-a81c-e12ed5e0a802" name="black"/>
+		<meta id="2abb2fb8-757f-4e1e-a618-dafcd7f420e0" name="colors"/>
+		<meta id="ae3704cf-e724-4895-a752-60f21d5ac074" name="coins"/>
+		<meta id="782879bc-f069-4a15-92ae-83f6665cd104" name="metal_gold"/>
+	</meta>
+	<meta id="b824b0df-55dd-4334-9d50-83e8353d2f7e" type="group" folder="true" name="Meshes">
+		<meta id="86743d36-d24e-4db9-a71d-b3e26b2c6772" name="Chest 1_planks"/>
+		<meta id="18915f4d-059f-462d-a256-ab5e1a8eeb30" name="Chest 1_metal"/>
+		<meta id="9c20ac73-62b6-4861-b490-20c4c7250b33" name="Chest 1_darkmetal"/>
+		<meta id="ac48ccf2-5f09-42d1-b5be-220c17dadf4b" name="Chest 1_black"/>
+		<meta id="4055310d-97c6-481c-8b5b-269784743bcb" name="Chest_Open_Part_LOD_01_colors"/>
+		<meta id="c78cbe5e-cb96-4a45-97df-9b259af75793" name="Chest_Open_Part_LOD_01_coins"/>
+		<meta id="29a92a95-ea6c-4028-934e-94c50b886e8b" name="Chest Open_planks"/>
+		<meta id="f14f726f-1dc1-471d-80d6-f60f3f6632a1" name="Chest Open_metal"/>
+		<meta id="ed65a2d0-f7dc-46ff-a50b-c3c2ac52a51f" name="Chest Open_darkmetal"/>
+		<meta id="87dd4b8e-72ef-4a83-b255-a1bcb6d4ca76" name="Chest Open_black"/>
+		<meta id="f845dabf-de05-48b6-9793-05fb1ea1d08b" name="coins_coins"/>
+		<meta id="8fad6d12-2ed0-46bc-b171-f4f19aa925c0" name="Chest_Open_Part_LOD_01_metal_gold"/>
+	</meta>
+	<meta id="3ab87fd0-57a8-4b92-8b2a-fd8b7e099754" name="Prefab">
+		<meta id="12a02c97-d19c-43de-9dac-dc4e9bf738dc" name="Chest_Part">
+			<meta id="3c2a19b0-a278-4c8e-81e3-2a300f80e6b3" name="Chest 1">
+				<meta id="ccb0c410-4bac-4f3a-badf-dd8ef22449c5" name="Chest 1_0"/>
+				<meta id="0eca361c-ba1b-4a73-b6bb-7e7f9f916709" name="Chest 1_1"/>
+				<meta id="9f43ff5d-64c6-4649-9c98-9cec6f6d39a3" name="Chest 1_2"/>
+				<meta id="56a4866b-c405-4c41-a85c-b5d6bd40e761" name="Chest 1_3"/>
+			</meta>
+			<meta id="c3a8112c-c501-40d8-8c85-1dcb141b4a25" name="Attach_Bottom"/>
+		</meta>
+		<meta id="6ec98891-610d-482a-b039-78c43e66f0bd" name="Chest_Open_Part">
+			<meta id="28056ff3-aa0f-4dad-8a60-9a52de9820e5" name="Attach_Bottom.001"/>
+			<meta id="b45e1e45-9cac-4e92-9568-e41eb99226be" name="Chest_Open_Part_0"/>
+			<meta id="9710066b-c162-4dfd-b9e9-b2c62212ee7c" name="Chest_Open_Part_1"/>
+			<meta id="fdcb207c-269d-4fdb-a207-3738f499e6b6" name="Chest Open">
+				<meta id="65a6b18f-6972-4318-9805-9e184893d057" name="Chest Open_0"/>
+				<meta id="36fa55c1-6da5-40a4-89a3-66f1e305c907" name="Chest Open_1"/>
+				<meta id="8b9e6f35-4ed6-48e9-be1d-0b658d74ff29" name="Chest Open_2"/>
+				<meta id="9d7b0a28-dddc-433b-8cfb-a360ed484697" name="Chest Open_3"/>
+			</meta>
+			<meta id="acc6277b-e9c0-490b-9574-47cdc3794cc3" name="coins"/>
+			<meta id="7bc0950e-1c76-4c7f-aa77-653a988ddaf3" name="Chest_Open_Part_2"/>
+		</meta>
+	</meta>
+	<meta id="34eed082-b161-4e6d-84d5-ea75f3a2f3b8" type="group" folder="true" name="LOD">
+		<meta id="38110711-98d7-40b2-89b4-21e3a5edcf71" name="Chest_Open_Part_0"/>
+		<meta id="4d2250ee-7e5c-4d3f-89e9-faacfd9a2c81" name="Chest_Open_Part_1"/>
+		<meta id="97d29a98-619e-4c10-964f-28fbb1e9f0bd" name="Chest_Open_Part_2"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="6921f427d765e72d24209e2ee6302fbe"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest 1_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest 1_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest 1_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest 1_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Chest 1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Chest_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Chest_Open_Part_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Chest_Open_Part_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest Open_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest Open_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest Open_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chest Open_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Chest Open"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="coins"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Chest_Open_Part_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Chest_Open_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5e6b17fe-0fed-4fc6-a81c-e12ed5e0a802"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ae3704cf-e724-4895-a752-60f21d5ac074"/>
+			<MaterialName value="coins"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2abb2fb8-757f-4e1e-a618-dafcd7f420e0"/>
+			<MaterialName value="colors"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5a6bf676-c2b2-43ac-bdf7-100346412f20"/>
+			<MaterialName value="darkmetal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0ded7fff-563e-420c-8c8e-03150be93c95"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="782879bc-f069-4a15-92ae-83f6665cd104"/>
+			<MaterialName value="metal_gold"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4da600c8-41a3-4b91-ad40-a4b22213ed6e"/>
+			<MaterialName value="planks"/>
+		</Item>
+	</MaterialList>
+</importer>
+

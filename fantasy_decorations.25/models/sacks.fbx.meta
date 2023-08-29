@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="e79caef3-1912-4b52-907e-291564fd0f95">
+	<meta id="db33daa5-a2f7-4b7f-829e-6082b1e9bc9f" type="group" folder="true" name="Materials">
+		<meta id="62b3b859-e48d-453e-bb0a-b63d73902869" name="bag"/>
+		<meta id="ed4a9940-13a9-47ac-bf83-046911d78b7e" name="grain"/>
+		<meta id="9f65cb8f-9848-4fec-84e3-50f605638681" name="rope"/>
+		<meta id="ece53be1-3f85-4641-b708-12336662eeb8" name="flour"/>
+	</meta>
+	<meta id="5fa4646d-4d86-40d7-bd69-b4a68bc901b2" type="group" folder="true" name="Meshes">
+		<meta id="f2f05668-07af-40e3-bed2-05654429a7e1" name="sack_open_bag"/>
+		<meta id="3d6a2668-6bb5-407d-9a11-32358c706f5a" name="sack_open_grain"/>
+		<meta id="6ba65909-551a-4d7b-ab95-e3c46e818390" name="sack_closed_bag"/>
+		<meta id="154c92f8-cb9c-4eda-bf62-3b3589adbabf" name="sack3_bag"/>
+		<meta id="923de27c-4a59-4d5f-bf3d-b15b74685209" name="sack_closed.001_bag"/>
+		<meta id="09f41c7a-13bd-4a80-8f0d-1645606db75b" name="sack_open.001_bag"/>
+		<meta id="ccad421c-27da-4ed3-aec5-5bbb3c85334f" name="sack3.001_bag"/>
+		<meta id="d99106ed-50f3-4a26-a102-a467cf956259" name="sack_closed_rope"/>
+		<meta id="e561c30e-4962-4099-b2bb-d6c7b0420b45" name="sack_closed.001_rope"/>
+		<meta id="572b8b81-e738-4550-9d80-92f078c6a9a5" name="sack_open.001_grain"/>
+		<meta id="9ff2ab7e-0dd4-4e61-8989-61daf6f8e321" name="sack_open.002_bag"/>
+		<meta id="194bda54-db6d-46c2-af0e-ddf85e4124a0" name="sack_open.002_flour"/>
+		<meta id="b56d6786-c174-456f-8ce3-cda6c510ab90" name="sack_open.003_bag"/>
+		<meta id="a1d1019a-6f48-4d4a-abfd-580bb426fa84" name="sack_open.003_flour"/>
+	</meta>
+	<meta id="f9317bb1-729d-4dc4-a2d6-92b17a433785" name="Prefab">
+		<meta id="5a7d890d-f751-4401-ae69-686cf40b175d" name="Sack_Grain_Part">
+			<meta id="a5a4df1f-5c4c-4a71-9917-4718f59f8ba1" name="Attach_Bottom.001"/>
+			<meta id="f12e5803-d25b-489f-a5f2-2e0ff5fedb1f" name="sack_open">
+				<meta id="21b875bb-8ea0-46c0-a748-8bccf4a676a2" name="sack_open_0"/>
+				<meta id="86e8f231-0f68-494b-97a9-c3c2b70f22e8" name="sack_open_1"/>
+			</meta>
+		</meta>
+		<meta id="5646d7c6-912f-4dca-9d47-20ef82ee6e65" name="Sack_Closed_Part">
+			<meta id="f816d4a7-043e-4463-b144-9ef7915c689c" name="Attach_Bottom"/>
+			<meta id="a10488b9-c9b4-44bf-aa17-607c857c539b" name="sack_closed">
+				<meta id="3b271fff-0687-4bb2-b749-eec8ebe3dd05" name="sack_closed_0"/>
+				<meta id="1fdeaaca-549b-46bf-8f67-03aceed4d9f8" name="sack_closed_1"/>
+			</meta>
+		</meta>
+		<meta id="2245e95b-1dee-4004-9465-3458bd32c09f" name="Sack_Square_Part">
+			<meta id="4959278f-c968-45e1-8962-baa8fd925a5b" name="sack3"/>
+			<meta id="f70ee7db-3541-4221-a3f4-81d79dfadef7" name="Attach_Bottom.002"/>
+		</meta>
+		<meta id="4971519d-3cd9-43a7-aa58-f7d4137e1305" name="Sack_Closed_Side_Part">
+			<meta id="98ead871-3bbf-4c6a-b158-696e7df5e9d9" name="Attach_Bottom.003"/>
+			<meta id="00fa1ace-85d4-4ca4-9a75-c7e61501c358" name="sack_closed.001">
+				<meta id="c6da561b-3d07-422b-9ff6-926501652e64" name="sack_closed.001_0"/>
+				<meta id="33c01a97-5e68-472e-a354-a2970f3a02f8" name="sack_closed.001_1"/>
+			</meta>
+		</meta>
+		<meta id="b0ec38af-dd10-4d3a-aad1-2dd1b9270761" name="Sack_Grain_Side_Part">
+			<meta id="45e5fa58-4831-40c4-86de-19cffb95f725" name="Attach_Bottom.004"/>
+			<meta id="95351960-ba79-412b-9b11-78ae469e5b09" name="sack_open.001">
+				<meta id="a8e86a1e-2d49-4ce9-b8c0-e868504ed3f4" name="sack_open.001_0"/>
+				<meta id="b3ca2615-6526-40d7-8268-6acfe5f8f48c" name="sack_open.001_1"/>
+			</meta>
+		</meta>
+		<meta id="5cbd5fff-32ae-4363-a076-e21a723d7973" name="Sack_Square2_Part">
+			<meta id="b250ad29-ae7c-46d7-9801-bc180e62f1cb" name="sack3.001"/>
+			<meta id="af1ce72b-ca4a-4eba-8cd6-b4e2d22712d8" name="Attach_Bottom.005"/>
+		</meta>
+		<meta id="2e52fee2-f75b-494f-a082-e93225c3ce0a" name="Sack_Flour_Part">
+			<meta id="6a9a2632-1858-4bdf-9af2-538ef624f1fc" name="Attach_Bottom.006"/>
+			<meta id="4df92c02-3e66-4ee7-b33c-2450951792a6" name="sack_open.002">
+				<meta id="159dee0c-11bf-4155-a944-8d39349124b5" name="sack_open.002_0"/>
+				<meta id="ba743e8f-0449-4e19-82cf-12b42dd2ad83" name="sack_open.002_1"/>
+			</meta>
+		</meta>
+		<meta id="0de25add-22fa-4243-81e1-9ba20ea17bc1" name="Sack_Flour_Side_Part">
+			<meta id="2f9e3450-133e-4ea9-96c2-fc92d068494d" name="Attach_Bottom.007"/>
+			<meta id="7787804d-733a-4e97-80bf-b8e443471f46" name="sack_open.003">
+				<meta id="cc43d667-030a-403a-bd28-74090440f10d" name="sack_open.003_0"/>
+				<meta id="7ca27ebb-b571-40c3-aec1-6e56dc9c97a0" name="sack_open.003_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="85582df34dc4a1ae1ece7eafac3fb3c5"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sack_open"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Grain_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_closed_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_closed_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sack_closed"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Closed_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="sack3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Square_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_closed.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_closed.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sack_closed.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Closed_Side_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sack_open.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Grain_Side_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="sack3.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Square2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sack_open.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Flour_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sack_open.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="sack_open.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Sack_Flour_Side_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="62b3b859-e48d-453e-bb0a-b63d73902869"/>
+			<MaterialName value="bag"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ece53be1-3f85-4641-b708-12336662eeb8"/>
+			<MaterialName value="flour"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ed4a9940-13a9-47ac-bf83-046911d78b7e"/>
+			<MaterialName value="grain"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9f65cb8f-9848-4fec-84e3-50f605638681"/>
+			<MaterialName value="rope"/>
+		</Item>
+	</MaterialList>
+</importer>
+

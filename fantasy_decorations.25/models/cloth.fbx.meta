@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="7680339f-7fbe-4d13-9a07-3178a02dc1dc">
+	<meta id="be641fcf-de8e-4d5c-8386-ab169536100a" type="group" folder="true" name="Materials">
+		<meta id="d05aeca3-85d1-4301-8298-e30b0ccd56d0" name="wood"/>
+		<meta id="25a61f1e-e826-4ea6-81a7-c3d4e350ea39" name="cloth_red_spools"/>
+		<meta id="f97c9f29-26e5-4f31-9060-10f28ed32990" name="cloth_blue_spools"/>
+		<meta id="4c4c647b-e6b3-4fe5-bfe2-1e5bdd33bd97" name="cloth_green_spools"/>
+		<meta id="cdbbae7d-8514-487d-9a78-a8c967a117d5" name="cloth_yellow_spools"/>
+		<meta id="71e73c08-87b7-4d58-b2b0-9773513d71f3" name="cloth_purple_spools"/>
+		<meta id="aabb17fd-2afa-4625-9fd9-f2eb27789dbc" name="cloth_black_spools"/>
+		<meta id="e1c875e3-e825-464a-a4f4-2d039c0d2dd9" name="cloth_white_spools"/>
+		<meta id="ac916e77-cc3f-4e15-a791-aded08c99c11" name="cloth_grey_spools"/>
+		<meta id="c01a1316-4a20-48e6-ba10-76d7e33be403" name="cloth_brown_spools"/>
+	</meta>
+	<meta id="b0e481f7-0c63-41ae-89c0-2dc2c47cc18f" type="group" folder="true" name="Meshes">
+		<meta id="f5a00ccd-44ad-42a6-9707-af26d4ea6b69" name="spool_wood"/>
+		<meta id="d03e9792-9018-4d75-b680-523e692941aa" name="spool.002_wood"/>
+		<meta id="52240bb3-1b92-4af7-a1ed-2a6343f841af" name="spool.003_wood"/>
+		<meta id="a556ed9f-4320-4795-afdb-c4361a80916a" name="spool.004_wood"/>
+		<meta id="e912e65b-d7c0-494a-90bd-3a138f32e4c7" name="spool_cloth_red_spools"/>
+		<meta id="1809b4b2-7173-4adb-bdf6-a572627b4dfe" name="spool.001_wood"/>
+		<meta id="a75b318c-1a38-43c6-be82-6d3795f6cdf4" name="spool.001_cloth_red_spools"/>
+		<meta id="9d982380-49d6-4b5c-98c0-e0db2fb5c4db" name="spool.002_cloth_red_spools"/>
+		<meta id="194a9697-962a-45ed-9ba3-778130e48f7a" name="spool.003_cloth_red_spools"/>
+		<meta id="55618ade-eaf6-469e-9495-d2b8c9c21149" name="spool.004_cloth_red_spools"/>
+		<meta id="a61467a2-a6eb-433a-96af-3ad95a7d5dd6" name="spool.007_wood"/>
+		<meta id="afdb3a62-f23f-4448-81b2-37be92fc179b" name="spool.007_cloth_red_spools"/>
+		<meta id="211e3908-d72a-44dd-b1f6-f5d4b18485fc" name="spool.008_wood"/>
+		<meta id="24aaa403-0de5-417f-b784-f53593c9ec48" name="spool.008_cloth_red_spools"/>
+		<meta id="678889ec-1548-4f23-8b57-a1f89d1b8316" name="spool.009_wood"/>
+		<meta id="02c0fde0-85e7-412c-9aec-a449b0138231" name="spool.009_cloth_red_spools"/>
+	</meta>
+	<meta id="52363d52-8bfb-4fe0-b6d4-1dbdc3f3caa8" name="Prefab">
+		<meta id="d0947ac7-2f41-494d-a953-ccc2927e7af2" name="Cloth_Spool1_Part">
+			<meta id="856258ab-d76d-41d5-a1e9-93a07eb6351e" name="spool">
+				<meta id="01d88de2-1555-4247-bbb4-5f6a7d270a88" name="spool_0"/>
+				<meta id="802a7b28-2b1d-4d39-99b1-aba7254024bb" name="spool_1"/>
+			</meta>
+			<meta id="3ab963ea-35eb-419d-912f-547a582fe995" name="Attach_Bottom.002"/>
+		</meta>
+		<meta id="ff8184fa-c721-4212-bda8-d718f29b40d6" name="Cloth_Spool2_Part">
+			<meta id="4f26d05f-f82c-43f8-a4ad-c47fd16ce20c" name="Attach_Bottom.003"/>
+			<meta id="c9c48074-6247-446b-841c-e4f940632c9c" name="spool.001">
+				<meta id="7ce948f8-ca92-4f82-948d-4ab97b5b1582" name="spool.001_0"/>
+				<meta id="cb953307-4172-4bf3-bc37-b24f02369174" name="spool.001_1"/>
+			</meta>
+		</meta>
+		<meta id="6f33e0d2-0622-4200-af7a-3b2e5fda9d46" name="Cloth_Spool3_Part">
+			<meta id="742a5f3f-132c-4725-892b-816be482a485" name="spool.002">
+				<meta id="b9814006-6dca-4f48-a9c0-d9e5f0899d8f" name="spool.002_0"/>
+				<meta id="f16402f6-e9fb-47a2-bff6-2e093ba5bd18" name="spool.002_1"/>
+			</meta>
+			<meta id="8bc39fe9-e1fc-45b1-8362-a182fc403d69" name="spool.003">
+				<meta id="c13f19f3-ef58-4998-aa24-ca97454716fa" name="spool.003_0"/>
+				<meta id="fd9ef607-04ad-4a77-ac5b-27691153fcd6" name="spool.003_1"/>
+			</meta>
+			<meta id="981810e3-2e63-4bc9-a4f0-e62b50b1aaf3" name="spool.004">
+				<meta id="0822edd2-2d83-4a57-aa42-a883f2d53d0d" name="spool.004_0"/>
+				<meta id="5b34d949-ed52-47a0-a277-f5e556ee477d" name="spool.004_1"/>
+			</meta>
+			<meta id="f01cda01-e3c3-43cf-a0ee-ff5db9bc973a" name="Attach_Bottom.001"/>
+		</meta>
+		<meta id="93e03137-b01a-4849-8160-6e4a56259cca" name="Cloth_Spool4_Part">
+			<meta id="0fb06692-eece-46b0-a11e-126c4557fcf9" name="spool.007">
+				<meta id="90fc08ca-3fdd-4b3e-addd-40548fd9aedd" name="spool.007_0"/>
+				<meta id="763824f6-4538-4400-b4f3-77c88c0d0464" name="spool.007_1"/>
+			</meta>
+			<meta id="79d835b2-1437-4ccd-8f34-ca6371a0763a" name="spool.008">
+				<meta id="f8c8a1fc-d8df-472d-841a-f7157e4df1bb" name="spool.008_0"/>
+				<meta id="6d4b1307-c93d-4e46-b4e4-d32ba209a705" name="spool.008_1"/>
+			</meta>
+			<meta id="d6f45f44-2148-49a0-b34d-65393e7dc3a4" name="Attach_Bottom.004"/>
+			<meta id="54c51779-81eb-4482-bc04-b3ca0af241a7" name="spool.009">
+				<meta id="8053336e-1c8f-44a9-b22b-5d7637f2e310" name="spool.009_0"/>
+				<meta id="6caa2d0b-297b-43ac-b2ad-9398a0579226" name="spool.009_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="7f38649f1194502daefcfcb0cfa5339d"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Spool1_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Spool2_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Spool3_Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.007_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="spool.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="spool.009"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cloth_Spool4_Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="aabb17fd-2afa-4625-9fd9-f2eb27789dbc"/>
+			<MaterialName value="cloth_black_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f97c9f29-26e5-4f31-9060-10f28ed32990"/>
+			<MaterialName value="cloth_blue_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c01a1316-4a20-48e6-ba10-76d7e33be403"/>
+			<MaterialName value="cloth_brown_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4c4c647b-e6b3-4fe5-bfe2-1e5bdd33bd97"/>
+			<MaterialName value="cloth_green_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ac916e77-cc3f-4e15-a791-aded08c99c11"/>
+			<MaterialName value="cloth_grey_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="71e73c08-87b7-4d58-b2b0-9773513d71f3"/>
+			<MaterialName value="cloth_purple_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="25a61f1e-e826-4ea6-81a7-c3d4e350ea39"/>
+			<MaterialName value="cloth_red_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e1c875e3-e825-464a-a4f4-2d039c0d2dd9"/>
+			<MaterialName value="cloth_white_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cdbbae7d-8514-487d-9a78-a8c967a117d5"/>
+			<MaterialName value="cloth_yellow_spools"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d05aeca3-85d1-4301-8298-e30b0ccd56d0"/>
+			<MaterialName value="wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+
