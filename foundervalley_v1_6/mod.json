@@ -1,0 +1,13 @@
+{
+	"Name": "Founder Valley 1.6",
+	"Author": "GoodKaT",
+	"Description": "Custom map made as an attempt to mimic the Foundation Artwork topography", 
+	"Version": "1.6.0",
+	
+	"MapList": [
+		{
+			"Name": "Founder Valley",
+			"Id": "MAP_FoundValley"
+		}
+	]
+}
