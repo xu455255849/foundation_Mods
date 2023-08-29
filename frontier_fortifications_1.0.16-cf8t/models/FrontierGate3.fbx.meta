@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="39dfb150-b09d-40d1-b381-7ac123faad7f">
+	<meta id="451453e6-2a69-45e9-9419-9ddee80b8317" type="group" folder="true" name="Materials">
+		<meta id="f1d96f3a-93fc-45b7-9542-f7b6a61b07f5" name="Material.Bark"/>
+		<meta id="bbe39b5c-85e0-4d65-be7d-da19c07dc7d4" name="Material.Bare"/>
+	</meta>
+	<meta id="4313b086-52f6-4688-ac46-6a51d1a93c39" type="group" folder="true" name="Meshes">
+		<meta id="f512c6fa-8e92-4ed1-8a47-4ad50a2d5b2c" name="Palisade.004_Material.Bark"/>
+		<meta id="2bb8db15-57fb-48ef-b6ee-73a7dfe4e8c9" name="Palisade.001_Material.Bark"/>
+		<meta id="086b84ed-4cb0-4e4a-bdc5-ed5d6ebf0912" name="Palisade.001_Material.Bare"/>
+		<meta id="5f4a0d35-93f5-4a37-a2b3-1bcce7def482" name="Palisade.002_Material.Bark"/>
+		<meta id="6cd27706-fa63-4587-bd68-c6a97e673a6d" name="Palisade.002_Material.Bare"/>
+		<meta id="7a0017b2-c24a-4519-bd1a-307013ba5a27" name="Palisade.003_Material.Bark"/>
+		<meta id="70654c23-0301-4cbc-92fe-d1caea5d2012" name="Palisade.003_Material.Bare"/>
+		<meta id="476f0fc8-6611-4fc8-9d29-9e4100210691" name="Palisade.005_Material.Bark"/>
+		<meta id="22fb590d-a7b2-4811-b76e-8f7e2240c7c9" name="Palisade.005_Material.Bare"/>
+		<meta id="e65d1cd5-84e6-4d32-a678-794d8653c088" name="Palisade.006_Material.Bark"/>
+		<meta id="2168362e-1bb6-407b-bac0-156de7f55f21" name="Palisade.006_Material.Bare"/>
+		<meta id="ffa10062-141b-42c2-ad9e-09a939c7f3c9" name="Palisade.007_Material.Bark"/>
+		<meta id="b00e4981-7c61-41c1-87df-f0d298c11e40" name="Palisade.008_Material.Bark"/>
+		<meta id="63769136-fee6-478c-b642-37dded2e7664" name="Palisade.008_Material.Bare"/>
+		<meta id="fc1f8e34-09f0-4923-a23c-8e14abecdfe2" name="Palisade.009_Material.Bark"/>
+		<meta id="ab84c182-e345-4876-9e82-1dd6fc1a8e9b" name="Palisade.009_Material.Bare"/>
+		<meta id="4362b7ca-c107-4e45-9d6f-048abc34e5bd" name="Palisade.010_Material.Bark"/>
+		<meta id="ad1c49da-7c99-4626-8d47-75fc7c30539a" name="Palisade.010_Material.Bare"/>
+		<meta id="a1cd1aae-52b0-49fe-bf0e-ffebd0a00903" name="Palisade.011_Material.Bark"/>
+		<meta id="f3779934-beb3-4f94-b7e9-c6f75a29041e" name="Palisade.012_Material.Bark"/>
+	</meta>
+	<meta id="de13bd4b-6313-460f-83d3-f457f74606fe" name="Prefab">
+		<meta id="3a444e10-2b41-4fa3-9cb2-4bad55f186cd" name="GatePart">
+			<meta id="8c0d0e29-1e56-40fb-9ba1-35c24f658b57" name="Palisade.004"/>
+			<meta id="18c68375-d67d-453f-9c39-dcd1b3bde03c" name="Palisade.001">
+				<meta id="ea8dedbc-948b-4e8c-9b85-1914085f437d" name="Palisade.001_0"/>
+				<meta id="9ea9cf3f-a001-49cd-ac33-2381db30e5b1" name="Palisade.001_1"/>
+			</meta>
+			<meta id="e44d344e-d227-44f8-a128-87ab8e742d9a" name="Palisade.002">
+				<meta id="d6637fdf-f575-429a-89cd-f2342167eb7b" name="Palisade.002_0"/>
+				<meta id="cf4232ae-8483-4cfc-94a9-46d00b61c16f" name="Palisade.002_1"/>
+			</meta>
+			<meta id="a93f7ad6-e4a0-43f5-bdc6-eaadda9c49d9" name="Palisade.003">
+				<meta id="7b82cecb-b32e-4fbc-ba73-176a5ba2ab64" name="Palisade.003_0"/>
+				<meta id="65b7b142-ee73-4a98-a3e1-702314d6a516" name="Palisade.003_1"/>
+			</meta>
+			<meta id="ea345fb6-2344-4392-96cd-bc3161203b0a" name="Palisade.005">
+				<meta id="977df433-dd12-4670-875c-04d46bc98125" name="Palisade.005_0"/>
+				<meta id="d3cad32b-afdc-43e2-b021-7d8680d87b37" name="Palisade.005_1"/>
+			</meta>
+			<meta id="451939a4-dba8-449b-8a41-56617e0ade39" name="Palisade.006">
+				<meta id="c619518a-49a6-470a-be19-cea2e3a75758" name="Palisade.006_0"/>
+				<meta id="506846cf-abce-4b62-a046-1bf7e1c43836" name="Palisade.006_1"/>
+			</meta>
+			<meta id="ad732545-51f7-46a2-8156-2d4765a8f545" name="Palisade.007"/>
+			<meta id="07fbc525-7778-4501-96e8-0d00669a89b2" name="Palisade.008">
+				<meta id="7dc7a75a-7e28-4762-85c2-8ed58e163c16" name="Palisade.008_0"/>
+				<meta id="403d6df7-4e7a-40e0-95f9-bf5960871c41" name="Palisade.008_1"/>
+			</meta>
+			<meta id="1f015041-39ce-4bc7-92d2-ae0b99975583" name="Palisade.009">
+				<meta id="e9ccbe1e-5b78-4fdf-aba4-9b55b372abc5" name="Palisade.009_0"/>
+				<meta id="84212769-0795-40c5-8aa2-1eb3c324818f" name="Palisade.009_1"/>
+			</meta>
+			<meta id="c2fb852d-a1ce-46e2-80b8-095335beeb99" name="Palisade.010">
+				<meta id="eab9b284-4085-457a-8790-9094549cd196" name="Palisade.010_0"/>
+				<meta id="a41075a6-2e95-48eb-9eb9-1dec75f99186" name="Palisade.010_1"/>
+			</meta>
+			<meta id="aa40e5e4-57a3-4e08-86df-11436949aa1b" name="Palisade.011"/>
+			<meta id="b6f7d19b-5af4-4d66-b7d6-a9605e2d5454" name="Palisade.012"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="7315eef9b18f99db0f37735b18c2c497"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Palisade.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.010_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Palisade.010_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Palisade.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Palisade.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Palisade.012"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GatePart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bbe39b5c-85e0-4d65-be7d-da19c07dc7d4"/>
+			<MaterialName value="Material.Bare"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f1d96f3a-93fc-45b7-9542-f7b6a61b07f5"/>
+			<MaterialName value="Material.Bark"/>
+		</Item>
+	</MaterialList>
+</importer>
+

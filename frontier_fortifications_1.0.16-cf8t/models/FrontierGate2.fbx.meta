@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="713488b3-dcf6-487d-84df-cbd3035d565b">
+	<meta id="f1f255a1-8503-4a2b-99b4-8ac30b3faa1e" type="group" folder="true" name="Materials">
+		<meta id="b8cb97d4-3fb5-4552-a770-ee92180f4129" name="Material.Bark"/>
+		<meta id="73560237-0b08-4287-be1f-3469d1a787b4" name="Material.Bare"/>
+	</meta>
+	<meta id="42896a33-dc78-466a-8d29-aa76924a97ac" type="group" folder="true" name="Meshes">
+		<meta id="6444f1b9-19b4-4014-a78c-4d453746f617" name="Log.001_Material.Bark"/>
+		<meta id="906a6331-37bc-4088-8a90-e59e357dfb8d" name="Log.001_Material.Bare"/>
+		<meta id="6bb6f019-7756-4afe-85c7-0aebda64d0bc" name="Log.003_Material.Bark"/>
+		<meta id="9fd03c5f-16e9-4aa2-bc29-a79e1f804490" name="Log.003_Material.Bare"/>
+		<meta id="54491501-b121-48e9-9ab2-0ccf6c226142" name="Log.005_Material.Bark"/>
+		<meta id="9047401b-3136-4176-b9ab-aead53d73c4b" name="Log.005_Material.Bare"/>
+		<meta id="9ed8ea51-9d77-44e5-94c3-5c92e617c38f" name="Log.002_Material.Bark"/>
+		<meta id="52335dc3-4773-47f2-9e64-bfb0f8350f21" name="Log.002_Material.Bare"/>
+		<meta id="cdb01dbc-aeb9-4027-a488-727d1192cee4" name="Log.004_Material.Bark"/>
+		<meta id="0d8d5cf1-e1de-436f-bce8-918cbb9ae7d6" name="Log.004_Material.Bare"/>
+	</meta>
+	<meta id="07049c0f-b52e-4c39-bfc8-7a6461daa3f5" name="Prefab">
+		<meta id="6f005e4c-def0-49be-901e-8e2b460eeb60" name="GatePart">
+			<meta id="f3eee34c-ae61-445d-a983-75407127cd39" name="Log.001">
+				<meta id="f0a7dca5-86c9-452c-b9de-3333da99a7dc" name="Log.001_0"/>
+				<meta id="e9c7a196-fb7d-43af-8d4b-fcf2f6121018" name="Log.001_1"/>
+			</meta>
+			<meta id="dd7ea382-314a-453a-bfe1-ade381aa9590" name="Log.003">
+				<meta id="2093258e-4fc9-4bbe-81f0-9ef8c3ab7379" name="Log.003_0"/>
+				<meta id="9549295b-77bf-4584-8241-c5fe42a49f83" name="Log.003_1"/>
+			</meta>
+			<meta id="bfca240f-b56b-4d52-b83e-0e4fcabd6154" name="Log.005">
+				<meta id="f8269117-2007-482a-bd94-907f24550444" name="Log.005_0"/>
+				<meta id="708bf641-b2ef-4ebf-b5fd-20b9de4479e3" name="Log.005_1"/>
+			</meta>
+			<meta id="85c7c9bc-b680-4cb6-96e9-4b8a5669ac40" name="Log.002">
+				<meta id="cebdf621-f0cb-4169-981b-a70b043e8a98" name="Log.002_0"/>
+				<meta id="124f0ee2-5cf6-408a-95b4-9bcbadbf9275" name="Log.002_1"/>
+			</meta>
+			<meta id="3c6ca6f5-827d-434c-ab4d-986a12159c08" name="Log.004">
+				<meta id="b74fc8b9-b36b-4258-b536-65a30070d749" name="Log.004_0"/>
+				<meta id="9d3c077f-8f4c-4084-a25b-b897c4be9c04" name="Log.004_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="5595bcf8cd079920c88040c21dce3067"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GatePart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="73560237-0b08-4287-be1f-3469d1a787b4"/>
+			<MaterialName value="Material.Bare"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b8cb97d4-3fb5-4552-a770-ee92180f4129"/>
+			<MaterialName value="Material.Bark"/>
+		</Item>
+	</MaterialList>
+</importer>
+

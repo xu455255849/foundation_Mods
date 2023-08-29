@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="496ee3c3-4362-4b11-91d5-0e09a6d0692e">
+	<meta id="cd254d0a-fc52-47ea-a836-e4d357f172fc" type="group" folder="true" name="Materials">
+		<meta id="bde0cd88-321e-4f9a-b846-1d73d38336ce" name="Material.Bark"/>
+		<meta id="aa0833d7-f0bd-40fd-a4dc-1402d5e44e63" name="Material.Log"/>
+	</meta>
+	<meta id="5d9e201c-3623-423e-b3bb-b182d1a93575" type="group" folder="true" name="Meshes">
+		<meta id="5d0eea24-c54c-4582-9c2a-0db62761575f" name="Ladder.001_Material.Bark"/>
+		<meta id="47a83cdd-e3ac-46bf-b3ad-68add0cc449d" name="Log.001_Material.Bark"/>
+		<meta id="555aaca6-bb7c-4a1f-b57f-b9bb4f6db7fd" name="Log.001_Material.Log"/>
+		<meta id="0cdc1f78-5ba0-455b-9112-78193cb85fc2" name="TowerPart_COLLIDER"/>
+		<meta id="a911877c-1e00-4ce4-9e2b-c3fa4a7e3200" name="Step_0_Material.Bark"/>
+		<meta id="2cbafb05-9db2-47fd-875b-d20ae0931f14" name="Step_0_Material.Log"/>
+		<meta id="2c104f5c-2df6-48bd-a4aa-6fa15af5d684" name="Step_2_Material.Bark"/>
+		<meta id="c9d43d6b-2f13-4309-9c8b-eaaf8f201012" name="Step_2_Material.Log"/>
+		<meta id="190cabfb-13db-4f16-b056-4aed321ec161" name="Step_1_Material.Bark"/>
+		<meta id="53fe1b3b-0ec1-4de6-b44d-50ea61dfed8d" name="Step_1_Material.Log"/>
+	</meta>
+	<meta id="af7e807a-6796-4f03-85ac-8a59d57c5920" name="Prefab">
+		<meta id="05b5f300-2724-4292-a462-ecdf8051a95e" name="TowerPart">
+			<meta id="e2a2023b-dd04-4faa-b57a-3509a65524f3" name="Ladder.001"/>
+			<meta id="f2d6354e-f63d-4cc1-886b-4313f8b5f1b9" name="PATH_B_1"/>
+			<meta id="d1b8f6e3-6622-4bcb-9e91-3d3618fad2be" name="PATH_B_2"/>
+			<meta id="60e003b7-6a22-4259-b4c2-0878ecb7ed03" name="Log.001">
+				<meta id="19c0150b-0cde-4a0f-8b6c-b575dc99100a" name="Log.001_0"/>
+				<meta id="3aac3538-8f27-406d-9c36-89562735adaf" name="Log.001_1"/>
+			</meta>
+		</meta>
+		<meta id="a3ab6576-b486-4789-9ae8-5dc9f9b920bf" name="TowerConstruction">
+			<meta id="f8a7684b-9690-47e6-8b78-4e77d8edcbd2" name="Step_0">
+				<meta id="64595449-d6e3-4972-b155-2134f46fb75c" name="Step_0_0"/>
+				<meta id="77f639af-0426-4e75-b620-028cf58d00de" name="Step_0_1"/>
+			</meta>
+			<meta id="046925a3-add5-46a7-a3e7-35e91134406d" name="Step_2">
+				<meta id="c8036b75-797c-4d75-9ea7-1b9a4c189a44" name="Step_2_0"/>
+				<meta id="479f2c8a-6508-41fb-834c-ba4b5a409f91" name="Step_2_1"/>
+			</meta>
+			<meta id="3a7c8df2-e85a-417f-8159-0320caa1eb7b" name="Step_1">
+				<meta id="75c26960-5b76-4d4e-9cc5-0287a0804b7e" name="Step_1_0"/>
+				<meta id="7d6448e0-a699-43c5-872d-b0aa8ee89b6b" name="Step_1_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="662f40a3150dbc0d6035c1fcb0895432"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ladder.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Log.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Log.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="TowerPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_0_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_0_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_2_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_2_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_1_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_1_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="TowerConstruction"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bde0cd88-321e-4f9a-b846-1d73d38336ce"/>
+			<MaterialName value="Material.Bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="aa0833d7-f0bd-40fd-a4dc-1402d5e44e63"/>
+			<MaterialName value="Material.Log"/>
+		</Item>
+	</MaterialList>
+</importer>
+

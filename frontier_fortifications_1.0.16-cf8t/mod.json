@@ -1,0 +1,42 @@
+{
+	"Name": "Frontier Fortifications",
+	"Author": "Batyushki",
+	"Description": "Fortifications for a frontier outpost built entirely from rough hewn logs: Keep, Tower, Palisade, Cabins and Gate.",
+	"Version": "1.0.16",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Italian",
+			"Code": "it"
+		},
+		{
+			"Name": "Spanish",
+			"Code": "es-ES"
+		},
+		{
+			"Name": "Portuguese",
+			"Code": "pt-PT"
+		},
+		{
+			"Name": "Polish",
+			"Code": "pl"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		}
+	]
+
+}
