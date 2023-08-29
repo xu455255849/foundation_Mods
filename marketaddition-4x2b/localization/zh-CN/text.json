@@ -1,0 +1,36 @@
+{
+	"BUILDINGS": {
+                "MARKET_ADDITION_V2_PARTSETLIST_NAME": "Market additions",
+		"MARKET_ADDITION_V2_HAT_STALL_NAME": "Hat stall",
+		"MARKET_ADDITION_V2_HAT_WORKSHOP_NAME": "Hat workshop",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_NAME": "Knife grinder workshop",
+		"MARKET_ADDITION_V2_HAT_SIGN_NAME": "Hat sign",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_SIGN_NAME": "Knife grinder sign",
+		"MARKET_ADDITION_V2_ROOF_CENTER_NAME": "Wooden roof center",
+		"MARKET_ADDITION_V2_ROOF_CORNER_NAME": "Wooden roof corner",
+		"MARKET_ADDITION_V2_ROOF_ENTRANCE_NAME": "Wooden roof entrance",
+		"MARKET_ADDITION_V2_WOODEN_ROOF": "Wooden roof",
+		"MARKET_ADDITION_V2_THATCHED_ROOF": "Thatched roof"
+	},
+	"BUILDING_DESCRIPTIONS": {
+		"MARKET_ADDITION_V2_HAT_STALL_DESC": "Hat stall",
+		"MARKET_ADDITION_V2_HAT_WORKSHOP_DESC": "Hat workshop",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_DESC": "Knife grinder workshop",
+		"MARKET_ADDITION_V2_HAT_SIGN_DESC": "Hat sign",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_SIGN_DESC": "Knife grinder sign",
+		"MARKET_ADDITION_V2_ROOF_CENTER_DESC": "Wooden roof center",
+		"MARKET_ADDITION_V2_ROOF_CORNER_DESC": "Wooden roof corner",
+		"MARKET_ADDITION_V2_ROOF_ENTRANCE_DESC": "Wooden roof entrance"
+	},
+	"JOBS": {
+		"MARKET_ADDITION_V2_HATMAKER_NAME": "Hat maker",
+		"MARKET_ADDITION_V2_HATMAKER_DESC": "Produces hats",
+		"MARKET_ADDITION_V2_KNIFEGRINDER_NAME": "Knife grinder",
+		"MARKET_ADDITION_V2_KNIFEGRINDER_DESC": "Produces knifes"
+	},
+	"RESOURCES": {
+		"MARKET_ADDITION_V2_HAT": "Hat",
+                "WOOLEN_CLOTH": "Textile",
+		"MARKET_ADDITION_V2_KNIFE": "Knife"
+        }
+}
