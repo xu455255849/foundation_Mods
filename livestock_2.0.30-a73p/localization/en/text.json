@@ -1,0 +1,198 @@
+{
+	"": {
+
+		"BUILDING_LIVESTOCKFARM_CATTLE_NAME": "Cattle Farm",
+		"BUILDING_LIVESTOCKFARM_CATTLE_DESC": "Raise cattle for meat and milk.",
+
+        "BUILDING_LIVESTOCKFARM_SHEEP_NAME": "Sheep Farm",
+		"BUILDING_LIVESTOCKFARM_SHEEP_DESC": "Raise sheep for meat, milk and wool.",
+
+        "BUILDING_LIVESTOCKFARM_PIG_NAME": "Pig Farm",
+		"BUILDING_LIVESTOCKFARM_PIG_DESC": "Raise pigs for meat.",
+
+        "BUILDING_LIVESTOCKFARM_GOAT_NAME": "Goat Farm",
+		"BUILDING_LIVESTOCKFARM_GOAT_DESC": "Raise goats for meat and milk.",
+
+        "BUILDING_LIVESTOCKFARM_CHANDLER_NAME": "Chandlery",
+        "BUILDING_LIVESTOCKFARM_CHANDLER_DESC": "Make candles to sell at market.",
+
+        "BUILDING_LIVESTOCKFARM_BUTCHER_NAME": "Butcher Shop",
+        "BUILDING_LIVESTOCKFARM_BUTCHER_DESC": "Produce meat from animal carcasses",
+
+        "BUILDING_LIVESTOCKFARM_CREAMERY_NAME": "Creamery",
+        "BUILDING_LIVESTOCKFARM_CREAMERY_DESC": "Produce butter from milk",
+
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_SET1": "Option 1: Hay",
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_SET2": "Option 2: Pasture",
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_SET3": "Processing",
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_CATTLE4": "Other",
+
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_SHEEP1": "Option 1: Hay",
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_SHEEP2": "Option 2: Pasture",
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_SHEEP3": "Processing",
+
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_PIG1": "Raise Pigs",
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_PIG2": "Process Pigs",
+        "CATEGORY_BUILDING_PART_SETLIST_LIVESTOCKFARM_PIG3": "Other",
+
+        "BUILDING_PART_SETLIST_LIVESTOCKFARM_GOAT1_NAME": "Raise Goats",
+        "BUILDING_PART_SETLIST_LIVESTOCKFARM_GOAT2_NAME": "Process Goats",
+
+        "BUILDING_PART_SETLIST_LIVESTOCKFARM_CHANDLER1_NAME": "Chandlery",
+
+        "BUILDING_PART_SETLIST_LIVESTOCKFARM_BUTCHER1_NAME": "Butcher",
+
+        "BUILDING_PART_SETLIST_LIVESTOCKFARM_CREAMERY1_NAME": "Creamery",
+
+        "BUILDING_PART_LIVESTOCKFARM_CATTLEYARD_NAME": "Cattle Yard",
+        "BUILDING_PART_LIVESTOCKFARM_CATTLEPEN_SLAUGHTER_NAME": "Cattle Slaughtering Pen",
+        "BUILDING_PART_LIVESTOCKFARM_CATTLEPEN_MILK_NAME": "Cattle Milking Pen",
+        "BUILDING_PART_LIVESTOCKFARM_CATTLEBARN_NAME": "Cattle Barn",
+        "BUILDING_PART_LIVESTOCKFARM_CATTLEPASTURE_NAME": "Cattle Pasture",
+        "BUILDING_PART_LIVESTOCKFARM_COWDECORATIVE_NAME": "Decorative Cow",
+
+        "BUILDING_PART_LIVESTOCKFARM_SHEEPYARD_NAME": "Sheep Yard",
+        "BUILDING_PART_LIVESTOCKFARM_SHEEPPEN_SLAUGHTER_NAME": "Sheep Slaughtering Pen",
+        "BUILDING_PART_LIVESTOCKFARM_SHEEPPEN_MILK_NAME": "Sheep Milking Pen",
+        "BUILDING_PART_LIVESTOCKFARM_SHEEPPEN_SHEAR_NAME": "Sheep Shearing Pen",
+        "BUILDING_PART_LIVESTOCKFARM_SHEEPBARN_NAME": "Sheep Fold",
+        "BUILDING_PART_LIVESTOCKFARM_SHEEPPASTURE_NAME": "Sheep Pasture",
+
+        "BUILDING_PART_LIVESTOCKFARM_PIGYARD_NAME": "Pig Yard",
+        "BUILDING_PART_LIVESTOCKFARM_PIGPEN_NAME": "Pig Slaughtering Pen",
+        "BUILDING_PART_LIVESTOCKFARM_SILO_NAME": "Feed Silo",
+        "BUILDING_PART_LIVESTOCKFARM_PIGDECORATIVE_NAME": "Decorative Pig",
+
+        "BUILDING_PART_LIVESTOCKFARM_GOATPEN_SLAUGHTER_NAME": "Goat Slaughtering Pen",
+        "BUILDING_PART_LIVESTOCKFARM_GOATPEN_MILK_NAME": "Goat Milking Pen",
+        "BUILDING_PART_LIVESTOCKFARM_GOATSHED_NAME": "Goat Shed",
+        "BUILDING_PART_LIVESTOCKFARM_GOATPASTURE_NAME": "Goat Grazing",
+
+        "BUILDING_PART_LIVESTOCKFARM_HAYSTACK_NAME": "Hay Meadow",
+        "BUILDING_PART_LIVESTOCKFARM_TALLOW_NAME": "Tallow Bucket",
+
+        "BUILDING_PART_LIVESTOCKFARM_CHANDLER_NAME": "Chandlery",
+        "BUILDING_PART_LIVESTOCKFARM_CHANDLER_MARKET_NAME": "Candle Market Table",
+
+        "BUILDING_PART_LIVESTOCKFARM_BUTCHER_NAME": "Butcher Shop",
+        "BUILDING_PART_LIVESTOCKFARM_BUTCHERMARKET_NAME": "Butcher Market Table",
+
+        "BUILDING_PART_LIVESTOCKFARM_CREAMERY_NAME": "Creamery",
+        "BUILDING_PART_LIVESTOCKFARM_CREAMERYMARKET_NAME": "Creamery Market Table",
+
+        "JOB_LIVESTOCKFARM_HERD_NAME": "Livestock Herder",
+        "JOB_LIVESTOCKFARM_HERD_DESC": "Tend the animals in the pasture",
+
+        "JOB_LIVESTOCKFARM_BARN_NAME": "Livestock Herder",
+        "JOB_LIVESTOCKFARM_BARN_DESC": "Tend livestock in the fields",
+
+        "JOB_LIVESTOCKFARM_PROCESS_NAME": "Livestock Worker",
+        "JOB_LIVESTOCKFARM_PROCESS_DESC": "Milk, shear, and slaughter livestock",
+
+        "JOB_LIVESTOCKFARM_FEED_NAME": "Livestock Worker",
+        "JOB_LIVESTOCKFARM_FEED_DESC": "Make pig feed",
+
+        "JOB_LIVESTOCKFARM_HAY_NAME": "Hay Farmer",
+        "JOB_LIVESTOCKFARM_HAY_DESC": "Gather hay from meadows to feed livestock",
+
+        "JOB_LIVESTOCKFARM_CHANDLER_NAME": "Chandler",
+        "JOB_LIVESTOCKFARM_CHANDLER_DESC": "Make candles from tallow and wood",
+
+        "JOB_LIVESTOCKFARM_BUTCHER_NAME": "Butcher",
+        "JOB_LIVESTOCKFARM_BUTCHER_DESC": "Provides meat from animal carcasses",
+
+        "JOB_LIVESTOCKFARM_CREAMERY_NAME": "Butter Maker",
+        "JOB_LIVESTOCKFARM_CREAMERY_DESC": "Produces butter from milk",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CATTLEYARD_NAME": "Cattle Yard",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CATTLE_SLAUGHTER_NAME": "Slaughter Cattle",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CATTLE_MILK_NAME": "Milk Cows",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CATTLEBARN_NAME": "Cattle Barn",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_SHEEPYARD_NAME": "Sheep Yard",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_SHEEP_SLAUGHTER_NAME": "Slaughter Sheep",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_SHEEP_MILK_NAME": "Milk Sheep",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_SHEEP_SHEAR_NAME": "Shear Sheep",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_SHEEPBARN_NAME": "Sheep Fold",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_PIGYARD_NAME": "Pig Yard",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_SLAUGHTER_PIG_NAME": "Slaughter Pig",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_FEED_NAME": "Pig Feed",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_GOAT_SLAUGHTER_NAME": "Slaughter Goats",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_GOAT_MILK_NAME": "Milk Goats",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_GOATBARN_NAME": "Goat Shed",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_HAY_NAME": "Hay Meadow",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_PASTURE_NAME": "Pasture",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_TALLOW_NAME": "Tallow Bucket",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CHANDLER_NAME": "Chandler",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CHANDLER_MARKET_NAME": "Candle Market Table",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_BUTCHER_NAME": "Butcher",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_BUTCHERMARKET_NAME": "Butcher Market Table",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CREAMERY_NAME": "Creamery",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_CREAMERYMARKET_NAME": "Creamery Market Table",
+
+        "PLANTABLE_LIVESTOCKFARM_HAY_NAME": "Hay",
+        "ZONE_LIVESTOCKFARM_HAY_NAME": "Hay Meadow",
+        "ZONE_LIVESTOCKFARM_CATTLE_NAME": "Cattle",
+        "ZONE_LIVESTOCKFARM_SHEEP_NAME": "Sheep",
+
+        "RESOURCE_PASTURE_CATTLE_NAME": "Cattle Pasture",
+        "RESOURCE_PASTURE_SHEEP_NAME": "Sheep Pasture",
+        "RESOURCE_PASTURE_GOAT_NAME": "Goat Grazing",
+
+        "WALL_LIVESTOCKFARM_RAILFENCE_NAME": "Rail fence",
+
+        "NO_CROP_FIELD": "No field defined",
+        "PAINT_CROP_FIELD": "Paint Field",
+        "RESET_CROP_FIELD": "Reset Field",
+
+        "BUILDING_FUNCTION_LIVESTOCKFARM_MILKCART_NAME": "Milk Cart",
+        "BUILDING_PART_LIVESTOCKFARM_MILKCART_NAME": "Milk Cart",
+
+        "EVENT_LIVESTOCK_START_TITLE": "Livestock",
+        "EVENT_LIVESTOCK_START_DESC": "Livestock farms are now unlocked. You can read full details of how to set up livestock farms at foundation.mod.io\n\nSome animals have two different farm types, an intensive type that requires hay or feed, and another type that works with pastures.\n\nEach animal has a specialty: cows give more milk, pigs give more meat, goats are cheaper to buy, and sheep are more versatile.\n\nMake sure to set up processing pens to milk, shear or slaughter animals once they are produced.",
+        "EVENT_LIVESTOCK_OK": "OK",
+
+        "JOB_LIVESTOCKFARM_TANNER_NAME": "Tanner",
+        "JOB_LIVESTOCKFARM_TANNER_DESC": "Process animal hides into leather.",
+        "BUILDING_LIVESTOCKFARM_TANNER_NAME": "Tannery",
+        "BUILDING_LIVESTOCKFARM_TANNER_DESC": "Process animal hides into leather.",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_TANNER_NAME": "Tannery",
+        "BUILDING_PART_LIVESTOCKFARM_TANNER_NAME": "Tannery",
+
+        "JOB_LIVESTOCKFARM_COBBLER_NAME": "Cobbler",
+        "JOB_LIVESTOCKFARM_COBBLER_DESC": "Make shoes from leather.",
+        "BUILDING_LIVESTOCKFARM_COBBLER_NAME": "Cobbler",
+        "BUILDING_LIVESTOCKFARM_COBBLER_DESC": "Make shoes from leather.",
+        "BUILDING_FUNCTION_LIVESTOCKFARM_COBBLER_NAME": "Cobbler",
+        "BUILDING_PART_LIVESTOCKFARM_COBBLER_NAME": "Cobbler's Workshop",
+
+        "TEXT_SPAWN": "Spawn Livestock",
+        "TEXT_DESPAWN": "Remove Livestock",
+        "BUILDING_PART_LIVESTOCKFARM_SILO1_NAME": "Feed Silo (Wheat and Milk)",
+        "BUILDING_PART_LIVESTOCKFARM_SILO2_NAME": "Feed Silo (Vegetables and Milk)",
+
+        "EVENT_LIVESTOCK_TRADE_NAME": "Livestock Fair",
+        "EVENT_LIVESTOCK_TRADE_DESC": "Livestock fairs are held every three months. Animals of all types are available. If we have enough gold, this would be a good chance to buy some animals to establish our own livestock farms.",
+        "EVENT_LIVESTOCK_TRADE_RESOURCE_GOAT_NAME": "I will buy Goats from Northbury.",
+        "EVENT_LIVESTOCK_TRADE_RESOURCE_SHEEP_NAME": "I will buy Sheep from Myddle.",
+        "EVENT_LIVESTOCK_TRADE_RESOURCE_CATTLE_NAME": "I will buy Cattle from Davenport.",
+        "EVENT_LIVESTOCK_TRADE_RESOURCE_PIG_NAME": "I will buy Pigs from Davenport.",
+        "EVENT_LIVESTOCK_TRADE_IGNORE": "We won't be buying any livestock this time.",
+
+        "QUEST_LIVESTOCK_TRADE_NAME": "Pay for Livestock",
+        "QUEST_LIVESTOCK_TRADE_DESC": "Payment is due on the livestock from the fair. If we fail to pay in time, we will lose a deposit of 50 gold coins.",
+
+        "EVENT_LIVESTOCK_COMPATIBILITY_TITLE": "Mods Incompatible!",
+        "EVENT_LIVESTOCK_COMPATIBILITY_DESC": "The Livestock Farms mod is not compatible with the following mods:\n\n - More Boar\n - Boar+\n - Production Booster\n - Production Overhaul\n\nYou should remove these mods from this game, or remove Livestock Farms, before proceeding.",
+
+
+        "": ""
+
+	}
+}

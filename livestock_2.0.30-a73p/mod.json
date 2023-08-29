@@ -1,0 +1,57 @@
+{
+	"Name": "Livestock Farms",
+	"Author": "Batyushki",
+	"Description": "Cattle, pig, goat, and sheep farms, along with a butcher's shop, chandlery, and creamery.",
+	"Version": "2.0.30",
+
+    "Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		},
+		{
+			"Id": "c8b63172-5b6d-45eb-9fab-a40c8ecd9947",
+			"Name": "Vegetable and Poultry Farms"
+		},
+		{
+			"Id": "fce10768-a88c-45e0-b6a5-834f46c5998d",
+			"Name": "Foundation Extended Building Functions"
+		}
+    ],
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Italian",
+			"Code": "it"
+		},
+		{
+			"Name": "Spanish",
+			"Code": "es-ES"
+		},
+		{
+			"Name": "Portuguese",
+			"Code": "pt-PT"
+		},
+		{
+			"Name": "Polish",
+			"Code": "pl"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		}
+	]
+
+}

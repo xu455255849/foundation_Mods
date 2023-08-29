@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="a25e6dd7-6b60-4f9c-9fbf-287d6d21f68b">
+	<meta id="0e83ee3d-9f6e-4a73-808a-08cbca7bf04a" type="group" folder="true" name="Materials">
+		<meta id="d41ee13e-a690-41d9-9acb-8fbfb7bc45f3" name="Material.Wall"/>
+		<meta id="c7d28e87-31db-46ee-baa8-56729486b191" name="Material.Foundation"/>
+		<meta id="dfcf645a-785f-4071-b6e0-38b5c85f4628" name="Material.Plaster"/>
+		<meta id="fd760251-e195-47c9-bb80-b28358ac5d44" name="Material.Bark"/>
+		<meta id="67739f15-427c-4a69-bb85-4345742c7ff1" name="Material.Black"/>
+		<meta id="2fe8901d-4345-4149-ab3e-1b0c5d4601a0" name="Material.ThatchEdge"/>
+		<meta id="8b84ff8b-36b1-4552-be94-6fbbf9c28efd" name="Material.Basket"/>
+		<meta id="e875bae0-a6a9-48b7-995c-478c4250c66b" name="Material.Cabbage"/>
+		<meta id="5ba8de95-4ed0-4707-b36b-79db4f3aa88a" name="Material.Dung"/>
+		<meta id="52815db9-c921-4d0e-8ba3-b4aa417beb41" name="Material.Water"/>
+		<meta id="d5587aba-9cdb-49cd-8f3c-c43628dc8392" name="Material.Plank"/>
+		<meta id="249651f0-46de-4111-9292-2714101fc38d" name="Material.metal"/>
+		<meta id="a60de7a6-2bf6-4c4c-b8e5-fb0ec4297982" name="Material.Log"/>
+	</meta>
+	<meta id="ae0e2847-d7f3-402a-89f6-e02acc7ca6c6" type="group" folder="true" name="Meshes">
+		<meta id="745236de-6a19-4e9c-8e93-b815df3840ee" name="Base.001_Material.Wall"/>
+		<meta id="bd710798-d2f8-44c5-bfac-b1c848e35288" name="Foundation.001_Material.Foundation"/>
+		<meta id="3f402735-0fd3-4723-8df7-5604e2eaa57f" name="Gable.002_Material.Plaster"/>
+		<meta id="592aa201-81b6-4964-9e30-2350074f38e9" name="Gable.001_Material.Plaster"/>
+		<meta id="6630246e-efb6-4919-a490-5031ace9e2a3" name="Post.033_Material.Bark"/>
+		<meta id="deadd7b4-a9f2-4da1-a752-a294b85d5b92" name="Post.002_Material.Bark"/>
+		<meta id="dd1f364b-8156-4186-9961-6a2b1ee40ad4" name="Post.003_Material.Bark"/>
+		<meta id="146a3f43-3061-4966-b164-9388ca48d593" name="Post.004_Material.Bark"/>
+		<meta id="114073b9-b71f-4810-9e44-103e27db1a4a" name="Post.005_Material.Bark"/>
+		<meta id="6d66a0ae-d732-4247-a3f9-fa91d4571844" name="Post.006_Material.Bark"/>
+		<meta id="94526608-a7e0-48cc-9c12-19b3fc9cd8eb" name="Post.007_Material.Bark"/>
+		<meta id="f1095225-95fe-4ce4-a8f5-dc661a80f54b" name="Post.010_Material.Bark"/>
+		<meta id="be2cf6de-57b3-4e62-bfe0-3898eea67656" name="Post.011_Material.Bark"/>
+		<meta id="d829cd4e-3864-458b-8c81-35a04186286d" name="Post.012_Material.Bark"/>
+		<meta id="664ef225-f0a0-403d-ada0-979d9c034399" name="Post.013_Material.Bark"/>
+		<meta id="dd16c4cf-e56f-447a-9805-8cea24447127" name="Post.014_Material.Bark"/>
+		<meta id="2b30fad5-a424-472c-955d-739bfc0b0732" name="Post.015_Material.Bark"/>
+		<meta id="dff17440-c0cb-4a24-b58d-83bce2e77e35" name="Post.016_Material.Bark"/>
+		<meta id="f93b79ad-01dc-4fa0-8175-bf53921ad0c6" name="Post.019_Material.Bark"/>
+		<meta id="1c7aeb6b-5781-4f7d-b4c9-9fccd9411c45" name="Post.020_Material.Bark"/>
+		<meta id="a4036834-bb0c-4db0-a4b7-6d41ab0180d5" name="Post.021_Material.Bark"/>
+		<meta id="cff440c0-c71b-4616-a017-bd84d9436d0e" name="Post.022_Material.Bark"/>
+		<meta id="0b52374e-db16-403f-aaff-f4a60ceddb4c" name="Post.023_Material.Bark"/>
+		<meta id="2ffad353-f81c-45b3-8753-37a5f13acdae" name="Post.024_Material.Bark"/>
+		<meta id="23e8e191-e75a-45db-92dd-a4eadd843176" name="Post.025_Material.Bark"/>
+		<meta id="33d478e5-c23f-47da-80ff-f2a3e0da2c3f" name="Post.028_Material.Bark"/>
+		<meta id="8b4de4bf-082a-4475-ac1e-14e5adfc5e5c" name="Post.030_Material.Bark"/>
+		<meta id="4223bb42-f884-46c6-8804-ae1bb914b12d" name="Post.031_Material.Bark"/>
+		<meta id="f0fb26be-7fba-4b1d-a8ff-d84dfc57edb1" name="Post.032_Material.Bark"/>
+		<meta id="29bd2e51-8913-41bf-a5fd-eb14c67a6252" name="Window.002_Material.Bark"/>
+		<meta id="c870ec2c-7379-4680-a93d-684362ffa011" name="Window.002_Material.Black"/>
+		<meta id="f940e880-3b75-4023-a2bb-e1ac5b6d8da3" name="DoorRoof.002_Material.Bark"/>
+		<meta id="b6466ff4-cef2-4ce2-a119-4325a756ae08" name="Post.017_Material.Bark"/>
+		<meta id="c4f7954e-3a97-4b8b-ab19-bbf92042c47b" name="Post.018_Material.Bark"/>
+		<meta id="a84f50fc-b501-437e-8758-eee536116c4d" name="Window.001_Material.Bark"/>
+		<meta id="65c5669f-b7af-4356-9c63-df962c53cdf8" name="Window.001_Material.Black"/>
+		<meta id="cd072849-4071-4407-af5b-b93913a2e106" name="DoorRoof.003_Material.Bark"/>
+		<meta id="739e5a63-72a4-41bf-beb3-12535d44536a" name="Window.003_Material.Bark"/>
+		<meta id="72f9611d-fd82-4041-8a67-0e60fe1a6dbe" name="Window.003_Material.Black"/>
+		<meta id="855fc2f2-5768-401f-9ed1-ba160dc543b1" name="DoorRoof.005_Material.Bark"/>
+		<meta id="8d81099f-c287-45d2-87bd-1f06d13f7fcf" name="Roof.002_Material.ThatchEdge"/>
+		<meta id="7325f1bf-05a7-46fb-a713-ec020707080a" name="Roof.001_Material.ThatchEdge"/>
+		<meta id="1240eda0-ba7b-4637-91c4-19cfc9d328a2" name="Roof.003_Material.ThatchEdge"/>
+		<meta id="50a6a610-6013-4383-aeb3-05136d838dcb" name="Roof.004_Material.ThatchEdge"/>
+		<meta id="c09506f2-4b61-4417-896e-9978c768bfb2" name="Roof.005_Material.ThatchEdge"/>
+		<meta id="c69e1fc8-16f3-40cc-a02d-f05e13f91e29" name="Roof.006_Material.ThatchEdge"/>
+		<meta id="b56bbcf4-312a-4582-bfa8-6859da2e6207" name="Post.027_Material.Bark"/>
+		<meta id="9eb47e00-5a39-41d4-a7bf-ff24e7fe6065" name="Post.036_Material.Bark"/>
+		<meta id="0ab44324-2a37-447c-975c-10bbd2fd0120" name="Post.037_Material.Bark"/>
+		<meta id="47717db1-cd26-441e-a548-bdc2e8c319f8" name="Post.038_Material.Bark"/>
+		<meta id="6e28a4fa-3ff3-485a-9c29-61f73ed2a49b" name="Window.004_Material.Bark"/>
+		<meta id="4d3d57d9-8093-4376-a39f-2d3f320f8caf" name="Window.004_Material.Black"/>
+		<meta id="3d00a7e2-3fa0-4df2-bbce-116eec321449" name="DoorRoof.001_Material.Bark"/>
+		<meta id="e446d016-024f-46d3-9bb7-74694a38bba3" name="DoorRoof.004_Material.Wall"/>
+		<meta id="3c0faec2-762a-4349-b600-82597da191ae" name="Post.008_Material.Bark"/>
+		<meta id="dcd48f2a-eba6-48a7-8e1b-521c7e005938" name="Post.009_Material.Bark"/>
+		<meta id="d2ca2611-5133-4a01-bf7f-1e92ac47f2d3" name="Roof.007_Material.ThatchEdge"/>
+		<meta id="dd85a572-7d64-4c88-88ea-5f2d1e601329" name="Roof.008_Material.ThatchEdge"/>
+		<meta id="e889f80a-cd19-492a-8584-b1123e3aa9fb" name="Roof.009_Material.ThatchEdge"/>
+		<meta id="25dfc599-6edb-49f3-9370-4daf40daf84a" name="Roof.010_Material.ThatchEdge"/>
+		<meta id="c2b52732-dea3-4a2e-8ddd-f46fc359be4e" name="Basket.001_Material.Basket"/>
+		<meta id="5732a400-ce3a-44d2-9264-e85e90d0b7b8" name="Basket.001_Material.Cabbage"/>
+		<meta id="91be4d61-6139-41fc-b658-fb6c339cdf48" name="Basket.002_Material.Basket"/>
+		<meta id="393d485f-44e9-4449-be8c-f861b49f8994" name="Basket.002_Material.Cabbage"/>
+		<meta id="45957dbd-120a-45ec-9223-6333dddc6acb" name="Basket.004_Material.Basket"/>
+		<meta id="b1f83aea-ac6c-4e87-8b64-5b0b32046408" name="Basket.004_Material.Cabbage"/>
+		<meta id="f949004b-6454-4b2c-9908-bee811bf7fb2" name="Basket.003_Material.Basket"/>
+		<meta id="bddefcce-3960-4514-9141-bfdc99896e0e" name="Basket.003_Material.Dung"/>
+		<meta id="83e17d2c-eaac-4e3a-b7db-a71932c464b4" name="Basket.006_Material.Basket"/>
+		<meta id="ba960930-5212-4880-a161-a64855f9a71d" name="Basket.006_Material.Dung"/>
+		<meta id="7231b286-a3cc-4208-a223-be521273b102" name="Basket.005_Material.Basket"/>
+		<meta id="5942bb79-6a79-4887-8cd0-eaa03015f1b9" name="Basket.005_Material.Dung"/>
+		<meta id="1777ed45-2d91-400a-a685-1bf130605e57" name="Barrel.001_Material.Water"/>
+		<meta id="402ccf6f-2139-4296-8808-8b520043d438" name="Barrel.001_Material.Plank"/>
+		<meta id="8a21d297-a4c7-4d4e-af91-deadb9310add" name="Barrel.001_Material.metal"/>
+		<meta id="24603da2-368e-4f0b-9a6d-415ecfa39973" name="Door.001_Material.Bark"/>
+		<meta id="4887b4e1-8a2a-4471-866e-2b2fde1f5cf2" name="Door.001_Material.Black"/>
+		<meta id="33c5c3f3-faea-4608-bc29-1316cc8e4db4" name="Fence.Part.001_LOD_01_Material.Log"/>
+		<meta id="389421b5-0fef-4ecd-b99c-5e17edc8d3ac" name="Fence.Part.001_LOD_23_Material.Log"/>
+		<meta id="79626ee7-61f5-44a0-8f9f-6d080c83121c" name="Fence.Part.001_LOD_4_Material.Log"/>
+	</meta>
+	<meta id="504bcaf0-6a70-4062-b37c-ae3229d4185a" name="Prefab">
+		<meta id="0bf2dd50-e4fc-41bd-81b8-04b7a03c137b" name="Farm.Part.001">
+			<meta id="1202c967-18e0-4504-a395-8f829dcac84a" name="Base.001"/>
+			<meta id="d463cc25-32aa-4b8e-86f9-b3b8c6c144fd" name="Foundation.001"/>
+			<meta id="67f55317-a919-4b13-8cc2-ddc1b2d2d9c1" name="Gable.002"/>
+			<meta id="6d6850e6-531d-4e2f-9f42-0c11422dc4e5" name="Gable.001"/>
+			<meta id="f706ebf5-8185-42c3-8ed8-0d1a95947068" name="Post.033"/>
+			<meta id="2ecf8be7-9b7d-4117-a847-d1b53399b987" name="Post.002"/>
+			<meta id="53474dcf-8fa0-424e-90a3-8864b278390c" name="Post.003"/>
+			<meta id="0a2a7192-d9bb-4dc2-b545-283357e3e533" name="Post.004"/>
+			<meta id="344d4560-56d0-417d-b998-334347f925b1" name="Post.005"/>
+			<meta id="263fcf92-0354-4497-8da8-268faab39e28" name="Post.006"/>
+			<meta id="305afb4f-2a5e-481e-ab24-4b9c3cd226fb" name="Post.007"/>
+			<meta id="25c5f256-802e-4ff4-a296-f4417c53db38" name="Post.010"/>
+			<meta id="feb3ef5e-72a5-4e79-a536-6a04936154fc" name="Post.011"/>
+			<meta id="6344acf6-2bf8-4d88-ae96-5ada6aa63931" name="Post.012"/>
+			<meta id="7681a3eb-b179-43df-b91c-0c24204b48bf" name="Post.013"/>
+			<meta id="3b9226c0-5d94-41d1-80b2-e962ae44835e" name="Post.014"/>
+			<meta id="01ab7632-432e-4c76-91c7-b0124c4880e4" name="Post.015"/>
+			<meta id="f8ab49b1-3d27-4584-8b3e-0c11b44379c2" name="Post.016"/>
+			<meta id="0bb4f8b0-8715-4d71-931d-0ea0ba2b1c49" name="Post.019"/>
+			<meta id="8fa9abc4-da76-492e-af60-cd79ea38bdcc" name="Post.020"/>
+			<meta id="c8a1df70-ad44-477c-bdd1-00a4bb2922a5" name="Post.021"/>
+			<meta id="cae746ab-9e2e-467a-a77c-f43b9e6c619d" name="Post.022"/>
+			<meta id="e6931828-92fd-4ba2-a7d6-fdbc218de5f9" name="Post.023"/>
+			<meta id="fb8bb058-50b7-4f29-97f0-271b24ed6dbd" name="Post.024"/>
+			<meta id="d85dc9f2-614f-488e-a5b3-1c2365bfe0e1" name="Post.025"/>
+			<meta id="3dc3553d-760b-4bd0-ba6c-e4dd20b7dd6c" name="Post.026"/>
+			<meta id="fd2a94bf-e5d7-498b-826d-db7ccb9f6725" name="Post.028"/>
+			<meta id="757c7bc6-f963-4498-ad59-01a50c15c338" name="Post.029"/>
+			<meta id="bcd54a34-a738-4415-9dbd-044c16b9eb33" name="Post.030"/>
+			<meta id="dee77b60-011e-447f-bb64-08f4bbd59336" name="Post.031"/>
+			<meta id="5290bfd2-be38-4b15-b6a6-10a0b8252265" name="Post.032"/>
+			<meta id="b9e34ee9-2557-4774-bf58-f6cd8c6b13c0" name="Post.001"/>
+			<meta id="7d6f7946-3266-4d52-937e-8c14a109339f" name="Window.002">
+				<meta id="3543f644-420b-400c-bb59-4332afe8a78c" name="Window.002_0"/>
+				<meta id="6fee15e1-f673-4936-91be-ba2b1437e5a5" name="Window.002_1"/>
+			</meta>
+			<meta id="7639032d-efa0-467d-bc38-38034d2277e9" name="DoorRoof.002"/>
+			<meta id="62c6be56-8411-495f-ba58-312f6395e233" name="Post.017"/>
+			<meta id="b9b29fc5-3ead-4569-977d-de50567237d6" name="Post.018"/>
+			<meta id="e911fc30-d363-4187-b6a3-4dfbf5cede65" name="Post.034"/>
+			<meta id="70f0f1c1-e942-45b1-99f3-e935e2e4331d" name="Post.035"/>
+			<meta id="c91dc729-bfcd-40b0-bc97-7cf4f52842d2" name="Window.001">
+				<meta id="64851254-06f1-4e61-a007-b17b9b79f56b" name="Window.001_0"/>
+				<meta id="2680ceb3-70ff-4c96-a1e0-5e8f041eca9b" name="Window.001_1"/>
+			</meta>
+			<meta id="95a3805b-625a-4cba-80a6-013dac7f374c" name="DoorRoof.003"/>
+			<meta id="a0245517-7bdf-40ad-a092-f4470676e418" name="Window.003">
+				<meta id="69f2bafb-ce92-48e0-84ad-f7aec981bae1" name="Window.003_0"/>
+				<meta id="ce567fee-5391-46dd-9418-7ce04e3228a3" name="Window.003_1"/>
+			</meta>
+			<meta id="ba05d443-9cdf-402d-b374-689840ccab6e" name="DoorRoof.005"/>
+			<meta id="20d90ca6-58c1-491a-b43b-6db061c50742" name="Roof.002"/>
+			<meta id="3ca2b313-a085-41f0-831f-15d6c5d9ed92" name="Roof.001"/>
+			<meta id="571a93be-b830-4ed6-ba35-40ae73e8a32e" name="Roof.003"/>
+			<meta id="3eae6dad-4800-4996-9e15-bd870dc7caa6" name="Roof.004"/>
+			<meta id="a0ac47c6-545a-4e51-bb27-b62a4a6d59de" name="Roof.005"/>
+			<meta id="f2160fc8-770c-496d-9376-46b8eb365745" name="Roof.006"/>
+			<meta id="a32f6f92-eed9-4eab-ae05-fb34cae96d7d" name="Attach_Minor.001"/>
+			<meta id="4b8da81a-8bc4-4d1b-864e-de632335ab0d" name="Attach_Minor.002"/>
+			<meta id="43ff6983-8a98-4a5a-867b-07cf8e14798c" name="Attach_Minor.003"/>
+			<meta id="38397f7f-5b45-4510-b496-ab33e4d2d905" name="Post.027"/>
+			<meta id="a2077bc0-6da9-4d65-8a82-e81a293f0f04" name="Post.036"/>
+			<meta id="7950391f-c3d6-4be4-8fc8-45aef41918be" name="Post.037"/>
+			<meta id="dd1f0ccf-d769-4496-a30c-b45c4bfa0257" name="Post.038"/>
+			<meta id="29920194-7560-4807-8cbf-9707cfc005b1" name="Attach_Door.001"/>
+			<meta id="8eab5b79-7f4f-4838-9a2f-513eaa11655f" name="Attach_Door.002"/>
+			<meta id="a76dea10-3bdc-4736-a215-87aae813352d" name="Window.004">
+				<meta id="59498155-efee-4e9e-9e43-922e1662d91e" name="Window.004_0"/>
+				<meta id="b0c658a3-e5cd-4445-b28b-f131c49bbd74" name="Window.004_1"/>
+			</meta>
+			<meta id="e823f982-c800-4ece-be3a-8a0f75c94752" name="DoorRoof.001"/>
+			<meta id="fba8646d-e60b-473a-8e3f-b795d688d377" name="Attach_Door.003"/>
+			<meta id="973010e9-d6b9-43a9-8e3e-b7c751632f8a" name="Attach_Door.004"/>
+		</meta>
+		<meta id="7d791119-1b1a-4057-95ae-a09c7588e7c1" name="Shed.Part.001">
+			<meta id="9a961af6-6149-4efe-8978-142a952a6d00" name="DoorRoof.004"/>
+			<meta id="db2cf05a-a94e-4182-941e-05722ec6a1d3" name="Post.008"/>
+			<meta id="500f36c3-1f98-49d9-901d-189d03a820b8" name="Post.009"/>
+			<meta id="799e1baf-1b0c-449a-9036-c57db723ec5b" name="Attach_Minor.004"/>
+			<meta id="7840d16d-4fc2-48dc-acec-ed6e1f0486ba" name="PATH_B_1"/>
+			<meta id="656c75e4-7324-45c4-badd-b5981cd1798f" name="PATH_C_1"/>
+			<meta id="15afcd59-9e04-45b2-99c1-116aed67eae2" name="PATH_D_1"/>
+			<meta id="6d39d397-b270-4ab9-a958-f567f242a6c0" name="PATH_B_2"/>
+			<meta id="4f974b05-76bf-4d3a-a39b-9369e7a3b561" name="PATH_C_2"/>
+			<meta id="c26541e2-78a2-47d5-beb2-207d4f9d30f0" name="PATH_D_2"/>
+			<meta id="5d41ca37-db3a-4e3d-b6eb-c473d3493076" name="Roof.007"/>
+			<meta id="9d4273be-30ee-4c95-a696-c2f69d5ab6d9" name="Roof.008"/>
+			<meta id="d7212493-7ef0-4bda-8834-fa3bb57f359e" name="Roof.009"/>
+			<meta id="3f0b7f38-15ab-4fb9-b301-d6cc8e3f69b0" name="Roof.010"/>
+			<meta id="54a8b3cf-8e86-4a75-92aa-6a7bab42a456" name="Basket.001">
+				<meta id="0f6138b6-7e05-4aac-82b8-bbbf16dfe1dc" name="Basket.001_0"/>
+				<meta id="69c2c89b-0199-40ff-bf96-30e5a732875e" name="Basket.001_1"/>
+			</meta>
+			<meta id="671cb6cd-45f4-4ccd-aad7-7432cab0c0a3" name="Basket.002">
+				<meta id="6ae395ef-6a8b-4b3c-91f9-e1d10656a373" name="Basket.002_0"/>
+				<meta id="f9f01974-6727-4d6b-a8e1-e6aa12fd51a8" name="Basket.002_1"/>
+			</meta>
+			<meta id="aeca22f7-78b1-4091-9e47-8cc68093c305" name="Basket.004">
+				<meta id="7d4e0a73-69c0-4ace-9879-3ead4e4963c1" name="Basket.004_0"/>
+				<meta id="e7f6a045-83a1-489c-806e-c659d93553fd" name="Basket.004_1"/>
+			</meta>
+			<meta id="a38a8139-7dd7-4e01-b2d5-5ce558b17726" name="Basket.003">
+				<meta id="0c201216-ecc3-46a5-b9a3-39aae79a58b9" name="Basket.003_0"/>
+				<meta id="27e282cb-6e8b-416a-b8e0-42648baf5ff7" name="Basket.003_1"/>
+			</meta>
+			<meta id="b0ca8c86-be1c-4994-acce-f665f7a9b2a9" name="Basket.006">
+				<meta id="5095cc14-cb47-4c0b-9900-02cfda2dd32f" name="Basket.006_0"/>
+				<meta id="0efdcfbb-b865-4a00-850a-444b2963ac96" name="Basket.006_1"/>
+			</meta>
+			<meta id="2536e700-fbbb-471b-8706-d5fb29bd683f" name="Basket.005">
+				<meta id="ac71cb75-6163-4fcf-aa04-c035b2030a93" name="Basket.005_0"/>
+				<meta id="3f566adc-4e34-428c-ab6b-507dbb3bc1c2" name="Basket.005_1"/>
+			</meta>
+			<meta id="fd3385f4-c6a4-42c2-aac6-ce850604a591" name="Barrel.001">
+				<meta id="219b8814-780a-4751-aa15-1d517ac59e80" name="Barrel.001_0"/>
+				<meta id="90f64816-a0b3-479d-b832-39da7aeb66d8" name="Barrel.001_1"/>
+				<meta id="82ac7f91-d0ba-43bb-a223-a4a7360514b6" name="Barrel.001_2"/>
+			</meta>
+		</meta>
+		<meta id="d5142da1-6811-48e4-aa04-a8652a85b0a2" name="Door.Part.001">
+			<meta id="577d1e86-72aa-492b-b0dc-8409213ab2b3" name="Door.001">
+				<meta id="812a039a-6766-4f4e-ba76-efcd1ca36f37" name="Door.001_0"/>
+				<meta id="726a7bb1-191d-4e38-a75d-d8ceed9afd90" name="Door.001_1"/>
+			</meta>
+			<meta id="76efd404-798a-444d-966c-2e8f1129d61a" name="PATH_A_1"/>
+			<meta id="cefc9ddd-ada0-4606-bd22-0ed4cdd70ed9" name="PATH_A_2"/>
+		</meta>
+		<meta id="0498e74f-4de8-487e-97a4-8c056cf92cf8" name="Fence.Part.001"/>
+	</meta>
+	<meta id="c24594bb-9bda-47ad-af78-b197f7ee0871" type="group" folder="true" name="LOD">
+		<meta id="814e309d-5f12-4e41-8902-096ce624478a" name="Fence.Part.001"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="f02025cc882ff7d7f718a62ea01ff710"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Base.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Foundation.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Gable.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Gable.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DoorRoof.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DoorRoof.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DoorRoof.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Door.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Door.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DoorRoof.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Door.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Door.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Farm.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DoorRoof.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Post.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Shed.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Door.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Door.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Fence.Part.001"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fd760251-e195-47c9-bb80-b28358ac5d44"/>
+			<MaterialName value="Material.Bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8b84ff8b-36b1-4552-be94-6fbbf9c28efd"/>
+			<MaterialName value="Material.Basket"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="67739f15-427c-4a69-bb85-4345742c7ff1"/>
+			<MaterialName value="Material.Black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e875bae0-a6a9-48b7-995c-478c4250c66b"/>
+			<MaterialName value="Material.Cabbage"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5ba8de95-4ed0-4707-b36b-79db4f3aa88a"/>
+			<MaterialName value="Material.Dung"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c7d28e87-31db-46ee-baa8-56729486b191"/>
+			<MaterialName value="Material.Foundation"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a60de7a6-2bf6-4c4c-b8e5-fb0ec4297982"/>
+			<MaterialName value="Material.Log"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="249651f0-46de-4111-9292-2714101fc38d"/>
+			<MaterialName value="Material.metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d5587aba-9cdb-49cd-8f3c-c43628dc8392"/>
+			<MaterialName value="Material.Plank"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dfcf645a-785f-4071-b6e0-38b5c85f4628"/>
+			<MaterialName value="Material.Plaster"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2fe8901d-4345-4149-ab3e-1b0c5d4601a0"/>
+			<MaterialName value="Material.ThatchEdge"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d41ee13e-a690-41d9-9acb-8fbfb7bc45f3"/>
+			<MaterialName value="Material.Wall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="52815db9-c921-4d0e-8ba3-b4aa417beb41"/>
+			<MaterialName value="Material.Water"/>
+		</Item>
+	</MaterialList>
+</importer>
+

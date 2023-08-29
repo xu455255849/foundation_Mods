@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="90c9dcd1-7ee4-422b-a869-02a3980f32cb">
+	<meta id="4525b1f0-8b45-44bb-a963-bee64548a703" type="group" folder="true" name="Materials">
+		<meta id="9d2dea2b-4985-4c88-bb82-c44de9a81646" name="Material.Grass2"/>
+		<meta id="713a416a-4176-4464-aa10-a298ff8fb21a" name="Material.Water"/>
+		<meta id="bf167d12-58a3-4ac4-94e7-91f552248acc" name="Material.Rock1"/>
+		<meta id="f95dea3a-cb5f-4cce-ab06-ffd4ad6658b6" name="Material.Tree1"/>
+		<meta id="ed2c4bdb-1874-4f94-8b2a-ea5bb5241b72" name="Material.Tree2"/>
+		<meta id="01511b68-28c8-4987-bd82-05454ce97069" name="Material.Tree3"/>
+		<meta id="c0ee9855-c9a7-423b-8269-76aab72113cd" name="Material.Bush1"/>
+		<meta id="843b27f5-6010-4cc1-b80b-cddaa10b32a3" name="Material.Grass1"/>
+	</meta>
+	<meta id="b9e8e40d-e7c0-49f2-b02c-934e27453a1a" type="group" folder="true" name="Meshes">
+		<meta id="0f1a65e2-4d92-4b25-a34e-79307783bab7" name="Pond.001_Material.Grass2"/>
+		<meta id="18ab8d5c-66e0-445b-bc6b-8cf66979af29" name="Water.001_Material.Water"/>
+		<meta id="4c126a87-3958-4f3f-af04-ecb8c8f7fedf" name="DuckPond.Part.002_COLLIDER"/>
+		<meta id="4f1b7f55-7e12-49bd-b9eb-6fdf1651fb0f" name="DuckPond.Part.002_LOD_0123_Material.Rock1"/>
+		<meta id="7e366b4f-e412-42cb-ba4a-962913a12bd2" name="DuckPond.Part.002_LOD_0123_Material.Tree1"/>
+		<meta id="837ef39a-3135-4a1a-98b8-cfa155907118" name="DuckPond.Part.002_LOD_0123_Material.Tree2"/>
+		<meta id="99338e02-f127-4582-99f7-7853a9b99f50" name="DuckPond.Part.002_LOD_0123_Material.Tree3"/>
+		<meta id="14eea730-6bf1-4f7d-8fac-635d929f5ec7" name="DuckPond.Part.002_LOD_0123_Material.Bush1"/>
+		<meta id="c4fd4f6d-c211-4d9a-8f26-e9c7cbc95fe7" name="DuckPond.Part.002_LOD_0123_Material.Grass1"/>
+	</meta>
+	<meta id="3d87aab8-9afa-4c8b-aff9-4bd9dfcd4aa2" name="Prefab">
+		<meta id="001744fa-9440-42df-af32-a74c66807846" name="DuckPond.Part.002">
+			<meta id="ead05e49-45d6-49ea-adae-02bc60b9f28f" name="Pond.001"/>
+			<meta id="589a584e-fc78-4e37-ba8c-304ca18e94b7" name="Water.001"/>
+			<meta id="bec37c08-2875-43ef-b9d0-1a754e7dba4c" name="PATH_A_1"/>
+			<meta id="7275eca2-c453-4a7b-a805-78f55a3746f1" name="PATH_B_1"/>
+			<meta id="3757286d-d0a6-4dfd-827a-9fe10fa4d2f6" name="PATH_C_1"/>
+			<meta id="c8698820-a903-4128-8f7c-67969999b67b" name="PATH_D_1"/>
+			<meta id="8661602c-2a60-4d78-b3cd-0d621938f12d" name="PATH_E_1"/>
+			<meta id="772609a6-9e18-48f6-a588-6bedbfe70547" name="DuckPond.Part.002_0"/>
+			<meta id="8654d9aa-c188-4266-bdc0-7486058670ab" name="DuckPond.Part.002_1"/>
+			<meta id="0dc1ef59-512c-440d-ad1a-522ec7f70901" name="DuckPond.Part.002_2"/>
+			<meta id="c6c3407d-6df6-420b-a616-b2c0092b7f32" name="DuckPond.Part.002_3"/>
+			<meta id="d26d2ef9-3666-4316-96bc-55d5246f983d" name="DuckPond.Part.002_4"/>
+			<meta id="9a097f98-c922-4133-864b-c848c44cd22c" name="DuckPond.Part.002_5"/>
+		</meta>
+	</meta>
+	<meta id="d9579ee3-ae5f-4d04-91a7-7fcf3aa917f3" type="group" folder="true" name="LOD">
+		<meta id="ca77a822-3025-408e-862d-2028f037e8c4" name="DuckPond.Part.002_0"/>
+		<meta id="29e3505b-a84d-45e2-a29e-3f256e9e5ef0" name="DuckPond.Part.002_1"/>
+		<meta id="29a5f72f-b4d2-4644-84ef-482b38a40a79" name="DuckPond.Part.002_2"/>
+		<meta id="efc5562e-9896-44e5-8c04-af49b2b8cbdf" name="DuckPond.Part.002_3"/>
+		<meta id="ba4c24d0-8ebc-452f-bc3a-087de9dc7f69" name="DuckPond.Part.002_4"/>
+		<meta id="37958c51-1a57-41fa-835b-def02ea44299" name="DuckPond.Part.002_5"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="e8902f51691918d00c0d2045a4def00c"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pond.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_E_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DuckPond.Part.002_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DuckPond.Part.002_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DuckPond.Part.002_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DuckPond.Part.002_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DuckPond.Part.002_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DuckPond.Part.002_5"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DuckPond.Part.002"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c0ee9855-c9a7-423b-8269-76aab72113cd"/>
+			<MaterialName value="Material.Bush1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="843b27f5-6010-4cc1-b80b-cddaa10b32a3"/>
+			<MaterialName value="Material.Grass1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9d2dea2b-4985-4c88-bb82-c44de9a81646"/>
+			<MaterialName value="Material.Grass2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bf167d12-58a3-4ac4-94e7-91f552248acc"/>
+			<MaterialName value="Material.Rock1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f95dea3a-cb5f-4cce-ab06-ffd4ad6658b6"/>
+			<MaterialName value="Material.Tree1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ed2c4bdb-1874-4f94-8b2a-ea5bb5241b72"/>
+			<MaterialName value="Material.Tree2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="01511b68-28c8-4987-bd82-05454ce97069"/>
+			<MaterialName value="Material.Tree3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="713a416a-4176-4464-aa10-a298ff8fb21a"/>
+			<MaterialName value="Material.Water"/>
+		</Item>
+	</MaterialList>
+</importer>
+

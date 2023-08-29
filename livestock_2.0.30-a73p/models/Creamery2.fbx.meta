@@ -1,0 +1,1264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="fe74bcd0-60bd-405a-949f-dd8e09054cde">
+	<meta id="908cac02-61c1-4d90-9587-c0117872b20a" type="group" folder="true" name="Materials">
+		<meta id="038988a8-beb9-47c2-afe5-31e817ca21f7" name="Material.Wood"/>
+		<meta id="500049e0-112b-412e-a9f3-7e752b4c2cb7" name="Material.Stone2"/>
+		<meta id="bade01ac-3480-43bf-8512-6b57c6dccc73" name="Material.Butter"/>
+		<meta id="b058ee23-887d-4b14-b0e2-dbfe7dd6d793" name="Material.Bark"/>
+		<meta id="dbc2accf-bafa-4c57-a2e5-b3c3154fa41d" name="Material.Stone1"/>
+		<meta id="870816c2-fe79-4c96-a20b-e33d95867aab" name="Material.Tile"/>
+		<meta id="d8d58331-6032-4a6d-a098-12e2ce915395" name="Material.Black"/>
+		<meta id="0f7d327f-56d1-4aba-bd42-97f75a2b265a" name="Material.Clay"/>
+		<meta id="79cd5b99-437d-46c6-99a4-90bd31c32ab8" name="Material.Cloth"/>
+		<meta id="4cb10467-a7e2-4ae3-8f15-e9233ef50997" name="Material.Stone3"/>
+	</meta>
+	<meta id="981b2ff9-4089-4cfb-9825-91f40a38c799" type="group" folder="true" name="Meshes">
+		<meta id="68140d23-da74-4e21-8fa2-f92f52715eb4" name="Barrel.001_Material.Wood"/>
+		<meta id="4b5930df-c26b-45df-be69-8cc8d1d0d1d6" name="Barrel.001_Material.Stone2"/>
+		<meta id="96ee1ae9-f1c2-4eab-a0ca-f96b1623ce9b" name="Barrel.001_Material.Butter"/>
+		<meta id="5d5adc1d-d50f-445c-909b-60772cb8e075" name="Walls.001_Material.Stone1"/>
+		<meta id="a9e4f3c2-fd29-4069-82d4-98db356bb5e1" name="Roof.001_Material.Tile"/>
+		<meta id="939ee6a7-2916-4e82-8706-e01bd7d5d672" name="Chimney.001_Material.Stone1"/>
+		<meta id="5bbbdfe9-23f0-4a7b-9527-590ff1d08d6d" name="Chimney.001_Material.Black"/>
+		<meta id="733ef59a-0ae2-449b-9694-74817641f1d8" name="Door.001_Material.Black"/>
+		<meta id="86ecf798-1cad-4005-8da3-dbeac1008c76" name="Barrel.002_Material.Wood"/>
+		<meta id="1035b1e3-ea0d-4469-8c9a-5410c480f512" name="Barrel.002_Material.Stone2"/>
+		<meta id="79aaa1d0-5a93-4601-b97c-016731027c2f" name="Barrel.002_Material.Butter"/>
+		<meta id="44757511-12f0-4076-a5c4-de7f526669d1" name="Barrel.003_Material.Wood"/>
+		<meta id="f8305c84-a442-48e1-849c-dba7434644b3" name="Barrel.003_Material.Stone2"/>
+		<meta id="29ea982d-6670-47c2-bf15-7cbcb77f8ed7" name="Barrel.003_Material.Butter"/>
+		<meta id="dd4780df-9c21-4e6a-aadd-979497dd9a02" name="Barrel.004_Material.Wood"/>
+		<meta id="04c2f20f-9006-46e1-9534-721b3580fe52" name="Barrel.004_Material.Stone2"/>
+		<meta id="b25c3234-8f45-4ca4-91c7-474fb4d9d1ac" name="Barrel.004_Material.Butter"/>
+		<meta id="86efdc8b-510f-4e7b-8acc-2d99d862d480" name="Table.001_Material.Butter"/>
+		<meta id="b49225e1-297f-4bff-924b-5ebf4cd72141" name="Table.001_Material.Bark"/>
+		<meta id="c5f85c34-b083-4894-9c04-9beb7331ab57" name="Table.001_Material.Clay"/>
+		<meta id="faf768ae-0f30-44bb-8f8b-d1cb2cccc08f" name="Table.001_Material.Cloth"/>
+		<meta id="a41187c9-4b24-4fa1-80ec-178685b7710b" name="Barrel.003_Material.Bark"/>
+		<meta id="a66f5f2c-70ba-4673-a37f-721e14974420" name="Barrel.006_Material.Wood"/>
+		<meta id="08e1af32-c822-455b-9176-3b9dfc025e4d" name="Barrel.006_Material.Stone2"/>
+		<meta id="71123266-e926-42cf-832b-7a687d54e3bb" name="Barrel.006_Material.Butter"/>
+		<meta id="15bdd585-7151-4b79-b0bb-8630639edb5b" name="CornerStone.087_Material.Stone3"/>
+		<meta id="849c9e9c-c0c7-4d0f-840d-1db9f80e49da" name="CornerStone.088_Material.Stone3"/>
+		<meta id="027252c0-449d-41be-a273-fb119e44b5ae" name="CornerStone.089_Material.Stone3"/>
+		<meta id="34fac6c7-9473-4085-9d45-3cee6d254aa6" name="CornerStone.093_Material.Stone3"/>
+		<meta id="3bc31f0d-463e-487e-93e4-fdab30762933" name="CornerStone.094_Material.Stone3"/>
+		<meta id="21eeffd7-e76b-421d-ba4c-f9e67431a2e9" name="CornerStone.095_Material.Stone3"/>
+		<meta id="7593ee5d-29d8-4c37-aba6-6af05d587dab" name="CornerStone.006_Material.Stone3"/>
+		<meta id="574fdf75-38de-4017-a769-ea7fc4190ad9" name="CornerStone.007_Material.Stone3"/>
+		<meta id="c6b20e00-f5f2-4c5c-bbd5-f606636fc6fe" name="CornerStone.008_Material.Stone3"/>
+		<meta id="e1920c3c-749e-484f-a89e-9b2c23246f58" name="CornerStone.009_Material.Stone3"/>
+		<meta id="834aa194-8943-47e7-9952-6f5b862cb566" name="CornerStone.010_Material.Stone3"/>
+		<meta id="df766a8d-34b8-41d1-a7ce-255569b12030" name="CornerStone.011_Material.Stone3"/>
+		<meta id="ced31774-ad86-48b8-b7be-ff7c5d3e4f7b" name="CornerStone.012_Material.Stone3"/>
+		<meta id="5ac2d92c-e85e-4a9f-9e61-1b6705eabc7d" name="CornerStone.018_Material.Stone3"/>
+		<meta id="f795bab2-746c-40c2-82e5-33eb4cc8687d" name="CornerStone.019_Material.Stone3"/>
+		<meta id="557c1a20-4355-4d2c-a8bd-bc7debf2859f" name="CornerStone.020_Material.Stone3"/>
+		<meta id="52aab195-3770-4365-a8de-ca24ed0f2aa3" name="CornerStone.021_Material.Stone3"/>
+		<meta id="36d9fe07-dea7-48a7-bbd2-1775b0687ce6" name="CornerStone.022_Material.Stone3"/>
+		<meta id="07bc74a5-d1c5-476d-8f59-c153d83571bd" name="CornerStone.023_Material.Stone3"/>
+		<meta id="8d9ebaae-5e72-43f7-8d0c-dc0c98697d36" name="CornerStone.030_Material.Stone3"/>
+		<meta id="8a435692-d270-4815-8770-24f07a454f79" name="CornerStone.031_Material.Stone3"/>
+		<meta id="362eddff-4b9f-4d6d-8977-4cda4e24a57e" name="CornerStone.032_Material.Stone3"/>
+		<meta id="2f123130-8d72-49e7-b192-d23e3676084b" name="CornerStone.033_Material.Stone3"/>
+		<meta id="92c1c71b-ca91-4680-ad82-fa2ccd067b30" name="CornerStone.034_Material.Stone3"/>
+		<meta id="b9027f75-71f6-4d27-b69a-39831d348304" name="CornerStone.035_Material.Stone3"/>
+		<meta id="69352153-d004-4ebb-b085-f91d97c62d05" name="CornerStone.042_Material.Stone3"/>
+		<meta id="1221b932-bf17-4e63-912e-09c6c5336b2c" name="CornerStone.043_Material.Stone3"/>
+		<meta id="abcf9601-7048-4265-853d-cd511c95b564" name="CornerStone.044_Material.Stone3"/>
+		<meta id="6fdab8e3-d718-4712-9e3b-81e641dd0d5e" name="CornerStone.045_Material.Stone3"/>
+		<meta id="5f85d3ad-b998-498b-8082-10a0baef2de1" name="Door.001_Material.Stone3"/>
+		<meta id="74499edf-94ce-4dcc-8ce0-ce664348eeb7" name="Roof.002_Material.Tile"/>
+		<meta id="27fbed19-8088-41ac-ba90-b66c7e362245" name="Roof.003_Material.Tile"/>
+		<meta id="fbec4509-94c5-4049-b534-9f365853c448" name="Roof.004_Material.Tile"/>
+		<meta id="2a7370b7-a675-4e01-bb2b-681e60640279" name="CornerStone.064_Material.Stone3"/>
+		<meta id="94ea9160-949b-4757-9280-01764a871295" name="CornerStone.065_Material.Stone3"/>
+		<meta id="414cb783-6e40-4094-bccf-701875977a1a" name="CornerStone.066_Material.Stone3"/>
+		<meta id="3193b3f4-a76d-4ddc-a8e6-4c9dd60f7293" name="CornerStone.067_Material.Stone3"/>
+		<meta id="73718e9a-d248-4cc3-9dc5-6c89714b4437" name="CornerStone.068_Material.Stone3"/>
+		<meta id="642effe4-1d33-4185-82f5-7f0380153436" name="CornerStone.069_Material.Stone3"/>
+		<meta id="c555f681-5a6c-4b9f-942e-37cbad6fa286" name="CornerStone.070_Material.Stone3"/>
+		<meta id="1d431a22-33bf-47bf-8e56-c9e34b969634" name="CornerStone.071_Material.Stone3"/>
+		<meta id="2516acb5-8593-4daa-b44c-882ca1705349" name="CornerStone.072_Material.Stone3"/>
+		<meta id="8f98b774-dc95-4847-a1a9-66bcd2941e4f" name="CornerStone.073_Material.Stone3"/>
+		<meta id="1d5b240c-459d-42b2-a810-0ca2165f2048" name="CornerStone.074_Material.Stone3"/>
+		<meta id="e9c77f7b-06d6-424f-8f21-a220b0334a0b" name="CornerStone.075_Material.Stone3"/>
+		<meta id="cac6eea2-7cfa-420a-adb7-d26240f74d82" name="CornerStone.076_Material.Stone3"/>
+		<meta id="e6d4028a-a55a-4885-a93d-fb6251009dbd" name="CornerStone.082_Material.Stone3"/>
+		<meta id="3622dd03-39a6-4ad7-b0b9-7ee8a8919f33" name="CornerStone.086_Material.Stone3"/>
+		<meta id="113883d1-c553-4ef7-b077-9b12deb3aceb" name="CornerStone.090_Material.Stone3"/>
+		<meta id="6b9f7348-65c2-4fd6-88db-f25ffede08b3" name="CornerStone.091_Material.Stone3"/>
+		<meta id="02d36b3f-48c8-4531-9c78-302d512e8b38" name="CornerStone.092_Material.Stone3"/>
+		<meta id="78b42a25-eec0-4e32-8d87-e2f08786cb7b" name="CornerStone.097_Material.Stone3"/>
+		<meta id="b4f209f8-5ec2-4d20-877b-f9c6e05f561f" name="CornerStone.098_Material.Stone3"/>
+		<meta id="f5133185-9088-458c-85b1-97692819a925" name="Window.007_Material.Black"/>
+		<meta id="4ca6aa03-50e2-4ffb-9692-4b1d0e6eab79" name="Window.007_Material.Stone3"/>
+		<meta id="64e81c6f-2ac7-4660-a6d4-64eb08beffcd" name="Window.001_Material.Black"/>
+		<meta id="78ebd8a8-5e86-40e4-bc52-2b8009c9fe0e" name="Window.001_Material.Stone3"/>
+		<meta id="e2aba07a-2a4a-458c-a40c-271305430357" name="Window.002_Material.Black"/>
+		<meta id="ce6ef7b7-419b-409d-b730-a022bc289e5c" name="Window.002_Material.Stone3"/>
+		<meta id="de9e984c-f7cf-425d-b728-b75e9fc7e779" name="Step_0.001_Material.Stone1"/>
+		<meta id="6ec2ade4-a4f9-45ae-b487-e8cfd5d5f085" name="Step_4.001_Material.Stone3"/>
+		<meta id="cb56b203-975f-44bb-a791-89f0fb6853aa" name="Step_1.001_Material.Stone1"/>
+		<meta id="b5ef1515-3dc4-4f1b-8743-a1da2a3650b2" name="Step_1.001_Material.Black"/>
+		<meta id="b65dbf54-956e-4fdd-a9a7-da5489f608bf" name="Step_1.001_Material.Stone3"/>
+		<meta id="c93b32bb-60cd-4df6-8118-a101508a7bb2" name="Step_2.001_Material.Tile"/>
+	</meta>
+	<meta id="0246e264-aa76-4a5e-9d4d-00f78b5b1440" name="Prefab">
+		<meta id="ec1892f0-c18b-4820-b208-de914e13ba5a" name="CreameryPart">
+			<meta id="a903c9e3-f24e-47d7-be03-66d0f2623822" name="Barrel.001">
+				<meta id="fba8e9d0-a0ee-4d26-ab19-b6ae4154ae04" name="Barrel.001_0"/>
+				<meta id="d9fab790-6381-46ae-8aba-504c97cacef8" name="Barrel.001_1"/>
+				<meta id="2c26f195-1ef7-4a3b-8b67-07d6a4dbf2e8" name="Barrel.001_2"/>
+			</meta>
+			<meta id="67517979-c32c-405b-a0c6-01bba24788a3" name="Walls.001"/>
+			<meta id="2935023e-c5ca-4051-abb9-e9a1aefeb7e3" name="Roof.001"/>
+			<meta id="096eea5f-481c-4169-9072-1b3bad7a6d27" name="Chimney.001">
+				<meta id="26b112ba-5aba-4207-bbb5-55e4d746ad5e" name="Chimney.001_0"/>
+				<meta id="49424d49-73b9-4e8d-a91e-f42c78e8e6dc" name="Chimney.001_1"/>
+			</meta>
+			<meta id="1cbe0bde-14af-4e55-b0e8-62c89c3543cc" name="Door.001">
+				<meta id="34a278ec-6981-41b6-952f-21f1c8609405" name="Door.001_0"/>
+				<meta id="f5848f4d-a4b9-48bd-a5a9-c69fc7d3effa" name="Door.001_1"/>
+			</meta>
+			<meta id="3c76e96a-fc6b-4a91-a648-e3cb5cea4056" name="Window.001">
+				<meta id="7608e450-9e30-4063-8266-0f4f541565d9" name="Window.001_0"/>
+				<meta id="62cd549f-9436-48f2-a36f-8d62972ec861" name="Window.001_1"/>
+			</meta>
+			<meta id="14f39c7e-aeec-412d-8344-7b57177bca78" name="Window.002">
+				<meta id="34d0d281-5463-42af-affe-d7ec99a6b3e0" name="Window.002_0"/>
+				<meta id="14b8164a-2a54-4b49-85d2-9532c2b5d97c" name="Window.002_1"/>
+			</meta>
+			<meta id="59fa092a-2cb5-4c45-aec7-403043739845" name="Barrel.002">
+				<meta id="495aff19-ecd7-4fdb-8203-586a8b93dd24" name="Barrel.002_0"/>
+				<meta id="b9391602-feb9-4077-a04c-415882bf4380" name="Barrel.002_1"/>
+				<meta id="f01c7137-0491-49da-a646-f3b67b8e020c" name="Barrel.002_2"/>
+			</meta>
+			<meta id="8efc3dda-7572-4e02-9fc1-6aab5754b4fa" name="Barrel.003">
+				<meta id="b185e585-c267-4e62-b460-a7cf0b69580b" name="Barrel.003_0"/>
+				<meta id="1b346d8a-dff1-422d-b01a-83c40964ca01" name="Barrel.003_1"/>
+				<meta id="f08c552c-a01d-4df6-9899-7d6c85abea7b" name="Barrel.003_2"/>
+				<meta id="07618a4c-1d23-4bf8-bff2-f11a823f175c" name="Barrel.003_3"/>
+			</meta>
+			<meta id="5678974b-0e7e-49bd-bda8-b247eca183ea" name="Barrel.004">
+				<meta id="296c3e57-282a-4fd6-83bf-677c21d10957" name="Barrel.004_0"/>
+				<meta id="eb3a0e1d-82bb-4477-ba76-07b1c2b95c5c" name="Barrel.004_1"/>
+				<meta id="1880840c-603e-4f4c-b3a0-5138bf1c7ad3" name="Barrel.004_2"/>
+			</meta>
+			<meta id="5899d02f-bedc-4801-b0a4-0027518f789c" name="Barrel.005">
+				<meta id="6f7f801a-0799-472e-a1fe-df72a9ac2746" name="Barrel.005_0"/>
+				<meta id="ccd0b3f0-f789-4acb-9ab9-974b0199e9c9" name="Barrel.005_1"/>
+				<meta id="3a500a10-34e9-49fa-902c-9a26ddfca25b" name="Barrel.005_2"/>
+			</meta>
+			<meta id="c3a2474c-d66a-429d-b115-4c44a23ae16d" name="Barrel.006">
+				<meta id="48676cdc-d023-4db8-aade-2ef2efef1510" name="Barrel.006_0"/>
+				<meta id="11164642-abcf-4967-b26e-9c653f69543e" name="Barrel.006_1"/>
+				<meta id="18c63ff3-c1f0-4fcc-8834-55cdd72dd035" name="Barrel.006_2"/>
+			</meta>
+			<meta id="a2fbf339-b4dc-4a55-82c1-bc22d4a3d6bf" name="Barrel.007">
+				<meta id="4f5bb9ce-4fbd-4350-9d8f-53dbabbf9e6a" name="Barrel.007_0"/>
+				<meta id="3821d0ec-3868-4553-bf78-013031f16f8d" name="Barrel.007_1"/>
+				<meta id="9971366b-9f2a-45ab-b13f-91c3280860b6" name="Barrel.007_2"/>
+			</meta>
+			<meta id="c0124235-2a95-4d0f-8422-7bdb3e752721" name="PATH_A_1"/>
+			<meta id="186a3d77-3b05-458a-bfaa-5a8ee8d183c1" name="PATH_A_2"/>
+			<meta id="86b2c2a9-2661-4d1a-855a-cc2c8d69c683" name="SmokeEmitter.001"/>
+			<meta id="7dc45595-4196-4f8f-a82a-e6e213d3991d" name="Attach_Minor.002"/>
+			<meta id="056f2dc4-d0fd-4f58-ae5b-870bbea366c3" name="CornerStone.087"/>
+			<meta id="1d72e13f-6d45-4f82-a042-9a71ab62fb1a" name="CornerStone.088"/>
+			<meta id="c307e109-4295-4d37-9be3-7bb7d6a6c09f" name="CornerStone.089"/>
+			<meta id="9b7de929-3101-4c3c-9fb8-03dc0da43217" name="CornerStone.093"/>
+			<meta id="b0caf87a-dff8-49fd-a182-abe4262ba115" name="CornerStone.094"/>
+			<meta id="09bd07a3-66b6-4a17-9934-eeff397f2093" name="CornerStone.095"/>
+			<meta id="0f656c83-1412-43f8-8b17-3b3af2320605" name="CornerStone.096"/>
+			<meta id="67d75746-5b30-4728-be66-f1409b372aee" name="CornerStone.001"/>
+			<meta id="490dddca-b5fe-4ad4-87ca-3324ae455b28" name="CornerStone.002"/>
+			<meta id="f7aedaf1-11b5-4a02-bc33-53a7803b6bfa" name="CornerStone.003"/>
+			<meta id="fc6cbad3-fda8-4119-a8d5-66ebfb18dcc2" name="CornerStone.004"/>
+			<meta id="f178c4de-a73a-4890-9085-dd9a0d136cc3" name="CornerStone.005"/>
+			<meta id="5548c3bc-971b-4235-bb8c-2081400ae7ed" name="CornerStone.006"/>
+			<meta id="70b396d5-533d-46d8-a8e6-3e3336bd09c0" name="CornerStone.007"/>
+			<meta id="f3d91e3c-ca12-4216-a17c-fa8a3cf9d811" name="CornerStone.008"/>
+			<meta id="f25b457d-7bdd-49f4-a362-206db37c84c5" name="CornerStone.009"/>
+			<meta id="910df9d3-6c68-4b62-8904-4ed930074d1a" name="CornerStone.010"/>
+			<meta id="1833dffe-a849-4dd0-be55-8a001d4dc794" name="CornerStone.011"/>
+			<meta id="6fa3cb9b-6839-4c61-a1ba-d412856abde5" name="CornerStone.012"/>
+			<meta id="acbfc91c-b3b0-41e9-ae10-2c01c27c6e7d" name="CornerStone.013"/>
+			<meta id="e23f94bc-0a6e-4dac-a3d1-4d6e395bff7e" name="CornerStone.014"/>
+			<meta id="52c49385-ed21-4714-95a9-7a5145cc4e1c" name="CornerStone.015"/>
+			<meta id="b056792c-ed6e-474e-8d02-d92d977e541a" name="CornerStone.016"/>
+			<meta id="3e736163-f74a-4c02-9e7f-2f94db28a608" name="CornerStone.017"/>
+			<meta id="4a76671e-8ae3-42df-bd43-f9e5c86c84f9" name="CornerStone.018"/>
+			<meta id="58e20bf0-b1e6-4888-85a6-4d67f5a7bd07" name="CornerStone.019"/>
+			<meta id="ae14a70a-9005-4820-a15e-ba9d7f6bc666" name="CornerStone.020"/>
+			<meta id="7ac7c7ac-cd69-4abc-876b-22c2c0096a14" name="CornerStone.021"/>
+			<meta id="aa065639-c643-4630-9d93-5775beb6a1ce" name="CornerStone.022"/>
+			<meta id="1565d907-913f-44d6-8230-ac140e6d7d6c" name="CornerStone.023"/>
+			<meta id="7351d829-0070-423c-9eb2-e5ef18be535a" name="CornerStone.024"/>
+			<meta id="47559ebe-b15d-488d-9a41-f80d6e9eb034" name="CornerStone.025"/>
+			<meta id="764d4eba-ba1d-4343-b600-def5d3b62923" name="CornerStone.026"/>
+			<meta id="e0fe2c22-6c56-47e6-bf06-30add81c8ac6" name="CornerStone.027"/>
+			<meta id="2f26f8c3-dac6-49b5-9ee1-5c330e15e840" name="CornerStone.028"/>
+			<meta id="a88d69b0-38c1-4e65-a339-9c3abc58b302" name="CornerStone.029"/>
+			<meta id="754bc386-e682-4481-8fe9-8f9f4a468a0d" name="CornerStone.030"/>
+			<meta id="fea6f5af-bd9d-4176-a0ef-f09a08c2b4fa" name="CornerStone.031"/>
+			<meta id="e121e819-2f47-4dfa-bc2d-82e2064910f2" name="CornerStone.032"/>
+			<meta id="5c15379b-eaaf-4027-95c0-55700810c5c1" name="CornerStone.033"/>
+			<meta id="ac07b0c4-3c4e-41e8-bc44-bc189d707dc3" name="CornerStone.034"/>
+			<meta id="38ae8df4-ead1-4178-8ae3-0f3383cd8660" name="CornerStone.035"/>
+			<meta id="4d826af5-aaea-4e3c-9713-a9bec72d283a" name="CornerStone.036"/>
+			<meta id="ad77e07e-3024-4cec-b983-8a380f0ae950" name="CornerStone.037"/>
+			<meta id="8c310020-4aef-4bb6-b686-23dcda7c8863" name="CornerStone.038"/>
+			<meta id="4bdface5-ac8e-4590-96f8-073abafe67c2" name="CornerStone.039"/>
+			<meta id="5e14aa87-61a6-4c17-ba47-b4a875770aaa" name="CornerStone.040"/>
+			<meta id="8aee652e-9f83-44c5-8b24-7f9d6e8d3eed" name="CornerStone.041"/>
+			<meta id="7b388d66-9b4e-4537-bae4-894d048afa4f" name="CornerStone.042"/>
+			<meta id="1a868c1f-bc26-4be6-82e0-2772313e2c1e" name="CornerStone.043"/>
+			<meta id="caf7789a-7ded-48c1-be76-a0325e30c628" name="CornerStone.044"/>
+			<meta id="6946bf12-81d7-48ba-b437-07f66c1a55ef" name="CornerStone.045"/>
+			<meta id="a67c386d-4e8b-4000-a4eb-58668e5977a3" name="Roof.002"/>
+			<meta id="f20f67fa-bcea-4343-9b8e-97f2fcadb573" name="Roof.003"/>
+			<meta id="42dd5c6a-6864-4046-9359-9db2a3c90687" name="Roof.004"/>
+			<meta id="dcb8f7ac-f4f0-495c-baf4-a9b4c99adc33" name="CornerStone.046"/>
+			<meta id="c596e685-27e6-42cc-a62c-7f73cb5cbf6c" name="CornerStone.047"/>
+			<meta id="d1a6ea2e-3ced-4bb5-ae15-e95f55749265" name="CornerStone.048"/>
+			<meta id="860d0f1a-d9a9-4566-bbb0-065e41976d9e" name="CornerStone.049"/>
+			<meta id="cf80eada-2146-4d08-9c5e-0121c85de6ec" name="CornerStone.050"/>
+			<meta id="b402b922-e4f5-4c14-8f67-b6919324a0ac" name="CornerStone.051"/>
+			<meta id="4cb565c0-d985-42b8-b98c-82b9c608812f" name="CornerStone.052"/>
+			<meta id="7eace6ea-073f-4632-a54d-04f85fb5385f" name="CornerStone.053"/>
+			<meta id="e0f23680-f673-474b-b8ca-bfc032ab4ecc" name="CornerStone.054"/>
+			<meta id="b8483c5e-6a43-466b-b17f-59c31a599567" name="CornerStone.055"/>
+			<meta id="5986a8e1-f75d-4587-8bcf-0f4d09cd5e4e" name="CornerStone.056"/>
+			<meta id="9ae7065d-9ebd-46d7-9064-0d6f2d457989" name="CornerStone.057"/>
+			<meta id="840ad046-c2fa-4521-b1c2-0b5bd2fde617" name="CornerStone.058"/>
+			<meta id="d911d8fb-ee4e-4956-a98e-047cf2f3508d" name="CornerStone.059"/>
+			<meta id="0ca277b4-e09c-4a81-a791-3acbab3d8b3a" name="CornerStone.060"/>
+			<meta id="6ff744f1-57af-4e08-94f6-fbafef0ae52f" name="CornerStone.061"/>
+			<meta id="df4bf416-45f9-42c5-af74-5f1b81879f75" name="CornerStone.062"/>
+			<meta id="e460c40a-d277-4df2-9d74-a870d3d085d6" name="CornerStone.063"/>
+			<meta id="0298bbe4-cd60-4b56-a456-f6cc5b7eeea1" name="CornerStone.064"/>
+			<meta id="d8a11b32-060e-4592-9582-fb0a15c9fedb" name="CornerStone.065"/>
+			<meta id="ed213147-068d-4912-bd92-0f3e3099f40f" name="CornerStone.066"/>
+			<meta id="3ba664d6-ea26-4883-b24e-b5d11fe12225" name="CornerStone.067"/>
+			<meta id="32752e8f-3565-4ca5-8563-2767a408915a" name="CornerStone.068"/>
+			<meta id="14cdb6ee-7514-4947-aa4e-922b7862fffe" name="CornerStone.069"/>
+			<meta id="e86aab40-4ea7-4603-a382-b423b385ecb7" name="CornerStone.070"/>
+			<meta id="bac08323-5161-4a48-a86b-bea2a69ef238" name="CornerStone.071"/>
+			<meta id="8fe7fac1-004d-4c2b-8af4-095b38c3fa8c" name="CornerStone.072"/>
+			<meta id="002966a4-175d-47a6-8b1e-09a313f4a628" name="CornerStone.073"/>
+			<meta id="4310d47c-0f64-4cda-93ee-51a3cbf9790c" name="CornerStone.074"/>
+			<meta id="0b5208dc-7914-4002-b8e3-56366ab6bbc5" name="CornerStone.075"/>
+			<meta id="4d6087e6-0699-465c-a2ee-717a75d94462" name="CornerStone.076"/>
+			<meta id="1705e945-6978-475b-b74a-63908a59eba9" name="CornerStone.077"/>
+			<meta id="13287aa1-7ddd-4b6b-a748-acd3071b5f92" name="CornerStone.078"/>
+			<meta id="991454bf-c58c-4d8a-afee-6401de0b0fa2" name="CornerStone.079"/>
+			<meta id="6d2a4ada-7206-4246-8f5f-2fdb0c692a8b" name="CornerStone.080"/>
+			<meta id="2eb336b4-4f52-4c04-b225-6c34244f110b" name="CornerStone.081"/>
+			<meta id="2215ce5a-6455-4226-877b-311691f82696" name="CornerStone.082"/>
+			<meta id="266fe711-27ab-4e43-800d-521e9fd99b5c" name="CornerStone.083"/>
+			<meta id="8d4c79a7-28a4-4606-befa-a5539c38aa80" name="CornerStone.084"/>
+			<meta id="b587c407-c4f5-4a48-b725-2f709bf53f40" name="CornerStone.085"/>
+			<meta id="9a879d06-cdac-4ced-bb29-2578487d5156" name="CornerStone.086"/>
+			<meta id="c6d6d5d5-8954-48be-8f96-68e9b5743ce3" name="CornerStone.090"/>
+			<meta id="fed76d73-c9d9-4432-b5f6-6014176dadbd" name="CornerStone.091"/>
+			<meta id="10b0d1e0-7f0d-4343-aca1-ddbc40c1823a" name="CornerStone.092"/>
+			<meta id="f10ca388-3824-43b4-b24b-e906be5817f4" name="CornerStone.097"/>
+			<meta id="a858d12c-0b3c-4447-85f8-831cd09cc091" name="CornerStone.098"/>
+			<meta id="aec71a57-3746-46d9-9387-778f4c18d752" name="Window.007">
+				<meta id="e4394bc8-5235-4e4f-a720-ceac1e3f6aa5" name="Window.007_0"/>
+				<meta id="eb1f7329-a98a-48ae-af1c-ad7ed52423af" name="Window.007_1"/>
+			</meta>
+		</meta>
+		<meta id="9cf14bd5-fb59-4cd3-86cc-20c5ca937c1a" name="ConstructionSteps">
+			<meta id="b2a3ae6e-9dd7-483a-aeac-2ed7e4f430df" name="Step_0.001"/>
+			<meta id="5783ae79-280d-47f4-9648-99b04c51413b" name="Step_3.001">
+				<meta id="d1c9d2bb-ed9a-4a29-bfeb-8c5022b8c79b" name="Step_3.001_0"/>
+				<meta id="48a0781b-1352-422e-8ab9-a899c780eac0" name="Step_3.001_1"/>
+			</meta>
+			<meta id="f7b63e56-7058-45d1-84ec-6e2741cd372d" name="Step_5.001">
+				<meta id="d956c3db-f919-476c-9321-bcac02b4f729" name="Step_5.001_0"/>
+				<meta id="e9adb802-531b-4d36-ae0d-55201648d9cb" name="Step_5.001_1"/>
+			</meta>
+			<meta id="36f77e0a-3278-4ae1-94d0-8884e43ed382" name="Step_4.001"/>
+			<meta id="69641ef9-2b0e-416c-8212-d0f4fc40b76b" name="Step_1.001">
+				<meta id="eda5b166-c106-4ed1-b829-f760543d85b4" name="Step_1.001_0"/>
+				<meta id="43948c5e-4751-45d6-8db0-6c4a085ded50" name="Step_1.001_1"/>
+				<meta id="e46bb018-2e7f-43ce-885c-12c0df7ad9ee" name="Step_1.001_2"/>
+			</meta>
+			<meta id="a2fd3e3e-dd08-451d-9c76-c9f9bf2f9dcc" name="Step_2.001"/>
+		</meta>
+		<meta id="cfc132e5-2862-4c93-8b89-d65430fd01e0" name="TablePart">
+			<meta id="7c9d6f65-c09e-4c84-b139-c562653abad5" name="Table.001">
+				<meta id="149e48a8-cff2-43eb-97c4-1e628a5143bb" name="Table.001_0"/>
+				<meta id="b0e36f25-7573-402c-b466-923566964930" name="Table.001_1"/>
+				<meta id="2b009806-8820-4e8d-aaf3-a5897e771e25" name="Table.001_2"/>
+				<meta id="41cb4224-c22b-4543-95f3-f745ae139e16" name="Table.001_3"/>
+			</meta>
+			<meta id="16874de3-f35e-4f1e-877b-091e5b954121" name="Attach_Minor.001"/>
+			<meta id="13bba619-76e1-4bab-9ec3-5f7255762bc3" name="PATH_C_1"/>
+			<meta id="18afbc9f-05c1-41d1-9a77-7a80ccca277d" name="PATH_B_1"/>
+			<meta id="77e8446b-ac4b-497c-8e3e-8fb779268b0d" name="PATH_D_1"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="71adbbafe446aefe28d60eee66cf0514"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Walls.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chimney.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Chimney.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Chimney.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Door.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.003_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.003_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.004_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.004_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.005_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.005_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.006_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.006_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.007_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.007_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="SmokeEmitter.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.087"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.088"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.089"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.093"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.094"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.095"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.096"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.039"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.040"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.041"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.042"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.043"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.044"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.045"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.046"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.047"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.048"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.049"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.050"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.051"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.052"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.053"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.054"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.055"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.056"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.057"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.058"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.059"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.060"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.061"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.062"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.063"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.064"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.065"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.066"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.067"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.068"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.069"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.070"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.071"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.072"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.073"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.074"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.075"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.076"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.077"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.078"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.079"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.080"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.081"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.082"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.083"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.084"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.085"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.086"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.090"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.091"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.092"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.097"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="CornerStone.098"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.007_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CreameryPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_0.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_3.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_3.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_3.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_5.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_5.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_5.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_4.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_1.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_1.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_1.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_2.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Table.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Table.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Table.001_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Table.001_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Table.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="TablePart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b058ee23-887d-4b14-b0e2-dbfe7dd6d793"/>
+			<MaterialName value="Material.Bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d8d58331-6032-4a6d-a098-12e2ce915395"/>
+			<MaterialName value="Material.Black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bade01ac-3480-43bf-8512-6b57c6dccc73"/>
+			<MaterialName value="Material.Butter"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0f7d327f-56d1-4aba-bd42-97f75a2b265a"/>
+			<MaterialName value="Material.Clay"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="79cd5b99-437d-46c6-99a4-90bd31c32ab8"/>
+			<MaterialName value="Material.Cloth"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dbc2accf-bafa-4c57-a2e5-b3c3154fa41d"/>
+			<MaterialName value="Material.Stone1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="500049e0-112b-412e-a9f3-7e752b4c2cb7"/>
+			<MaterialName value="Material.Stone2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4cb10467-a7e2-4ae3-8f15-e9233ef50997"/>
+			<MaterialName value="Material.Stone3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="870816c2-fe79-4c96-a20b-e33d95867aab"/>
+			<MaterialName value="Material.Tile"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="038988a8-beb9-47c2-afe5-31e817ca21f7"/>
+			<MaterialName value="Material.Wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="6447de75-3112-4b0b-95f2-aa350b19b852">
+	<meta id="7d1e83ec-7629-4367-b076-ca381202460a" type="group" folder="true" name="Materials">
+		<meta id="fa7d8198-d9bf-4e43-aadc-c76d497dd36d" name="Material.Milk"/>
+		<meta id="ef1910da-20bf-4096-977b-4c8b98fffbcd" name="Material.Pot"/>
+		<meta id="f6dc08e8-57b3-4750-b74c-42c10b4f207e" name="Material.Plank"/>
+	</meta>
+	<meta id="84c50603-72da-40ca-837c-57f29c2185e3" type="group" folder="true" name="Meshes">
+		<meta id="3fbfd4eb-bceb-4a15-b26c-2e1c8d947789" name="Jug.003_Material.Milk"/>
+		<meta id="cb9069de-97d4-4ddb-b6dd-ba02dfeb6ab7" name="Jug.003_Material.Pot"/>
+		<meta id="de2ad2b4-591c-4c78-92a9-ff0ebe57acc6" name="Axle.007_Material.Plank"/>
+		<meta id="254cebbc-a212-42f4-a3dc-112fb1b10e5d" name="Cart.007_Material.Plank"/>
+		<meta id="57d0dd78-5e4d-4778-bd34-9333dbac319f" name="Frame.073_Material.Plank"/>
+		<meta id="7e411c38-6843-41e0-808e-db9bded36e45" name="Frame.074_Material.Plank"/>
+		<meta id="f99f04e0-a343-419f-80c6-6864359f228b" name="Frame.075_Material.Plank"/>
+		<meta id="f4ea1477-9244-4ca5-8869-8fddbdf0f099" name="Frame.076_Material.Plank"/>
+		<meta id="d55f312c-3c4f-47e6-b79b-22e16fc74124" name="Frame.077_Material.Plank"/>
+		<meta id="01b37421-e507-4aad-b4bc-aed76a0d5829" name="Frame.078_Material.Plank"/>
+		<meta id="3f5a96e1-181b-4985-aa8e-9cc645dad8fe" name="Frame.079_Material.Plank"/>
+		<meta id="87467f65-98df-4529-9b56-e34ba87fa7bb" name="Frame.080_Material.Plank"/>
+		<meta id="0d8eb056-dbd5-447c-b2e4-3e22a50222ba" name="Frame.081_Material.Plank"/>
+		<meta id="4e39ad45-e2fb-4930-befb-439fcfe84823" name="Frame.082_Material.Plank"/>
+		<meta id="8a37a7ec-5133-44d8-8f89-52e2831ec7a4" name="Frame.083_Material.Plank"/>
+		<meta id="ec38007e-0f07-4a5a-bb68-5e2c1b8bb670" name="Handle.013_Material.Plank"/>
+		<meta id="7409c190-d346-4e44-9d4a-e3a349978cf8" name="Handle.014_Material.Plank"/>
+		<meta id="e751ad4f-fad7-4ce4-abef-9e8cf0a8c075" name="Stand.013_Material.Plank"/>
+		<meta id="1b376ec9-73bf-4be4-9f19-42cbfcba551d" name="Wheel.013_Material.Plank"/>
+		<meta id="9041d892-9530-4877-a991-7ced152518c8" name="Wheel.014_Material.Plank"/>
+	</meta>
+	<meta id="7c5e5046-58dd-4ee7-a2f5-2c8363c92a59" name="Prefab">
+		<meta id="56be2506-64cc-45d4-9b4e-00db53c7003e" name="CartPart">
+			<meta id="fb3b8ecd-4aff-4471-bd7c-95336f8c1c13" name="PATH_A_1"/>
+			<meta id="4550a3af-2bad-4e49-9646-be72e8fed93a" name="Jug.003">
+				<meta id="7bc4dc9d-539b-4ac3-940e-3367cbfea82b" name="Jug.003_0"/>
+				<meta id="2ae3b955-82ab-41be-9831-f09fa8f691f8" name="Jug.003_1"/>
+			</meta>
+			<meta id="952fded3-4596-4d1e-8207-bd8b159b56c0" name="PATH_B_1"/>
+			<meta id="a4543368-8541-4bbf-9602-e54e26c3c2dd" name="PATH_C_1"/>
+			<meta id="c25d9b43-38d6-45fc-a61f-227ce12a9051" name="PATH_D_1"/>
+			<meta id="dc779a39-3c03-46fd-a383-24edc3b7fb6e" name="Axle.007"/>
+			<meta id="6ddfef07-b216-4374-b279-a76187d39479" name="Cart.007"/>
+			<meta id="4d756ef0-d1dd-4663-9257-9c05d3bf6b73" name="Frame.073"/>
+			<meta id="44ea8b40-d218-4beb-9a58-2b0921805500" name="Frame.074"/>
+			<meta id="73752077-96b2-4137-9d64-d7d791a1501a" name="Frame.075"/>
+			<meta id="890fae73-48d3-4ef9-90e9-1db6f015f51e" name="Frame.076"/>
+			<meta id="86125ef3-56ab-46a8-a92e-df76a37d1fa6" name="Frame.077"/>
+			<meta id="01840d2e-677a-49d4-9329-1e338d983c08" name="Frame.078"/>
+			<meta id="296afce2-4f44-46e8-a74f-632c9d3a0c81" name="Frame.079"/>
+			<meta id="e2864a18-8acc-4d06-8476-974fe4c06c1f" name="Frame.080"/>
+			<meta id="0ef38b20-e540-4184-8add-db16f2c07e71" name="Frame.081"/>
+			<meta id="2addca3b-7347-4f4e-9a94-de5b51f8c2c3" name="Frame.082"/>
+			<meta id="781aeffc-7d7a-4712-b7f1-b3fa895c0154" name="Frame.083"/>
+			<meta id="dc0d8b22-551d-4913-bf35-3fdc795ce78f" name="Frame.084"/>
+			<meta id="7a05afe7-5e5c-4fc5-8e47-59cbb71a1efe" name="Handle.013"/>
+			<meta id="cf5f6597-17b9-4d27-97e1-4dfea811a777" name="Handle.014"/>
+			<meta id="152a4291-4f43-466c-a3ae-986178745106" name="Stand.013"/>
+			<meta id="96748e59-da56-435f-93e4-cdbc2766f4cd" name="Stand.014"/>
+			<meta id="dfa2795d-37a4-413b-99c8-0d5dd268897c" name="Wheel.013"/>
+			<meta id="af50733b-b7d5-4b6a-8a02-88e9211cac85" name="Wheel.014"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="f8e68bef4871d522c0e54df483d06df2"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Jug.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Jug.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Jug.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Axle.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cart.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.073"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.074"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.075"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.076"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.077"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.078"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.079"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.080"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.081"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.082"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.083"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.084"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Handle.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Handle.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stand.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stand.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.014"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CartPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fa7d8198-d9bf-4e43-aadc-c76d497dd36d"/>
+			<MaterialName value="Material.Milk"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f6dc08e8-57b3-4750-b74c-42c10b4f207e"/>
+			<MaterialName value="Material.Plank"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ef1910da-20bf-4096-977b-4c8b98fffbcd"/>
+			<MaterialName value="Material.Pot"/>
+		</Item>
+	</MaterialList>
+</importer>
+

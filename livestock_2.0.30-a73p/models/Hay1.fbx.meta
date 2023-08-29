@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="b5c87abb-9d74-4d34-9fa7-35f9f33f4e7c">
+	<meta id="9d28ea79-3ce2-489d-8043-724aaff090d4" type="group" folder="true" name="Materials">
+		<meta id="145504a5-4817-4882-872b-11ccc6ea5783" name="Material.Hay1"/>
+		<meta id="401e4c21-db5c-40d6-b9f7-9395b85f21e8" name="Material.Hay2"/>
+		<meta id="f448851e-e810-4ac6-bc9d-421ce6f0afd2" name="Material.Grass"/>
+		<meta id="6b5875b8-34c7-4703-9676-4ac34ec5d5eb" name="Material.Grass.Short"/>
+		<meta id="dfcb83f0-0165-4633-88fe-c1b9378b2140" name="Material.Hair1"/>
+		<meta id="d94fcfab-88aa-4afd-80e6-6d4eb60f7b03" name="Material.Hat1"/>
+		<meta id="517fac88-626b-4a8c-8d1c-913aa7626e51" name="Material.Wood1"/>
+	</meta>
+	<meta id="7db40b70-8079-4ec9-a565-48c5412618fc" type="group" folder="true" name="Meshes">
+		<meta id="7de7737c-6e21-461e-be94-df8b465a03f1" name="Hay.001_Material.Hay1"/>
+		<meta id="211d8a76-ef38-4066-8c9f-7a59fbbbf688" name="Hay.001_Material.Hay2"/>
+		<meta id="01dbf5fa-42e2-4a9e-bb0f-9ffa22fb430a" name="Hay_Material.Grass"/>
+		<meta id="064c4e5a-cb7f-4c62-a5b2-7904f8504bc8" name="HayShort_Material.Grass.Short"/>
+		<meta id="c3749c36-02dd-425f-b57f-2124c5efb811" name="Hair.003_Material.Hair1"/>
+		<meta id="b9720471-d4dc-4f68-ad84-dab71207a703" name="Hat.003_Material.Hat1"/>
+		<meta id="9ba90e92-b19e-4fa4-8866-7260ead76c9b" name="Hay.001_Material.Wood1"/>
+		<meta id="3e875f40-0b8a-4c01-80df-c5ae4db0f8e2" name="Log.001_Material.Wood1"/>
+		<meta id="e28cf21c-8069-4272-b3f8-ef3e6ca47096" name="Log.002_Material.Wood1"/>
+		<meta id="6b171043-4484-42eb-97d1-07fbb94f08e9" name="Log.003_Material.Wood1"/>
+		<meta id="a36597fd-d536-4cd0-a3a2-4bf308d72a70" name="Log.004_Material.Wood1"/>
+		<meta id="cb30ecc5-a287-4c37-a589-808e08cc8afc" name="Log.006_Material.Wood1"/>
+		<meta id="6015df71-ed50-494c-bd89-b97978891e55" name="Hay.002_Material.Hay1"/>
+		<meta id="3c238eb7-ed8e-4892-876c-ae87860e8a3e" name="Hay.002_Material.Hay2"/>
+		<meta id="25ef0264-97ac-436c-ba30-7ee07946d861" name="Hay.002_Material.Wood1"/>
+		<meta id="db4c27ba-d2f7-47b5-8339-41fac1e7ef17" name="Log.007_Material.Wood1"/>
+		<meta id="e3d13293-7923-4af1-9683-3afb3b5bf85f" name="Hay.003_Material.Hay1"/>
+		<meta id="6b688d13-142d-47c2-bdb7-83e1380d078b" name="Hay.003_Material.Hay2"/>
+		<meta id="fedecd8a-1a3e-41f4-9a45-763de83c34b7" name="Log.009_Material.Wood1"/>
+	</meta>
+	<meta id="595076bc-8393-416d-858d-e4d1fd3246ae" name="Prefab">
+		<meta id="d8e1e7eb-f2db-45d4-9ea8-8716b0a4626d" name="Hay"/>
+		<meta id="95a62f59-8b31-4638-941c-c9cfd1b93e25" name="HayShort"/>
+		<meta id="4a4cc9b8-8778-405c-8069-2ca4a8c2180d" name="Hat.Part">
+			<meta id="ae7a29ee-da97-43a0-baa3-946367111087" name="Hair.003"/>
+			<meta id="d6a44e74-e803-4a2c-8a83-f565a71f3809" name="Hat.003"/>
+		</meta>
+		<meta id="42c52878-47e1-4b17-98ba-3b76f2e9c536" name="HayStack.Part.001">
+			<meta id="0316a4f9-700c-49cb-950c-1b333170d676" name="Hay.001">
+				<meta id="ebb8de7e-9032-4d90-8fc3-73fdb6649f77" name="Hay.001_0"/>
+				<meta id="b67c31f8-c00f-4a31-8c05-5077a304386c" name="Hay.001_1"/>
+				<meta id="01e6f2ca-0003-436e-9a8d-29b73c2fa93e" name="Hay.001_2"/>
+			</meta>
+			<meta id="97e552a4-903e-46b8-9ff8-ff818f706690" name="PATH_A_1"/>
+			<meta id="0feb578c-33a6-433b-8b08-afa0be6d6e87" name="PATH_D_1"/>
+			<meta id="6a0112bf-70fb-4de0-b2fd-3c6ff5f07b86" name="PATH_E_1"/>
+			<meta id="73642079-af3c-4b9c-8c2a-48a0900ac37c" name="Log.001"/>
+			<meta id="88c73e07-18f9-45d5-b737-224699605063" name="Log.002"/>
+			<meta id="eb52ca18-c98f-4edf-97aa-caee8812ee43" name="Log.003"/>
+		</meta>
+		<meta id="bddf0210-5d47-4560-97df-2ad04bd29b04" name="HayStack.Part.002">
+			<meta id="2a2d4ee2-b2fe-45dc-882c-cae1b3719a8d" name="PATH_F_1"/>
+			<meta id="bf80c90f-6fcb-4f19-81c2-bfeb3b262faa" name="PATH_J_1"/>
+			<meta id="8e1e3141-b644-4461-b73f-2f7b37f1d208" name="Log.004"/>
+			<meta id="f8afdd07-ec07-4a45-a016-f0cca8589fef" name="Log.005"/>
+			<meta id="7af2fb04-9eb8-4610-a4e9-fbc85bfefe24" name="Log.006"/>
+			<meta id="cce78244-561d-41b8-afe4-5f2cb793334b" name="Hay.002">
+				<meta id="5f393691-7237-4f9e-952e-2756c7278dd5" name="Hay.002_0"/>
+				<meta id="74272ce7-1cb6-42bb-a5c3-0cfcea9f746c" name="Hay.002_1"/>
+				<meta id="65f9022b-e847-4f49-81da-57f656a98e89" name="Hay.002_2"/>
+			</meta>
+			<meta id="5545bcd5-aef5-4dfa-8a89-1a255ba29fc5" name="Log.007"/>
+		</meta>
+		<meta id="47a63b4b-402f-4f16-9f8e-b9ac7000ddf0" name="HayStack.Part.003">
+			<meta id="0c440a6d-afd9-4538-80cc-bf0c44851265" name="PATH_K_1"/>
+			<meta id="a02e1f5c-d76e-4852-8695-c0354d1b63c4" name="PATH_N_1"/>
+			<meta id="4ecc3338-6f07-4d09-8124-21c3db5f7664" name="PATH_O_1"/>
+			<meta id="0c33b09a-a616-4518-93cb-6bb4663e60e0" name="Log.008"/>
+			<meta id="4a5096b1-b6c3-4a6c-97bb-d517535239b3" name="Log.009"/>
+			<meta id="f08aa9a9-99cb-4648-9d38-e0802570be6b" name="Hay.003">
+				<meta id="93b8d22c-803b-4b4c-9fae-b5b6511be38a" name="Hay.003_0"/>
+				<meta id="1e641948-fc83-45b0-b2f0-89f9bda14e47" name="Hay.003_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="fb6858e9245977dd615d8f15d6928f39"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Hay"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="HayShort"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hair.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hat.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Hat.Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.001_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_E_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="HayStack.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_F_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_J_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="HayStack.Part.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_K_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="HayStack.Part.003"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f448851e-e810-4ac6-bc9d-421ce6f0afd2"/>
+			<MaterialName value="Material.Grass"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6b5875b8-34c7-4703-9676-4ac34ec5d5eb"/>
+			<MaterialName value="Material.Grass.Short"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dfcb83f0-0165-4633-88fe-c1b9378b2140"/>
+			<MaterialName value="Material.Hair1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d94fcfab-88aa-4afd-80e6-6d4eb60f7b03"/>
+			<MaterialName value="Material.Hat1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="145504a5-4817-4882-872b-11ccc6ea5783"/>
+			<MaterialName value="Material.Hay1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="401e4c21-db5c-40d6-b9f7-9395b85f21e8"/>
+			<MaterialName value="Material.Hay2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="517fac88-626b-4a8c-8d1c-913aa7626e51"/>
+			<MaterialName value="Material.Wood1"/>
+		</Item>
+	</MaterialList>
+</importer>
+

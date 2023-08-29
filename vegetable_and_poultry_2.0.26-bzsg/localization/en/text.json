@@ -1,0 +1,107 @@
+{
+	"": {
+
+        "JOB_POULTRYFARM_DUNG_NAME": "Dung collector",
+        "JOB_POULTRYFARM_DUNG_DESC": "Collects dung from poultry farms to make compost",
+
+        "BUILDING_FUNCTION_POULTRYFARM_DUNG_NAME": "Dung Heap",
+        "BUILDING_FUNCTION_POULTRYFARM_COMPOST_NAME": "Compost Pickup",
+        "BUILDING_FUNCTION_POULTRYFARM_CHICKEN_POULTRY_NAME": "Poultry",
+        "BUILDING_FUNCTION_POULTRYFARM_CHICKEN_EGGS_NAME": "Eggs",
+        "BUILDING_FUNCTION_POULTRYFARM_GOOSE_POULTRY_NAME": "Poultry",
+        "BUILDING_FUNCTION_POULTRYFARM_WILDFOWL_NAME": "Wildfowl",
+
+        "BUILDING_POULTRYFARM_NAME": "Poultry Farm",
+        "BUILDING_POULTRYFARM_DESC": "Raise chickens, geese, pigeons, and ducks",
+
+        "BUILDING_PART_POULTRYFARM_DUNGHEAP_NAME": "Dung Heap",
+        "BUILDING_PART_POULTRYFARM_CHICKENHOUSE_NAME": "Chicken House",
+        "BUILDING_PART_POULTRYFARM_CHICKENHOUSE_EGGS_NAME": "Chicken House (Eggs)",
+        "BUILDING_PART_POULTRYFARM_CHICKENHOUSE_POULTRY_NAME": "Chicken House (Poultry)",
+        "BUILDING_PART_POULTRYFARM_CHICKEN_FLOCK_NAME": "Chicken Flock",
+        "BUILDING_PART_POULTRYFARM_CHICKEN_SINGLE_NAME": "Single Chicken",
+        "BUILDING_PART_POULTRYFARM_GOOSEHOUSE_NAME": "Goose House",
+        "BUILDING_PART_POULTRYFARM_GOOSE_FLOCK_NAME": "Goose Flock",
+        "BUILDING_PART_POULTRYFARM_GOOSE_SINGLE_NAME": "Single Goose",
+        "BUILDING_PART_POULTRYFARM_DOVECOTE_NAME": "Dove Cote",
+        "BUILDING_PART_POULTRYFARM_DUCKPOND_NAME": "Duck Pond",
+        "BUILDING_PART_POULTRYFARM_MARKETCART_RESOURCE_POULTRY_NAME": "Poultry Cart",
+        "BUILDING_PART_POULTRYFARM_MARKETCART_BV1_EGG_NAME": "Egg Cart",
+
+        
+		"JOB_POULTRYFARM_NAME": "Poultry Farmer",
+		"JOB_POULTRYFARM_DESC": "Tends a flock of poultry",
+
+        "JOB_POULTRYFARM_WILDFOWL_NAME": "Wildfowl Hunter",
+        "JOB_POULTRYFARM_WILDFOWL_DESC": "Hunt on the Duck ponds",
+
+		"BUILDING_FUNCTION_POULTRYFARM_DOVE_NAME": "Raise doves for meat",
+        "BUILDING_FUNCTION_POULTRYFARM_MARKETCART_RESOURCE_POULTRY_NAME": "Sell poultry",
+        "BUILDING_FUNCTION_POULTRYFARM_MARKETCART_BV1_EGG_NAME": "Sell eggs",
+
+        "CATEGORY_BUILDING_SET_POULTRYFARM_1": "Chickens",
+        "CATEGORY_BUILDING_SET_POULTRYFARM_2": "Geese",
+        "CATEGORY_BUILDING_SET_POULTRYFARM_3": "Pigeons",
+        "CATEGORY_BUILDING_SET_POULTRYFARM_4": "Ducks",
+        "CATEGORY_BUILDING_SET_POULTRYFARM_5": "Other",
+
+        "CATEGORY_BUILDING_SET_POULTRYFARM_1_PLUR": "chickens",
+        "CATEGORY_BUILDING_SET_POULTRYFARM_2_PLUR": "geese",
+
+        "WALL_POULTRYFARM_WOVENFENCE_NAME": "Woven fence",
+
+
+        "BUILDING_VEGETABLEFARM_NAME": "Vegetable Farm",
+		"BUILDING_VEGETABLEFARM_BEET_NAME": "Vegetable Farm (Beets)",
+		"BUILDING_VEGETABLEFARM_CABBAGE_NAME": "Vegetable Farm (Cabbages)",
+		"BUILDING_VEGETABLEFARM_BEAN_NAME": "Vegetable Farm (Beans)",
+		"BUILDING_VEGETABLEFARM_BROCCOLI_NAME": "Vegetable Farm (Broccoli)",
+        "BUILDING_VEGETABLEFARM_DESC": "Raise vegetables using compost and water",
+
+        "JOB_VEGETABLEFARM_NAME": "Vegetable Farmer",
+        "JOB_VEGETABLEFARM_DESC": "Raise vegetables using compost and water",
+
+        "BUILDING_FUNCTION_VEGETABLEFARM_PLOT_NAME": "Vegetable Plot",
+        "BUILDING_FUNCTION_VEGETABLEFARM_CART_NAME": "Vegetable Cart",
+
+        "CATEGORY_BUILDING_PART_SET_VEGETABLEFARM1": "Option 1: Free-Form",
+        "CATEGORY_BUILDING_PART_SET_VEGETABLEFARM2": "Option 2: Simple",
+        "CATEGORY_BUILDING_PART_SET_VEGETABLEFARM3": "Other",
+
+        "BUILDING_PART_VEGETABLEFARM_PLOT_NAME": "Vegetable Plot",
+        "BUILDING_PART_VEGETABLEFARM_CART_NAME": "Vegetable Cart",
+
+		"VEGETABLEFARM_NAME": "Vegetable Farm",
+		"VEGETABLEFARM_DESC": "Grow vegetables for food, using water and compost.",
+
+        "ZONE_VEGETABLEFARM_NAME": "Field",
+        "RESOURCE_VEGETABLE_RAW_NAME": "Raw Vegetables",
+
+        "BUILDING_FUNCTION_ASSIGNABLE_VEGETABLEFARM_NAME": "Vegetable Farm",
+		"BUILDING_FUNCTION_VEGETABLEFARM_BEET_NAME": "Beets",
+		"BUILDING_FUNCTION_VEGETABLEFARM_CABBAGE_NAME": "Cabbages",
+		"BUILDING_FUNCTION_VEGETABLEFARM_BEAN_NAME": "Beans",
+		"BUILDING_FUNCTION_VEGETABLEFARM_BROCCOLI_NAME": "Broccoli",
+        "BUILDING_FUNCTION_VEGETABLEFARM_SHED_NAME": "Processing Shed",
+
+		"BUILDING_PART_VEGETABLEFARM_FARM_NAME": "Vegetable Farm",
+		"BUILDING_PART_VEGETABLEFARM_SHED_NAME": "Processing Shed",
+        "BUILDING_PART_VEGETABLEFARM_DOOR_NAME": "Door",
+
+        "BUILDING_PART_VEGETABLEFARM_FENCE_NAME": "Fence",
+
+        "EVENT_POULTRY_START_TITLE": "Poultry Farms",
+        "EVENT_POULTRY_START_DESC": "Poultry farms are now unlocked. Full instructions on how to use them are at foundation.mod.io\n\nChicken and goose houses need 3-4 flocks per house, and birds replenish monthly. If you notice you've run out of birds before the end of the month, place more flocks.\n\nChickens can produce either eggs or poultry: eggs produce faster but sell for less gold.\n\nYou must clear dung from the farms or they will stop producing. One dung heap can service many farms.",
+
+        "EVENT_VEGETABLE_START_TITLE": "Vegetable Farms",
+        "EVENT_VEGETABLE_START_DESC": "Vegetable farms are now unlocked. Full instructions on how to use them are at foundation.mod.io\n\nThere are two types of farms: free-form (like wheat farms) and fields that you place like buildings. Free-form farms require you to paint the crop field and select what type of vegetable to grow.\n\nVegetables require compost which comes from the Dung Heap in Poultry or Livestock farms.",
+
+        "EVENT_POULTRY_OK": "OK",
+
+
+
+        "": ""
+
+	}
+
+}

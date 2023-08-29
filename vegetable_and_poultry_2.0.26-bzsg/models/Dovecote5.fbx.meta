@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="44602d06-decd-497d-8bf8-2e3676bb229f">
+	<meta id="818fa99c-accc-4a56-8795-f6c70299e79b" type="group" folder="true" name="Materials">
+		<meta id="2c9502c6-bc39-455a-8b75-5bc3a73b5cc3" name="Material.RubbleRock"/>
+		<meta id="b442d123-8ba0-4082-86df-7101ace56539" name="Material.Stone"/>
+		<meta id="ac4d0480-2c36-4fb3-a7a7-6519d9538352" name="Material.Tile"/>
+		<meta id="bd304492-920d-4ec6-9247-c4583b0a7d65" name="Material.Black"/>
+	</meta>
+	<meta id="93b77db7-7d48-4fea-b40d-2e0b878b4835" type="group" folder="true" name="Meshes">
+		<meta id="a5c4e183-c848-47fd-924f-74053af294e3" name="Silo_Material.RubbleRock"/>
+		<meta id="0ac88880-3c25-4a94-9456-1dfb088310c2" name="RingLower_Material.Stone"/>
+		<meta id="063927c9-2f68-4496-99c8-15bbcfead6d2" name="RingUpper_Material.Stone"/>
+		<meta id="5ae7ba92-f2ef-4950-aabe-32b8a0e50a81" name="Roof_Material.Tile"/>
+		<meta id="4dde0a07-a53e-4857-a1cf-826fbd1c29f1" name="Bricks_Material.Stone"/>
+		<meta id="b65bc67a-d2b9-473b-a6f2-c7389beb99de" name="Gaps_Material.Black"/>
+		<meta id="27be0023-d912-4292-a22b-0dab1bc6a984" name="DoorFrame_Material.Stone"/>
+		<meta id="117c83d5-482a-480a-8d40-21e4aa9d2e59" name="Stairs_Material.Stone"/>
+		<meta id="2901a66a-ab7d-40df-8d72-3152bd399fec" name="DoorOpening_Material.Black"/>
+		<meta id="6803a873-ca40-4d5e-91f7-70f747b05213" name="Roof.001_Material.Stone"/>
+		<meta id="d6d66887-f010-46db-970c-c3d69ab19e5f" name="DovecotePart_COLLIDER"/>
+		<meta id="6da549ed-279a-483a-96ca-d5fc2cb9d469" name="Step_2.001_Material.Black"/>
+		<meta id="1e23b11e-2c75-4b79-9535-e92b15b263e4" name="Step_0_Material.RubbleRock"/>
+	</meta>
+	<meta id="382287dc-f505-4ac6-9298-95f7791b354f" name="Prefab">
+		<meta id="08c998b8-0aa0-47d2-9a06-29080222bffb" name="DovecotePart">
+			<meta id="61e40dda-19c0-462c-8630-0cc23e6d4fb4" name="Silo"/>
+			<meta id="bc14cb65-f38f-46f8-b53b-167cd8a02ea9" name="RingLower"/>
+			<meta id="14966b9c-b154-40ce-b63d-963b514f125c" name="RingUpper"/>
+			<meta id="75245bc2-9683-41f3-9f3f-f200dc8c136b" name="Roof"/>
+			<meta id="45b6e6b2-3084-4fb0-88d8-5010684b5ae9" name="Bricks"/>
+			<meta id="715c9f1b-e009-42b5-91c3-67b0c04eae32" name="Gaps"/>
+			<meta id="c10e03b0-9cbb-439a-bc10-e6f80939848a" name="DoorFrame"/>
+			<meta id="f7322f9f-468c-4199-b431-ca0ea8475ecc" name="PATH_A_001"/>
+			<meta id="160b8180-689a-41ee-b61c-0a48bec4497b" name="PATH_A_002"/>
+			<meta id="ca053326-4a53-4f63-9398-b275e2d9ddb6" name="Stairs"/>
+			<meta id="1c143c00-20d5-49ac-9d7f-2ae71b1b55b6" name="DoorOpening"/>
+			<meta id="2c9b1f18-a91a-42ec-9a27-d811b789a17f" name="Roof.001"/>
+		</meta>
+		<meta id="a8e88a29-cbba-43d8-8798-b6aaae6ae3e4" name="ConstructionSteps">
+			<meta id="4d99ebc3-3103-43ce-9d58-a2fb272e046a" name="Step_2.001">
+				<meta id="bfec7b10-de1d-4d1a-87ae-d64c290e541d" name="Step_2.001_0"/>
+				<meta id="080858ec-fb4d-42f3-9009-5683974c236b" name="Step_2.001_1"/>
+			</meta>
+			<meta id="838867ad-c910-4507-a80e-4cfffe84911e" name="Step_0"/>
+			<meta id="ddc28bf3-c71c-4e4e-a60f-f76cd206d2b9" name="Step_1"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="880301015d7ea9d503a9be13e6e823cc"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Silo"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="RingLower"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="RingUpper"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bricks"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Gaps"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DoorFrame"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stairs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DoorOpening"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DovecotePart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_2.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_2.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_2.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bd304492-920d-4ec6-9247-c4583b0a7d65"/>
+			<MaterialName value="Material.Black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2c9502c6-bc39-455a-8b75-5bc3a73b5cc3"/>
+			<MaterialName value="Material.RubbleRock"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b442d123-8ba0-4082-86df-7101ace56539"/>
+			<MaterialName value="Material.Stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ac4d0480-2c36-4fb3-a7a7-6519d9538352"/>
+			<MaterialName value="Material.Tile"/>
+		</Item>
+	</MaterialList>
+</importer>
+

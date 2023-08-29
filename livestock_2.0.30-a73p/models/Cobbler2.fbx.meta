@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="a096732f-bd5e-45c2-92c2-9cdace9f4bd0">
+	<meta id="dc05a3bb-fb95-49ff-b276-e405135100df" type="group" folder="true" name="Materials">
+		<meta id="22beba34-cc70-443b-a2d7-a7d45c630e0a" name="Material.Plank1"/>
+		<meta id="615331bb-811d-4d69-9d0f-6da5df3cff5e" name="Material.Black"/>
+		<meta id="a433fc1e-6775-416e-b01c-227a8ff180f0" name="Material.Tile1"/>
+		<meta id="77be20a1-e639-428f-b88a-fb395bc56943" name="Material.Plaster"/>
+		<meta id="a92fe788-32b3-4ced-a857-2a4ec176999e" name="Material.Sign"/>
+	</meta>
+	<meta id="06a5a18c-8b88-4596-a16e-05ce76b4102e" type="group" folder="true" name="Meshes">
+		<meta id="5a9da99b-6da1-414f-8450-200ff0ca0ad3" name="Door.001_Material.Plank1"/>
+		<meta id="3da5b234-5811-4761-b21a-8d2921d0f696" name="Door.001_Material.Black"/>
+		<meta id="3ee4a1b4-5dbb-4512-9e4b-6ad5320dc9bc" name="Window.001_Material.Plank1"/>
+		<meta id="b382cbba-89f1-467d-80fa-120b8db39de5" name="Window.001_Material.Black"/>
+		<meta id="fa9d9323-f01e-4073-a6c2-d9140b94832d" name="Roof.001_Material.Tile1"/>
+		<meta id="72a0d0da-134f-42fa-801e-6fc2422136a5" name="Timber.037_Material.Plank1"/>
+		<meta id="fd7ccf5b-f178-42f9-aff9-3f3ace29f3a3" name="Timber.001_Material.Plank1"/>
+		<meta id="23f14a8b-a5f5-403b-b571-87218485f6a1" name="Timber.002_Material.Plank1"/>
+		<meta id="1afe953c-3003-48db-bd5b-c8e6b5339160" name="Timber.003_Material.Plank1"/>
+		<meta id="285a1f2e-3f48-4b48-9def-4d0d145984b8" name="Timber.004_Material.Plank1"/>
+		<meta id="c3384f65-1c54-4a9d-a223-94be9a10d72b" name="Timber.005_Material.Plank1"/>
+		<meta id="bf5aaba5-e497-43e5-b0cb-023338894c49" name="Timber.006_Material.Plank1"/>
+		<meta id="b4ac9c00-7cce-4a34-a5d1-a971c254f731" name="Timber.007_Material.Plank1"/>
+		<meta id="af6c00b0-4c19-4528-9031-8d0000c44bf5" name="Timber.010_Material.Plank1"/>
+		<meta id="b1b14e5b-28ff-40a8-9a66-0e1fd8dbe950" name="Timber.011_Material.Plank1"/>
+		<meta id="90dfac8d-067e-46ce-9766-52d75796d60c" name="Timber.012_Material.Plank1"/>
+		<meta id="95fd4351-fa13-4095-ba5e-5fcf7a683f74" name="Timber.013_Material.Plank1"/>
+		<meta id="799b7591-16e1-4cd3-a889-b9c1edffae59" name="Base.001_Material.Plaster"/>
+		<meta id="8918b547-4072-4499-b228-fee30d43b633" name="Timber.018_Material.Plank1"/>
+		<meta id="048e1633-071e-43da-808d-429a705e398f" name="Timber.019_Material.Plank1"/>
+		<meta id="813a47da-1f80-4c4e-ba08-3db87c181cbe" name="Timber.020_Material.Plank1"/>
+		<meta id="35896f28-858c-4cdd-a182-ae8b9f52e72b" name="Timber.021_Material.Plank1"/>
+		<meta id="088c8924-8036-4618-8e0b-036ebbd5645c" name="Timber.022_Material.Plank1"/>
+		<meta id="02a0aa80-1ce7-4fb7-9d87-b8c96a701048" name="Timber.023_Material.Plank1"/>
+		<meta id="54c306eb-6ff0-4578-96ea-27bc55a4bf42" name="Timber.025_Material.Plank1"/>
+		<meta id="8112d2a0-bf83-45cf-9b26-0395a6686455" name="Timber.026_Material.Plank1"/>
+		<meta id="e57a7aac-f46a-4339-b73e-5df12ec66323" name="Timber.027_Material.Plank1"/>
+		<meta id="d6b81654-8256-4e39-9f62-410c330c652f" name="Timber.029_Material.Plank1"/>
+		<meta id="8f4676c1-f5f6-48a4-ad3d-b116a533cf5b" name="Timber.030_Material.Plank1"/>
+		<meta id="5ee75c1c-6dc5-46f8-99ce-849d2b96f092" name="Timber.032_Material.Plank1"/>
+		<meta id="2d1fcf32-9b38-4c04-a161-7fa95b094bcf" name="Timber.034_Material.Plank1"/>
+		<meta id="e65f8652-a760-4325-82d1-e620d617cc79" name="Sign.001_Material.Sign"/>
+		<meta id="b5a8dfed-2580-432c-b451-2ae84a129da0" name="Timber.035_Material.Plank1"/>
+		<meta id="e71b5765-20f5-4397-9fba-2d6e5f062bb9" name="Step_4_Material.Plank1"/>
+		<meta id="8d5d2ac2-f9ba-4e25-acfc-cef83bfb179a" name="Step_5_Material.Plank1"/>
+		<meta id="085892ee-7ac1-4d86-a402-d3e96fdd13f2" name="Step_5_Material.Black"/>
+		<meta id="0ef27a21-d8f5-4d2a-a5f0-3b12bea49f29" name="Step_5_Material.Sign"/>
+		<meta id="38af1fc0-fafe-4236-a90b-717f58cda948" name="Step_1_Material.Plank1"/>
+		<meta id="3f7a6bdb-8cf1-4eb1-af24-acd9536d51e5" name="Step_3_Material.Plank1"/>
+		<meta id="7db8827f-136a-4d17-ad86-5221ccb41798" name="Step_2_Material.Plank1"/>
+		<meta id="5ed5682f-6b60-49e1-ba86-bd1559b1394e" name="Step_0_Material.Plank1"/>
+	</meta>
+	<meta id="17f2778c-44fe-4e41-a1c3-8d8a32c8a85f" name="Prefab">
+		<meta id="b77d510b-1c1c-40bb-b53e-d726ed402ce8" name="Cobbler.Part">
+			<meta id="c3f23697-d5c6-49e6-84af-f372381bfd6e" name="Door.001">
+				<meta id="eafb449b-f257-43f2-b41c-63dcc35f71c7" name="Door.001_0"/>
+				<meta id="c0d61dff-31fd-4ff2-9a38-8d980e3c1ac2" name="Door.001_1"/>
+			</meta>
+			<meta id="554933bf-fbdb-417b-a301-59b9f34d3069" name="Window.001">
+				<meta id="e3b71013-2601-4070-91aa-f59dc4fffa15" name="Window.001_0"/>
+				<meta id="6f055141-ce44-4acf-a38e-0b89f4f3ce1e" name="Window.001_1"/>
+			</meta>
+			<meta id="70e420b7-d479-4860-bb0d-c819de4efe1d" name="Roof.001"/>
+			<meta id="b38e98ca-ab7a-4e64-a97e-448ff2d94b57" name="Timber.037"/>
+			<meta id="856ed992-92ca-4908-9bf3-a629459cad5a" name="Timber.001"/>
+			<meta id="33d0bf2c-3821-4833-8973-7b60d27da412" name="Timber.002"/>
+			<meta id="f36cf594-0afd-4955-989c-937a6e0b1cc5" name="Timber.003"/>
+			<meta id="3de8b15f-b98b-4b90-be90-b583aa37dd88" name="Timber.004"/>
+			<meta id="7d6e29ab-8ab7-4015-baa4-1d2e0029ab66" name="Timber.005"/>
+			<meta id="5ad4b3c4-b8de-45ec-8f8c-4cb225fbf84b" name="Timber.006"/>
+			<meta id="1a2d4291-0957-4f7b-a1ba-fabd5b0d3629" name="Timber.007"/>
+			<meta id="a56e015a-abe9-42c8-99f6-758e3da005c8" name="Timber.008"/>
+			<meta id="6def0986-a2f1-4bee-a40c-74ee5868776a" name="Timber.009"/>
+			<meta id="25803fca-ca9d-410e-9a57-147e0402a68d" name="Timber.010"/>
+			<meta id="4f8eefa0-7328-4e88-80d1-43f7588b37c6" name="Timber.011"/>
+			<meta id="a50a4467-ac43-44de-ab4d-32089fb54a89" name="Timber.012"/>
+			<meta id="e5360d70-3825-4af0-ae75-24e9c900a095" name="Timber.013"/>
+			<meta id="d5bea7af-c89c-46b2-83f7-c7b6813ee5c5" name="Timber.014"/>
+			<meta id="0f8bfabf-8733-4285-99a8-62f002d48ead" name="Timber.015"/>
+			<meta id="2fa94612-05c2-4116-bcaa-408a947a4300" name="Timber.016"/>
+			<meta id="274ba9ec-cdd1-4f8d-bcb1-d5fa604f1ae2" name="Timber.017"/>
+			<meta id="5d6ba6bd-acba-44ad-892d-c9461ad4a7ae" name="Base.001"/>
+			<meta id="26b0bc36-f8dd-4598-be05-634395136cb3" name="Timber.018"/>
+			<meta id="fe1ef74e-120f-4d43-8ff1-400d8100ca53" name="Timber.019"/>
+			<meta id="b35088bd-07bf-4d9f-b380-6d1fbdaf22ef" name="Timber.020"/>
+			<meta id="c2d0c51e-2bd3-4822-8f84-f85d16772646" name="Timber.021"/>
+			<meta id="88f4896d-272f-4c99-8165-95e6b42acb62" name="Timber.022"/>
+			<meta id="4e7e921c-55e2-494f-abb5-d1d6ea46c30e" name="Timber.023"/>
+			<meta id="d7f958b0-a797-4d39-a9d7-8975784f05dc" name="Timber.024"/>
+			<meta id="d524ba32-2a37-4153-8586-004858368645" name="Timber.025"/>
+			<meta id="3d196dcc-90da-4666-a668-c15e94716480" name="Timber.026"/>
+			<meta id="2e2e694c-ea86-4c93-ab12-b36ad5deadb1" name="Timber.027"/>
+			<meta id="34c34f67-9dc2-450c-bc3a-27d271b48d13" name="Timber.028"/>
+			<meta id="bcbe2bf5-a50e-4f07-800f-07bae0ee2beb" name="Timber.029"/>
+			<meta id="ea51fb72-e98a-4f50-9a61-4cd5a6e647f9" name="Timber.030"/>
+			<meta id="c32bd557-dda1-41b4-8f1e-9ca54f00ef5e" name="Timber.031"/>
+			<meta id="d823de27-581f-49d0-a153-c8852febc53a" name="Timber.032"/>
+			<meta id="e5d79dc1-1ea9-4ffa-ac9a-5650d7c491a0" name="Timber.033"/>
+			<meta id="38789163-7fac-4a38-a5c8-8945eb974b23" name="Timber.034"/>
+			<meta id="ed49b170-0ac0-4e85-9457-1d27c7788616" name="Sign.001"/>
+			<meta id="470694fa-ebb3-4105-a99f-860694f8b75d" name="Timber.035"/>
+			<meta id="0a0416b9-1138-459a-87e9-d680e3b38667" name="Timber.036"/>
+			<meta id="e491d4a3-17fd-413a-b735-6d1833bbb2de" name="PATH_A_1"/>
+			<meta id="4f005755-f56b-4c82-9aac-242c95bdc576" name="PATH_A_2"/>
+		</meta>
+		<meta id="0a13281c-f879-4e72-a57a-dae537e56753" name="Cobbler.Part.Constr">
+			<meta id="e8caacfb-c32a-4620-af40-3ab618c76971" name="Step_4">
+				<meta id="9b54e562-8f22-4c5d-a779-006b4ff37f68" name="Step_4_0"/>
+				<meta id="e8dfb5f8-93e8-4c36-8b68-a3d6825a48f1" name="Step_4_1"/>
+			</meta>
+			<meta id="90b2c0b2-33c3-412a-9048-7ee47b9fb17a" name="Step_5">
+				<meta id="327a0f83-e2bf-4ce6-bfac-a0b2fe107848" name="Step_5_0"/>
+				<meta id="fa7d1779-bbcc-4dc9-b4b0-48427d95b5c9" name="Step_5_1"/>
+				<meta id="151280f3-5f74-466b-8bc7-15fe75f63966" name="Step_5_2"/>
+				<meta id="b1e319c2-6b3b-48bd-9794-9302d807de4d" name="Step_5_3"/>
+			</meta>
+			<meta id="135a43d0-43d4-4b25-a25f-ab1e6921f664" name="Step_1"/>
+			<meta id="f7c50bf9-97a7-4573-83ad-c0f4dbaa3bd1" name="Step_3"/>
+			<meta id="a3087041-00e0-4eda-a534-74ab799339df" name="Step_2"/>
+			<meta id="09c5e109-cfc7-4f67-b030-bba4b5ab34b7" name="Step_0"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="e8089bdc2e007ed15edc3d12f42bc0ea"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Door.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Window.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Window.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Roof.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Base.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sign.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Timber.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cobbler.Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_4_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_4_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_5_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_5_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_5_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Step_5_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Step_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_0"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Cobbler.Part.Constr"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="615331bb-811d-4d69-9d0f-6da5df3cff5e"/>
+			<MaterialName value="Material.Black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="22beba34-cc70-443b-a2d7-a7d45c630e0a"/>
+			<MaterialName value="Material.Plank1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="77be20a1-e639-428f-b88a-fb395bc56943"/>
+			<MaterialName value="Material.Plaster"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a92fe788-32b3-4ced-a857-2a4ec176999e"/>
+			<MaterialName value="Material.Sign"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a433fc1e-6775-416e-b01c-227a8ff180f0"/>
+			<MaterialName value="Material.Tile1"/>
+		</Item>
+	</MaterialList>
+</importer>
+

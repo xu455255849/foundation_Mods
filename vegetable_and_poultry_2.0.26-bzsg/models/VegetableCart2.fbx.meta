@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="dc5355ab-7898-41a6-85c7-9807bf89d4a0">
+	<meta id="e42804db-7afb-4b7c-a3e4-260c6a963c67" type="group" folder="true" name="Materials">
+		<meta id="7c47bd0b-c20b-4667-bf6f-655387356538" name="Material.Cabbage"/>
+		<meta id="f971eb64-0e34-41c8-9dc5-e7673c84b43d" name="Material.Plank"/>
+	</meta>
+	<meta id="2109183e-da0f-464f-81be-7e2400c20082" type="group" folder="true" name="Meshes">
+		<meta id="fa8631f0-70d9-47bf-b3c8-c128d98d26d5" name="Cabbage.001_Material.Cabbage"/>
+		<meta id="922d836e-a9a5-4d42-bdd5-645b82d5def4" name="Axle.007_Material.Plank"/>
+		<meta id="fe75f8e9-8a74-47ec-8315-5a0692233598" name="Cart.007_Material.Plank"/>
+		<meta id="521427e5-ec03-4202-b5e4-fb95823e3518" name="Frame.073_Material.Plank"/>
+		<meta id="a5be30d9-5bbc-4e21-b65b-98cbf6ffee36" name="Frame.074_Material.Plank"/>
+		<meta id="b96cc7a9-94e3-42c1-8856-33252e118200" name="Frame.075_Material.Plank"/>
+		<meta id="f07c6474-91d7-4a87-99d4-7946e1e6f6d7" name="Frame.076_Material.Plank"/>
+		<meta id="2f40ef32-6577-43be-9513-db02e4b7c092" name="Frame.077_Material.Plank"/>
+		<meta id="1b757114-3013-4d3c-84fb-ff7ca8fff792" name="Frame.078_Material.Plank"/>
+		<meta id="4338a7d4-6395-49ac-9d3e-56cd196b691c" name="Frame.079_Material.Plank"/>
+		<meta id="68a4deb7-2758-4b92-813b-e266078e21ef" name="Frame.080_Material.Plank"/>
+		<meta id="60519e29-7920-4460-b422-0a0ee4cd6cd5" name="Frame.081_Material.Plank"/>
+		<meta id="6ae0822a-1a4d-4f0c-be5a-a66cee630e20" name="Frame.082_Material.Plank"/>
+		<meta id="a6d8fe66-abc1-48e7-9434-0e5554b55129" name="Frame.083_Material.Plank"/>
+		<meta id="510c277f-db25-4b87-859c-2077c1c34952" name="Handle.013_Material.Plank"/>
+		<meta id="bc234e7d-3b3b-4808-b128-d5da3edff312" name="Handle.014_Material.Plank"/>
+		<meta id="bf9fa468-c1d5-4f99-bd60-97e6e188a59c" name="Stand.013_Material.Plank"/>
+		<meta id="e0dd7a76-9c43-4cb6-9711-ce4cb2c73eaa" name="Wheel.013_Material.Plank"/>
+		<meta id="6c8c9ea0-a13c-4834-a056-c8dc7bb6805d" name="Wheel.014_Material.Plank"/>
+	</meta>
+	<meta id="0c29b471-1904-4dad-a35c-9e6850549b86" name="Prefab">
+		<meta id="bd63cd1d-36ce-4fa7-9f50-5a4547b13757" name="RESOURCE_VEGETABLE.PART">
+			<meta id="c8edccbc-0d0e-4da3-bdbe-a38357128692" name="Cabbage.001"/>
+			<meta id="897e49fe-feac-4eee-9c4e-7f4e283e8339" name="Axle.007"/>
+			<meta id="eb3d46d3-a554-4633-81bc-eb316c9f5728" name="Cart.007"/>
+			<meta id="eac6c963-5b58-4bd2-bf11-d00bccbe06a9" name="Frame.073"/>
+			<meta id="fb271a3b-2425-4c25-94c5-8dd45813b34d" name="Frame.074"/>
+			<meta id="90bd3fe7-adcf-415e-a88c-8da3f8e37f86" name="Frame.075"/>
+			<meta id="546bc597-3198-45c3-bd19-1ae5b3eb84e7" name="Frame.076"/>
+			<meta id="6fca4ade-cb75-4931-ac49-69832ac89ea1" name="Frame.077"/>
+			<meta id="8fcb1734-b38c-4136-b0bc-eb7ea7a4a058" name="Frame.078"/>
+			<meta id="35ecf2a2-f06d-4365-9b07-ada4bea1cc9f" name="Frame.079"/>
+			<meta id="7f71ddd7-bf34-4782-b88d-8f5f5bf65078" name="Frame.080"/>
+			<meta id="c31cc74c-ad8d-479f-b04b-268378be3c07" name="Frame.081"/>
+			<meta id="de2c67f8-ffa4-4f3a-9ecb-14fb2a1290a7" name="Frame.082"/>
+			<meta id="754665ed-3b49-4e4d-b41c-37838f3acf8e" name="Frame.083"/>
+			<meta id="c8f4edb2-ec2b-42d0-8567-b0c2312492b6" name="Frame.084"/>
+			<meta id="3216dad2-34fd-43d9-8c69-857ef7f7731d" name="Handle.013"/>
+			<meta id="828aa106-ff77-45ac-8540-b6af5f586bb7" name="Handle.014"/>
+			<meta id="1581d36f-6308-41bb-ade0-861b383822bc" name="PATH_A_1"/>
+			<meta id="53f1d512-4f7d-4b59-aa1e-9624423b285d" name="PATH_B_1"/>
+			<meta id="180699fa-8922-42f3-9857-60f203e91029" name="PATH_C_1"/>
+			<meta id="5a5cd6c9-d9b4-40db-9069-8b66ee1a4f1b" name="PATH_D_1"/>
+			<meta id="6fed4fc8-fb25-42f4-b947-3b65dd6f20f1" name="Stand.013"/>
+			<meta id="e7db6033-07ca-4f5f-99ce-9f284ba8ed8b" name="Stand.014"/>
+			<meta id="2268c06c-2df8-44b9-b4cb-80bb3b90b2d5" name="Wheel.013"/>
+			<meta id="3ecd1d96-534c-48ee-a196-ff8a11049fbd" name="Wheel.014"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="ca246ee60546c8de7bbe3d9e1c4479cc"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cabbage.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Axle.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cart.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.073"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.074"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.075"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.076"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.077"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.078"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.079"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.080"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.081"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.082"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.083"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Frame.084"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Handle.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Handle.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stand.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stand.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.014"/>
+					</Item>
+				</ChildList>
+				<NodeName value="RESOURCE_VEGETABLE.PART"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7c47bd0b-c20b-4667-bf6f-655387356538"/>
+			<MaterialName value="Material.Cabbage"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f971eb64-0e34-41c8-9dc5-e7673c84b43d"/>
+			<MaterialName value="Material.Plank"/>
+		</Item>
+	</MaterialList>
+</importer>
+

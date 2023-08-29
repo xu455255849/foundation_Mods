@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="91c6d8bd-a858-4ce4-a51e-34e6834d76d2">
+	<meta id="05916e25-b2d9-463f-b76d-b7f2486806fa" type="group" folder="true" name="Materials">
+		<meta id="e7a3f6b8-be57-43d2-8058-6c2419a0d474" name="Material.Wall"/>
+		<meta id="7bc42f5b-e9ea-4035-abfe-2b650b3df4c2" name="Material.RoofTiles"/>
+		<meta id="402f77ff-a2c6-4aca-98c7-a33f9d7ac096" name="Material.Darker"/>
+		<meta id="6ad28700-d910-4222-b413-97dbfa9905f7" name="Material.Plank"/>
+		<meta id="1504bb64-bf35-4c93-853e-1156cb1db573" name="Material.White"/>
+	</meta>
+	<meta id="59a50d79-d2c1-4f42-bb3f-82fdc3bd051d" type="group" folder="true" name="Meshes">
+		<meta id="a0d555e1-8bc8-4170-9a86-e604d1e750cd" name="Box.005_Material.Wall"/>
+		<meta id="eb01ce39-b0a0-476f-9382-10f4d528ec86" name="RoofTiles_Material.RoofTiles"/>
+		<meta id="f2b1f5cb-cc0a-4d9e-93a9-ba44039a8e25" name="RoofTiles_Material.Darker"/>
+		<meta id="eef4263d-73ca-4f18-bfbd-0639527cce36" name="Legs_Material.Plank"/>
+		<meta id="caef40c4-ec64-41c4-8654-3737a7d0beda" name="Posts_Material.Plank"/>
+		<meta id="fac0278f-0d93-4e5f-8324-ec1297f79ea5" name="Floor"/>
+		<meta id="268fba86-92e5-435b-9cc6-5685669cad14" name="Box.001_Material.Wall"/>
+		<meta id="9b436a23-ad8a-450b-bafe-25aa90010720" name="Wall_Material.Wall"/>
+		<meta id="ed91df6c-e80e-451b-9c0c-4e9c8417d00d" name="Wall_Material.White"/>
+		<meta id="9acd42d8-9481-4b0f-bca4-e5323abd1fd8" name="Ladder_Material.Plank"/>
+		<meta id="51711dc1-c640-43fe-9247-73f70d45adc0" name="DovecotePart_COLLIDER"/>
+		<meta id="0f6aec12-2e50-4238-a408-ba8f3232056b" name="step_0_Posts_Material.Plank"/>
+		<meta id="f6f9a12c-74d4-4f2c-8ced-7ac0a5b2e3a6" name="step_1_Legs_Material.Plank"/>
+		<meta id="6178fb2c-86a9-4b2a-a070-efbceedc4746" name="step_2_Posts_Material.Plank"/>
+		<meta id="492572d0-30f1-4be4-b42e-0c5bacdd5474" name="step_3_Roof_Material.RoofTiles"/>
+		<meta id="c4dbae97-9a78-4188-82f1-7eb286d4dee4" name="step_3_Roof_Material.Darker"/>
+	</meta>
+	<meta id="4e65feea-126e-4740-9aa7-20585a5c7784" name="Prefab">
+		<meta id="50591389-2d32-4b51-b904-dd51cb9a9818" name="DovecotePart">
+			<meta id="9787fcae-fce2-4236-a1c0-c462b8fe4ecc" name="Box.005"/>
+			<meta id="588b6bea-01ef-465a-aa7c-303cc02ca171" name="RoofTiles">
+				<meta id="6cdbe34d-3ee8-4589-b10e-2f4bbfec51fd" name="RoofTiles_0"/>
+				<meta id="807e9c47-8dc8-4d25-aaac-db84e0806ced" name="RoofTiles_1"/>
+			</meta>
+			<meta id="6e04a457-f73c-47d8-a3c8-4a0a118fa108" name="Legs"/>
+			<meta id="2dd75d52-d728-4a1c-981f-2829c2867f38" name="Posts"/>
+			<meta id="4fd4243f-5e25-43e7-b0b8-ded0099f64ca" name="PATH_A_1"/>
+			<meta id="d454bdd3-cbc0-46e7-9025-8df5243e0cbb" name="PATH_A_2"/>
+			<meta id="9789add2-91db-4ea6-8db1-b8d0a959ba1b" name="PATH_A_3"/>
+			<meta id="3d648838-e71b-4083-8865-f9a6b2497df0" name="Floor"/>
+			<meta id="a984a78e-ae68-4d6f-a4cd-1caa8866aedf" name="Box.001"/>
+			<meta id="b306ecd0-9e94-4ccb-acc0-dbaafa83d858" name="Wall">
+				<meta id="c81de212-ffd5-4314-a6b4-3b1953fab76c" name="Wall_0"/>
+				<meta id="a3d98926-c7d4-471e-8fe6-05cdbc3e71b3" name="Wall_1"/>
+			</meta>
+			<meta id="fd095fa2-af90-46d8-bc7e-65cfe142ad5d" name="Ladder"/>
+		</meta>
+		<meta id="e560df62-7657-441e-b373-fa17f794dadd" name="ConstructionSteps">
+			<meta id="37aaec44-7e7d-48bd-92bd-df64748bc7c8" name="step_0_Posts"/>
+			<meta id="311d8a12-28aa-44b3-aaa2-261648227aad" name="step_1_Legs"/>
+			<meta id="7abc6c87-2920-43f8-856f-7d7c14b5510d" name="step_2_Posts"/>
+			<meta id="94e98b3e-2dd1-4256-a3f7-fbc57cee0765" name="step_3_Roof">
+				<meta id="7b3ba986-11a5-4e4e-8ac7-994cc3e2ea4b" name="step_3_Roof_0"/>
+				<meta id="38072535-900b-4e32-a6df-39f02737364b" name="step_3_Roof_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="1ee490d7fd91b41461ec31df191274b8"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="RoofTiles_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="RoofTiles_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="RoofTiles"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Legs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Posts"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Floor"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wall_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Wall_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Wall"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ladder"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DovecotePart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_0_Posts"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_1_Legs"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="step_2_Posts"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="step_3_Roof_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="step_3_Roof_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="step_3_Roof"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="402f77ff-a2c6-4aca-98c7-a33f9d7ac096"/>
+			<MaterialName value="Material.Darker"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6ad28700-d910-4222-b413-97dbfa9905f7"/>
+			<MaterialName value="Material.Plank"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7bc42f5b-e9ea-4035-abfe-2b650b3df4c2"/>
+			<MaterialName value="Material.RoofTiles"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e7a3f6b8-be57-43d2-8058-6c2419a0d474"/>
+			<MaterialName value="Material.Wall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1504bb64-bf35-4c93-853e-1156cb1db573"/>
+			<MaterialName value="Material.White"/>
+		</Item>
+	</MaterialList>
+</importer>
+

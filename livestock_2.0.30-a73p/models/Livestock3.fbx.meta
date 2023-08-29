@@ -1,0 +1,2053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="f6e36d3e-e7df-46d6-bda8-7b45606555a7">
+	<meta id="60c47f21-4fcb-4f27-99ca-fec8f5a5031b" type="group" folder="true" name="Materials">
+		<meta id="af43ee1f-200c-44bc-9812-328890794ac5" name="Material.Trunk"/>
+		<meta id="28b8d657-52ef-4361-bfd8-ee3e6bfeadfa" name="Material.Plank"/>
+		<meta id="2fc3c9f4-b82c-44f8-865e-6c105a5a2d1c" name="Material.Water"/>
+		<meta id="ca5660f4-ce53-436c-a9d4-8fedcd1d0d0c" name="Material.Hay1"/>
+		<meta id="05ec94b3-4367-4261-bc1e-bbeb19792d42" name="Material.Cord1"/>
+		<meta id="6007c2b5-fa9e-46a6-8aac-efdd15d7a44d" name="Material.Hay3"/>
+		<meta id="9e4d0c29-93a4-4eb0-973f-7140ac6c2e6d" name="Material.Hay2"/>
+		<meta id="697a6392-dbea-45ed-8b65-9bec9796c479" name="Material.Milk"/>
+		<meta id="931a07bb-774a-4768-9023-174dc98b80cb" name="Material.Tallow"/>
+		<meta id="c3587198-c8c3-4a8e-965b-b43ef5101579" name="Material.Bucket"/>
+		<meta id="9b16a014-e388-4e68-aff3-5905be1e79a9" name="Material.Tool"/>
+		<meta id="0d4425a2-009c-4257-9009-e97b385c330d" name="Material.Pig"/>
+		<meta id="13f15209-4d3d-49eb-a609-f449e99c2480" name="Material.Inside"/>
+		<meta id="b8ea81e1-eaae-45ab-bb25-23149c42cda5" name="Material.Trunk.001"/>
+		<meta id="21ae22f3-0a4b-4b05-9905-0e1e3f530ee8" name="Material.Metal"/>
+		<meta id="3d7ac630-e7b6-40d9-8329-9046320c2738" name="Material.Dung"/>
+	</meta>
+	<meta id="2b000105-0fab-469d-a826-3315cfb3a86d" type="group" folder="true" name="Meshes">
+		<meta id="a7d56e6a-a48c-456d-9321-013b8f03315c" name="Fence.003_Material.Trunk"/>
+		<meta id="bbbd4553-552d-4261-8b3e-a8c683c1c478" name="Fence.005_Material.Trunk"/>
+		<meta id="5c28eaaa-6753-438f-8f8d-282408953af3" name="Fence.004_Material.Trunk"/>
+		<meta id="cde0df5d-3056-4515-a126-0fe5bd4b34b2" name="Fence.013_Material.Trunk"/>
+		<meta id="a52f2d81-69d5-484d-96dc-c8ed0a453e0e" name="Trough.001_Material.Trunk"/>
+		<meta id="839ff290-067a-47ee-8576-0982993d3620" name="Trough.001_Material.Water"/>
+		<meta id="575e5fb8-0fd7-49c0-867a-fdeb1c4b5eeb" name="Hay.001_Material.Hay1"/>
+		<meta id="3c823847-00aa-4b20-87e0-b476641d25f8" name="Hay.001_Material.Cord1"/>
+		<meta id="a7ace45a-4018-4ab6-bcd4-269e1348932a" name="Hay.002_Material.Hay3"/>
+		<meta id="abf26201-4fe0-454e-9ea3-41eb8fa13391" name="Hay.002_Material.Hay2"/>
+		<meta id="5bfb17c9-5b2f-46b6-a679-2e3636de0b91" name="Fence.019_Material.Trunk"/>
+		<meta id="46f41378-074c-42dc-8c74-fc1540910199" name="Fence.026_Material.Trunk"/>
+		<meta id="370d8dd2-ebdf-4610-927d-b973c46fe9f8" name="Fence.025_Material.Trunk"/>
+		<meta id="9b8811f3-ce3f-403a-8734-6a33fc15e3c4" name="Fence.024_Material.Trunk"/>
+		<meta id="c05c3b6a-23ae-4d00-b536-0b47850035e7" name="Fence.022_Material.Trunk"/>
+		<meta id="51ff275d-f689-4565-a6b7-437b95010a80" name="Fence.021_Material.Trunk"/>
+		<meta id="3a150363-680f-42cd-bcba-ce31626cbf1e" name="Fence.020_Material.Trunk"/>
+		<meta id="885ae649-762b-4924-b66b-1220b38d5f11" name="Bench.003_Material.Plank"/>
+		<meta id="5d06f880-028b-4d23-b3b2-cc0ca4d3ecd1" name="Bench.004_Material.Plank"/>
+		<meta id="3fdcd4e7-ccd3-42a4-8c12-19df33004cfe" name="Bucket.002_Material.Tallow"/>
+		<meta id="42621aac-430f-46d8-b208-e207a9ab9755" name="Bucket.002_Material.Bucket"/>
+		<meta id="bbd82189-ee52-4307-96d7-ca07a9d0cb8b" name="Bucket.002_Material.Tool"/>
+		<meta id="3c2f8c4e-cc2e-4992-8bbb-2ace020b3b81" name="Bucket.003_Material.Tallow"/>
+		<meta id="31b7e66d-ce8a-4674-bb80-c4d11ac9d210" name="Bucket.003_Material.Bucket"/>
+		<meta id="c464b2c5-6b49-4048-a730-f20e1eaaef77" name="Bucket.003_Material.Tool"/>
+		<meta id="9c478d16-6fea-4448-b4a6-8fcdd68dacbd" name="Hook.001_Material.Trunk.001"/>
+		<meta id="0657a76b-73ee-475d-aef3-09812ad0b1b2" name="Hook.001_Material.Metal"/>
+		<meta id="90d5fb8a-f156-47cb-b54c-9b2422b1d961" name="Hook.002_Material.Trunk.001"/>
+		<meta id="70b5662f-59ae-445e-a1c9-361235195a09" name="Hook.002_Material.Metal"/>
+		<meta id="6a39d278-a0aa-40b0-990f-cecb25f66caf" name="Bucket.004_Material.Tallow"/>
+		<meta id="9478b9f3-11ad-4913-87ca-fcb88ad83486" name="Bucket.004_Material.Bucket"/>
+		<meta id="02b01ffb-873e-487e-86a7-c0101bc5bcdd" name="Bucket.004_Material.Tool"/>
+		<meta id="c590a428-dc23-4b21-82e9-7d263657d57e" name="Bucket.005_Material.Tallow"/>
+		<meta id="c676b705-9e0a-4657-b292-d083619331f7" name="Bucket.005_Material.Bucket"/>
+		<meta id="cef32408-8ab1-4cec-9df4-cc82d93b6b35" name="Bucket.005_Material.Tool"/>
+		<meta id="019472cc-3939-4087-9c25-ad9a7624f265" name="Bucket.007_Material.Plank"/>
+		<meta id="e4e976f6-3886-480c-994d-9f1304124c4d" name="Bucket.007_Material.Milk"/>
+		<meta id="475cfdf0-7a9c-4a1d-8d21-59878ca8b586" name="DungHeap.001_Material.Dung"/>
+		<meta id="bfdd1c35-93f3-4858-bc1a-835a863359c5" name="Fence.126_Material.Trunk"/>
+		<meta id="b138d5ee-f863-41c4-9a84-a5b8c270029d" name="Fence.127_Material.Trunk"/>
+		<meta id="be6fef6c-6597-4ba0-a11b-28376eb2f489" name="Hook.003_Material.Trunk.001"/>
+		<meta id="e6103f54-8106-4b25-b7b3-18a6b2dfc717" name="Fence.129_Material.Trunk"/>
+		<meta id="c4cda730-19d4-41ef-8f09-231577d6d47c" name="Fence.122_Material.Trunk"/>
+		<meta id="8c497abc-9e75-4c53-8162-2b2fe7b00b0f" name="Fence.123_Material.Trunk"/>
+		<meta id="57f809ca-10fc-4c5e-b897-c80d3da8e231" name="Fence.124_Material.Trunk"/>
+		<meta id="b2afd6c6-50d7-43ca-9e11-15c891faf7c2" name="Fence.125_Material.Trunk"/>
+		<meta id="8af4828d-3087-443c-9514-08d350f1814b" name="Fence.010_Material.Trunk"/>
+		<meta id="8002100b-85d8-4460-a4f7-256ad9ffcaa4" name="Fence.011_Material.Trunk"/>
+		<meta id="d00f1a9b-e48e-4c0b-87aa-cc3cf388bc76" name="Fence.012_Material.Trunk"/>
+		<meta id="b1121c04-9d2f-41bb-bc7f-de418955ce5e" name="Fence.006_Material.Trunk"/>
+		<meta id="e54a545c-4baf-4013-90d5-37b5806ead02" name="Fence.007_Material.Trunk"/>
+		<meta id="1f348098-b92a-43e7-8e60-dacfc6ed5191" name="Fence.002_Material.Trunk"/>
+		<meta id="827b3903-1641-4976-90a6-80c4478ff24a" name="Fence.009_Material.Trunk"/>
+		<meta id="6ff92c24-3407-4f75-964b-f51b9dc0d506" name="Hay.009_Material.Hay1"/>
+		<meta id="c4941e92-0af9-45b9-9723-838cd40634cf" name="Hay.009_Material.Cord1"/>
+		<meta id="19bfe0e1-4a89-4549-a310-565f9e2ca320" name="Bucket.013_Material.Water"/>
+		<meta id="fdf0aac0-9a9b-4d4e-a2ae-4b5b83df2d4f" name="Bucket.013_Material.Plank"/>
+		<meta id="d8ea7ceb-e132-4da6-a845-3cf069733bd1" name="Fence.128_Material.Trunk"/>
+		<meta id="e4951df2-dbbc-4b68-8019-8c3e60b3c882" name="Fence.137_Material.Trunk"/>
+		<meta id="df8617f2-6263-4361-9523-63452d864e9c" name="Fence.130_Material.Trunk"/>
+		<meta id="6d625da6-c661-4453-9f20-47ffb00e05d3" name="Fence.132_Material.Trunk"/>
+		<meta id="c58c2a52-9a85-444b-a20e-948c5fea402a" name="Fence.133_Material.Trunk"/>
+		<meta id="963370ec-ff3c-4a2c-8420-a2e7b85800ea" name="Fence.134_Material.Trunk"/>
+		<meta id="3c4372d0-8926-46aa-8845-de54d8273b64" name="Fence.135_Material.Trunk"/>
+		<meta id="a39bfa0a-8103-4ebd-97e2-80c2041211d1" name="Fence.136_Material.Trunk"/>
+	</meta>
+	<meta id="94831046-9835-42be-b383-731af0742960" name="Prefab">
+		<meta id="eb7df503-c366-481b-8735-ad90790008fa" name="SheepYard.Part.001">
+			<meta id="6dbd258b-28c4-482a-991d-5dfcc7b714e1" name="Fence.001"/>
+			<meta id="203a5585-34a4-431a-9cfc-9f61140108f1" name="Fence.003"/>
+			<meta id="6a5cca6d-ebf6-40bf-8a3f-e0658554a51e" name="PATH_A_1"/>
+			<meta id="6d3f4346-6653-4704-bf94-3834cc64318e" name="PATH_A_2"/>
+			<meta id="8fd4c7e7-de79-4d32-ae7e-517c14a0a805" name="Fence.005"/>
+			<meta id="2278e0a7-4da6-49a5-a0d0-76d13200e04f" name="Fence.004"/>
+			<meta id="2067a7d5-cb26-4e11-b96d-1b7a424c51de" name="Fence.010"/>
+			<meta id="83734dce-6c57-4bb3-affb-d00358ab6328" name="Fence.008"/>
+			<meta id="1e98d2bd-bad4-4a71-b399-6a3e8892471a" name="Fence.011"/>
+			<meta id="cbc71f96-0574-468c-8080-0adbd6b384a0" name="Fence.012"/>
+			<meta id="3b00bfef-b44b-4b43-8391-e52900ea7ac0" name="Fence.013"/>
+			<meta id="799e5832-6901-48c5-9edd-c2c89f2b7fad" name="Fence.014"/>
+			<meta id="672fb557-2def-4831-9c9f-47b48e7fb483" name="Trough.001">
+				<meta id="680738f8-84bc-4280-82a2-870811558e4c" name="Trough.001_0"/>
+				<meta id="d3a98c2a-ceac-470a-aac9-b2107f65b538" name="Trough.001_1"/>
+			</meta>
+			<meta id="fab2b5e8-7d7f-46f2-a436-b35e3eee0679" name="Hay.001">
+				<meta id="9702b2a2-c23d-4d82-9923-9164a679eaee" name="Hay.001_0"/>
+				<meta id="0fa30d71-c649-4781-8496-00b81bb1a443" name="Hay.001_1"/>
+			</meta>
+			<meta id="fd1178fc-dc9f-46fc-87da-90dc34fd58cc" name="Hay.002">
+				<meta id="eb5805b8-48c4-4431-89ea-e3efce8cf7e4" name="Hay.002_0"/>
+				<meta id="3861111a-d123-431a-85f0-f419f3280a4b" name="Hay.002_1"/>
+			</meta>
+			<meta id="9e1afc47-bbc9-424f-abfb-0f940820201b" name="DungHeap.001"/>
+			<meta id="2263bf79-04f6-4624-b45a-44e66945e647" name="Fence.006"/>
+			<meta id="5cc121df-63da-4a9d-8322-f691cba553d5" name="Fence.007"/>
+			<meta id="4fa6cd93-038a-4a79-a5b7-a14997d30506" name="Fence.002"/>
+			<meta id="1f111cd6-835c-43ef-8eed-b01ad13e7c72" name="Fence.009"/>
+			<meta id="cb018f79-06c8-4ae6-a3d3-9d06247ecbc0" name="Hay.009">
+				<meta id="568680fa-bfec-44bf-883f-92d66bf3ba98" name="Hay.009_0"/>
+				<meta id="7805c1c3-695c-43bd-9c56-5a10134a1e77" name="Hay.009_1"/>
+			</meta>
+			<meta id="cf1c838a-0d2b-473d-8ad3-8a73f6e0e0e8" name="Bucket.013">
+				<meta id="61ec2800-50b0-4267-8757-14498a781347" name="Bucket.013_0"/>
+				<meta id="fc34001b-9064-4713-8a9c-ef7d58daf782" name="Bucket.013_1"/>
+			</meta>
+		</meta>
+		<meta id="6f59e091-bff9-463b-bf9f-dc18409b3b86" name="SheepPen.Part.001">
+			<meta id="4b176159-e729-48a1-894f-4f0d7d31f220" name="Attach_Major.008"/>
+			<meta id="bb333512-4eb3-4c3f-9cd2-2be95e67acec" name="Bucket.001">
+				<meta id="65dfbfcd-1540-4ada-877d-533029c128ce" name="Bucket.001_0"/>
+				<meta id="b6926ea9-197a-425d-a951-554e6fc97cc1" name="Bucket.001_1"/>
+			</meta>
+			<meta id="01101891-e9b2-4bc6-86f6-bc187c268ed6" name="Fence.019"/>
+			<meta id="bb854ba7-e933-4212-b084-7db4363923fd" name="Fence.026"/>
+			<meta id="9713d1e2-2b15-45d3-8cb2-efc7081a7f58" name="Fence.025"/>
+			<meta id="daa3fb48-e17c-4db0-b48c-8478b29114c0" name="Fence.024"/>
+			<meta id="44bb56dd-4940-4f37-807f-0ef519a546af" name="Fence.023"/>
+			<meta id="5bc05f1a-14ea-4670-92bd-8243bbcf0e09" name="Fence.022"/>
+			<meta id="18368efd-72df-4f5c-ac5b-532a3d624a7e" name="Fence.021"/>
+			<meta id="aa006256-fb65-46ab-86ae-0f18c00a8bd6" name="Fence.020"/>
+			<meta id="df7c4c07-a601-402f-9b93-0145c0221b12" name="PATH_E_1"/>
+			<meta id="e697aa17-29b9-41ae-a8f7-be574632b6c7" name="PATH_E_2"/>
+			<meta id="9234bf7a-cb45-432c-ba11-a223e261bd35" name="Bucket.002">
+				<meta id="9e41a14d-95e1-461b-8488-fd030e890862" name="Bucket.002_0"/>
+				<meta id="1264656d-a4a7-49d5-91e1-8f2f8614122d" name="Bucket.002_1"/>
+				<meta id="9808493c-c52c-4810-a091-071a72d7166f" name="Bucket.002_2"/>
+			</meta>
+			<meta id="0af370a2-6954-46cb-a53f-0a972acd4f37" name="Attach_Major.055"/>
+			<meta id="233d96b0-6f41-47c6-830d-2c88e9083772" name="Attach_Major.056"/>
+			<meta id="58bdabae-3f6d-4839-b92e-b4b4a4c8112d" name="Bucket.003">
+				<meta id="2c492fe1-54d7-4c14-ad39-348674d06994" name="Bucket.003_0"/>
+				<meta id="901ea9f0-a076-46a9-9087-8caba8a1701a" name="Bucket.003_1"/>
+				<meta id="773d6f29-2927-4d0f-9e17-64298047b6f5" name="Bucket.003_2"/>
+			</meta>
+			<meta id="9e239bde-e24a-4171-86dc-b6381c4c1cff" name="Hook.001">
+				<meta id="829c3cb1-d800-4484-80b2-9ba3fd319f8c" name="Hook.001_0"/>
+				<meta id="b96ef0db-6e9f-4300-9750-538f6942f41c" name="Hook.001_1"/>
+			</meta>
+		</meta>
+		<meta id="eee3b670-21bf-4bef-8cf9-3ca800276c19" name="SheepSpawner"/>
+		<meta id="b6164ad7-8705-490d-b9be-4f830be015b9" name="SheepPen.Part.002">
+			<meta id="2fc570cf-0346-4275-bccc-bbe3b22d22da" name="Attach_Major.019"/>
+			<meta id="d9d73d2d-82b6-4e2c-81f4-be6ef3bce6b3" name="Fence.027"/>
+			<meta id="b63176d5-5283-4f19-a71e-471b8be63ebf" name="Fence.028"/>
+			<meta id="f596f0ff-b67b-4e52-9f04-5d784535ba71" name="Fence.029"/>
+			<meta id="2de81485-fdaf-4ab9-ae5d-6c1f38223cbb" name="Fence.030"/>
+			<meta id="655aaee9-9bc4-4450-bcf8-9fdb50d882ce" name="Fence.031"/>
+			<meta id="2b936235-7b94-41e1-a40e-28a482c77fac" name="Fence.032"/>
+			<meta id="0ad1da01-577f-4839-b3f5-929e731f49d6" name="Fence.033"/>
+			<meta id="8e796c27-7e3f-4b59-bee4-1da4e04a6f85" name="Fence.034"/>
+			<meta id="70ec154a-cf48-4ec2-823e-b685fec39523" name="PATH_F_1"/>
+			<meta id="37bc2a64-6be8-40af-9654-eccba283688e" name="PATH_F_2"/>
+			<meta id="0e6feca3-e2ab-4497-84ee-bcad15283d64" name="Bucket.004">
+				<meta id="11a22fe1-c54a-491f-a87d-d03f253f9ac2" name="Bucket.004_0"/>
+				<meta id="41bf41ba-51bb-4121-b39a-6c8b9307b222" name="Bucket.004_1"/>
+				<meta id="1a70d7ee-5141-48d2-9cb1-9a239c0da11b" name="Bucket.004_2"/>
+			</meta>
+			<meta id="3367350d-53e4-4580-ac14-e9fed10a5706" name="Attach_Major.057"/>
+			<meta id="40791133-8686-4791-b3b1-6c9fca2be337" name="Attach_Major.058"/>
+			<meta id="6acec19e-b9e0-4cd2-b6d3-7138dee0bbcc" name="Hook.002">
+				<meta id="78195f41-3e43-42b3-be2e-da454effde67" name="Hook.002_0"/>
+				<meta id="bb6cfcb2-8747-4da1-8566-363e018bd97b" name="Hook.002_1"/>
+			</meta>
+			<meta id="7a8283c7-9610-45c2-ae52-a41e36c0c746" name="Bucket.005">
+				<meta id="708c973a-232c-4a29-836b-2e87973aff1f" name="Bucket.005_0"/>
+				<meta id="c4cf8eaa-31ae-4ae3-bce8-a43010593dcc" name="Bucket.005_1"/>
+				<meta id="c62e93b0-067a-4f77-8f0c-5c1f06947278" name="Bucket.005_2"/>
+			</meta>
+		</meta>
+		<meta id="75f83c7c-a5f1-4941-b537-d2d47693ed2d" name="SheepPen.Part.003">
+			<meta id="3522e48a-fd61-45c1-8a1a-2cb042cb88f9" name="Attach_Major.020"/>
+			<meta id="e95e4c31-2e31-4bcb-a3f0-4451b8935296" name="Fence.035"/>
+			<meta id="13c2274c-c317-4bd3-b4d0-887a9c614d89" name="Fence.036"/>
+			<meta id="cbfc4e83-6a3c-4753-8cf8-f187246eab60" name="Fence.037"/>
+			<meta id="9dd20c76-6439-48d7-bf2e-57d2edaab241" name="Fence.038"/>
+			<meta id="98a8852b-f29a-41e5-97c9-8d215dc387d7" name="Fence.039"/>
+			<meta id="04223ecc-b706-49e7-ab85-b3481938ab66" name="Fence.040"/>
+			<meta id="9ebc88f2-8c83-4560-bd7b-2996e09f65ed" name="Fence.041"/>
+			<meta id="f73d5388-d664-4ae5-8c4a-eb37f59be3e5" name="Fence.042"/>
+			<meta id="c35c0afd-3f74-4675-947c-57ba2c83c906" name="PATH_G_1"/>
+			<meta id="d2b7dd8c-8392-44e3-9443-52b505c5da31" name="PATH_G_2"/>
+			<meta id="8d1c5bd3-8634-4d74-8ec7-488908973d5f" name="Bench.003"/>
+			<meta id="b5a4de5f-0261-4f5b-a065-c9668366e7ce" name="Attach_Major.059"/>
+			<meta id="0f7528ad-0e30-4850-8c67-537f1d611956" name="Attach_Major.060"/>
+			<meta id="a5fae38d-3abc-42a4-89b6-f49e86dc3775" name="Bucket.006">
+				<meta id="070ab534-640e-457c-bf50-dc9be2d93e97" name="Bucket.006_0"/>
+				<meta id="31853868-6f51-4387-a4a3-6000e734d6f8" name="Bucket.006_1"/>
+			</meta>
+			<meta id="c465cb6c-90ff-4d92-b359-c3dc5d463c6c" name="Bucket.007">
+				<meta id="e3ac63c7-e753-4ff2-a00c-a0b121afbc1e" name="Bucket.007_0"/>
+				<meta id="fe159b1d-c05a-4001-9dd1-89d9f232756c" name="Bucket.007_1"/>
+			</meta>
+		</meta>
+		<meta id="091ae302-c725-4a63-a5b8-d8034ed7ad8d" name="SheepPen.Part.004">
+			<meta id="04ab21de-6005-48a0-8194-cf65b774e136" name="Attach_Major.021"/>
+			<meta id="25f6785c-1348-4ff0-aad9-46816762dcc1" name="Fence.043"/>
+			<meta id="3f7e0bed-ad13-41ee-a7c5-dd75554e5674" name="Fence.044"/>
+			<meta id="756ae8c8-aa9d-41df-a9f7-8d7b6db07b64" name="Fence.045"/>
+			<meta id="43c8268b-8305-40e4-ae7d-0fbf2c9e5217" name="Fence.046"/>
+			<meta id="1c783a88-0c22-4d3e-9975-bf80b1de3d9b" name="Fence.047"/>
+			<meta id="290edf3c-7af6-4853-bdc8-e0e0f2584df9" name="Fence.048"/>
+			<meta id="0d63dd91-ce6d-441b-bfab-76d740b4b596" name="Fence.049"/>
+			<meta id="1d3b9516-6e88-428b-be5b-535c06ae1cb5" name="Fence.050"/>
+			<meta id="85b4ac0c-156f-472f-915a-c2c2c28c76fd" name="PATH_H_1"/>
+			<meta id="8c2e8fa5-655e-44b2-9280-55ad27a3575f" name="PATH_H_2"/>
+			<meta id="4a834e19-3477-4761-bb1b-60fc22f9829c" name="Attach_Major.061"/>
+			<meta id="cedb1aae-fc23-45ac-9240-7bc488d9c950" name="Attach_Major.062"/>
+		</meta>
+		<meta id="42878d29-373d-408e-8fe0-f54e2c599a47" name="SheepYard.Part.002">
+			<meta id="56fe1d82-dbc7-449b-8a30-3c6609144cc6" name="Fence.051"/>
+			<meta id="8d3db853-0b1f-4261-854f-a9726d5ea1ae" name="Fence.052"/>
+			<meta id="8b2771cd-5198-4ecf-b17b-f2b941011c6b" name="Fence.053"/>
+			<meta id="c42a8123-1a0f-4150-9210-9c5345d6393d" name="Fence.054"/>
+			<meta id="961c338b-1e04-4349-b1d9-0d9d48f8718f" name="Fence.055"/>
+			<meta id="467ae359-aa00-486a-bc8b-5402910bb7d3" name="Fence.056"/>
+			<meta id="a617c5aa-93fd-4307-a71c-54c483680544" name="Fence.057"/>
+			<meta id="0665d811-d2f2-4747-8fc3-5cb91ee02857" name="Fence.058"/>
+			<meta id="28fa9edd-ecb1-4d6a-8de3-58ed47b2cabc" name="Fence.059"/>
+			<meta id="f83989c2-7aea-4f47-9cf5-6eebe27dfb71" name="Fence.060"/>
+			<meta id="5a77f04b-0407-4798-8fa6-43f47b5d189b" name="Trough.002">
+				<meta id="35e55933-303d-4606-8860-0480a8cfb3f8" name="Trough.002_0"/>
+				<meta id="ebd86002-daea-4736-a656-5074ffe3abca" name="Trough.002_1"/>
+			</meta>
+			<meta id="825a5a74-184c-465b-a57c-e251043a3a72" name="Hay.003">
+				<meta id="be348789-a81e-4ae0-a5d9-19d3e0f0613b" name="Hay.003_0"/>
+				<meta id="8cdc4144-fc00-4291-96d0-15babf1dc39f" name="Hay.003_1"/>
+			</meta>
+			<meta id="8d05d208-79c0-419f-8905-db4ca806435f" name="Hay.004">
+				<meta id="5d61fd71-d5b8-4b1c-9d8b-ad47bfbf813e" name="Hay.004_0"/>
+				<meta id="b354f1de-543e-4ef3-84df-bbb67fbaaf9f" name="Hay.004_1"/>
+			</meta>
+			<meta id="de84146b-e4d5-4b90-a403-d6c8911b51fa" name="Hay.005">
+				<meta id="db8567c5-4f39-4469-aad8-c6d5e91e87d2" name="Hay.005_0"/>
+				<meta id="42f81865-4c68-4c4a-943b-c97fa3344e9c" name="Hay.005_1"/>
+			</meta>
+			<meta id="a688a066-faa4-41b4-8293-2588aad65cb8" name="DungHeap.002"/>
+			<meta id="7a481bd8-9210-49fb-b6ee-14697917555a" name="Fence.015"/>
+			<meta id="12502a27-bcba-4026-8562-b183831ef151" name="PATH_A_1.001"/>
+			<meta id="5fa0fed2-522a-49d5-ade1-8e771a4ec336" name="PATH_A_2.001"/>
+			<meta id="96573f4b-c6cb-46ab-a619-3264ed1ac15c" name="Fence.016"/>
+			<meta id="752d1b28-4dcc-40ff-a862-9cb706c53e7f" name="Fence.017"/>
+			<meta id="30b22a2a-d8a5-4c0a-b81a-6791de4eedcf" name="Fence.018"/>
+			<meta id="02a68df1-b6d9-4afd-8a1d-8c3b3b9cb3cf" name="Bucket.014">
+				<meta id="3b9202f6-dca8-4e0d-89e1-ce5961c68c74" name="Bucket.014_0"/>
+				<meta id="f3c872a9-89f5-419e-9311-a443235d658f" name="Bucket.014_1"/>
+			</meta>
+			<meta id="2ad157c2-a889-4434-9aca-2dd9ece5355d" name="Bucket.017">
+				<meta id="9cc38379-dfe7-482e-b4c3-5aa14ddec9e7" name="Bucket.017_0"/>
+				<meta id="151028ca-5e7f-4074-a707-4fc05d69187b" name="Bucket.017_1"/>
+			</meta>
+		</meta>
+		<meta id="540cacef-2b21-4321-870d-65a995eb0770" name="SheepYard.Part.003">
+			<meta id="b25a6953-f96a-448a-ba90-beb1b79838e6" name="Fence.069"/>
+			<meta id="afef529d-2a26-4420-8974-a415ee3b8fc7" name="Fence.070"/>
+			<meta id="be20f578-9955-4a34-976e-63f0a2ab7693" name="Fence.071"/>
+			<meta id="3b127824-ee50-4bd5-9746-0422b6219500" name="Fence.072"/>
+			<meta id="97e3deaf-93ea-467c-a441-445c7fb41192" name="Fence.073"/>
+			<meta id="c21b3383-60a4-46db-a0a0-3559c1e9505d" name="Fence.074"/>
+			<meta id="03020532-63fd-458f-944d-39f6e1ff1eba" name="Trough.003">
+				<meta id="39b65901-9bc5-4813-8133-f53e1c568a42" name="Trough.003_0"/>
+				<meta id="2573b3f8-bb99-413f-b30f-df1eeaf5df9f" name="Trough.003_1"/>
+			</meta>
+			<meta id="72d8c3cf-b7cd-4af2-a338-a57d45abd1c9" name="Hay.007">
+				<meta id="cab4720d-1ece-4bc6-b8c8-d47483d6353b" name="Hay.007_0"/>
+				<meta id="dd512424-34f3-49c4-a28e-dc10efbdfed0" name="Hay.007_1"/>
+			</meta>
+			<meta id="de99d8a4-6f75-4a27-b353-6d96ab38e71c" name="Hay.008">
+				<meta id="9f532481-7d3c-40ad-82dc-66a5c5f63e2e" name="Hay.008_0"/>
+				<meta id="4c43c239-1d4e-4ef2-b332-c1e00d7421c3" name="Hay.008_1"/>
+			</meta>
+			<meta id="082387cc-1b28-4688-b51a-8daa7271ea64" name="Hay.006">
+				<meta id="2741c353-c4d2-4ea6-8490-e316c81bbf2c" name="Hay.006_0"/>
+				<meta id="700ecf14-a89a-469c-bd89-e4ce7d8924fd" name="Hay.006_1"/>
+			</meta>
+			<meta id="a8c1ab19-3cfb-45d9-b600-18edb3d0ce0c" name="DungHeap.003"/>
+			<meta id="dd1c31c9-7483-4a20-9195-aea093bc1a07" name="Fence.061"/>
+			<meta id="44ed3eaf-fb60-4188-a6f3-82759fbf36c0" name="PATH_A_1.002"/>
+			<meta id="6eb2e3af-002d-4a7c-b840-973c90255206" name="PATH_A_2.002"/>
+			<meta id="ba3ebf12-c205-4046-93e7-37c7a00857e5" name="Fence.062"/>
+			<meta id="1385637d-e00a-402b-9852-92d7808e0136" name="Fence.063"/>
+			<meta id="0e959ec7-286a-4731-bbc1-4e48f7acabf8" name="Fence.064"/>
+			<meta id="658702ee-a381-4527-9bf9-c8abf1f08693" name="Fence.065"/>
+			<meta id="707d2d73-28ec-4d44-942b-77b9f4bd22f9" name="Fence.066"/>
+			<meta id="43d05e2e-8b5d-44ba-9fdc-e8b1c4ec0f4a" name="Fence.067"/>
+			<meta id="8a04d223-3cbe-45f1-bd65-6781798318e5" name="Fence.068"/>
+			<meta id="3557439a-fcab-4993-9ee2-8ec73d040463" name="Bucket.015">
+				<meta id="b460df70-f4d0-4f56-a7e4-f1252bfd8f20" name="Bucket.015_0"/>
+				<meta id="9df02152-1153-4d77-a190-580ec6837cab" name="Bucket.015_1"/>
+			</meta>
+			<meta id="21d862ce-e869-44e3-8264-a3ad06d659d4" name="Bucket.018">
+				<meta id="f4d07c13-d360-4d35-88eb-a9ef1c8f108b" name="Bucket.018_0"/>
+				<meta id="7dc6c4c7-fd3e-47e8-b65c-1c0634b8dc8b" name="Bucket.018_1"/>
+			</meta>
+		</meta>
+		<meta id="03b112df-bcf6-4939-9caf-986ab7bd8b9f" name="SheepYard.Part.004">
+			<meta id="eada69a7-24a9-4c44-82b6-70370344b0d6" name="Fence.087"/>
+			<meta id="6d3697c9-6088-4b3c-88c8-540dbae42e4b" name="Fence.088"/>
+			<meta id="e6136400-1fa5-4f3b-82d3-a897ed9281c3" name="Trough.004">
+				<meta id="d69d7f3d-dc62-4d6f-9c56-672365447826" name="Trough.004_0"/>
+				<meta id="7d650c26-b915-4512-80c1-381a5a7448d0" name="Trough.004_1"/>
+			</meta>
+			<meta id="dcdcdc0c-ad90-429b-83fa-6c400a3ab84c" name="Hay.010">
+				<meta id="df196079-9890-47c1-ae07-d2b995203c8a" name="Hay.010_0"/>
+				<meta id="33c0d705-6e68-47ea-acda-bb163d7d9718" name="Hay.010_1"/>
+			</meta>
+			<meta id="773e69bf-c3a3-4b3b-9996-f8dda6a46699" name="DungHeap.004"/>
+			<meta id="baf1b5d3-9cf9-48c7-945d-8c86a810c015" name="Fence.075"/>
+			<meta id="d87a5639-6060-46a2-b202-4e09b28d7245" name="PATH_A_1.003"/>
+			<meta id="b1f18d9e-5457-47c7-8e61-680a4b68d81e" name="PATH_A_2.003"/>
+			<meta id="be9ad0a4-1f6a-43b8-8217-2f494bff9fb2" name="Fence.076"/>
+			<meta id="485e123e-c47d-4672-9bb2-30caec55a1f1" name="Fence.077"/>
+			<meta id="9884f8aa-4c85-4eae-9a8f-c223b1bf7e79" name="Fence.078"/>
+			<meta id="4bbe1059-3896-4840-835b-e014c0a40dc7" name="Fence.079"/>
+			<meta id="5a5585af-1c7b-4385-85ee-8ef3cfc90c69" name="Fence.080"/>
+			<meta id="bf18e972-d8e6-48bc-acce-15ff3958012a" name="Fence.081"/>
+			<meta id="f6003280-a828-41f7-a827-1474b5d2aaee" name="Fence.082"/>
+			<meta id="f405d6c0-1215-4467-b97f-f7c6e23aa8bf" name="Fence.083"/>
+			<meta id="c994b0fd-1a68-4481-bf33-7862ffcb868c" name="Fence.084"/>
+			<meta id="6c623390-2aed-4706-94f2-f77086b37c3a" name="Fence.085"/>
+			<meta id="82780364-231a-46f2-ae4d-d022c6c9a901" name="Fence.086"/>
+			<meta id="d36eed03-7b5d-4680-bbd2-bba5fe9fbab1" name="Hay.011">
+				<meta id="dcc4f109-3467-4dc5-8673-6ae67040a7a0" name="Hay.011_0"/>
+				<meta id="b678eca7-9e91-4e6b-a09f-705c830a83ab" name="Hay.011_1"/>
+			</meta>
+			<meta id="1628afea-2e8b-45f6-81f9-3c462fc01469" name="Hay.012">
+				<meta id="0c952833-48e4-48b1-8c14-1003ed84dde1" name="Hay.012_0"/>
+				<meta id="7364b983-7156-4ea4-8d7a-15febd228a09" name="Hay.012_1"/>
+			</meta>
+			<meta id="df3eaf94-e41d-4eca-b961-de825b4c5b4c" name="Bucket.016">
+				<meta id="18c8a44f-4456-40f1-a5b1-cdb3c2d779df" name="Bucket.016_0"/>
+				<meta id="02a5b69a-ba64-400c-ba14-834262457b18" name="Bucket.016_1"/>
+			</meta>
+		</meta>
+		<meta id="190ed758-2373-4a97-b095-8209b95b966d" name="SheepPen.Part.005">
+			<meta id="673914a5-b853-43ed-ac74-fb15222b7106" name="Attach_Major.063"/>
+			<meta id="ad6f9e1c-63d9-4a95-9a6b-5ba19ce08629" name="Fence.105"/>
+			<meta id="9b115721-ff06-40e7-9fe9-16bdee0019c7" name="Fence.106"/>
+			<meta id="d831a058-ead6-46e4-8217-236964c7fb15" name="Fence.107"/>
+			<meta id="fec3a2dc-74aa-4845-85e8-80d18c9fc196" name="Fence.108"/>
+			<meta id="ace8b609-7381-4f06-81de-195175c14f01" name="Fence.109"/>
+			<meta id="74001220-6703-4eb4-b0b9-00af6bdd388c" name="Fence.110"/>
+			<meta id="ba022970-a057-4f29-86be-3e0cef65ee1c" name="Fence.111"/>
+			<meta id="b5170619-644c-44cf-8720-368e1eb4f83e" name="Fence.112"/>
+			<meta id="a816445d-6e25-44ab-a376-018680cb9d13" name="PATH_K_1"/>
+			<meta id="5f3474ba-55b8-490c-9725-efb5b69a9c72" name="PATH_K_2"/>
+			<meta id="8b24a096-8de3-4734-900d-8b5aa66db6b9" name="Attach_Major.064"/>
+			<meta id="35b5da29-e99e-40a1-8f10-8b0adb12e088" name="Attach_Major.065"/>
+		</meta>
+		<meta id="36720d44-8885-44a4-bb7d-84963bd3fbf3" name="SheepPen.Part.006">
+			<meta id="ad7ec7da-bac7-4522-a465-27ab08e958ff" name="Attach_Major.066"/>
+			<meta id="4710d40a-2a18-4e2c-be02-0c18dcf5188a" name="Fence.113"/>
+			<meta id="f9ef63d8-656c-43b6-9f83-87f644b5f600" name="Fence.114"/>
+			<meta id="7140b732-aa0f-4578-9417-9d65d0076f60" name="Fence.115"/>
+			<meta id="75f21825-8aab-4343-aacc-658b7bf11bd4" name="Fence.116"/>
+			<meta id="5c8e229b-0767-4096-9960-a9231537a3b4" name="Fence.117"/>
+			<meta id="6354250a-7e5c-40b0-b3e2-078daf8b3785" name="Fence.118"/>
+			<meta id="eb3e128b-d25b-4469-a93f-aabad1756cdd" name="Fence.119"/>
+			<meta id="7edbb17e-671b-42cb-8ba1-0f945e798075" name="Fence.120"/>
+			<meta id="d34d2b7c-6f2c-4166-801e-7cdc75c9534d" name="PATH_L_1"/>
+			<meta id="62d10f39-4f8f-45dc-ab7a-743db7b02472" name="PATH_L_2"/>
+			<meta id="a7fa978b-a570-481c-ab16-41d898703c77" name="Attach_Major.067"/>
+			<meta id="1e5f6a9d-cd8d-4c63-9671-206aaebfc6f5" name="Attach_Major.068"/>
+		</meta>
+		<meta id="2a6e63c9-7435-4077-9fc1-b717d985bb90" name="SheepPasture.Part.001">
+			<meta id="cd13e5f7-dda6-444f-98c3-2b6efd522bf6" name="Attach_Major.Pasture"/>
+		</meta>
+		<meta id="96092d5e-f62e-41aa-9b27-2b004955b0e5" name="SheepPen.Part.007">
+			<meta id="a67e7cf2-54e6-4431-8a60-7e813f52e309" name="Bucket.009">
+				<meta id="a063fbfa-b0d2-41e8-bb64-2482d305bae4" name="Bucket.009_0"/>
+				<meta id="82f84b89-5c27-42d0-9e1c-e1350ba77cd3" name="Bucket.009_1"/>
+			</meta>
+			<meta id="62eb90e4-1ac7-449e-b46a-d4d2313acfa6" name="Fence.126"/>
+			<meta id="6168230e-d3be-4956-8494-e0bd54de11f1" name="Fence.127"/>
+			<meta id="32f7f2b1-ab9b-4e14-ae14-ac4b971ca676" name="Fence.128"/>
+			<meta id="a63d3f7a-023a-4ab0-a157-7e55125e73c8" name="Bucket.010">
+				<meta id="0f302ff8-e8db-40b0-990d-4fbea21b59bb" name="Bucket.010_0"/>
+				<meta id="d1832736-322b-41da-aa35-f1c7e6fa77a2" name="Bucket.010_1"/>
+				<meta id="9275bfeb-2dd3-4d81-8998-72b78a6cc078" name="Bucket.010_2"/>
+			</meta>
+			<meta id="0f175b46-3fc9-4339-99b1-cf88dc65a4c0" name="Bucket.011">
+				<meta id="bf597622-1315-49df-a260-9c5735c7ae32" name="Bucket.011_0"/>
+				<meta id="0d1cdeb6-368f-497a-beda-069a9a3c4864" name="Bucket.011_1"/>
+				<meta id="6b1fe116-5f50-4942-840b-12b895d84d96" name="Bucket.011_2"/>
+			</meta>
+			<meta id="b1c09057-0686-4658-8252-3bc33226ef1e" name="Hook.003">
+				<meta id="b7507924-ac5e-44d0-b7c4-8a341602ebd3" name="Hook.003_0"/>
+				<meta id="3bc3d6b9-fc3c-41ad-ab5a-f0af8a678a47" name="Hook.003_1"/>
+			</meta>
+			<meta id="b838c8b5-2bc5-4c6d-8b6c-6e1f2a9e873c" name="Fence.129"/>
+			<meta id="d8f5d593-d065-41d1-a9c3-1d035d6b4bce" name="Fence.122"/>
+			<meta id="8b71695d-6f2c-4c95-ac9c-35aeef8ca033" name="Fence.123"/>
+			<meta id="ed3d7dd0-c9eb-4fdb-a7ef-3e8829474a82" name="Fence.124"/>
+			<meta id="6add84e0-79aa-4f2d-b540-7b2c87fb8f7c" name="Fence.125"/>
+		</meta>
+		<meta id="1d2d2ba8-c9e8-4f8f-b8e0-59d96d5b178f" name="SheepPen.Part.008">
+			<meta id="24fcd5cb-be5b-4601-86e6-60678a409be7" name="Bucket.012">
+				<meta id="3a86e9f2-5f4a-451d-8b71-12996df0032e" name="Bucket.012_0"/>
+				<meta id="e322ea99-f6cc-4598-ab5e-08cc4e9ad5dc" name="Bucket.012_1"/>
+			</meta>
+			<meta id="b6206be9-f7be-4f38-ab18-6bd894f86e36" name="Fence.130"/>
+			<meta id="0c6fde0b-5aef-4037-b089-54863b74cf33" name="Fence.131"/>
+			<meta id="3eb64d22-559a-4de3-97fe-b2b74c347f8d" name="Fence.132"/>
+			<meta id="cc9035b3-7822-414d-824f-ca0554ea1fff" name="Fence.133"/>
+			<meta id="05bc5fd9-1bb2-4fb3-b3fc-a00b18482c1c" name="Fence.134"/>
+			<meta id="4b28593b-1887-4e03-ae5d-601d524c111c" name="Fence.135"/>
+			<meta id="0e906609-a7fc-4b6c-90cb-674b6bc79f9c" name="Fence.136"/>
+			<meta id="1671a1df-2748-4f64-abeb-b1061e295aef" name="Bench.004"/>
+			<meta id="c3225bf8-a62a-4e5d-91dd-2540bb86e174" name="Bucket.008">
+				<meta id="36fd3fe0-569c-4a78-bd17-09067dda6183" name="Bucket.008_0"/>
+				<meta id="b33fea96-f574-43c4-95e4-d6f9b42ab86e" name="Bucket.008_1"/>
+			</meta>
+			<meta id="e36adc3d-83da-4d98-9a4f-86fd952e2cde" name="Fence.137"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="ed05351fc5ed4908562fe32d80315e70"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Trough.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DungHeap.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.013_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.013_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.013"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepYard.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_E_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_E_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.002_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.002_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.055"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.056"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.003_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.003_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hook.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hook.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hook.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="SheepSpawner"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_F_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_F_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.004_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.004_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.057"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.058"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hook.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hook.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hook.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.005_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.005_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.039"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.040"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.041"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.042"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_G_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_G_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bench.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.059"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.060"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.007_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.043"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.044"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.045"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.046"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.047"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.048"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.049"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.050"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_H_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_H_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.061"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.062"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.004"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.051"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.052"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.053"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.054"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.055"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.056"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.057"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.058"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.059"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.060"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Trough.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DungHeap.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.014_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.014_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.017_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.017_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.017"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepYard.Part.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.069"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.070"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.071"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.072"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.073"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.074"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Trough.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.007_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DungHeap.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.061"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.062"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.063"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.064"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.065"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.066"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.067"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.068"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.015_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.015_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.018_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.018_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.018"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepYard.Part.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.087"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.088"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Trough.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Trough.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.010_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.010_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DungHeap.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.075"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.076"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.077"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.078"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.079"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.080"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.081"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.082"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.083"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.084"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.085"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.086"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.011_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.011_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.012_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hay.012_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hay.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.016_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.016_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.016"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepYard.Part.004"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.063"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.105"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.106"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.107"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.108"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.109"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.110"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.111"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.112"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_K_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_K_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.064"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.065"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.005"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.066"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.113"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.114"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.115"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.116"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.117"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.118"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.119"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.120"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_L_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_L_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.067"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.068"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.006"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.Pasture"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPasture.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.126"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.127"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.128"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.010_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.010_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.010_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.011_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.011_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.011_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hook.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hook.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hook.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.129"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.122"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.123"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.124"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.125"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.007"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.012_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.012_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.130"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.131"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.132"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.133"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.134"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.135"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.136"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bench.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Fence.137"/>
+					</Item>
+				</ChildList>
+				<NodeName value="SheepPen.Part.008"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c3587198-c8c3-4a8e-965b-b43ef5101579"/>
+			<MaterialName value="Material.Bucket"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="05ec94b3-4367-4261-bc1e-bbeb19792d42"/>
+			<MaterialName value="Material.Cord1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3d7ac630-e7b6-40d9-8329-9046320c2738"/>
+			<MaterialName value="Material.Dung"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ca5660f4-ce53-436c-a9d4-8fedcd1d0d0c"/>
+			<MaterialName value="Material.Hay1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9e4d0c29-93a4-4eb0-973f-7140ac6c2e6d"/>
+			<MaterialName value="Material.Hay2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6007c2b5-fa9e-46a6-8aac-efdd15d7a44d"/>
+			<MaterialName value="Material.Hay3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="13f15209-4d3d-49eb-a609-f449e99c2480"/>
+			<MaterialName value="Material.Inside"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="21ae22f3-0a4b-4b05-9905-0e1e3f530ee8"/>
+			<MaterialName value="Material.Metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="697a6392-dbea-45ed-8b65-9bec9796c479"/>
+			<MaterialName value="Material.Milk"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0d4425a2-009c-4257-9009-e97b385c330d"/>
+			<MaterialName value="Material.Pig"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="28b8d657-52ef-4361-bfd8-ee3e6bfeadfa"/>
+			<MaterialName value="Material.Plank"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="931a07bb-774a-4768-9023-174dc98b80cb"/>
+			<MaterialName value="Material.Tallow"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9b16a014-e388-4e68-aff3-5905be1e79a9"/>
+			<MaterialName value="Material.Tool"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="af43ee1f-200c-44bc-9812-328890794ac5"/>
+			<MaterialName value="Material.Trunk"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b8ea81e1-eaae-45ab-bb25-23149c42cda5"/>
+			<MaterialName value="Material.Trunk.001"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2fc3c9f4-b82c-44f8-865e-6c105a5a2d1c"/>
+			<MaterialName value="Material.Water"/>
+		</Item>
+	</MaterialList>
+</importer>
+

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="9ce6ed11-5de9-4d71-9310-9ca294ef241d">
+	<meta id="bc3f2e86-fe5b-4c9b-a380-bb3c1e6a8609" type="group" folder="true" name="Materials">
+		<meta id="73a82eb2-b2cb-4e90-9f76-3f589de816ad" name="Material.Dung"/>
+		<meta id="49288bff-25c5-4e80-a858-cdcd0a267420" name="Material.Basket"/>
+	</meta>
+	<meta id="735544be-7767-4b07-abf2-21c1b0937a72" type="group" folder="true" name="Meshes">
+		<meta id="ce4c1085-8448-42dd-ae77-23ed07cb4c58" name="DungHeap_Material.Dung"/>
+		<meta id="089d9dca-392a-449c-9fa2-22b7dded0f2b" name="Basket.002_Material.Dung"/>
+		<meta id="3358dde8-fdb7-41a0-b85e-d6c5a7b19afa" name="Basket.002_Material.Basket"/>
+		<meta id="c1e2f96e-1ed1-4022-8bdf-518b6b543b1b" name="Basket.003_Material.Dung"/>
+		<meta id="c759bef0-cf60-4733-84bd-af0cb23fc5f3" name="Basket.003_Material.Basket"/>
+		<meta id="3c0ce2db-a9d4-472b-9a45-b8a4490d5264" name="Basket.004_Material.Basket"/>
+		<meta id="cef98750-1902-4d6d-b167-dce17265393e" name="Basket.005_Material.Dung"/>
+		<meta id="9390dec7-f9fb-4e5a-a5fa-dba07e78c7fc" name="Basket.005_Material.Basket"/>
+	</meta>
+	<meta id="298efa02-c69d-409e-9d9c-a7f7b57019af" name="Prefab">
+		<meta id="1e7069d0-b500-4622-9c1d-1770f92b09be" name="DungHeapPart">
+			<meta id="d4bcfb9d-7166-4d88-af55-519d9a948f11" name="DungHeap"/>
+			<meta id="0873ad4f-b123-4f1f-ae9a-19fa2041fdb9" name="PATH_A_1"/>
+			<meta id="b88610d5-b6ee-4213-95b0-650bf55b2996" name="Basket.002">
+				<meta id="9be54d0f-c8d0-49d7-b926-45467ac840fa" name="Basket.002_0"/>
+				<meta id="e6c5e5b7-470d-42e4-8be8-0c622d8d22a1" name="Basket.002_1"/>
+			</meta>
+			<meta id="18d3186e-3e34-4371-8436-92e94526f87c" name="Basket.003">
+				<meta id="df51e632-1afb-42e9-b72b-7b69f566c46c" name="Basket.003_0"/>
+				<meta id="70dbd6e2-e608-45b3-85fd-4372ce254836" name="Basket.003_1"/>
+			</meta>
+			<meta id="884403ca-c94a-4535-86af-242be830b97d" name="Basket.004"/>
+			<meta id="5a6c48a2-abbd-485a-9062-87402d2e4629" name="PATH_B_1"/>
+			<meta id="50944438-7c7d-499f-b6e7-9441abb8c4b2" name="Basket.005">
+				<meta id="c1a3af24-f672-475f-af33-b4588b9cb2c7" name="Basket.005_0"/>
+				<meta id="e48b9e8d-4c7c-43f7-8943-3ed15bc1d911" name="Basket.005_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="529c298fd58e44f33aa98b4a689caa5d"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="DungHeap"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Basket.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Basket.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Basket.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DungHeapPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="49288bff-25c5-4e80-a858-cdcd0a267420"/>
+			<MaterialName value="Material.Basket"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="73a82eb2-b2cb-4e90-9f76-3f589de816ad"/>
+			<MaterialName value="Material.Dung"/>
+		</Item>
+	</MaterialList>
+</importer>
+

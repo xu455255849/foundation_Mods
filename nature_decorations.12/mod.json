@@ -1,0 +1,12 @@
+{
+    "Name": "Nature Decorations",
+	"Author": "RaisinMuffin",
+	"Description": "A collection of various flora and stone decorations",
+	"Version": "1.9.0",
+	"Dependencies": [
+		{
+			"Id": "cfaa7652-e8e6-47d5-94d0-a75d49483913",
+			"Name": "Fantasy Decorations"
+		}
+	]
+}
