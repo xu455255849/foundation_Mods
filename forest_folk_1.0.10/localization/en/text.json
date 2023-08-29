@@ -1,0 +1,36 @@
+{
+	"": {
+
+		"BUILDING_TREEFOLK_NAME": "Forest Folk",
+		"BUILDING_TREEFOLK_DESC": "Treehouses and other buildings for simple people living in the woods.",
+
+        "BUILDING_SET_TREEFOLK1_NAME": "Tree houses and platforms",
+        "BUILDING_SET_TREEFOLK2_NAME": "Resources",
+
+        "BUILDING_PART_TREEFOLK_TREE_NAME": "Tree",
+        "BUILDING_PART_TREEFOLK_TREEHOUSE_NAME": "House",
+        "BUILDING_PART_TREEFOLK_STAIR_NAME": "Stair",
+        "BUILDING_PART_TREEFOLK_BRIDGE_NAME": "Bridge",
+        "BUILDING_PART_TREEFOLK_PLATFORM_NAME": "Plaform",
+        "BUILDING_PART_TREEFOLK_WATER_NAME": "Water Spring",
+        "BUILDING_PART_TREEFOLK_FORESTER_NAME": "Lumber and Forestry Hut",
+        "BUILDING_PART_TREEFOLK_FORESTER_DESC": "Plant and harvest trees",
+        "BUILDING_PART_TREEFOLK_SACRED_NAME": "Sacred Tree",
+        "BUILDING_PART_TREEFOLK_SNARE_NAME": "Wildfowl Snare",
+        "BUILDING_PART_TREEFOLK_MUSHROOM_NAME": "Mushroom Hut",
+        "BUILDING_PART_TREEFOLK_MARKET_NAME": "Food Market",
+        "BUILDING_PART_TREEFOLK_NEST_NAME": "Wildfowl Nests",
+
+        "BUILDING_FUNCTION_TREEFOLK_MARKET_MUSHROOM_NAME": "Mushrooms",
+        "BUILDING_FUNCTION_TREEFOLK_MARKET_POULTRY_NAME": "Poultry",
+        "BUILDING_FUNCTION_TREEFOLK_MARKET_EGG_NAME": "Eggs",
+
+        "JOB_TREEFOLK_DRUID_NAME": "Druid",
+        "JOB_TREEFOLK_FORAGER_NAME": "Forager",
+        "JOB_TREEFOLK_WILDFOWL_NAME": "Wildfowl Trapper",
+
+
+		"": ""
+
+	}
+}

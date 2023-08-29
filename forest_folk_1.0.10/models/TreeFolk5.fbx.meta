@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="1e2a44cf-0e54-4553-8db3-e8c7edfadbf5">
+	<meta id="78738656-267b-4f31-9b21-dc74f779c1f9" type="group" folder="true" name="Materials">
+		<meta id="72328b2f-a240-4141-abc2-6f6cb655f147" name="Material.Log1"/>
+		<meta id="cae5fbea-d118-45f6-8c9a-f1767539ac56" name="Material.Tree3"/>
+		<meta id="8ef2fb6f-68cf-4258-95f8-7063b7284896" name="Material.Wall1"/>
+		<meta id="3452d063-4fa4-4e1e-a439-48e3dec54b00" name="Material.Rope"/>
+		<meta id="29231cc6-3917-44ce-a2a1-bde475887fc0" name="Material.Net1"/>
+	</meta>
+	<meta id="02cf2f01-3278-4508-a1b0-f09872ef4912" type="group" folder="true" name="Meshes">
+		<meta id="fec9bd5e-358e-4c4d-ab94-21a119d49c1b" name="Branch.046_Material.Log1"/>
+		<meta id="dfc57f3e-f8ad-4313-be0a-4d2546e6eae0" name="Branch.048_Material.Log1"/>
+		<meta id="a5d18b72-22b9-4c8e-a7cf-7dd19c32b479" name="Branch.050_Material.Log1"/>
+		<meta id="333195b3-7f9c-4d04-a0a1-dea4dedb563f" name="Branch.052_Material.Log1"/>
+		<meta id="c317bef8-08ff-44b0-afe4-11c1ac79a659" name="Branch.054_Material.Log1"/>
+		<meta id="63fc3541-4fda-44d1-a1ee-8a0780e0a2f2" name="Branch.056_Material.Log1"/>
+		<meta id="12cbfa2e-76b0-47f9-915b-ea0b22c0c3a1" name="Leaves.075_Material.Tree3"/>
+		<meta id="7189cf29-bb57-462e-ba6f-c057dccc99cf" name="Leaves.076_Material.Tree3"/>
+		<meta id="6cc2eb68-04ce-482d-a831-fc1f3775853f" name="Leaves.077_Material.Tree3"/>
+		<meta id="67e6141d-02b3-4ae6-896a-5aba49adac0b" name="Leaves.078_Material.Tree3"/>
+		<meta id="f7359fdb-2d13-4ee9-9ac1-63e013d1037e" name="Leaves.079_Material.Tree3"/>
+		<meta id="6d5c833b-2da0-493a-9eb9-c62fc65dbc3b" name="Leaves.080_Material.Tree3"/>
+		<meta id="27231572-eba0-419b-902b-a24ce6770809" name="Leaves.083_Material.Tree3"/>
+		<meta id="5c7bd3bf-9d7e-4ef7-a66a-2fcd327bafd7" name="Leaves.084_Material.Tree3"/>
+		<meta id="7e233f3e-e950-4916-af8b-8839a04db0a8" name="Leaves.085_Material.Tree3"/>
+		<meta id="7d741eb7-4b4a-4b4b-9467-88ffde732c17" name="Leaves.086_Material.Tree3"/>
+		<meta id="288e1af5-5467-4a65-87df-c07d546bf0cf" name="Platform.002_Material.Wall1"/>
+		<meta id="e334e25b-2bd3-404e-8140-4ff3685287ec" name="Tree.013_Material.Tree3"/>
+		<meta id="3e41b839-8ded-434d-8951-1d8301c17c49" name="Snare1Part_COLLIDER"/>
+		<meta id="05afa8a1-8592-4800-b114-49d7bc32b232" name="Leaves.001_Material.Tree3"/>
+		<meta id="fa02b454-ca32-4224-bb77-dc9536a59f96" name="Rope.001_Material.Rope"/>
+		<meta id="a3af2586-4e08-4859-9bff-ed8f66c9321b" name="Rope.002_Material.Rope"/>
+		<meta id="d7d7093f-3c3b-427c-8b8d-b87791d22151" name="Net.001_Material.Net1"/>
+	</meta>
+	<meta id="20eb4d5c-462c-4562-8363-d93833ad0288" name="Prefab">
+		<meta id="bc8b9c6a-bc29-4fbc-b753-8e8fcb2d57ac" name="Snare1Part">
+			<meta id="5da0128d-f07a-4c81-ab0c-17bdf86075d5" name="Attach_Minor.001"/>
+			<meta id="9998baf2-3fb0-4839-9c6f-43b46afc1695" name="Branch.046"/>
+			<meta id="89156dd3-74b5-413a-b716-361242a1b057" name="Branch.048"/>
+			<meta id="33c78ec8-70b2-45c2-92df-28a7c62dd208" name="Branch.050"/>
+			<meta id="7bc41c06-25b8-451e-b5aa-bd76a14bf7c3" name="Branch.052"/>
+			<meta id="3a7ec2ce-0bff-4feb-8475-2f038598e6dd" name="Branch.054"/>
+			<meta id="f6bddbc3-238a-41f0-a8a5-ea7d4115fbe7" name="Branch.056"/>
+			<meta id="a5c3c15a-159c-4ce4-86de-f61c1a230d6a" name="Leaves.075"/>
+			<meta id="57a6bea2-29da-4b33-a980-1730164c7e29" name="Leaves.076"/>
+			<meta id="54bfa2ce-7eb9-498a-994e-8774e225c0cd" name="Leaves.077"/>
+			<meta id="64209e58-f003-42e3-9e8f-466365720a54" name="Leaves.078"/>
+			<meta id="173eb3e8-c82a-4406-b356-e80fb64fb138" name="Leaves.079"/>
+			<meta id="a7c01c96-bad0-4b11-be78-bedb89feb085" name="Leaves.080"/>
+			<meta id="97c7793e-f6c9-4411-a572-8f07825cb71d" name="Leaves.083"/>
+			<meta id="c2e56b03-82c7-423a-bd79-754e8341b904" name="Leaves.084"/>
+			<meta id="feeca002-dc00-4ac9-9247-7171d8e0dfc6" name="Leaves.085"/>
+			<meta id="fbfb74cd-0bbb-4bbd-961a-b850eace657c" name="Leaves.086"/>
+			<meta id="4edb3e3d-f3ac-4721-b3d4-63c47785015c" name="PATH_I_1"/>
+			<meta id="8746bd38-97f2-4db4-b533-de2d7db3a001" name="PATH_I_2"/>
+			<meta id="539642c6-6eb3-4a64-a123-c7abd8721a8d" name="Platform.002"/>
+			<meta id="2f7c5db8-b212-44ee-82f3-37f9f396da3b" name="Tree.013"/>
+			<meta id="ac11fa92-2540-4aa4-b97c-651e44874f27" name="Leaves.001"/>
+			<meta id="6a801544-5727-467d-87e1-169e51902720" name="Rope.001"/>
+			<meta id="855e1845-efc5-4bd1-aee1-4136117750af" name="Rope.002"/>
+			<meta id="a4682eca-9a9f-4ea0-b279-c6e1c6590dbc" name="Net.001"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="db230fa671a1f62700d925ec016de9d8"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.046"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.048"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.050"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.052"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.054"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.056"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.075"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.076"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.077"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.078"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.079"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.080"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.083"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.084"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.085"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.086"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_I_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_I_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Platform.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tree.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rope.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rope.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Net.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Snare1Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="72328b2f-a240-4141-abc2-6f6cb655f147"/>
+			<MaterialName value="Material.Log1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="29231cc6-3917-44ce-a2a1-bde475887fc0"/>
+			<MaterialName value="Material.Net1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3452d063-4fa4-4e1e-a439-48e3dec54b00"/>
+			<MaterialName value="Material.Rope"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cae5fbea-d118-45f6-8c9a-f1767539ac56"/>
+			<MaterialName value="Material.Tree3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8ef2fb6f-68cf-4258-95f8-7063b7284896"/>
+			<MaterialName value="Material.Wall1"/>
+		</Item>
+	</MaterialList>
+</importer>
+

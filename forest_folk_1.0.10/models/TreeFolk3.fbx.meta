@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="0b33b9ec-fadc-41a4-93f6-98de491dbba7">
+	<meta id="1d534acd-51d6-4ddc-9bea-cb3360a7176f" type="group" folder="true" name="Materials">
+		<meta id="23b6905f-3951-4099-a8f6-eca44d368bf3" name="Material.PlankAndBeamsDB"/>
+		<meta id="7ae41537-0654-41e4-9da0-2199fcd8b9d2" name="Material.Blacksmith"/>
+	</meta>
+	<meta id="4e0803ba-28e8-425c-b46d-e55569f4d6a8" type="group" folder="true" name="Meshes">
+		<meta id="1970b80d-60c8-4d8d-a9e4-0fc1c2e6d42b" name="Stair.024_Material.PlankAndBeamsDB"/>
+		<meta id="79a36fff-3767-4e32-8d01-3c9905613b11" name="Stair.003_Material.PlankAndBeamsDB"/>
+		<meta id="3f80b62e-66ab-4ea0-a63c-abbba5aafd4c" name="Stair.004_Material.PlankAndBeamsDB"/>
+		<meta id="8897106c-d6dc-4517-97f5-f2526fb2eb23" name="Stair.005_Material.PlankAndBeamsDB"/>
+		<meta id="4034ee42-0ea6-4b5d-9faf-cd9b30e15f31" name="Stair.007_Material.PlankAndBeamsDB"/>
+		<meta id="28c2f198-c8af-4acc-a7f3-115227a98264" name="Stair.008_Material.PlankAndBeamsDB"/>
+		<meta id="7dd6164e-9de5-462e-9ad7-e0cb7d42dc53" name="Stair.009_Material.PlankAndBeamsDB"/>
+		<meta id="c7149389-f795-44c8-ab21-fae1925ab960" name="Stair.010_Material.PlankAndBeamsDB"/>
+		<meta id="5c73ff3a-9afe-48a1-b84f-a702a2b696da" name="Stair.012_Material.PlankAndBeamsDB"/>
+		<meta id="d2d8fc64-0524-4be3-bcbc-83c9fe2008e2" name="Stair.013_Material.PlankAndBeamsDB"/>
+		<meta id="7926c0e2-c6d2-45d7-962e-896a103f3e49" name="Stair.014_Material.PlankAndBeamsDB"/>
+		<meta id="4c591746-95c7-4fb0-a578-5c0c81a6389d" name="Stair.015_Material.PlankAndBeamsDB"/>
+		<meta id="c9487fb0-08cb-4170-8876-8d7f19dde130" name="Stair.017_Material.PlankAndBeamsDB"/>
+		<meta id="05569e2b-d5de-4297-ab24-04e8ea75dc40" name="Stair.019_Material.PlankAndBeamsDB"/>
+		<meta id="65040e0f-bd5c-454b-bba6-45eba2607fe4" name="Stair.021_Material.PlankAndBeamsDB"/>
+		<meta id="2bc606c6-239e-4872-bee4-0b165ae02d72" name="Rope.001_Material.Blacksmith"/>
+		<meta id="c2e4d753-1067-4db1-b146-4a9302fcc122" name="Rope.002_Material.Blacksmith"/>
+		<meta id="892b0393-f6c1-4a56-a7bc-9558324e98aa" name="Bridge1Part_COLLIDER"/>
+		<meta id="f1d47def-6c16-4ddb-b6b0-55ed77e504f4" name="Stair.006_Material.PlankAndBeamsDB"/>
+		<meta id="f10f8814-79a2-430c-b858-47c2b9eadd9f" name="Stair.011_Material.PlankAndBeamsDB"/>
+		<meta id="c066059b-e356-47ca-b246-3e9ced732534" name="Stair.001_Material.PlankAndBeamsDB"/>
+	</meta>
+	<meta id="6ece0466-21d5-4881-a11f-256971836068" name="Prefab">
+		<meta id="897f7cea-57d6-4833-a3d5-bc5df2bad542" name="Bridge1Part">
+			<meta id="f72e007b-2749-44dd-8b5e-86b6099a1d51" name="Stair.024"/>
+			<meta id="5996793d-38d1-4f6d-9584-b8a7dcd60f15" name="Stair.003"/>
+			<meta id="76d12eb2-f91c-4d52-b23e-c2ddb3207cfb" name="Stair.004"/>
+			<meta id="50199390-ce35-4e92-8e63-b4fd87f4a339" name="Stair.005"/>
+			<meta id="40c2b013-24f7-45c0-bbe3-45c9b453e442" name="Stair.006"/>
+			<meta id="7339e32d-d130-4d48-8364-d86740f98998" name="Stair.007"/>
+			<meta id="74da9079-c7c8-4e7f-964e-4b9cfca6f199" name="Stair.008"/>
+			<meta id="6073bd4a-52f2-4f51-ae9b-06023f1d3998" name="Stair.009"/>
+			<meta id="d19d4137-3964-4587-8e9b-0ff77bd0143d" name="Stair.010"/>
+			<meta id="002caf9b-1446-45b9-a324-709a09f4b363" name="Stair.011"/>
+			<meta id="b16170e4-5d69-406c-8fa2-2ab3e2ddddc4" name="Stair.012"/>
+			<meta id="65118206-01a5-416f-82a5-dc8c8766421b" name="Stair.013"/>
+			<meta id="d8a75ae7-94d4-4602-9a23-0bdd0c331d69" name="Stair.014"/>
+			<meta id="fa3d7c76-225f-4adc-a0c8-881364727a6a" name="Stair.015"/>
+			<meta id="e822cd60-4712-4803-9e35-199e35bab081" name="Stair.016"/>
+			<meta id="feac7d53-9cdd-488c-b5d1-f1365d1c40eb" name="Stair.017"/>
+			<meta id="603335e1-28d2-49f2-bf3a-853db905cb22" name="Stair.018"/>
+			<meta id="8c6f91b5-b160-4189-9077-3539202429af" name="Stair.019"/>
+			<meta id="bdb7e42d-9529-4b82-8997-f28297e6d728" name="Stair.020"/>
+			<meta id="abd2f1fc-1de0-46c2-aad1-cc4449aa269a" name="Stair.021"/>
+			<meta id="73db1a0b-6d75-4e71-a4de-aa6a8c29d22d" name="Stair.022"/>
+			<meta id="51b3f2c1-d8a5-4255-9ecf-39c138f65cbb" name="Stair.023"/>
+			<meta id="c58248ec-0e83-4cb4-b202-65ea087fef0b" name="Stair.001"/>
+			<meta id="0d67974a-ceeb-47f0-9089-67458660731b" name="Stair.002"/>
+			<meta id="1a9cb506-6d48-4747-b32a-dfb6cf869575" name="Rope.001"/>
+			<meta id="afd15e6b-77e8-4250-b62e-bc1d5dcd2c6f" name="Rope.002"/>
+			<meta id="c8b7b298-cbb5-4817-a0c4-953283b735e7" name="Attach_Minor.002"/>
+			<meta id="8d885d68-fe50-4948-a925-7ba8d09d72ef" name="Attach_Minor.001"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="75bed45763fbf94775e49cb33d14204b"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rope.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rope.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Bridge1Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7ae41537-0654-41e4-9da0-2199fcd8b9d2"/>
+			<MaterialName value="Material.Blacksmith"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="23b6905f-3951-4099-a8f6-eca44d368bf3"/>
+			<MaterialName value="Material.PlankAndBeamsDB"/>
+		</Item>
+	</MaterialList>
+</importer>
+

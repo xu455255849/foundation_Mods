@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="c3d673e9-7abf-4437-aa77-b8b5e4176fb0">
+	<meta id="89acde7b-28ff-425c-b6ef-67c395aa0aee" type="group" folder="true" name="Materials">
+		<meta id="61c427fa-27b7-41cb-b170-01f7e878233e" name="Material.Tree2"/>
+		<meta id="bf2d5723-e112-4dff-85c2-779915f7f100" name="Material.Wall1"/>
+		<meta id="a27a9f42-f60e-4451-9a0c-06f2bf37cf43" name="Material.Dove"/>
+		<meta id="c7f32f22-732f-4b65-a0ed-01f5983dcbc9" name="Material.Egg1"/>
+		<meta id="dec8b78e-da78-434f-ac58-0dde27fc6fb7" name="Material.Log1"/>
+		<meta id="b0422980-a96d-4e13-b709-5c5697e0833b" name="Material.PlankAndBeamsDB"/>
+	</meta>
+	<meta id="d56bed8b-409a-42c1-b4eb-20c46ba6ad54" type="group" folder="true" name="Meshes">
+		<meta id="05878644-5e68-4a04-a535-fe1f2ede3a4b" name="Tree.001_Material.Tree2"/>
+		<meta id="5f907217-336b-4a4f-8e51-38b7d79acb7a" name="Nest.001_Material.Wall1"/>
+		<meta id="81313b33-e2ee-4948-97db-8ddccd3f9752" name="Dove.002_Material.Dove"/>
+		<meta id="1e82fbbe-2822-47dd-a499-861c5ad863dc" name="Nest.002_Material.Wall1"/>
+		<meta id="bf37fe37-a638-4508-8379-16d9f3b1deef" name="Dove.001_Material.Dove"/>
+		<meta id="6be2a8a8-5d36-4967-961d-05461c45dd07" name="Egg.001_Material.Egg1"/>
+		<meta id="4253630b-342b-4806-a629-9d38e3568c59" name="Egg.002_Material.Egg1"/>
+		<meta id="eed2cde4-3c43-47f1-9bea-051a00e73ac8" name="Egg.003_Material.Egg1"/>
+		<meta id="30dd0cb4-76a5-412f-849b-0f062e5a7bdd" name="Nest.003_Material.Wall1"/>
+		<meta id="938fcd39-b2d2-437d-911f-245408ace18b" name="Egg.004_Material.Egg1"/>
+		<meta id="5eb3989e-9743-4205-884d-e3b7ce30d0da" name="Egg.005_Material.Egg1"/>
+		<meta id="9bf1d527-e880-41ce-8536-144115573f61" name="Egg.006_Material.Egg1"/>
+		<meta id="63b9db54-171e-4ad0-8b13-98216ea812b7" name="Nest.004_Material.Wall1"/>
+		<meta id="a5ace9b5-0c70-49cf-a78a-c1827242ac7b" name="Egg.007_Material.Egg1"/>
+		<meta id="2c59064e-ced6-44a2-9c25-59c7ac548e10" name="Egg.008_Material.Egg1"/>
+		<meta id="d6d95aed-3716-4b8d-bd3a-992136e337f1" name="Dove.003_Material.Dove"/>
+		<meta id="955815db-052e-416d-b59c-e3081d5bdaf6" name="Dove.004_Material.Dove"/>
+		<meta id="99ed3c90-1f5a-45c8-8bba-40a049635189" name="Tree.001.backup"/>
+		<meta id="836171c1-dd6b-4cc7-90e8-90dd4c43a3a7" name="Nest.005_Material.Wall1"/>
+		<meta id="a99684f4-52d5-429d-ad34-e619ff393c4a" name="Dove.005_Material.Dove"/>
+		<meta id="ac14d2a2-d848-4110-9813-2d3b8da4491e" name="Dove.006_Material.Dove"/>
+		<meta id="aa115725-b117-4cfc-8a4f-565ca8898295" name="Dove.007_Material.Dove"/>
+		<meta id="9b2c533e-405c-4bf1-abe2-d361c7702009" name="Leaves.003_Material.Tree2"/>
+		<meta id="736dc90d-8966-4364-ba0d-b3d3489fbdc7" name="Leaves.001_Material.Tree2"/>
+		<meta id="91db0029-141c-4c6c-8ef9-30d3440835bc" name="Leaves.002_Material.Tree2"/>
+		<meta id="7d932652-33a7-4bd7-a64c-a1f66b251a02" name="Leaves.004_Material.Tree2"/>
+		<meta id="2a89bbbf-d121-40dc-9a48-fe387f99dc2b" name="Leaves.005_Material.Tree2"/>
+		<meta id="3fe64046-2f86-4fd6-af23-5137d8b3a2f5" name="Leaves.008_Material.Tree2"/>
+		<meta id="db20b752-750d-4a73-8b79-866c659aa717" name="Leaves.009_Material.Tree2"/>
+		<meta id="8ef56b91-56de-4de6-b3cd-0b22ff6dd9d8" name="Leaves.010_Material.Tree2"/>
+		<meta id="cf90dce8-e601-4f12-be9f-717efc2ba098" name="Leaves.011_Material.Tree2"/>
+		<meta id="b2c64e74-0228-4876-be13-66887b78093b" name="Leaves.006_Material.Tree2"/>
+		<meta id="b46fd143-0ee7-46a5-8341-7d51831af90e" name="Leaves.007_Material.Tree2"/>
+		<meta id="8d6c6cf4-0371-4e85-8da9-1e84032b0382" name="Ladder.001_Material.Log1"/>
+		<meta id="608a1519-4886-49b2-9c56-bca73209dac5" name="Stair.007_Material.PlankAndBeamsDB"/>
+		<meta id="c8a5357a-605e-45c8-a042-612699a3eea5" name="Nest1EndPart_COLLIDER"/>
+	</meta>
+	<meta id="22db48fb-218d-4923-a922-95a542df22c1" name="Prefab">
+		<meta id="e3e46f62-8aa8-4eaa-8fa8-3e7aa12a8648" name="Nest1EndPart">
+			<meta id="49b64481-9f98-456e-a97b-cd4a558d0edd" name="Tree.001"/>
+			<meta id="6342f8c3-32e4-4799-8024-bcf5f6ebaddc" name="Nest.001"/>
+			<meta id="2058c834-3fa2-4761-8c20-e707b6b4aade" name="Dove.002"/>
+			<meta id="edaf41f1-dc2f-458d-b240-664922e827f2" name="Nest.002"/>
+			<meta id="582b078c-77fa-4aaa-98f1-1556ed067569" name="Dove.001"/>
+			<meta id="a533ffce-587e-4233-bacd-0a1f58fcf3b1" name="Egg.001"/>
+			<meta id="8f3e58c0-5dcc-4618-a0d7-559a9b9c9d83" name="Egg.002"/>
+			<meta id="b49343dc-3a03-424f-8ba0-966940486cc3" name="Egg.003"/>
+			<meta id="082e21a3-fa64-4b56-8371-4f5a4a2b6a02" name="Nest.003"/>
+			<meta id="90d78b31-fe23-4bc8-8477-83e9f9321b09" name="Egg.004"/>
+			<meta id="9fd9d15b-4543-4663-9a2e-4d59bdc4781e" name="Egg.005"/>
+			<meta id="bcfc46c9-500c-476f-a070-b5eae9420564" name="Egg.006"/>
+			<meta id="495f4f65-4a48-4274-9ec6-4a78c2967cdc" name="Nest.004"/>
+			<meta id="7c24c448-1dcc-4c23-ba30-9736d9ab7259" name="Egg.007"/>
+			<meta id="2cbc2f10-539e-4947-b76a-803363606402" name="Egg.008"/>
+			<meta id="07ee1f7f-fd34-4148-97ab-6beb71eb6ae5" name="Dove.003"/>
+			<meta id="95038566-5f0a-45b1-afc7-112957626a82" name="Dove.004"/>
+			<meta id="67e29b15-abad-4e1e-831b-4553451d77fa" name="Attach_Bottom.006"/>
+			<meta id="e758deb2-169c-4194-8b72-af18b603faae" name="Nest.005"/>
+			<meta id="75c300b5-4c17-41f3-92aa-4272e207d300" name="Dove.005"/>
+			<meta id="cb7409cb-d147-48c3-abd8-986de5290e87" name="Dove.006"/>
+			<meta id="bffc3771-c323-442a-b42d-692995b5ca43" name="Dove.007"/>
+			<meta id="e08da53d-7b93-4617-804d-3e283f122e9e" name="Leaves.003"/>
+			<meta id="747b1d7d-7767-4d5e-ae0a-c97d47d5c25e" name="Leaves.001"/>
+			<meta id="9b4a307c-ff47-40a7-9cfa-606bf5d379a3" name="Leaves.002"/>
+			<meta id="790b0a48-df32-4901-956a-fb78045a8f2b" name="Leaves.004"/>
+			<meta id="56bee566-d1b8-444b-9ed9-77539754cbc5" name="Leaves.005"/>
+			<meta id="766fba12-a7d6-4584-bce8-adb1e66bd3a5" name="Leaves.006"/>
+			<meta id="23c2badb-dbce-4a03-ba7f-cd79f29781b5" name="Leaves.007"/>
+			<meta id="4bc724ec-5dd0-46ec-a171-e921427fb44b" name="Leaves.008"/>
+			<meta id="3d728f42-a262-4d30-9d03-3d307fd31040" name="Leaves.009"/>
+			<meta id="158d5ced-fe61-42c7-a220-099ed3992931" name="Leaves.010"/>
+			<meta id="992aed9b-a246-4ede-b9f1-21881307c381" name="Leaves.011"/>
+			<meta id="8075cedd-4dce-492a-8e46-16caffa0f3eb" name="Ladder.001"/>
+			<meta id="5b137159-5707-4d59-95af-22afc41e4e5a" name="Stair.007"/>
+			<meta id="486a2df2-1cfb-4a55-8aba-210866dc0a30" name="PATH_A_1"/>
+			<meta id="0bb2b198-2805-4d57-ad60-54917f85780e" name="PATH_A_2"/>
+			<meta id="14b5c275-4d47-41ad-b253-d067bed937a8" name="PATH_A_4"/>
+			<meta id="8c560a62-d836-4313-816c-152daa6bf841" name="PATH_A_3"/>
+		</meta>
+		<meta id="d2ac64a0-100a-4071-91a9-8c325a7c0c35" name="Tree.001.backup"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="391ddd1ad6f3ec337848fb4133af607e"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Tree.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Nest.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dove.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Nest.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dove.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Nest.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Nest.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Egg.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dove.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dove.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Nest.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dove.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dove.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Dove.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Leaves.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ladder.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Stair.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_3"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Nest1EndPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Tree.001.backup"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a27a9f42-f60e-4451-9a0c-06f2bf37cf43"/>
+			<MaterialName value="Material.Dove"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c7f32f22-732f-4b65-a0ed-01f5983dcbc9"/>
+			<MaterialName value="Material.Egg1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dec8b78e-da78-434f-ac58-0dde27fc6fb7"/>
+			<MaterialName value="Material.Log1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b0422980-a96d-4e13-b709-5c5697e0833b"/>
+			<MaterialName value="Material.PlankAndBeamsDB"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="61c427fa-27b7-41cb-b170-01f7e878233e"/>
+			<MaterialName value="Material.Tree2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bf2d5723-e112-4dff-85c2-779915f7f100"/>
+			<MaterialName value="Material.Wall1"/>
+		</Item>
+	</MaterialList>
+</importer>
+

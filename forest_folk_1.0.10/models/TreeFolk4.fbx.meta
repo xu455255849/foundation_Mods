@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="e85746da-ebb6-40b7-83ae-148257bae6ce">
+	<meta id="ab15e5c7-8e83-44e8-8191-8fe64cbbc943" type="group" folder="true" name="Materials">
+		<meta id="7da06741-855c-4f40-808c-35496c534160" name="Material.Log1.001"/>
+		<meta id="fcef9138-e49f-4d0e-ae94-59291d62dbd3" name="Material.Log1.003"/>
+		<meta id="49018cb8-669f-437b-b80e-5278267a41cb" name="Material.Wall1.001"/>
+	</meta>
+	<meta id="de5fb41c-e15d-4e22-8477-3179cdccc959" type="group" folder="true" name="Meshes">
+		<meta id="bbea916c-c790-48cb-9d23-660e48ec5a28" name="Branch.Template_Material.Log1.001"/>
+		<meta id="13b6b555-0686-459b-b616-b678512a3da7" name="Branch.029_Material.Log1.003"/>
+		<meta id="323a0fe9-de5f-4fa3-a8b5-e2e87c905ee8" name="Branch.031_Material.Log1.003"/>
+		<meta id="373adb8c-359f-48d7-99df-ad5da2c72574" name="Branch.032_Material.Log1.003"/>
+		<meta id="eb302c95-594d-4534-b88d-ad5ebb750e4e" name="Floor.001_Material.Wall1.001"/>
+		<meta id="e8a92d07-cb33-4976-9c1e-d4564d0d8a6b" name="Platform1EndPart_COLLIDER"/>
+	</meta>
+	<meta id="8d432ae0-5b25-4d71-99ed-77d0a16077f6" name="Prefab">
+		<meta id="484d7642-2c2d-440a-ada2-73ddbabbb066" name="Platform1EndPart">
+			<meta id="ba708a11-54cb-4c87-8489-c9f8c5158fbe" name="Attach_Bottom.001"/>
+			<meta id="b7cbafd7-6d0d-4f46-878d-9e3bec3eb7c0" name="Attach_Door.001"/>
+			<meta id="5b8bb0d6-87b9-4470-a7b8-9e85fe6867c8" name="Attach_Door.003"/>
+			<meta id="b1e59643-5ac2-472c-aa71-1b11a85c80f9" name="Attach_Minor.002"/>
+			<meta id="aadd0fd4-1b02-4c90-b2eb-8b01df8d5b15" name="Attach_Minor.004"/>
+			<meta id="1e85dce4-78d3-47d3-a063-25574768f7b6" name="Floor.001"/>
+			<meta id="3a96507b-0e55-422b-b077-c5bcfa168112" name="Branch.029"/>
+			<meta id="7e63c448-cd6f-47eb-9d46-417304631d94" name="Branch.031"/>
+			<meta id="3bb24dc2-70e9-429b-8015-00c0aeb0f82e" name="Branch.032"/>
+			<meta id="6a5a2f98-a03f-4bef-ba4a-879a835bc940" name="Attach_Door.002"/>
+			<meta id="372ea7b7-97ea-4afe-8937-549cfbb0f6d5" name="Attach_Minor.001"/>
+		</meta>
+		<meta id="844bf34e-d1ea-4305-8d00-737c9e44cd33" name="Branch.Template"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="2d5684d32eebcf874f30b3cd28b68ffc"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Bottom.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Door.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Door.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Floor.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Branch.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Door.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Platform1EndPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Branch.Template"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7da06741-855c-4f40-808c-35496c534160"/>
+			<MaterialName value="Material.Log1.001"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fcef9138-e49f-4d0e-ae94-59291d62dbd3"/>
+			<MaterialName value="Material.Log1.003"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="49018cb8-669f-437b-b80e-5278267a41cb"/>
+			<MaterialName value="Material.Wall1.001"/>
+		</Item>
+	</MaterialList>
+</importer>
+
