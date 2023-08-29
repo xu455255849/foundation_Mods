@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="65778502-6183-40ea-8958-da92a5884707">
+	<meta id="d2b6d1aa-0c90-4072-8b36-489e70a0ad03" type="group" folder="true" name="Materials">
+		<meta id="47ddfd1f-a468-49eb-917e-5b44ca9303c5" name="Material.Wood"/>
+	</meta>
+	<meta id="0dd5c49d-76df-4cb8-a309-0090f3300332" type="group" folder="true" name="Meshes">
+		<meta id="7951fdd2-9602-4d5e-8266-cc2302ab6ba5" name="PicketFence.001_Material.Wood"/>
+		<meta id="a781ace9-4982-4c7e-b5a9-67792fea47ae" name="PicketFence.002_Material.Wood"/>
+		<meta id="217c445d-b1a4-4405-9237-95764a8f060c" name="PicketFence.003_Material.Wood"/>
+		<meta id="094c397c-1d7f-41b9-bc6c-7b2dacc67ad0" name="PicketFence.004_Material.Wood"/>
+		<meta id="d7ba5cb7-697c-4f24-a09e-dabbaab12cbe" name="PicketFence.005_Material.Wood"/>
+		<meta id="b5da6c12-1a3f-4922-a5cc-8c508cc57f83" name="PicketFence.006_Material.Wood"/>
+		<meta id="7a639604-d288-4c85-ad8d-507a7d943d91" name="PicketFence.007_Material.Wood"/>
+		<meta id="5c994130-e35a-4301-94f8-6869d5e285f3" name="PicketFence.008_Material.Wood"/>
+		<meta id="92657f43-2522-4903-abd7-95c23d8c42aa" name="PicketFence.009_Material.Wood"/>
+		<meta id="55a10816-4f63-4cc2-9ed0-884e09ecfdca" name="PicketFence.010_Material.Wood"/>
+		<meta id="2994e31e-4e23-49de-82d7-ce7f6cf42bc5" name="PicketFence.011_Material.Wood"/>
+		<meta id="548b0fc9-d3b6-4520-a8e6-f4c319ad64ef" name="PicketFence.012_Material.Wood"/>
+	</meta>
+	<meta id="0eb1f384-f02c-4b3b-bce7-fa6278ae59fe" name="Prefab">
+		<meta id="463119cd-b5bd-40e3-9545-78c5599fa7cf" name="WallPart">
+			<meta id="dc22a24d-bc82-4bff-a84b-1ded02f46f07" name="PicketFence.001"/>
+			<meta id="1e5b52a9-8b12-4757-a8dd-762e67c2d257" name="PicketFence.002"/>
+			<meta id="e9978ac6-18e5-429b-868d-ede36312bc88" name="PicketFence.003"/>
+			<meta id="bc68c355-d0b9-4982-9640-c313260c359b" name="PicketFence.004"/>
+			<meta id="d2e60306-9507-4cf1-93bb-c59363705525" name="PicketFence.005"/>
+			<meta id="c6497676-470b-4ce1-b2e9-a06b6d72397d" name="PicketFence.006"/>
+			<meta id="fdb671f8-d710-4cc5-a21a-1e364e9fad9e" name="PicketFence.007"/>
+			<meta id="d3c5b588-31eb-419e-b6fb-4830234cbf49" name="PicketFence.008"/>
+			<meta id="96c93dfd-b95e-4098-bb64-330025bb7d95" name="PicketFence.009"/>
+			<meta id="4a7a9064-1c5d-4216-9054-1b22ad6f0167" name="PicketFence.010"/>
+			<meta id="cc16796d-4fad-456d-a708-f4201fec7055" name="PicketFence.011"/>
+			<meta id="1c7520b6-1394-491f-a10b-b8dff1f563c8" name="PicketFence.012"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="6182fdb0fbbfe1301c7fdff62eea125c"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ForceNormalUp value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PicketFence.012"/>
+					</Item>
+				</ChildList>
+				<NodeName value="WallPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="47ddfd1f-a468-49eb-917e-5b44ca9303c5"/>
+			<MaterialName value="Material.Wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

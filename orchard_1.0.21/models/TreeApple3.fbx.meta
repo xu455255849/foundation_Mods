@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="a7664b20-bf20-4733-adf3-d39fa94b82bc">
+	<meta id="b97b2994-35d1-4350-9776-675ff13e2cf4" type="group" folder="true" name="Materials">
+		<meta id="5220270d-a541-4ace-8ca9-d2bef12972b9" name="Material.Tree"/>
+	</meta>
+	<meta id="fe2ae1ae-f695-49ae-887f-d201dbf1680e" type="group" folder="true" name="Meshes">
+		<meta id="3fae9473-7c15-4869-8fef-b2abb903d758" name="Tree_Material.Tree"/>
+	</meta>
+	<meta id="f015c8c4-5a45-4873-ad17-8a1601690ab5" name="Prefab">
+		<meta id="53e6c722-4515-4cc4-8284-18167b0a8285" name="Tree"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="869aaabea2c0073d2e037cf1e755c756"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Tree"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5220270d-a541-4ace-8ca9-d2bef12972b9"/>
+			<MaterialName value="Material.Tree"/>
+		</Item>
+	</MaterialList>
+</importer>
+

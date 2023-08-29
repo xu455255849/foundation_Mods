@@ -1,0 +1,29 @@
+{
+	"": {
+
+		"RESOURCE_FRUIT_NAME": "苹果",
+		"BUILDING_ORCHARD_NAME": "果园",
+		"BUILDING_ORCHARD_DESC": "种植苹果用于食物或酿制苹果酒。",
+		"JOB_ORCHARD_NAME": "果园工人",
+		"JOB_ORCHARD_DESC": "照料果园中的果树。",
+
+		"BUILDING_FUNCTION_ORCHARD_NAME": "果园",
+
+		"BUILDING_PART_ORCHARD_FARM1_NAME": "果园棚屋",
+
+		"BUILDING_CIDERPRESS_NAME": "苹果酒榨汁厂",
+		"BUILDING_CIDERPRESS_DESC": "将苹果榨成苹果酒，在酒馆出售。",
+
+		"FENCE_PICKET_NAME": "尖桩围栏",
+
+		"BUILDING_PART_ORCHARD_CART_NAME": "苹果推车",
+		"BUILDING_FUNCTION_ORCHARD_CART_NAME": "苹果推车",
+		"RESOURCE_TYPE_FRUIT": "苹果",
+
+		"UNLOCKABLE_FRUIT_NAME": "苹果生产",
+
+
+		"": ""
+
+	}
+}

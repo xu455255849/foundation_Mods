@@ -1,0 +1,30 @@
+{
+	"": {
+
+		"RESOURCE_FRUIT_NAME": "Apples",
+		"BUILDING_ORCHARD_NAME": "Orchard",
+		"BUILDING_ORCHARD_DESC": "Grow apples for food or to be made into cider.",
+		"JOB_ORCHARD_NAME": "Orchard Worker",
+		"JOB_ORCHARD_DESC": "Tends fruit trees in the orchard.",
+
+		"BUILDING_FUNCTION_ORCHARD_NAME": "Orchard", 
+
+		"BUILDING_PART_ORCHARD_FARM1_NAME": "Orchard Shed", 
+
+		"BUILDING_CIDERPRESS_NAME": "Cider Mill", 
+		"BUILDING_CIDERPRESS_DESC": "Press apples into Cider to sell at the Tavern.", 
+
+        "FENCE_PICKET_NAME": "Picket Fence",
+        
+
+        "BUILDING_PART_ORCHARD_CART_NAME": "Apple Cart",
+        "BUILDING_FUNCTION_ORCHARD_CART_NAME": "Apple Cart",
+        "RESOURCE_TYPE_FRUIT": "Apples",
+
+        "UNLOCKABLE_FRUIT_NAME": "Apple Production",
+
+
+		"": ""
+
+	}
+}
