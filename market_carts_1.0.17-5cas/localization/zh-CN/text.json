@@ -1,0 +1,38 @@
+{
+        "": {
+
+                "BUILDING_PART_MARKETCART_BERRIES_NAME": "果蔬推车",
+                "BUILDING_PART_MARKETCART_BREAD_NAME": "面包推车",
+                "BUILDING_PART_MARKETCART_CHEESE_NAME": "奶酪推车",
+                "BUILDING_PART_MARKETCART_FISH_NAME": "鱼类推车",
+                "BUILDING_PART_MARKETCART_HONEY_NAME": "蜂蜜推车",
+
+                "BUILDING_PART_LIVESTOCK_CREAMERYTABLE_NAME": "奶酪作坊桌",
+                "BUILDING_PART_LIVESTOCK_BUTCHERTABLE_NAME": "肉贩作坊桌",
+                "BUILDING_PART_LIVESTOCK_CHANDLERTABLE_NAME": "蜡烛工作桌",
+
+                "BUILDING_FUNCTION_MARKETCART_BERRIES_NAME": "果蔬推车",
+                "BUILDING_FUNCTION_MARKETCART_BREAD_NAME": "面包推车",
+                "BUILDING_FUNCTION_MARKETCART_CHEESE_NAME": "奶酪推车",
+                "BUILDING_FUNCTION_MARKETCART_FISH_NAME": "鱼类推车",
+                "BUILDING_FUNCTION_MARKETCART_HONEY_NAME": "蜂蜜推车",
+
+                "RESOURCE_TYPE_BERRIES": "果蔬",
+                "RESOURCE_TYPE_BREAD": "面包",
+                "RESOURCE_TYPE_CHEESE": "奶酪",
+                "RESOURCE_TYPE_FISH": "鱼类",
+                "RESOURCE_TYPE_HONEY": "蜂蜜",
+
+                "BUILDING_PART_SET_LIST_MARKET_FOOD": "食品",
+                "BUILDING_PART_SET_LIST_MARKET_GOODS": "商品",
+                "BUILDING_PART_SET_LIST_MARKET_LUXURY": "奢侈品",
+                "BUILDING_PART_SET_LIST_MARKET_NEEDS": "其他需求",
+
+                "BUILDING_MARKETCART_NAME": "市场推车",
+                "MARKET_STALL_COURT": "市场桌台",
+
+
+                "": ""
+
+        }
+}

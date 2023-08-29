@@ -1,0 +1,38 @@
+{
+	"": {
+
+        "BUILDING_PART_MARKETCART_BERRIES_NAME": "Berry Cart",
+        "BUILDING_PART_MARKETCART_BREAD_NAME": "Bread Cart",
+        "BUILDING_PART_MARKETCART_CHEESE_NAME": "Cheese Cart",
+        "BUILDING_PART_MARKETCART_FISH_NAME": "Fish Cart",
+        "BUILDING_PART_MARKETCART_HONEY_NAME": "Honey Cart",
+    
+        "BUILDING_PART_LIVESTOCK_CREAMERYTABLE_NAME": "Creamery Table",
+        "BUILDING_PART_LIVESTOCK_BUTCHERTABLE_NAME": "Butcher's Table",
+        "BUILDING_PART_LIVESTOCK_CHANDLERTABLE_NAME": "Chandler's Table",
+
+        "BUILDING_FUNCTION_MARKETCART_BERRIES_NAME": "Berry Cart",
+        "BUILDING_FUNCTION_MARKETCART_BREAD_NAME": "Bread Cart",
+        "BUILDING_FUNCTION_MARKETCART_CHEESE_NAME": "Cheese Cart",
+        "BUILDING_FUNCTION_MARKETCART_FISH_NAME": "Fish Cart",
+        "BUILDING_FUNCTION_MARKETCART_HONEY_NAME": "Honey Cart",
+		
+        "RESOURCE_TYPE_BERRIES": "Berries",
+        "RESOURCE_TYPE_BREAD": "Bread",
+        "RESOURCE_TYPE_CHEESE": "Cheese",
+        "RESOURCE_TYPE_FISH": "Fish",
+        "RESOURCE_TYPE_HONEY": "Honey",
+
+        "BUILDING_PART_SET_LIST_MARKET_FOOD": "Food",
+        "BUILDING_PART_SET_LIST_MARKET_GOODS": "Goods",
+        "BUILDING_PART_SET_LIST_MARKET_LUXURY": "Luxury",
+        "BUILDING_PART_SET_LIST_MARKET_NEEDS": "Other Needs",
+   
+        "BUILDING_MARKETCART_NAME": "Market Carts",
+        "MARKET_STALL_COURT": "Market Tables",
+
+
+		"": ""
+
+	}
+}
