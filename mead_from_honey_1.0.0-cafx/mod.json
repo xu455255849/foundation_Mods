@@ -1,0 +1,19 @@
+{
+	"Name": "Mead from Honey",
+	"Author": "Batyushki",
+	"Description": "Produce a simple drink for the tavern from Honey and Water.",
+	"Version": "1.0.0",
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		}
+	],
+	"Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		}
+	]
+
+}
