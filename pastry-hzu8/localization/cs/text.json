@@ -1,0 +1,25 @@
+{
+"BUILDINGS": {
+"PASTRY_V5_MONUMENT_NAME": "Výroba pečiva V5",
+"PASTRY_V5_HENHOUSE_NAME": "Slepičák",
+"PASTRY_V5_CREAMERY_NAME": "Mlékárna",
+"PASTRY_V5_PASTRY_WORKPLACE_NAME": "Pečivo",
+                 "PASTRY_V5_RECIPE_1_FUNCTION_NAME": "Recept 1 (bobule) na pečivo",
+                 "PASTRY_V5_RECIPE_2_FUNCTION_NAME": "Recept 2 (jablka) na pečivo",
+                 "PASTRY_V5_CREAMERY_FUNCTION_NAME": "Máslo",
+                 "PASTRY_V5_HENHOUSE_RECIPE_1_FUNCTION_NAME": "Recept 1 (pšenice) pro vejce",
+                 "PASTRY_V5_HENHOUSE_RECIPE_2_FUNCTION_NAME": "Recept 2 (kukuřice) pro vejce"
+},
+"BUILDING_DESCRIPTIONS": {
+"PASTRY_V5_MONUMENT_DESC": "Výrobní linka pečiva",
+"PASTRY_V5_HENHOUSE_DESC": "Slepičák",
+"PASTRY_V5_CREAMERY_DESC": "Mlékárna",
+"PASTRY_V5_PASTRY_WORKPLACE_DESC": "Pečivo"
+},
+"JOBS": {
+"PASTRY_V5_HEN_BREEDER_NAME": "Chovatel slepic V5",
+"PASTRY_V5_HEN_BREEDER_DESC": "Chovatel slepic V5",
+"PASTRY_V5_DAIRY_MAID_NAME": "Pracovnice mlékárny V5",
+"PASTRY_V5_DAIRY_MAID_DESC": "Pracovnice mlékárny V5"
+}
+}

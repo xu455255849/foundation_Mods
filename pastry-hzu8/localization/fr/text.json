@@ -1,0 +1,27 @@
+{
+	"BUILDINGS": {
+		"PASTRY_V5_MONUMENT_NAME": "Production de patisserie V5",
+		"PASTRY_V5_HENHOUSE_NAME": "Poulailler",
+		"PASTRY_V5_CREAMERY_NAME": "Crêmerie",
+		"PASTRY_V5_PASTRY_WORKPLACE_NAME": "Patisserie",
+                "PASTRY_V5_RECIPE_1_FUNCTION_NAME": "Recette 1 (baies) pour de la patisserie",
+                "PASTRY_V5_RECIPE_2_FUNCTION_NAME": "Recette 2 (pommes) pour de la patisserie",
+                "PASTRY_V5_CREAMERY_FUNCTION_NAME": "Beurre",
+                "PASTRY_V5_HENHOUSE_RECIPE_1_FUNCTION_NAME": "Alimentation avec du blé",
+                "PASTRY_V5_HENHOUSE_RECIPE_2_FUNCTION_NAME": "Alimentation avec du maïs",
+                "DAIRY_ADDITION_BUILDING_FUNCTION_DAIRY_FARM_NAME": "Lait",
+                "BAKER_ADDITION_BUILDING_FUNCTION_BAKERY_NAME": "Pain"
+
+	},
+	"BUILDING_DESCRIPTIONS": {
+		"PASTRY_V5_HENHOUSE_DESC": "Poulailler",
+		"PASTRY_V5_CREAMERY_DESC": "Crêmerie",
+		"PASTRY_V5_PASTRY_WORKPLACE_DESC": "Patisserie"
+	},
+	"JOBS": {
+		"PASTRY_V5_HEN_BREEDER_NAME": "Eleveur de poules",
+		"PASTRY_V5_HEN_BREEDER_DESC": "Eleveur de poules",
+		"PASTRY_V5_DAIRY_MAID_NAME": "Crêmière",
+		"PASTRY_V5_DAIRY_MAID_DESC": "Crêmière"
+	}
+}

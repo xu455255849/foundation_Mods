@@ -1,0 +1,27 @@
+{
+	"BUILDINGS": {
+		"PASTRY_V5_MONUMENT_NAME": "Pastry production V5",
+		"PASTRY_V5_HENHOUSE_NAME": "Hen House",
+		"PASTRY_V5_CREAMERY_NAME": "Creamery",
+		"PASTRY_V5_PASTRY_WORKPLACE_NAME": "Pastry",
+                "PASTRY_V5_RECIPE_1_FUNCTION_NAME": "Recipe 1 (berries) for pastries",
+                "PASTRY_V5_RECIPE_2_FUNCTION_NAME": "Recipe 2 (apples) for pastries",
+                "PASTRY_V5_CREAMERY_FUNCTION_NAME": "Butter",
+                "PASTRY_V5_HENHOUSE_RECIPE_1_FUNCTION_NAME": "Recipe 1 (wheat) for eggs",
+                "PASTRY_V5_HENHOUSE_RECIPE_2_FUNCTION_NAME": "Recipe 2 (corn) for eggs",
+                "DAIRY_ADDITION_BUILDING_FUNCTION_DAIRY_FARM_NAME": "Milk",
+                "BAKER_ADDITION_BUILDING_FUNCTION_BAKERY_NAME": "Bread"
+	},
+	"BUILDING_DESCRIPTIONS": {
+		"PASTRY_V5_MONUMENT_DESC": "Production line of pastries",
+		"PASTRY_V5_HENHOUSE_DESC": "Hen house",
+		"PASTRY_V5_CREAMERY_DESC": "Creamery",
+		"PASTRY_V5_PASTRY_WORKPLACE_DESC": "Pastry"
+	},
+	"JOBS": {
+		"PASTRY_V5_HEN_BREEDER_NAME": "Hen breeder V5",
+		"PASTRY_V5_HEN_BREEDER_DESC": "Hen breeder V5",
+		"PASTRY_V5_DAIRY_MAID_NAME": "Dairy maid V5",
+		"PASTRY_V5_DAIRY_MAID_DESC": "Dairy maid V5"
+	}
+}

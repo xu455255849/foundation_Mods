@@ -1,0 +1,35 @@
+{
+	"Name": "Pastry production V5",
+	"Author": "vjraymon",
+	"Description": "Pastry Production",
+	"Version": "5.2.1",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		},
+		{
+			"Name": "Czech",
+			"Code": "cs"
+		}
+	],
+	"Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		}
+	]
+}
