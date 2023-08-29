@@ -1,6 +1,6 @@
 {
 	"BUILDINGS": {
-                "MARKET_ADDITION_V2_PARTSETLIST_NAME": "Market additions",
+		"MARKET_ADDITION_V2_PARTSETLIST_NAME": "Market additions",
 		"MARKET_ADDITION_V2_HAT_STALL_NAME": "Hat stall",
 		"MARKET_ADDITION_V2_HAT_WORKSHOP_NAME": "Hat workshop",
 		"MARKET_ADDITION_V2_KNIFE_GRINDER_NAME": "Knife grinder workshop",
@@ -30,7 +30,7 @@
 	},
 	"RESOURCES": {
 		"MARKET_ADDITION_V2_HAT": "Hat",
-                "WOOLEN_CLOTH": "Textile",
+		"WOOLEN_CLOTH": "Textile",
 		"MARKET_ADDITION_V2_KNIFE": "Knife"
-        }
+	}
 }
