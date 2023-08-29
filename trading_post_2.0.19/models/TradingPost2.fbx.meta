@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="0c165ddd-f5d2-41dd-8bd5-6b23e5568437">
+	<meta id="bed4d44b-578d-4caa-be4f-c1331e572cac" type="group" folder="true" name="Materials">
+		<meta id="3480d943-6f13-4b10-b813-0bc476e843aa" name="Material.Donkey"/>
+		<meta id="9135bed4-8217-4b4f-bb93-952e28ed232e" name="Material.Leather"/>
+		<meta id="96b56b87-493f-498f-94eb-ff89691cb1d5" name="Material.Wood"/>
+		<meta id="a5666917-72ca-496e-835e-449d659e3d26" name="Material.Cattle"/>
+		<meta id="e28c8709-5ad0-4f43-ad38-05051a9e9e9e" name="Material.Bark"/>
+		<meta id="33434d50-c46c-483a-b32c-6b800aadef57" name="Material.Cloth"/>
+		<meta id="5a56e012-95ae-4102-9842-a3bb5a860b0d" name="Material.Plank2"/>
+		<meta id="875c5141-69ba-46dd-8d3a-693ce1d6caa5" name="Material.Clay"/>
+		<meta id="0a9bb25d-1be3-4c25-8d8a-1cde782e4eeb" name="Material.Wicker"/>
+		<meta id="9b903d64-8b65-4dad-ab2e-5b172a5804b1" name="Material.Plank1"/>
+		<meta id="8604af52-9a89-4fe6-a65f-121ca642cc69" name="Material.Stone"/>
+	</meta>
+	<meta id="a413cd39-a377-4724-9f5a-dd477d9949e3" type="group" folder="true" name="Meshes">
+		<meta id="c3aa0df2-0cc0-421f-a1d6-68c6ff2d9e39" name="Ox.001_Material.Cattle"/>
+		<meta id="5b0f6907-c3c2-4831-9b09-e1e88952b952" name="Ox.002_Material.Cattle"/>
+		<meta id="87e01331-ff31-47b0-b75a-beee126209bf" name="Yoke.001_Material.Bark"/>
+		<meta id="311007e4-52b5-4ff1-8627-4f9ff43d0ef2" name="Wheel.001_Material.Bark"/>
+		<meta id="1fc5e358-a098-497a-91ef-2b536be00cbd" name="Yoke.002_Material.Bark"/>
+		<meta id="43f765c4-afaf-4bcc-bce3-8b1be142081d" name="Yoke.003_Material.Leather"/>
+		<meta id="e8739d26-bbe8-4a82-92a5-50a132ce8c7f" name="Yoke.004_Material.Leather"/>
+		<meta id="163b94b6-bf82-420c-899c-c8bb8ebc6c29" name="Yoke.005_Material.Bark"/>
+		<meta id="9fcab173-fa9d-4ab3-8fc6-a20a01774b09" name="Yoke.006_Material.Bark"/>
+		<meta id="ccdc13f2-2f2d-48b8-b42b-4cdb412b30e4" name="Wheel.004_Material.Bark"/>
+		<meta id="fa4a87d8-0dc7-4e4f-9874-497d3c0e3477" name="Wagon.001_Material.Bark"/>
+		<meta id="8061946c-6fca-4a2a-be43-352539c17937" name="Yoke.007_Material.Bark"/>
+		<meta id="3d9112bd-aa00-4771-98a9-524115585fce" name="Yoke.008_Material.Bark"/>
+		<meta id="2e88ffd4-efdf-4a47-84b7-bc54c149b160" name="Wheel.005_Material.Bark"/>
+		<meta id="a9b4ef15-2704-472a-8d8e-bfcb6a24973a" name="Wheel.006_Material.Bark"/>
+		<meta id="68341f88-4ce3-4d00-8abb-fad3a5974bac" name="Wagon.002_Material.Bark"/>
+		<meta id="9d979d1f-9216-41b8-b766-56a1ccbba088" name="Yoke.009_Material.Bark"/>
+		<meta id="9d37ab21-2c3a-440e-a340-80561665277e" name="Yoke.010_Material.Bark"/>
+		<meta id="8b601358-23f5-4ebf-8898-9e9af77cd1be" name="Yoke.011_Material.Bark"/>
+		<meta id="bd5f9d60-79cf-4eba-bb8a-4ed97fc265d6" name="Wheel.backup"/>
+		<meta id="cb55d40d-05a3-4409-873f-c258e655e896" name="Donkey.003_Material.Donkey"/>
+		<meta id="745b7dad-b30d-4734-9808-77bcfcbe2d70" name="Donkey.004_Material.Wood"/>
+		<meta id="e8f81f0a-54d0-42e6-9583-a05fdd772f4b" name="Donkey.007_Material.Donkey"/>
+		<meta id="f344791b-df60-45de-8ead-555a8572f97f" name="Ox.003_Material.Cattle"/>
+		<meta id="82d1d874-8bfc-4877-acc8-e95bdedd4e17" name="Donkey.010_Material.Donkey"/>
+		<meta id="58324407-4615-49fd-bf0f-bbb902bf30e2" name="Donkey.010_Material.Leather"/>
+		<meta id="07603cb1-4258-4d3e-a4e2-271bd86e8cef" name="Donkey.005_Material.Leather"/>
+		<meta id="aded22fd-7e0a-4be0-ba14-5cd8a81d2366" name="Donkey.005_Material.Donkey"/>
+		<meta id="b20be2c6-f532-4bd5-a757-a67ac185a6cc" name="Donkey.011_Material.Donkey"/>
+		<meta id="b73d040b-6ff4-495f-af6a-bd41dd118f94" name="Donkey.019_Material.Wood"/>
+		<meta id="8a3627cd-3e9e-488e-a5ef-d0f994170b46" name="Donkey.020_Material.Plank2"/>
+		<meta id="6b64ace1-19cf-4c7c-8ae8-b80114602b88" name="Donkey.038_Material.Plank2"/>
+		<meta id="930a5be0-561d-4b05-ae9d-76b314131fb6" name="Crockery.004_Material.Clay"/>
+		<meta id="50b257ad-f4ad-4f17-9500-b37a05b2e4f0" name="Crockery.002_Material.Clay"/>
+		<meta id="39abab1e-1f2e-4d5f-a8c3-73984ef240da" name="Crockery.003_Material.Clay"/>
+		<meta id="7c3402e2-9a70-4b1d-aca3-dc2b3ddcd559" name="Crockery.001_Material.Clay"/>
+		<meta id="49b7da62-e128-4c0d-898f-2f8d5285c4ba" name="Wagon.003_Material.Plank2"/>
+		<meta id="af6c6cc3-0312-4460-a135-5e281cd89f50" name="Wagon.004_Material.Plank2"/>
+		<meta id="0c3fac95-9475-4910-a741-8a49f7491aa3" name="Wagon.005_Material.Plank2"/>
+		<meta id="17d59d61-0467-4732-8398-5b885eea4f24" name="Wagon.006_Material.Plank2"/>
+		<meta id="157f3d72-8882-45be-8d7e-1f9945f3044b" name="Wagon.007_Material.Plank2"/>
+		<meta id="d622c5ed-b568-40d4-8a3b-fac6eec61685" name="Wagon.008_Material.Plank2"/>
+		<meta id="c762cd04-3411-4b74-8153-a28a18d0a14b" name="Wagon.009_Material.Plank2"/>
+		<meta id="e8e3cf9f-c34a-40b6-8390-2c8af4a5d608" name="Wagon.010_Material.Plank2"/>
+		<meta id="2c6661b9-4df5-45f7-bf35-2cdafaa25053" name="Wagon.011_Material.Plank2"/>
+		<meta id="297022cb-052c-4e3c-9b76-6a401ec9950a" name="Wagon.013_Material.Plank2"/>
+		<meta id="27beb38a-fe50-467d-8214-a97728ce60f3" name="Wagon.014_Material.Plank2"/>
+		<meta id="6cb87da5-2255-4c3b-9fe6-b9a1595ff16e" name="Wagon.015_Material.Plank2"/>
+		<meta id="30a6f205-730a-4113-bb72-84d58cc94d00" name="Wagon.017_Material.Plank2"/>
+		<meta id="554fa0a1-a7f8-42e1-85a9-ee3d7943de11" name="Wagon.018_Material.Plank2"/>
+		<meta id="7011db20-ba21-457e-8c0b-8b711f1d2385" name="Wagon.020_Material.Plank2"/>
+		<meta id="352c9d44-8dd1-48cf-aca9-9b56c0791cef" name="Wagon.021_Material.Plank2"/>
+		<meta id="78ff5d5f-bd4b-4392-ac79-4a55a01eed45" name="Wagon.022_Material.Plank2"/>
+		<meta id="1c941995-c5f1-41c7-8f3f-8d97afb04712" name="Wagon.023_Material.Plank2"/>
+		<meta id="17af9783-1c05-432d-9807-1c25f6c15034" name="Wagon.024_Material.Plank2"/>
+		<meta id="80ea0e80-d4c7-4abf-975a-278c90cc2961" name="Wagon.025_Material.Plank2"/>
+		<meta id="9eaae1a8-01eb-42ae-9e4b-5f67353691cb" name="Wagon.012_Material.Plank2"/>
+		<meta id="28eb1264-4d89-48c9-a480-99e4caa76832" name="Wagon.026_Material.Plank2"/>
+		<meta id="ea5711a6-eb1d-4baf-86a8-bcf8a2a770c4" name="Donkey.079_Material.Leather"/>
+		<meta id="ec75a78c-671e-4157-b8c4-51d59464ce6e" name="Donkey.079_Material.Donkey"/>
+		<meta id="a7c0726a-f1ea-40e5-90ec-2ca3492ae36f" name="Donkey.094_Material.Plank2"/>
+		<meta id="ece3676e-edcb-4c1d-b0b9-f346f404e816" name="Donkey.103_Material.Plank2"/>
+		<meta id="c04c59cb-b5d7-452c-9ccb-1ab14451c642" name="Donkey.103_Material.Wood"/>
+		<meta id="3de70166-da38-454b-8701-3a4e7063e1f4" name="Donkey.004_Material.Plank2"/>
+		<meta id="01926c4d-6a59-4830-99f9-70acd293f57e" name="Donkey.070_Material.Leather"/>
+		<meta id="cb60a1a4-1d95-4679-a4a3-47854fd5021f" name="Donkey.070_Material.Donkey"/>
+		<meta id="0bf5758a-1d8c-4f55-9a90-13c1e94c37ef" name="Donkey.086_Material.Plank2"/>
+		<meta id="c9a66ad9-45fe-4f43-b3a3-e9db16d3d0c0" name="Creel.001_Material.Wicker"/>
+		<meta id="ec41bfda-7bee-43b3-b445-efc54026e279" name="Creel.002_Material.Leather"/>
+		<meta id="5c7174e8-0023-45b1-a385-973326fb3ca0" name="Creel.003_Material.Wicker"/>
+		<meta id="fab0d416-1e23-41ad-ba18-d6e32b00f1ab" name="Creel.004_Material.Leather"/>
+		<meta id="8546be88-af77-4ea5-8c51-cf7178f20f76" name="Barrel.004_Material.Plank1"/>
+		<meta id="cab8c498-2f7f-4ecf-bd60-4ed53971a289" name="Barrel.004_Material.Stone"/>
+		<meta id="ec9a03a4-f18a-4b39-9f72-91f10ba2733c" name="Barrel.005_Material.Plank1"/>
+		<meta id="e2e594c8-b7aa-4d2e-9cd2-48874af6364e" name="Barrel.005_Material.Stone"/>
+		<meta id="9cc7fe63-8372-467c-92fe-6d558469dcfd" name="Donkey.050_Material.Wood"/>
+		<meta id="844f08df-6e97-4712-8cf2-c6dde6d292bf" name="Donkey.064_Material.Plank2"/>
+		<meta id="c34072b9-583f-42cc-b5fb-fbe19117ac00" name="Donkey.083_Material.Wood"/>
+		<meta id="9dfe9202-bc66-435f-9bb4-38a7ae8b6c7d" name="Donkey.084_Material.Wood"/>
+		<meta id="82ca7baa-f25c-4f4c-8ad9-0f8ff3b361e5" name="Donkey.085_Material.Plank2"/>
+		<meta id="0135a077-d11d-4fee-8679-fdcea2759e9e" name="Donkey.087_Material.Plank2"/>
+		<meta id="507098a4-c640-4d7f-a3d2-aa74be398088" name="Donkey.088_Material.Plank2"/>
+		<meta id="3c9b52d9-2d1a-46c0-b965-1de0b983553b" name="Donkey.089_Material.Plank2"/>
+		<meta id="50b724f4-9386-453e-89bf-472c09a53acf" name="Donkey.090_Material.Plank2"/>
+		<meta id="8ca6e7ed-eebf-48f0-9762-c323c4f26458" name="Donkey.091_Material.Plank2"/>
+		<meta id="11ea62c2-685f-46a8-91a5-1ca4820995fc" name="Donkey.092_Material.Plank2"/>
+		<meta id="585fcd33-3351-4670-a839-6d306f516adf" name="Donkey.093_Material.Plank2"/>
+		<meta id="036f924b-7cfb-4d91-9be1-0620124873c8" name="Donkey.095_Material.Plank2"/>
+		<meta id="71ca2c84-bebd-4823-b704-29bb7f12887e" name="Donkey.096_Material.Plank2"/>
+		<meta id="f9ceacfa-348e-4a1f-93b1-df245822d517" name="Donkey.097_Material.Plank2"/>
+		<meta id="60659845-62b6-49a1-a1d7-a233ed968675" name="Donkey.098_Material.Plank2"/>
+		<meta id="bc8c7826-1a50-452d-949d-64083038a1d6" name="Donkey.099_Material.Plank2"/>
+		<meta id="1b817155-2e72-4aa0-b646-f7d492eed64f" name="Donkey.100_Material.Plank2"/>
+		<meta id="a9154912-93bb-41b9-922a-7123967d0379" name="Donkey.101_Material.Wood"/>
+		<meta id="2769553b-e7dc-4ddf-9e8b-1fa13824e470" name="Donkey.102_Material.Wood"/>
+		<meta id="dd4f5556-b707-42f1-be96-97c7a3c197ba" name="Donkey.104_Material.Wood"/>
+		<meta id="b5a1c108-35f4-491c-a7c7-ab1ab28dc173" name="Donkey.105_Material.Wood"/>
+		<meta id="8c76ad4d-f4f3-4b32-b946-b10a46ad8190" name="Donkey.106_Material.Plank2"/>
+		<meta id="efbb9f2c-6fe0-4fe8-a35c-bfc478889dde" name="Donkey.003_Material.Leather"/>
+		<meta id="6ec166a9-b811-4ba6-aef4-716824c284d8" name="Donkey.019_Material.Plank2"/>
+		<meta id="d6ca6990-f1cd-4b58-b85b-f9ad03206d69" name="Donkey.020_Material.Wood"/>
+		<meta id="88f6b6b7-00e4-4986-954e-ea0159523935" name="Donkey.020_Material.Cloth"/>
+		<meta id="5bb1cbf2-aed7-458d-98e2-54189590f992" name="Donkey.034_Material.Plank2"/>
+		<meta id="30640b1e-f7d7-4e9a-a4a5-f6d4b2c0df2f" name="Donkey.011_Material.Leather"/>
+		<meta id="33c70a69-a44c-4384-896c-c8302c8782f7" name="Donkey.050_Material.Plank2"/>
+		<meta id="beb38f0e-da79-4daf-a530-942c0618b534" name="Donkey.050_Material.Plank1"/>
+		<meta id="663bff0d-581f-496b-aec0-22a48d94f3c1" name="Donkey.050_Material.Stone"/>
+		<meta id="75d011f6-29af-45df-b65c-e10808b0322e" name="Donkey.050_Material.Clay"/>
+	</meta>
+	<meta id="8bc6a837-3858-4106-a10f-dee9e46233b7" name="Prefab">
+		<meta id="4169399c-45bf-403a-b483-f29485374a85" name="OxCartPart">
+			<meta id="490ab2d4-9687-440f-8eb7-bddf7ddf850f" name="Ox.001"/>
+			<meta id="ce786050-9bab-47b4-ae93-c7ff0ce737d4" name="Ox.002"/>
+			<meta id="2fc08373-4e1c-4704-9f55-4e815197b8c7" name="Yoke.001"/>
+			<meta id="a98c5359-6784-45e6-bc42-3de20efff287" name="Wheel.001"/>
+			<meta id="6072341e-0772-4bbd-9cc3-f4975eeda91c" name="Yoke.002"/>
+			<meta id="c6372078-e485-49df-8968-b5289e016f03" name="Yoke.003"/>
+			<meta id="84a91238-64ba-4e74-b635-3e26f025afcf" name="Yoke.004"/>
+			<meta id="74b1d82d-3f63-4eaa-a644-39592b4996ee" name="Yoke.005"/>
+			<meta id="e48e2198-5255-40f7-8cec-1f372f54f706" name="Yoke.006"/>
+			<meta id="752705a1-a802-4e02-b37b-5d15242b6d18" name="Wheel.004"/>
+			<meta id="fe388a7f-f4c0-46bb-b3db-19cd1ee91840" name="Wagon.001"/>
+			<meta id="2e939662-1ce6-4787-a49f-2b14ff633c19" name="Yoke.007"/>
+			<meta id="6459b6db-3a56-44a4-8a4b-379f2719f9d2" name="Yoke.008"/>
+			<meta id="25e9ab7b-a358-4cd6-8d2d-1ef44bdda7c0" name="Wheel.005"/>
+			<meta id="d9c53015-c7fe-42f8-ba46-2657f306ab9a" name="Wheel.006"/>
+			<meta id="6c807be0-07e8-44f1-b367-d495a2b89622" name="Wagon.002"/>
+			<meta id="46e06ef9-3d2f-493a-8217-2a161140b40e" name="Yoke.009"/>
+			<meta id="2db8c961-07e0-4f19-9b8f-abc4e31c4c93" name="Yoke.010"/>
+			<meta id="6046d58d-9b77-4db2-b912-9b7e2c2f39c1" name="Wagon.003"/>
+			<meta id="87ecde5a-c66c-486d-b56c-d37c58218c4e" name="Wagon.004"/>
+			<meta id="ee3ec7de-d933-449e-9c07-e5a8f326d9c1" name="Wagon.005"/>
+			<meta id="ae46afad-63e5-4ebf-bb5f-bc6168998f9a" name="Wagon.006"/>
+			<meta id="1f250ad7-4535-450d-ace5-e5562ebf9de1" name="Wagon.007"/>
+			<meta id="00b75e3a-375f-49f7-a772-16826578f93a" name="Wagon.008"/>
+			<meta id="65f83fc5-31c7-45f5-8221-77e0e5e978c4" name="Wagon.009"/>
+			<meta id="bdbb00dc-f362-4103-a610-d8186b38f424" name="Wagon.010"/>
+			<meta id="7d3601f4-6a8f-499e-a6fa-bf878fb01f3a" name="Wagon.011"/>
+			<meta id="f4573147-a309-4fa2-a784-0356299c45ab" name="Wagon.013"/>
+			<meta id="03b58153-b73d-4a84-84c7-99c66f840c7a" name="Wagon.014"/>
+			<meta id="b0e48227-c732-4e4f-9c4b-fecfe83d26f8" name="Wagon.015"/>
+			<meta id="5104ca0c-bb29-4d3b-8ab1-14f92efe72b6" name="Wagon.016"/>
+			<meta id="cc15d115-2721-4015-842e-ad456bb57a0e" name="Wagon.017"/>
+			<meta id="33a6e7d7-1442-4c44-864d-f4976e72d6e1" name="Wagon.018"/>
+			<meta id="6dcf7539-ba16-4254-92a1-5fd3fe7f364f" name="Wagon.019"/>
+			<meta id="dcc9d812-abf8-4cb1-ab1d-d4dfe5333c74" name="Wagon.020"/>
+			<meta id="56545646-6adf-40e4-8b08-3051db1587a4" name="Wagon.021"/>
+			<meta id="c6766b6f-e702-4b53-9daa-a9dc28d40ff2" name="Wagon.022"/>
+			<meta id="79da497b-07f1-4fdf-80a6-5a2550d5aec7" name="Wagon.023"/>
+			<meta id="962d28ec-87c2-4480-bcfa-ab2b6c0a2bf9" name="Wagon.024"/>
+			<meta id="a0e4d476-f8c8-4eec-b0ce-85a72842ede9" name="Wagon.025"/>
+			<meta id="60365eb0-1200-49c2-92d3-73831b4c16f1" name="Yoke.011"/>
+			<meta id="d6fbb9f8-9c77-422e-b50b-e5c751c6c5de" name="Wagon.012"/>
+			<meta id="60e6f9ec-0e08-4f8e-bab9-18de70dc538c" name="Attach_Minor.001"/>
+			<meta id="d60f3451-105b-464d-9b54-87f92192086a" name="PATH_F_1"/>
+			<meta id="5467888b-7e17-4cbf-aa41-7c9c2d2769c9" name="PATH_G_1"/>
+			<meta id="7ea37d3f-6f7b-4aea-8e58-564b012a5f2e" name="Wagon.026"/>
+		</meta>
+		<meta id="4609513b-9e2f-41df-911b-6d14baf412a4" name="Wheel.backup"/>
+		<meta id="d0e17ba6-aff1-4fb6-a971-cee11e592788" name="DecoDonkeyPart">
+			<meta id="92b20f44-5e37-496a-9470-4264287eb6b0" name="Donkey.007"/>
+		</meta>
+		<meta id="4433e8da-380e-48e7-a863-dd402ab6ed39" name="DecoOxPart">
+			<meta id="de2963f4-3755-412d-a1aa-39e9313675a2" name="Ox.003"/>
+		</meta>
+		<meta id="9f1a24fc-6f28-49fd-b7de-285d9c96892e" name="DonkeyTrain1Part">
+			<meta id="c1540990-5929-43fc-9438-3f3003fafec4" name="Donkey.004">
+				<meta id="eb1ac694-201d-4571-9da0-8077836f5a6d" name="Donkey.004_0"/>
+				<meta id="2489022a-6c7b-43d7-8a5c-dfadcd1ad5da" name="Donkey.004_1"/>
+			</meta>
+			<meta id="6c88815b-e9e3-4673-a5a3-7d8197af3af4" name="PATH_K_1"/>
+			<meta id="af6cfed2-f2d0-4577-b82e-2d8ad01be7f4" name="PATH_L_1"/>
+			<meta id="0229a819-98fa-4074-9366-0c0647f0ba35" name="Donkey.079">
+				<meta id="810e944e-aa5a-46f2-97f1-f3e05affdef6" name="Donkey.079_0"/>
+				<meta id="d4ca1419-dc9e-40ed-8f54-948ef55dea29" name="Donkey.079_1"/>
+			</meta>
+			<meta id="a264818d-c951-4216-aab4-713589ad48a4" name="Donkey.094"/>
+			<meta id="1b70ef36-dbc2-40a9-bc4b-ce211d23b84d" name="Donkey.103">
+				<meta id="e2ac15ec-2664-4d11-bf5f-edeb4c73ce2a" name="Donkey.103_0"/>
+				<meta id="aaf00a5e-4747-4b78-bad1-c9119f3b9fd2" name="Donkey.103_1"/>
+			</meta>
+		</meta>
+		<meta id="167a6354-b3ff-4162-b176-e7d86b45c1ce" name="DonkeyTrain2Part">
+			<meta id="839fcd65-4bc3-4e5d-8de5-1c2cdd99befd" name="PATH_K_1.001"/>
+			<meta id="e23a6219-3971-4773-acbc-de5588cce9d7" name="PATH_L_1.001"/>
+			<meta id="5efe0c13-f53f-41b4-97d2-0a3c368c66b7" name="Donkey.070">
+				<meta id="e484d58c-c04a-4d5f-94d8-a506e14658ec" name="Donkey.070_0"/>
+				<meta id="6e4b1f4e-dd38-477c-a086-9ce2e6c29c5d" name="Donkey.070_1"/>
+			</meta>
+			<meta id="f0e4f2a8-7685-4289-930b-80bb59b014a4" name="Donkey.086"/>
+			<meta id="9574ad4c-3c87-4447-80c9-108a36b4864c" name="Creel.001"/>
+			<meta id="b0f04874-398b-4e88-b782-7dafc0edd55f" name="Creel.002"/>
+			<meta id="a5612d31-fa31-443c-81a8-746a148512af" name="Creel.003"/>
+			<meta id="ed382364-a331-4014-a57e-e9dd59bea4e1" name="Creel.004"/>
+		</meta>
+		<meta id="b876b438-bd08-45af-9543-40bb482f01d5" name="DonkeyTrain3Part">
+			<meta id="20e1f4df-4974-46ec-a722-f4825c113bba" name="PATH_K_1.002"/>
+			<meta id="fe1e769f-dc74-4976-bb87-f80e8139a0f6" name="PATH_L_1.002"/>
+			<meta id="58c58e56-99e1-460a-8d45-76463b438dd0" name="Donkey.012"/>
+			<meta id="4b460698-2241-40b2-a116-2283d3dcb6e1" name="Donkey.010">
+				<meta id="ce82be78-998e-4654-ab12-ea46346e48a7" name="Donkey.010_0"/>
+				<meta id="7e5a4c45-d605-406a-a692-858a7b74bab0" name="Donkey.010_1"/>
+			</meta>
+			<meta id="fceb1f17-0f8a-4a6f-8879-4c6d9636a45e" name="Barrel.004">
+				<meta id="0cb80d80-a953-4732-80d6-cb0947b4cf83" name="Barrel.004_0"/>
+				<meta id="5bae1969-2a9e-4ec2-a376-73e8fa9bd230" name="Barrel.004_1"/>
+			</meta>
+			<meta id="4b7659a4-1b6a-4bb3-9257-9e77f9629e85" name="Barrel.005">
+				<meta id="cc077178-b1df-437b-aac0-b853d8da7d50" name="Barrel.005_0"/>
+				<meta id="aa7e589e-1290-4ea0-bd3d-6edf11ae6b95" name="Barrel.005_1"/>
+			</meta>
+		</meta>
+		<meta id="ca969863-3032-4650-9ada-4c4889797883" name="DonkeyCart1Part">
+			<meta id="94dbea73-a51c-4b6b-8924-eadafc7217c9" name="PATH_A_1"/>
+			<meta id="63fcbac2-2341-467e-ac6d-9d3fd266f1d4" name="PATH_B_1"/>
+			<meta id="e58ec2a3-a93c-4e5f-8f69-c55e90c58881" name="Donkey.003">
+				<meta id="8ed7d077-8413-42ec-80bc-959410f6fe03" name="Donkey.003_0"/>
+				<meta id="d9984c4b-b17b-4aa5-99a4-2738c34a358d" name="Donkey.003_1"/>
+			</meta>
+			<meta id="3efe97cc-726b-4a3d-9016-897232147aed" name="Donkey.019">
+				<meta id="d53ca3ba-9fee-4d14-8c1b-32624e51cb9e" name="Donkey.019_0"/>
+				<meta id="147eacc7-33df-4f8e-a776-9727eabfaab4" name="Donkey.019_1"/>
+			</meta>
+			<meta id="f667e2b3-b3bc-4c1e-b358-be38d6f391a2" name="Donkey.038"/>
+			<meta id="88422bf4-d115-401f-944d-90fe18a27702" name="Crockery.004"/>
+			<meta id="58323826-0c5a-4393-9e87-f3e1591b76f7" name="Crockery.002"/>
+			<meta id="24a84a0e-ccd4-490d-b8ff-c432b61915d0" name="Crockery.003"/>
+			<meta id="cc9f7de2-054a-4e4b-b3ac-49eeb4cae660" name="Crockery.001"/>
+		</meta>
+		<meta id="e826175c-9c06-4b24-bdad-2f6f244cc98e" name="DonkeyCart2Part">
+			<meta id="1a9826c6-c62e-4c54-a563-eb3231ff08a4" name="Donkey.005">
+				<meta id="8ea909ce-e661-46c9-88e0-16dfd5db4d9f" name="Donkey.005_0"/>
+				<meta id="a8134c69-567c-404a-8c6b-77a8b068d97c" name="Donkey.005_1"/>
+			</meta>
+			<meta id="431682c5-54b0-4eec-9d21-597ab82e3049" name="PATH_A_1.001"/>
+			<meta id="8e2fc154-9a19-49f3-80d9-226c606343e0" name="PATH_B_1.001"/>
+			<meta id="2dc6ba21-d368-46de-aaee-62dc635f149e" name="Donkey.020">
+				<meta id="93e5ea93-a69f-4395-8206-f2b7086a60ac" name="Donkey.020_0"/>
+				<meta id="c8c9fda2-1b6a-455f-bbb9-493f83abe09a" name="Donkey.020_1"/>
+				<meta id="852c8711-9ce0-47b0-b02e-5a166a5b02ac" name="Donkey.020_2"/>
+			</meta>
+			<meta id="17206717-859b-478c-b652-9d80221ed76c" name="Donkey.034"/>
+		</meta>
+		<meta id="cee3cadb-2c64-4f21-bfe1-897a07cdc5c4" name="DonkeyCart3Part">
+			<meta id="dc23689c-3b35-4a70-b4a2-108db52bab35" name="PATH_A_1.002"/>
+			<meta id="888c0e55-2924-42ce-865c-f47bd49f21c6" name="PATH_B_1.002"/>
+			<meta id="73952ce8-00c5-4188-aaee-5e3ed747bd45" name="Donkey.011">
+				<meta id="09fd6fcb-ee2f-4432-919f-b536e8405ed9" name="Donkey.011_0"/>
+				<meta id="cdad01a2-5f4f-4e10-983b-a33605bafc8a" name="Donkey.011_1"/>
+			</meta>
+			<meta id="e16e5dfd-95f5-4ca6-98bb-9aba52afe73a" name="Donkey.050">
+				<meta id="d27cf2bc-1440-4a9f-83ed-8072b0ef7f2b" name="Donkey.050_0"/>
+				<meta id="8332991b-de59-4713-a63f-a707cc403cde" name="Donkey.050_1"/>
+				<meta id="3a81dbd6-aee6-4444-a9b3-cbee89281b96" name="Donkey.050_2"/>
+				<meta id="12e8e9b0-15f3-4237-a431-091793441cf7" name="Donkey.050_3"/>
+				<meta id="000870ed-6f29-48e4-a5d2-2af2fcb8c279" name="Donkey.050_4"/>
+			</meta>
+			<meta id="64525864-e675-4270-80ee-039b0321677a" name="Donkey.064"/>
+		</meta>
+		<meta id="8352136e-8eb5-4558-bd87-bf3b84eb1967" name="DecoDonkeyCartPart">
+			<meta id="a6532428-cd2f-4b4b-ae28-969c976375a2" name="Donkey.083"/>
+			<meta id="72061bbe-2280-4537-92af-99fda10b8a3b" name="Donkey.084"/>
+			<meta id="5cd3f2f9-e4c7-4d7b-97ee-578bc7bfcdbd" name="Donkey.085"/>
+			<meta id="3990754a-874b-47d5-a395-00cc93e36a05" name="Donkey.087"/>
+			<meta id="b519f92f-71bf-4ba8-b245-84148354482f" name="Donkey.088"/>
+			<meta id="fc8f55d3-67e9-48dd-bf51-715555afd3e3" name="Donkey.089"/>
+			<meta id="960084cd-678c-4671-abea-b637f57d1c4c" name="Donkey.090"/>
+			<meta id="a98c9dd4-0c3b-4d4e-8ca2-699e89e43ef0" name="Donkey.091"/>
+			<meta id="3a3e16fd-41ad-4713-a5d5-e924dca2862c" name="Donkey.092"/>
+			<meta id="c16bef54-8bd3-4688-a0e2-c22be6f37225" name="Donkey.093"/>
+			<meta id="60483352-733f-4c7e-b712-c2eff4ed4b2d" name="Donkey.095"/>
+			<meta id="9a6b5072-b867-47e4-8f5c-09dd253f5107" name="Donkey.096"/>
+			<meta id="b75494e5-a4c6-47c9-85c2-8743a9ac9fab" name="Donkey.097"/>
+			<meta id="724c562d-a7be-461c-a75c-68ad56355dbf" name="Donkey.098"/>
+			<meta id="b7acb601-f4e2-4acf-b771-958248757ded" name="Donkey.099"/>
+			<meta id="ffddeab9-8ccf-407f-8f01-3c80a1c15211" name="Donkey.100"/>
+			<meta id="2ac969fe-d274-4433-9865-39d36adeea04" name="Donkey.101"/>
+			<meta id="5ed67fef-baff-4e54-984b-195acaf15c6a" name="Donkey.102"/>
+			<meta id="98e3b5a3-32e6-4ba5-8cce-fbfdaa5bc2df" name="Donkey.104"/>
+			<meta id="aa845333-cfa9-4b18-9ebc-496a38acccdb" name="Donkey.105"/>
+			<meta id="e8384340-073b-4618-b641-91d4cce66114" name="Donkey.106"/>
+		</meta>
+		<meta id="16bf25ec-4c0d-4020-9c20-a673fce0261b" name="DecoOxCartPart">
+			<meta id="f3cea04e-a3f0-4eb7-9ded-6d25543daeeb" name="Wheel.002"/>
+			<meta id="401c0139-06bd-4d9c-9668-539e51d7976c" name="Wagon.027"/>
+			<meta id="2c75533a-d5b7-434b-ad6b-b257a1dd3ad6" name="Yoke.018"/>
+			<meta id="52624127-3648-4a35-a38f-d237bb583951" name="Yoke.019"/>
+			<meta id="9cc5e153-86d1-4e32-8b1c-6ee596ccba28" name="Wheel.003"/>
+			<meta id="af387a35-7116-4da6-8a81-4c30a6ca4e34" name="Wagon.028"/>
+			<meta id="38ebed5f-9798-4b8f-bba3-6077440c3e92" name="Yoke.020"/>
+			<meta id="87c47b86-08ae-425e-b65c-4a6c47436bb7" name="Yoke.021"/>
+			<meta id="f5eb2fcb-d1e2-433e-a712-fc64bf183337" name="Wagon.029"/>
+			<meta id="54f88c53-84d2-4199-affc-847a6d26f14e" name="Wagon.030"/>
+			<meta id="67e1e0b3-670c-420a-930b-d39967e15b7a" name="Wagon.031"/>
+			<meta id="37a22319-5c68-47cb-86b1-7db8ea8a808d" name="Wagon.032"/>
+			<meta id="51341f43-5885-434c-85e9-ea864ba9014e" name="Wagon.033"/>
+			<meta id="23638dbf-c3ca-4174-8109-0418723c6a53" name="Wagon.034"/>
+			<meta id="43049131-26e0-47d5-962c-2fb23c1dc22f" name="Wagon.035"/>
+			<meta id="a043d8f7-9a16-4ef1-8051-e0187843b780" name="Wagon.036"/>
+			<meta id="2a4d0366-ebb6-4b63-8412-89c6e78af19d" name="Wagon.037"/>
+			<meta id="c1a34323-d47e-43be-9c6a-9b69e8ce3f4f" name="Wagon.038"/>
+			<meta id="43dae586-2863-4a41-a45e-0bc7d5b3ad5e" name="Wagon.039"/>
+			<meta id="7e0b302d-ea64-4158-9441-062c9fdeb334" name="Wagon.040"/>
+			<meta id="3e555f54-dd24-4a63-b643-af667efcd0a3" name="Wagon.041"/>
+			<meta id="15fa9322-392e-452c-8abc-674b91a9b4ad" name="Wagon.042"/>
+			<meta id="18871202-219a-49db-bce8-86206cb5e10a" name="Wagon.043"/>
+			<meta id="fe2fb70b-af10-4b64-91b8-88c68e5111ca" name="Wagon.044"/>
+			<meta id="8f1dabd0-38cf-40da-b75c-2062103d58a3" name="Wagon.045"/>
+			<meta id="b6bc126d-d4e9-4eb8-a530-b8264ea44cf9" name="Wagon.046"/>
+			<meta id="2ee6bb87-256a-496d-86ea-c803dbaef8c7" name="Wagon.047"/>
+			<meta id="0f16827b-71f3-424c-9948-d8fa1fbd8f1a" name="Wagon.048"/>
+			<meta id="669d05af-400b-4fe4-8553-69e92faae28d" name="Wagon.049"/>
+			<meta id="5ce6a075-3523-401c-bb2c-630e21f67fb7" name="Wagon.050"/>
+			<meta id="552b15aa-17a1-44db-a46f-c28efd070ab4" name="Yoke.022"/>
+			<meta id="0e81c35f-bae1-41a0-9e8e-b9a4c7236ba4" name="Wagon.051"/>
+			<meta id="b6ab635b-9845-4495-bc3e-957553d4b3c1" name="Attach_Minor.002"/>
+			<meta id="424eb26a-9981-4687-857b-c09e19eb3415" name="Wheel.007"/>
+			<meta id="2b8fbbc0-f3df-44cb-ba3f-87808b5266cc" name="Wheel.008"/>
+			<meta id="868f51b5-ca1b-4fa6-aa4b-b1264e765111" name="Wagon.052"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="b0048abf9b3c4b59781a8375228ef46e"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ox.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ox.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_F_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_G_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.026"/>
+					</Item>
+				</ChildList>
+				<NodeName value="OxCartPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Wheel.backup"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DecoDonkeyPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Ox.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DecoOxPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_K_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_L_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.079_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.079_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.079"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.094"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.103_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.103_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.103"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DonkeyTrain1Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_K_1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_L_1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.070_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.070_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.070"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.086"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DonkeyTrain2Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_K_1.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_L_1.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.012_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.012_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.012_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.012_3"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.010_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.010_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DonkeyTrain3Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.019_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.019_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Crockery.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Crockery.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Crockery.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Crockery.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DonkeyCart1Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.020_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.020_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.020_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.034"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DonkeyCart2Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.011_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.011_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.050_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.050_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.050_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.050_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Donkey.050_4"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Donkey.050"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.064"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DonkeyCart3Part"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.083"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.084"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.085"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.087"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.088"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.089"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.090"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.091"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.092"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.093"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.095"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.096"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.097"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.098"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.099"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.100"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.101"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.102"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.104"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.105"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Donkey.106"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DecoDonkeyCartPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.039"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.040"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.041"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.042"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.043"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.044"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.045"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.046"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.047"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.048"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.049"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.050"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.051"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wheel.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Wagon.052"/>
+					</Item>
+				</ChildList>
+				<NodeName value="DecoOxCartPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e28c8709-5ad0-4f43-ad38-05051a9e9e9e"/>
+			<MaterialName value="Material.Bark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a5666917-72ca-496e-835e-449d659e3d26"/>
+			<MaterialName value="Material.Cattle"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="875c5141-69ba-46dd-8d3a-693ce1d6caa5"/>
+			<MaterialName value="Material.Clay"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="33434d50-c46c-483a-b32c-6b800aadef57"/>
+			<MaterialName value="Material.Cloth"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3480d943-6f13-4b10-b813-0bc476e843aa"/>
+			<MaterialName value="Material.Donkey"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9135bed4-8217-4b4f-bb93-952e28ed232e"/>
+			<MaterialName value="Material.Leather"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9b903d64-8b65-4dad-ab2e-5b172a5804b1"/>
+			<MaterialName value="Material.Plank1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="5a56e012-95ae-4102-9842-a3bb5a860b0d"/>
+			<MaterialName value="Material.Plank2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8604af52-9a89-4fe6-a65f-121ca642cc69"/>
+			<MaterialName value="Material.Stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0a9bb25d-1be3-4c25-8d8a-1cde782e4eeb"/>
+			<MaterialName value="Material.Wicker"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="96b56b87-493f-498f-94eb-ff89691cb1d5"/>
+			<MaterialName value="Material.Wood"/>
+		</Item>
+	</MaterialList>
+</importer>
+

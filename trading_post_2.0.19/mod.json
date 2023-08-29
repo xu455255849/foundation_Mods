@@ -1,0 +1,57 @@
+{
+	"Name": "Trading Post",
+	"Author": "Batyushki",
+	"Description": "Land-based trading system for exchanging bulk quantities of non-perishable items.",
+	"Version": "2.0.19",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Italian",
+			"Code": "it"
+		},
+		{
+			"Name": "Spanish",
+			"Code": "es-ES"
+		},
+		{
+			"Name": "Portuguese",
+			"Code": "pt-PT"
+		},
+		{
+			"Name": "Polish",
+			"Code": "pl"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		}
+	],
+
+	"Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		},
+		{
+			"Id": "cfaa7652-e8e6-47d5-94d0-a75d49483913",
+			"Name": "Fantasy Decorations"
+		},
+		{
+			"Id": "4d419737-c3cd-456b-81c3-d473aad7a9f3",
+			"Name": "Balanced Trading"
+		}
+	]
+
+}

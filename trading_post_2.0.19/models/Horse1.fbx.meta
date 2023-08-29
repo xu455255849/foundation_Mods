@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="291fb7b6-cc01-4afa-a67f-a574a55f0a7d">
+	<meta id="4e9aaab8-4625-4496-8618-9a3a7fc425ea" type="group" folder="true" name="Materials">
+		<meta id="1740ec9a-ae4e-4889-9734-510812195a67" name="Material.Wicker"/>
+		<meta id="838c9f31-1c69-4b82-9d9f-eb949a23ab7b" name="Material.Leather"/>
+		<meta id="4184d68e-43f5-470f-8668-a0caee357f73" name="Material.Plank2"/>
+		<meta id="79aae577-fed9-435c-9cc3-2278cba38b5f" name="Material.Plank1"/>
+		<meta id="a5a88dac-20ad-4d7c-b2b6-81a3d4a64712" name="Material.Stone"/>
+		<meta id="66dcd392-5eb9-4505-9640-434b23ffee13" name="Material.Tool"/>
+		<meta id="0c86f2c2-a768-4f8a-af41-71e2e7f2ff78" name="Material.Thatch"/>
+		<meta id="890dcc21-d658-4baa-8b04-0585e97e536c" name="Material.Bag"/>
+		<meta id="333ea108-b905-4bd5-bfb5-03d7d5dc2c74" name="Material.Clothes"/>
+		<meta id="f328cd32-10e0-4a2f-aa21-e59df0b5e460" name="Material.Clothes2"/>
+		<meta id="63e7c124-f867-4b49-9513-a758d5a3f527" name="Material.Face1"/>
+		<meta id="b2b8c495-439f-4c6a-8b8d-25b2aaa5d31c" name="Material.Metal"/>
+	</meta>
+	<meta id="e58046e3-12b5-4725-b25c-146be1318db9" type="group" folder="true" name="Meshes">
+		<meta id="0a72632a-3736-4372-b20b-ff420c23e45b" name="Creel.001_Material.Wicker"/>
+		<meta id="7247b516-d579-48bf-bcd2-1bc963ffa83c" name="Creel.002_Material.Leather"/>
+		<meta id="0f6a7a37-fe6a-4133-a68a-a4d0342a36a5" name="Creel.003_Material.Wicker"/>
+		<meta id="d3ff6cfe-6763-4351-a4ba-3c558a18b994" name="Creel.004_Material.Leather"/>
+		<meta id="56a12170-cd73-4c55-94c9-bf6d59928a87" name="Yoke.001_Material.Plank2"/>
+		<meta id="fe3b5259-0f25-46db-b06f-b23a31ce23ed" name="Box.001_Material.Plank2"/>
+		<meta id="b7779d61-9fc6-451b-b6a8-c92bea09bc49" name="Box.002_Material.Plank2"/>
+		<meta id="81a944f5-5dd7-41ad-a339-eda9e47f4ce2" name="Box.003_Material.Plank2"/>
+		<meta id="4d434eaa-5b77-40fd-81f8-0259dda2e946" name="Box.004_Material.Plank2"/>
+		<meta id="5d80dbe7-8dc6-40ad-b750-1610e3b6b4af" name="Strap.001_Material.Leather"/>
+		<meta id="3602359f-930d-4dc7-a818-19e9acd13db3" name="Box.005_Material.Plank2"/>
+		<meta id="7ed1a763-0d2a-4b52-b1e4-b23b81e48ddb" name="Box.006_Material.Plank2"/>
+		<meta id="2ea3965f-d96c-4da6-b30b-3afe484349af" name="Box.007_Material.Plank2"/>
+		<meta id="45050b1e-7252-43dd-9fcf-ffefc76b11b3" name="Strap.002_Material.Leather"/>
+		<meta id="363da2d4-93ae-4dbb-9255-91219636266e" name="Strap.003_Material.Leather"/>
+		<meta id="9a6d09e1-eebd-4053-aa43-5611a9b0ded5" name="Strap.004_Material.Leather"/>
+		<meta id="5a620152-ddf5-4fad-90e4-859675f54498" name="Barrel.001_Material.Plank1"/>
+		<meta id="3b83ef89-01a1-4010-9da1-8052aea24a3a" name="Barrel.001_Material.Stone"/>
+		<meta id="7ef71898-9a3e-4f57-aba5-e25cb8505804" name="Barrel.002_Material.Plank1"/>
+		<meta id="103e4f14-cfaf-4f0f-b9b8-c2bd1d4ea860" name="Barrel.002_Material.Stone"/>
+		<meta id="abdc25a2-8e6f-4cbb-9538-4d509baeaa41" name="Barrel.003_Material.Plank1"/>
+		<meta id="904202ad-85ed-40cf-96fa-0002bf76d6ed" name="Barrel.003_Material.Stone"/>
+		<meta id="89743833-b38b-4230-8cec-4d609e099a5b" name="Barrel.004_Material.Plank1"/>
+		<meta id="a6970e22-0130-44df-815e-56e8fe854512" name="Barrel.004_Material.Stone"/>
+		<meta id="0eb1a645-4126-4aa9-8145-73e3234ce581" name="Barrel.005_Material.Plank1"/>
+		<meta id="0d4bae07-3214-466e-a337-f7b971c4ea9b" name="Barrel.005_Material.Stone"/>
+		<meta id="a1c601a4-33be-4c9e-b764-cc9ac8db177d" name="Yoke.003_Material.Plank2"/>
+		<meta id="7bd7d308-e57d-45fb-a530-8476861428af" name="Strap.005_Material.Leather"/>
+		<meta id="450b0ad8-d1c7-4752-829b-c4535c86d93c" name="Creel.005_Material.Wicker"/>
+		<meta id="615e76e9-46d1-4cdf-b2e6-0eec9e5dd019" name="Creel.006_Material.Leather"/>
+		<meta id="4816163a-db54-48c3-9fbb-e26a2d98f5fc" name="Creel.007_Material.Wicker"/>
+		<meta id="808595ff-bd2f-47bf-a1d7-66dad8df2f9c" name="Creel.008_Material.Leather"/>
+		<meta id="9c5361b5-fd3e-4e23-ae3a-10cefd0f7316" name="Strap.006_Material.Leather"/>
+		<meta id="5e5900d4-59e7-47bd-b6b8-63fba97a1ab1" name="Thatch.001_Material.Tool"/>
+		<meta id="41d218c5-bb29-4c21-9d88-a5d8f147bace" name="Thatch.001_Material.Thatch"/>
+		<meta id="96f149dc-c6cd-4467-8602-d2ac7f9ddf20" name="Thatch.002_Material.Tool"/>
+		<meta id="c0f2c2bb-335d-4e43-b4ad-4b3a2f2b5fe0" name="Thatch.002_Material.Thatch"/>
+		<meta id="84af3499-d54f-47de-b382-55e1dd989180" name="Creel.013_Material.Wicker"/>
+		<meta id="8372cba0-c38f-4cc6-8d45-6217973ca984" name="Creel.014_Material.Leather"/>
+		<meta id="5be10c07-6888-40f1-b743-13cc0ef51c52" name="Creel.015_Material.Wicker"/>
+		<meta id="efa031a8-d318-4695-b1c1-fef4e83b857b" name="Creel.016_Material.Leather"/>
+		<meta id="e58dc868-a567-49ca-82d5-fba15fd051a3" name="Yoke.004_Material.Plank2"/>
+		<meta id="6e6a6275-14d6-41e8-94b8-ee1649d11922" name="Strap.007_Material.Leather"/>
+		<meta id="fabc57d9-8236-4199-90a6-5a5d7f46db73" name="Sack.002_Material.Bag"/>
+		<meta id="d7bd42eb-13f3-42b9-8f2a-fe64e59213eb" name="Sack.001_Material.Bag"/>
+		<meta id="0299ddfc-2712-4ae3-81be-5929b17d72ac" name="Sack.003_Material.Bag"/>
+		<meta id="46af2f3b-4489-40dc-98ad-dd9166f7ff08" name="Sack.004_Material.Bag"/>
+		<meta id="c6ceff8e-6a48-469d-9ae4-67f48c1636d5" name="Trader.002"/>
+		<meta id="3501c5d0-db87-44ce-ab36-67b245ea719a" name="Sack.005_Material.Bag"/>
+		<meta id="b2f8b158-2ebb-4025-af02-0e063703dcfa" name="Sack.006_Material.Bag"/>
+		<meta id="eff8ec8f-9302-488d-a604-914fa65ea123" name="Hat.002_Material.Leather"/>
+		<meta id="cc2ee4ca-8fc0-4da5-a0b7-a85c66534e52" name="Torso.002_Material.Clothes2"/>
+		<meta id="19027f8f-b7c7-45e9-9528-105a198983c6" name="Head.002_Material.Face1"/>
+		<meta id="4e669ea0-91a1-4c32-8a96-7a65d6eff89e" name="Eye.001_Material.Face1"/>
+		<meta id="d313858d-d50c-4d6d-b10b-bf98f2da4a2a" name="Eye.002_Material.Face1"/>
+		<meta id="354021d3-2eed-4d88-a87f-5681d88d7657" name="Arm.002_Material.Clothes2"/>
+		<meta id="1219cbb7-dcbb-46b8-b0f7-920aba5319a9" name="Arm.001_Material.Clothes2"/>
+		<meta id="e9216a3c-7596-476a-a754-7dbb9cc487ba" name="Hand.001_Material.Clothes2"/>
+		<meta id="36bd921b-d5dd-4b25-bfce-9ca880324bf8" name="Cloak.001_Material.Clothes"/>
+		<meta id="9570d28f-9119-4ee6-bcb5-ad5d2e92f450" name="Hand.002_Material.Clothes2"/>
+		<meta id="48309ca3-4d30-4456-9ce5-ef685c7e9725" name="Spear.001_Material.Plank2"/>
+		<meta id="b8872a7e-8ab9-4279-87c1-f2b8b1c0d2c7" name="Spear.001_Material.Metal"/>
+		<meta id="51e51c77-1a52-4bec-a1fd-08ac2833c7ca" name="Roll.001_Material.Tool"/>
+		<meta id="c0826329-af98-4b7d-9def-18e764f3dde0" name="Roll.001_Material.Clothes2"/>
+		<meta id="00f2f8c9-a4ca-475e-a60a-5f56e611a097" name="Cloak.002_Material.Clothes"/>
+	</meta>
+	<meta id="cc6eea58-78fc-4a94-a2d7-f1e4c4a9f218" name="Prefab">
+		<meta id="b71db957-0dd9-40d1-803a-bec422c40270" name="PackHorse.Part.001">
+			<meta id="5126ee39-b3f8-4943-9568-114fa094d10b" name="Creel.001"/>
+			<meta id="755b0d23-89e4-4ed8-aee1-0720a997a7fa" name="Creel.002"/>
+			<meta id="f05383b8-bd09-47c3-9fba-6f6d849f6dd3" name="Creel.003"/>
+			<meta id="e1d6a6c9-8ee3-4efd-8c77-1d16b8c3adbf" name="Creel.004"/>
+			<meta id="102fba1e-d4c9-47c6-b467-e8ea7ee0cfc3" name="Yoke.001"/>
+			<meta id="d91413a2-a142-418b-b34c-6b905bf5bf38" name="Sack.001"/>
+			<meta id="3a16b815-4a73-46d3-b53a-bd3479ec981c" name="Sack.002"/>
+			<meta id="90b99b30-2f41-4fdd-93ec-1c36b0288141" name="Sack.003"/>
+			<meta id="228be8f4-4214-414d-9a04-b79a94f8c14a" name="Sack.004"/>
+			<meta id="b5310bb6-b7cd-468a-9551-a6a084cd0183" name="Strap.005"/>
+		</meta>
+		<meta id="5b643439-053e-434a-b19f-d995393a1cfa" name="Rider.Part.001">
+			<meta id="65e008c3-b520-4881-bb19-2f01739f6b77" name="Hat.001"/>
+			<meta id="f5f92787-1ca0-4f62-9fab-20198940a11f" name="Torso.001"/>
+			<meta id="b25eaef0-1515-47f8-aeed-df360d2c714c" name="Head.001"/>
+			<meta id="c09de560-4ecc-4605-bb0c-ba283a3ef640" name="Eye.003"/>
+			<meta id="185ec60f-3c0c-427e-92e5-1bd5d624453a" name="Eye.004"/>
+			<meta id="d9e83349-cb25-45be-8cc6-afccef571400" name="Cloak.002"/>
+			<meta id="be624517-180c-4fdd-aabe-eee902fe1427" name="Arm.003"/>
+			<meta id="3cf2812d-7920-47af-ac14-b0f2a4fa96c9" name="Hand.003"/>
+			<meta id="20ce5681-da7a-4930-906d-d9dd4239e3e5" name="Arm.004"/>
+			<meta id="cafabb69-29ff-479c-9c33-6b93e578d9e5" name="Hand.004"/>
+			<meta id="e66b740f-4d9b-45bc-aa09-319b8d0d97ba" name="Spear.002">
+				<meta id="5527ceab-7117-4390-81e4-709e8468f04d" name="Spear.002_0"/>
+				<meta id="927220b5-4bd2-453b-a53d-887a87f280dc" name="Spear.002_1"/>
+			</meta>
+			<meta id="f2b8bcfd-56d0-4cde-abdf-234cac0edc5f" name="Roll.002">
+				<meta id="3c07c4a9-d0a1-44d2-bf32-e4129d9abc4e" name="Roll.002_0"/>
+				<meta id="412e90d2-9f52-4a2d-93e8-e7a81f8d06f3" name="Roll.002_1"/>
+			</meta>
+		</meta>
+		<meta id="c83fd8d0-1691-4eb1-b457-0c2d7df6b5ce" name="Explorer.Part.001">
+			<meta id="2aff27f8-c8ee-40cb-804b-608ae273bfc9" name="Hat.002"/>
+			<meta id="9f22d282-fe33-4d43-94f5-d20979f16d9a" name="Cloak.001"/>
+			<meta id="1800f63a-e5e0-47d0-a566-6d65d7ae2d0f" name="Torso.002"/>
+			<meta id="5402bde4-7b70-4e61-aea4-6afd54d162ff" name="Head.002"/>
+			<meta id="8e933554-8552-4cad-8385-f60715ed01f0" name="Eye.001"/>
+			<meta id="4e98147b-edad-45e0-bb9d-53a78f5496ee" name="Eye.002"/>
+			<meta id="bf8d9c5c-7859-4704-8452-ff1d1480bc75" name="Arm.002"/>
+			<meta id="c1473df7-4d60-4bd3-8455-3f9cbce8bb05" name="Arm.001"/>
+			<meta id="46d17bc1-7b9e-4834-8fdb-7db500b4a995" name="Hand.001"/>
+			<meta id="07cb8eed-165c-44c0-bb1a-6c66c71e4c6c" name="Hand.002"/>
+			<meta id="bf447a02-9317-4fa6-91a0-9edee3f56832" name="Spear.001">
+				<meta id="97ed09e9-6454-4dfc-9614-cc5fa2f38371" name="Spear.001_0"/>
+				<meta id="819eca66-2c54-4ffb-b964-9cef2156c209" name="Spear.001_1"/>
+			</meta>
+			<meta id="9fe834a2-9313-4adb-9069-437ea3b968a2" name="Roll.001">
+				<meta id="368b94dc-78b3-4d3b-9b1a-f66e750fc2c3" name="Roll.001_0"/>
+				<meta id="e065291f-af7e-4bb8-ac73-2c0e3b0978c0" name="Roll.001_1"/>
+			</meta>
+		</meta>
+		<meta id="fc3cc853-e72a-4eac-8180-25caba3c0294" name="PackHorse.Part.002">
+			<meta id="d59ec832-ac53-445c-b68f-f78dda4d978c" name="Yoke.002"/>
+			<meta id="c59436b6-8d59-4a9c-b32f-f7eb17bf112e" name="Box.001"/>
+			<meta id="dfed1d5a-b2bb-40c5-a697-8933c1969635" name="Box.002"/>
+			<meta id="7e5f4efe-064f-4f8c-b4a1-2be22aafb111" name="Box.003"/>
+			<meta id="56fe302f-1e93-4212-8891-2547e32f1670" name="Box.004"/>
+			<meta id="61c98f79-16f4-4598-b2d6-ca099c500241" name="Strap.001"/>
+			<meta id="01e4abab-5f81-4e61-9e4a-3a0c8c8478f3" name="Box.005"/>
+			<meta id="adaf87db-ee7d-4381-bf9b-91f54f1c0f0e" name="Box.006"/>
+			<meta id="7e0e71ae-e9da-475f-87f6-1f55a9d75860" name="Box.007"/>
+			<meta id="f7445152-e7a6-4b95-a8cf-80271929a07c" name="Strap.002"/>
+			<meta id="f63afb56-5dc4-4264-9c54-1aff27e8aa5a" name="Strap.003"/>
+		</meta>
+		<meta id="b0b43471-ad22-48b1-92af-f9d35c59dd5a" name="PackHorse.Part.003">
+			<meta id="81def73e-8201-47ec-b861-7dcec1f71f6b" name="Yoke.003"/>
+			<meta id="4905655c-b95b-4e68-8ffb-df68fb095bbc" name="Sack.005"/>
+			<meta id="2a1e74da-5c37-4454-8322-f3b916702b3f" name="Strap.004"/>
+			<meta id="39faf5cf-3d42-4080-8cd9-5c20973b1107" name="Barrel.001">
+				<meta id="36eef696-1896-4a88-ba95-951b443abb02" name="Barrel.001_0"/>
+				<meta id="d3572b2d-66e5-4385-a650-79013cd632e7" name="Barrel.001_1"/>
+			</meta>
+			<meta id="c5d44ed9-fa9e-45af-a40e-289a2b2bc9fc" name="Barrel.002">
+				<meta id="7669a24e-2d00-411d-b6da-b2b79b506048" name="Barrel.002_0"/>
+				<meta id="26b2b3a1-cb78-4ad4-b67e-4bac0eea2d4f" name="Barrel.002_1"/>
+			</meta>
+			<meta id="3da06ed1-afc0-48c5-8dd2-2f79fcd84b59" name="Barrel.003">
+				<meta id="787733a8-6053-4825-a1fc-e0980b68e4d9" name="Barrel.003_0"/>
+				<meta id="63c36e44-10b3-4dae-a359-c0041dda36cb" name="Barrel.003_1"/>
+			</meta>
+			<meta id="cc30eb89-ecc5-49be-be6b-e78ca1320a1b" name="Barrel.004">
+				<meta id="f64f6f45-9551-4e72-81fc-8804b56c15e8" name="Barrel.004_0"/>
+				<meta id="042ea14b-43b3-4bff-ab47-a47b42974dfc" name="Barrel.004_1"/>
+			</meta>
+			<meta id="afffbc67-ccb8-4bef-a533-c57619720a24" name="Barrel.005">
+				<meta id="7d497b9c-562e-41fb-ab87-e052ed6e01c7" name="Barrel.005_0"/>
+				<meta id="9a12c3b7-f036-426a-b7a8-1581cdba8c97" name="Barrel.005_1"/>
+			</meta>
+			<meta id="b60462ad-6a07-479a-8bab-e299f1b1ddde" name="Sack.006"/>
+			<meta id="51be3428-718e-4f90-9744-da6fd98dacab" name="Strap.007"/>
+		</meta>
+		<meta id="7c314ab6-378e-4271-afdc-6f62d506fef0" name="PackHorse.Part.004">
+			<meta id="a54ab7ac-6456-4db5-8146-7a65de529fd8" name="Creel.013"/>
+			<meta id="4251447d-afdd-4cd0-91d7-36d3492c3ac5" name="Creel.014"/>
+			<meta id="c46660d7-57a7-4386-aa29-cd6eeb1754f7" name="Creel.015"/>
+			<meta id="e768f2a3-3356-4f59-a746-df93462b776f" name="Creel.016"/>
+			<meta id="90b7bcd1-15ca-4295-b055-adb68f0cc33a" name="Yoke.004"/>
+			<meta id="d17b12e1-cdf4-435a-a115-b77682a4053f" name="Creel.005"/>
+			<meta id="55eb2d05-26da-429f-8670-e419f11b65ce" name="Creel.006"/>
+			<meta id="51d6fc73-f219-43fd-8a6d-50a4edf41793" name="Creel.007"/>
+			<meta id="dacd448d-394a-4161-863b-c770dcd820f2" name="Creel.008"/>
+			<meta id="1cbb5717-57b1-466e-a49d-5c1307c8d9f3" name="Strap.006"/>
+			<meta id="9674ca34-0863-4189-93d8-a2498a32592f" name="Thatch.001">
+				<meta id="e9cd2ea1-2442-4196-b7f9-83eb465b7f3e" name="Thatch.001_0"/>
+				<meta id="99f23376-4323-4bcb-a626-fe16fc283c5c" name="Thatch.001_1"/>
+			</meta>
+			<meta id="f1f77b9a-47f6-4f11-acfa-13878410903e" name="Thatch.002">
+				<meta id="38517c46-611a-4bf9-b3d7-5dafc6bbe1b9" name="Thatch.002_0"/>
+				<meta id="0d09a39b-01ea-4ce7-a2d2-b8b625df2915" name="Thatch.002_1"/>
+			</meta>
+		</meta>
+		<meta id="14ab3c78-74d4-4168-ac23-f5f44d9f9602" name="Trader.002"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="832057fa5b4f387aad8f58e423e7726f"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sack.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sack.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sack.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sack.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Strap.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PackHorse.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hat.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloak.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torso.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Head.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Eye.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Eye.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Arm.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hand.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Arm.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hand.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Spear.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Spear.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Spear.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Roll.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Roll.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Roll.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Rider.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hat.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloak.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Torso.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Head.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Eye.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Eye.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Arm.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Arm.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hand.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hand.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Spear.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Spear.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Spear.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Roll.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Roll.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Roll.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Explorer.Part.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Strap.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Box.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Strap.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Strap.003"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PackHorse.Part.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sack.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Strap.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Barrel.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Barrel.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sack.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Strap.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PackHorse.Part.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Yoke.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Creel.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Strap.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Thatch.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Thatch.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Thatch.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Thatch.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Thatch.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Thatch.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PackHorse.Part.004"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Trader.002"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="890dcc21-d658-4baa-8b04-0585e97e536c"/>
+			<MaterialName value="Material.Bag"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="333ea108-b905-4bd5-bfb5-03d7d5dc2c74"/>
+			<MaterialName value="Material.Clothes"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f328cd32-10e0-4a2f-aa21-e59df0b5e460"/>
+			<MaterialName value="Material.Clothes2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="63e7c124-f867-4b49-9513-a758d5a3f527"/>
+			<MaterialName value="Material.Face1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="838c9f31-1c69-4b82-9d9f-eb949a23ab7b"/>
+			<MaterialName value="Material.Leather"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b2b8c495-439f-4c6a-8b8d-25b2aaa5d31c"/>
+			<MaterialName value="Material.Metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="79aae577-fed9-435c-9cc3-2278cba38b5f"/>
+			<MaterialName value="Material.Plank1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4184d68e-43f5-470f-8668-a0caee357f73"/>
+			<MaterialName value="Material.Plank2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a5a88dac-20ad-4d7c-b2b6-81a3d4a64712"/>
+			<MaterialName value="Material.Stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0c86f2c2-a768-4f8a-af41-71e2e7f2ff78"/>
+			<MaterialName value="Material.Thatch"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="66dcd392-5eb9-4505-9640-434b23ffee13"/>
+			<MaterialName value="Material.Tool"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1740ec9a-ae4e-4889-9734-510812195a67"/>
+			<MaterialName value="Material.Wicker"/>
+		</Item>
+	</MaterialList>
+</importer>
+
