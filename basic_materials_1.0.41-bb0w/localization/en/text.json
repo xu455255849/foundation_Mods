@@ -1,0 +1,51 @@
+{
+	"": {
+
+		"BUILDING_BASIC_CLAYPIT_NAME": "Clay Pit",
+		"BUILDING_BASIC_CLAYPIT_DESC": "Workers dig clay from the ground for building.",
+		"BUILDING_BASIC_THATCHER_NAME": "Thatcher's Yard",
+		"BUILDING_BASIC_THATCHER_DESC": "Collects thatch to prepare roofing for rustic buildings.",
+		"BUILDING_BASIC_POTTER_NAME": "Potter's Kiln",
+		"BUILDING_BASIC_POTTER_DESC": "Makes tile and pottery from clay.",
+		"BUILDING_BASIC_SAWMILL_DESC": "Makes planks and shingles from wood.",
+
+		"BUILDING_SET_BASIC_THATCHER1_NAME": "Thatcher's Yard",
+		"BUILDING_SET_BASIC_CLAYPIT1_NAME": "Clay Pit",
+		"BUILDING_SET_BASIC_POTTER1_NAME": "Potter's Kiln",
+
+		"BUILDING_PART_BASIC_CLAYPIT_NAME": "Clay Pit",
+		"BUILDING_PART_BASIC_THATCHER_NAME": "Thatcher's Yard",
+		"BUILDING_PART_BASIC_REEDBED_NAME": "Reed Bed",
+		"BUILDING_PART_BASIC_POTTERKILN_NAME": "Potter's Kiln",
+		"BUILDING_PART_BASIC_POTTERCART_NAME": "Pottery Cart",
+
+		"RESOURCE_POTTERY_NAME": "Pottery",
+		"RESOURCE_CLAY_NAME": "Clay",
+		"RESOURCE_THATCH_NAME": "Thatch",
+		"RESOURCE_TILE_NAME": "Clay Tiles",
+		"RESOURCE_SHINGLE_NAME": "Wood Shingles",
+		"RESOURCE_TYPE_POTTERY": "Pottery",
+
+		"BUILDING_FUNCTION_SAWMILL_NAME": "Planks",
+		"BUILDING_FUNCTION_BASIC_CLAYPIT_NAME": "Clay Pit",
+		"BUILDING_FUNCTION_BASIC_THATCHER_NAME": "Thatcher's Yard",
+		"BUILDING_FUNCTION_BASIC_POTTERKILN1_NAME": "Pottery (Wood + Clay)",
+		"BUILDING_FUNCTION_BASIC_POTTERKILN2_NAME": "Pottery (Coal + Clay)",
+		"BUILDING_FUNCTION_BASIC_POTTERKILN3_NAME": "Tile (Wood + Clay)",
+		"BUILDING_FUNCTION_BASIC_POTTERKILN4_NAME": "Tile (Coal + Clay)",
+		"BUILDING_FUNCTION_BASIC_POTTERCART_NAME": "Pottery Cart",
+		"BUILDING_FUNCTION_BASIC_SHINGLE_NAME": "Wood Shingles",
+		"BUILDING_FUNCTION_ASSIGNABLE_BASIC_SAWMILL_NAME": "Sawmill",
+
+		"JOB_BASIC_CLAYPIT_NAME": "Clay Digger",
+		"JOB_BASIC_CLAYPIT_DESC": "Digs clay from the clay pit for building.",
+		"JOB_BASIC_THATCHER_NAME": "Thatcher",
+		"JOB_BASIC_THATCHER_DESC": "Makes thatch for roofing rustic buildings.",
+		"JOB_BASIC_POTTER_NAME": "Potter",
+		"JOB_BASIC_POTTER_DESC": "Makes tile and pottery from clay.",
+
+
+		"": ""
+
+	}
+}
