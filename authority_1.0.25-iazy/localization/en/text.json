@@ -1,0 +1,181 @@
+{
+	"": {
+
+        "JOB_AUTHORITY_SERVANT_NAME": "Servant",
+        "JOB_AUTHORITY_SERVANT_DESC": "Helps with work around the Manor.",
+
+        "UNLOCKABLE_AUTHORITY_HOUSEHOLD_NAME": "Manor Household",
+
+        "JOB_AUTHORITY_STEWARD_NAME": "Steward",
+        "JOB_AUTHORITY_STEWARD_DESC": "An official of the Manor who looks after the buildings.",
+        "BUILDING_FUNCTION_AUTHORITY_STEWARD_NAME": "Steward's Chamber",
+        "BUILDING_FUNCTION_AUTHORITY_STEWARD_STOREHOUSE_NAME": "Steward's Storehouse",
+        "RESOURCE_AUTHORITY_STEWARD_NAME": "Construction Materials",
+
+        "JOB_AUTHORITY_CHAMBERLAIN_NAME": "Chamberlain",
+        "JOB_AUTHORITY_CHAMBERLAIN_DESC": "An official of the Manor who looks after furnishings.",
+        "BUILDING_FUNCTION_AUTHORITY_CHAMBERLAIN_NAME": "Chamberlain's Quarters",
+        "BUILDING_FUNCTION_AUTHORITY_CHAMBERLAIN_STOREHOUSE_NAME": "Chaimberlain's Storehouse",
+        "RESOURCE_AUTHORITY_CHAMBERLAIN_NAME": "Furnishings",
+
+        "JOB_AUTHORITY_BUTLER_NAME": "Butler",
+        "JOB_AUTHORITY_BUTLER_DESC": "An official of the Manor who looks after food supplies.",
+        "BUILDING_FUNCTION_AUTHORITY_BUTLER_NAME": "Butler's Chamber",
+        "BUILDING_FUNCTION_AUTHORITY_BUTLER_STOREHOUSE_NAME": "Butler's Storehouse",
+        "RESOURCE_AUTHORITY_BUTLER_NAME": "Food Stocks",
+
+        "JOB_AUTHORITY_GARDENER_NAME": "Gardener",
+        "JOB_AUTHORITY_GARDENER_DESC": "A worker who looks after the gardens.",
+        "BUILDING_FUNCTION_AUTHORITY_GARDEN_NAME": "Garden",
+        "BUILDING_FUNCTION_AUTHORITY_GARDEN_STOREHOUSE_NAME": "Garden",
+        "RESOURCE_AUTHORITY_GARDENER_NAME": "Gardening Supplies",
+		"BUILDING_FUNCTION_AUTHORITY_GARDEN_SPOT_NAME": "Garden Spot",
+
+        "JOB_AUTHORITY_COUNCILLOR_NAME": "Councillor",
+        "JOB_AUTHORITY_COUNCILLOR_DESC": "An official of the Manor who provides advice to the Lord and Lady.",
+        "BUILDING_FUNCTION_AUTHORITY_COUNCILLOR_NAME": "Councillor's Quarters",
+
+        "JOB_AUTHORITY_LORD_NAME": "Lord",
+        "JOB_AUTHORITY_LORD_DESC": "The Lord of the Manor.",
+        "BUILDING_FUNCTION_AUTHORITY_LORD_NAME": "Lord's Chamber",
+
+        "JOB_AUTHORITY_LADY_NAME": "Lady",
+        "JOB_AUTHORITY_LADY_DESC": "The Lady of the Manor.",
+        "BUILDING_FUNCTION_AUTHORITY_LADY_NAME": "Lady's Chamber",
+
+        "UNLOCKABLE_AUTHORITY_LORD_LADY": "Lord and Lady",
+
+        "JOB_AUTHORITY_GENTRY_NAME": "Gentry",
+        "JOB_AUTHORITY_GENTRY_DESC": "Landed citizen who manages part of the settlement.",
+        "BUILDING_FUNCTION_AUTHORITY_GENTRY_NAME": "Gentry's Chamber",
+
+
+        "UNLOCKABLE_BUILDING_AUTHORITY_BARRACKS_NAME": "Barracks Jobs",
+
+        "JOB_AUTHORITY_QUARTERMASTER_NAME": "Quartermaster",
+        "JOB_AUTHORITY_QUARTERMASTER_DESC": "A soldier of the Keep who looks after food supplies.",
+        "BUILDING_FUNCTION_AUTHORITY_QUARTERMASTER_NAME": "Quartermaster's Chamber",
+        "BUILDING_FUNCTION_AUTHORITY_QUARTERMASTER_STOREHOUSE_NAME": "Quartermaster's Storehouse",
+        "RESOURCE_AUTHORITY_QUARTERMASTER_NAME": "Food Stocks",
+
+        "JOB_AUTHORITY_CAPTAIN_NAME": "Captain",
+        "JOB_AUTHORITY_CAPTAIN_DESC": "A soldier of the Keep who oversees a guard tower.",
+        "BUILDING_FUNCTION_AUTHORITY_CAPTAIN_NAME": "Captain's Tower",
+
+        "JOB_AUTHORITY_SERGEANT_NAME": "Sergeant",
+        "JOB_AUTHORITY_SERGEANT_DESC": "A soldier of the Keep who oversees a small troop.",
+        "BUILDING_FUNCTION_AUTHORITY_SERGEANT_NAME": "Sergeant's Quarters",
+    
+        "JOB_AUTHORITY_ARMORER_NAME": "Armorer",
+        "JOB_AUTHORITY_ARMORER_DESC": "A soldier of the Keep who manages stocks of weapons.",
+        "BUILDING_FUNCTION_AUTHORITY_ARMORER_NAME": "Armorer's Quarters",
+
+        "JOB_AUTHORITY_VASSAL_NAME": "Vassal",
+        "JOB_AUTHORITY_VASSAL_DESC": "A Knight of the Keep who oversees a part of your realm.",
+        "BUILDING_FUNCTION_AUTHORITY_VASSAL_NAME": "Vassal's Quarters",
+
+        
+        "UNLOCKABLE_BUILDING_AUTHORITY_HOUSEHOLD_MONASTERY_NAME": "Monastic Housekeeping",
+
+        "JOB_AUTHORITY_STEWARD_MONASTERY_NAME": "Steward",
+        "JOB_AUTHORITY_STEWARD_MONASTERY_DESC": "A monk who looks after the Monastery buildings.",
+        "BUILDING_FUNCTION_AUTHORITY_STEWARD_MONASTERY_NAME": "Steward's Storehouse",
+
+        "JOB_AUTHORITY_CELLARER_MONASTERY_NAME": "Cellarer",
+        "JOB_AUTHORITY_CELLARER_MONASTERY_DESC": "A monk who looks after the Monastery food stocks.",
+        "BUILDING_FUNCTION_AUTHORITY_CELLARER_MONASTERY_NAME": "Cellarer's Storehouse",
+
+        "JOB_AUTHORITY_CHAMBERLAIN_MONASTERY_NAME": "Chamberlain",
+        "JOB_AUTHORITY_CHAMBERLAIN_MONASTERY_DESC": "A monk who looks after the Monastery furnishings.",
+        "BUILDING_FUNCTION_AUTHORITY_CHAMBERLAIN_MONASTERY_NAME": "Chamberlain's Storehouse",
+
+        "JOB_AUTHORITY_GARDENER_MONASTERY_NAME": "Gardener",
+        "JOB_AUTHORITY_GARDENER_MONASTERY_DESC": "A monk who provides tools and compost to the Monastic gardens.",
+        "BUILDING_FUNCTION_AUTHORITY_GARDEN_MONASTERY_NAME": "Gardener's Storehouse",
+
+        "JOB_AUTHORITY_ARCHIVIST_MONASTERY_NAME": "Archivist",
+        "JOB_AUTHORITY_ARCHIVIST_MONASTERY_DESC": "A monk who looks after the Monastic manuscripts.",
+        "BUILDING_FUNCTION_AUTHORITY_ARCHIVIST_MONASTERY_NAME": "Archivist's Library",
+
+        "UNLOCKABLE_BUILDING_AUTHORITY_ABBOT_ABBESS_NAME": "Abbot and Abbess",
+
+        "JOB_AUTHORITY_ABBOT_MONASTERY_NAME": "Abbot",
+        "JOB_AUTHORITY_ABBOT_MONASTERY_DESC": "A prior who manages the Monastery's operations.",
+        "BUILDING_FUNCTION_AUTHORITY_ABBOT_MONASTERY_NAME": "Abbot's Chambers",
+
+        "JOB_AUTHORITY_ABBESS_MONASTERY_NAME": "Abbess",
+        "JOB_AUTHORITY_ABBESS_MONASTERY_DESC": "A prioress who manages the Monastery's operations.",
+        "BUILDING_FUNCTION_AUTHORITY_ABBESS_MONASTERY_NAME": "Abbess's Chambers",
+ 
+
+		"BUILDING_PART_AUTHORITY_HALL1_NAME": "Hall",
+		"BUILDING_PART_AUTHORITY_HALL2_NAME": "Hall",
+		"BUILDING_PART_AUTHORITY_HALL3_NAME": "Hall",
+		"BUILDING_PART_AUTHORITY_HALL4_NAME": "Hall",
+		"BUILDING_PART_AUTHORITY_DOOR_NAME": "Door",
+		"BUILDING_PART_AUTHORITY_KITCHEN_NAME": "Kitchen",
+		"BUILDING_PART_AUTHORITY_STORAGE1_NAME": "Storehouse",
+		"BUILDING_PART_AUTHORITY_STORAGE2_NAME": "Storehouse",
+		"BUILDING_PART_AUTHORITY_GARDENPOST_NAME": "Garden Spot",
+
+		"RUSTIC_LORD_CHIMNEY": "Chimney",
+
+        "X_COINS": "{1} authority",
+
+        "OUTCOME_PANEL_AUTHORITY_SUCCESS_TITLE": "Your Authority has Increased!",
+        "OUTCOME_PANEL_AUTHORITY_SUCCESS_DESC": "The people are pleased with your rule. Authority will allow you to expand your territory even further.",
+        "OUTCOME_PANEL_AUTHORITY_FAILURE_TITLE": "You failed to earn Authority!",
+        "OUTCOME_PANEL_AUTHORITY_FAILURE_DESC": "The people are displeased. How will you expand your territory without Authority?",
+        "EVENT_AUTHORITY_ACCEPT": "I gladly accept this challenge.",
+        "EVENT_AUTHORITY_DECLINE": "I must decline.",
+
+        "EVENT_AUTHORITY_LABOUR_COMMONER_TITLE": "Gain Authority with Promotions",
+        "EVENT_AUTHORITY_LABOUR_COMMONER_DESC": "Your people are grateful that you have begun increasing the ranks of Commoners. They are sure that if you achieve at least ten Commoners, your Authority will increase, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_LABOUR_COMMONER_NAME": "Promote ten villagers to Commoner",
+        "QUEST_AUTHORITY_LABOUR_COMMONER_DESC": "You will earn additional Authority once you reach ten Commoners.",
+
+        "EVENT_AUTHORITY_LABOUR_GOLD_TITLE": "Gain Authority with Riches",
+        "EVENT_AUTHORITY_LABOUR_GOLD_DESC": "Your people rejoice at the size of your treasuries. They are sure that if you set aside 2,000 gold coins, your Authority will increase, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_LABOUR_GOLD_NAME": "Store 2,000 gold coins",
+        "QUEST_AUTHORITY_LABOUR_GOLD_DESC": "You will earn additional Authority once you store 2,000 gold coins in your treasuries.",
+
+        "EVENT_AUTHORITY_LABOUR_LORDLADY_TITLE": "Establish your Personal Authority",
+        "EVENT_AUTHORITY_LABOUR_LORDLADY_DESC": "The time has come to assign a Lord and Lady to govern this land! Build them appropriate chambers, assign a Lord and Lady, and your Authority will increase, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_LABOUR_LORDLADY_NAME": "Assign a Lord and Lady",
+        "QUEST_AUTHORITY_LABOUR_LORDLADY_DESC": "You will earn additional Authority once you build the Lord and Lady's chambers, and assign a Lord and Lady to govern the People.",
+
+        "EVENT_AUTHORITY_KINGDOM_SOLDIER_TITLE": "Gain Authority with Promotions",
+        "EVENT_AUTHORITY_KINGDOM_SOLDIER_DESC": "Your first fully promoted Soldier has bolstered the martial spirit amongst your people. Fill your ranks with at least ten Soldiers, and your Authority will increase, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_KINGDOM_SOLDIER_NAME": "Promote 10 villagers to Soldier",
+        "QUEST_AUTHORITY_KINGDOM_SOLDIER_DESC": "You will earn additional Authority once you reach ten Soldiers.",
+
+        "EVENT_AUTHORITY_KINGDOM_RECRUIT_TITLE": "Gain Authority with the Army",
+        "EVENT_AUTHORITY_KINGDOM_RECRUIT_DESC": "Your army is growing! Build a troop of thirty soldiers, and your Authority will increase, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_KINGDOM_RECRUIT_NAME": "Recruit 30 villagers to the Army",
+        "QUEST_AUTHORITY_KINGDOM_RECRUIT_DESC": "You will earn additional Authority once you reach thirty recruits.",
+
+        "EVENT_AUTHORITY_KINGDOM_MISSION_TITLE": "Gain Authority with the Army",
+        "EVENT_AUTHORITY_KINGDOM_MISSION_DESC": "The King pledges an increase in Authority if you complete three military missions. More Authority will allow you to expand your territory even further.",
+        "QUEST_AUTHORITY_KINGDOM_MISSION_NAME": "Complete 3 military missions",
+        "QUEST_AUTHORITY_KINGDOM_MISSION_DESC": "You will earn additional Authority once you complete three military missions.",
+
+        "EVENT_AUTHORITY_CLERGY_MONKNUN_TITLE": "Gain Authority with Promotions",
+        "EVENT_AUTHORITY_CLERGY_MONKNUN_DESC": "The clergy welcome your development of the Monastery. They are sure that if you achieve at least ten Monks or Nuns, your Authority will increase, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_CLERGY_MONKNUN_NAME": "Promote ten villagers to Monk or Nun",
+        "QUEST_AUTHORITY_CLERGY_MONKNUN_DESC": "You will earn additional Authority once you reach ten Monks or Nuns.",
+
+        "EVENT_AUTHORITY_CLERGY_RECRUIT_TITLE": "Gain Authority with the Monastery",
+        "EVENT_AUTHORITY_CLERGY_RECRUIT_DESC": "The clergy is expanding! Appoint at least thirty clergy to the monastery and your Authority will increase, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_CLERGY_RECRUIT_NAME": "Recruit 30 villagers to the Monastery",
+        "QUEST_AUTHORITY_CLERGY_RECRUIT_DESC": "You will earn additional Authority once you reach forty novices in the Monastery.",
+
+        "EVENT_AUTHORITY_CLERGY_MANUSCRIPT_TITLE": "Gain Authority with Manuscripts",
+        "EVENT_AUTHORITY_CLERGY_MANUSCRIPT_DESC": "The clergy rejoice at the production of your first manuscript! Produce at least fifty manuscripts to expand your Authority, allowing you to expand your territory even further.",
+        "QUEST_AUTHORITY_CLERGY_MANUSCRIPT_NAME": "Copy 50 manuscripts",
+        "QUEST_AUTHORITY_CLERGY_MANUSCRIPT_DESC": "You will earn additional Authority once you have fifty manuscripts.",
+
+		"": ""
+
+	}
+
+}

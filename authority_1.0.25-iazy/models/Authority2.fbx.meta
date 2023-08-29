@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="2182752d-f213-4ebe-8193-b27d41856637">
+	<meta id="fccccf0a-a766-4e2d-944f-68e2a05bd8c4" type="group" folder="true" name="Materials">
+		<meta id="07f00b62-40ed-49d3-b689-84e0986fb71d" name="Material.Fur"/>
+		<meta id="36553bf0-b57d-4b0c-9757-d7b0e0d3829b" name="Material.Gold"/>
+		<meta id="af8a05d1-b11c-4e22-9191-9c6ad55a5b55" name="Material.Blue"/>
+		<meta id="00c981bf-5d75-46aa-8d86-d2a13a2a7de5" name="Material.Red"/>
+		<meta id="dc522839-fef3-4628-97e8-4d5a8055b1d8" name="Material.Dark"/>
+		<meta id="2fc3bdfa-bcfa-4a4c-9177-08a512e72d53" name="Material.Silk"/>
+		<meta id="9f7f59a1-f011-4b2d-90d1-e3c1336f78fd" name="Material.GreenEmb"/>
+		<meta id="0a6ca962-25b0-437e-85fa-5a6a6e900955" name="Material.GreenShield"/>
+		<meta id="ab817971-a5b5-427f-a4f1-aa6e4c95ab86" name="Material.Fur2"/>
+		<meta id="cceeccb8-f11e-4315-8380-b0c66acc5860" name="Material.RedShield"/>
+		<meta id="a8d647f5-38d5-4069-9e7b-bed46a3887ce" name="Material.Brown"/>
+		<meta id="0309f6ab-43fa-4dfc-9c66-f50b50c0af27" name="Material.GreyShield"/>
+		<meta id="78c863c0-f743-4ccf-9dae-5f495e3cd416" name="Material.Brown2"/>
+		<meta id="47a5f898-7852-420d-9ed1-6440dad9c5d0" name="Material.Brown3"/>
+		<meta id="a9bc3808-a60c-46a4-9a40-9ffff6e63db7" name="Material.Yellow"/>
+		<meta id="481a926d-634a-4141-a41a-0a2c637af794" name="Material.White"/>
+		<meta id="9ab275af-1aaf-4ad7-bc72-c36a03478994" name="Material.Gentry"/>
+	</meta>
+	<meta id="e6dab388-5c60-409a-a1c9-9892791013e4" type="group" folder="true" name="Meshes">
+		<meta id="340720b8-60fe-4b42-9693-4bc60e3210d5" name="Robe.001"/>
+		<meta id="1627e8e3-2a75-4cf1-a24e-909f55717616" name="Robe.004_Material.Blue"/>
+		<meta id="71d19fe2-6835-4c8b-821b-c8ab005646a2" name="Sleeve.003_Material.Red"/>
+		<meta id="299c41c4-0898-40c3-a5e8-a314323b3bf1" name="Sleeve.004_Material.Red"/>
+		<meta id="028e1a5a-0516-4db0-87d4-732c9147cf9f" name="Cape.002_Material.Dark"/>
+		<meta id="655921c4-867f-4790-b763-9bc779eba10b" name="Collar.003_Material.Fur"/>
+		<meta id="8eec1107-d51f-4e3e-ae9f-1564a02b2721" name="Collar.004_Material.Gold"/>
+		<meta id="991fee76-f230-4099-a934-c3d3b6a84041" name="Sleeve.001_Material.Red"/>
+		<meta id="04898bc1-b2ac-4856-8ab2-23a2bf60827b" name="Sleeve.002_Material.Red"/>
+		<meta id="6c84f26e-fd41-426e-958f-50357cc22874" name="Robe.003_Material.Blue"/>
+		<meta id="43681efb-42df-48b0-9c99-76e082ccad62" name="Belt.001_Material.Red"/>
+		<meta id="f1ae3985-185a-4ce6-af72-042dc0f60d7f" name="Collar.001_Material.Fur"/>
+		<meta id="9597e233-69c3-4088-a773-f86aa1a11986" name="Hat.001_Material.Red"/>
+		<meta id="98dbf5c0-2d30-4550-906c-55994a066fc6" name="Collar.002_Material.Fur"/>
+		<meta id="17d48194-7a37-4144-9cc3-6ecd14735fd8" name="Collar.005_Material.Fur"/>
+		<meta id="c420ac53-6824-4b38-934c-4421c2742dd1" name="Robe.005_Material.Blue"/>
+		<meta id="862bf21a-7066-4e46-8990-006d27520ce2" name="Cloth.001_Material.Blue"/>
+		<meta id="6497b9ff-2a54-4918-af95-cce523c9ac62" name="Hat.003_Material.Red"/>
+		<meta id="220e29d4-39e4-40d0-99c8-e388b32fee07" name="Hat.003_Material.Gold"/>
+		<meta id="da1c06d5-0e9f-4578-91b2-df95793ff510" name="Veil.001_Material.Silk"/>
+		<meta id="c20e0f1a-a38f-482b-86d8-008a4ac3a57c" name="Hat.004_Material.GreenEmb"/>
+		<meta id="655afd89-e2da-4215-b6dc-e3bc14fd7efd" name="Hat.005_Material.GreenShield"/>
+		<meta id="24ac89c2-d5b6-47a8-918c-645d16f9efda" name="Hat.005_Material.GreenEmb"/>
+		<meta id="72caaa18-5094-4bf6-90ed-473f0e9ba50a" name="Robe.007_Material.GreenShield"/>
+		<meta id="4606c2ac-ff64-40bc-9651-eee0c1c52ac7" name="Cloth.002_Material.GreenEmb"/>
+		<meta id="012305d6-819e-4dac-8552-e0c4a11cefee" name="Hat.004_Material.GreenShield"/>
+		<meta id="9081c4f3-581a-48f9-86c4-064c36c79f74" name="Sleeve.011_Material.Red"/>
+		<meta id="0caa7ae2-1cca-42aa-b9db-ca9e41dee1aa" name="Sleeve.012_Material.Red"/>
+		<meta id="79f76bc0-c2c6-437b-becd-e37e12ed46a5" name="Belt.005_Material.Red"/>
+		<meta id="6bd8d8ad-6556-48f7-b099-0b57f6028d95" name="Hat.002_Material.Red"/>
+		<meta id="b03c10fb-7e02-4f69-9e2b-e06c65ebec63" name="Sleeve.013_Material.Red"/>
+		<meta id="44a2fe36-7e9d-45c1-9bb7-a9fec15a47a5" name="Sleeve.014_Material.Red"/>
+		<meta id="b3bdc031-008e-4551-bce4-443fd3e65677" name="Belt.006_Material.Red"/>
+		<meta id="10907291-bb40-47d5-a4ae-26c1c8e8db2b" name="Hat.006_Material.Red"/>
+		<meta id="8142a823-2724-4499-a884-5568a5b104e2" name="Robe.008_Material.RedShield"/>
+		<meta id="ad6dfa8a-9059-4d4f-bbb2-14120d969b68" name="Hat.002_Material.RedShield"/>
+		<meta id="58c6974b-3b03-470d-9e0d-cc4ce0b9e668" name="Robe.009_Material.RedShield"/>
+		<meta id="77d35094-f178-4b8a-a0f4-a317ad0b4eb8" name="Hat.006_Material.RedShield"/>
+		<meta id="dc098a22-23d5-4820-8d68-52e9c77f6608" name="Cloth.003_Material.RedShield"/>
+		<meta id="cbc18821-0311-4123-a10e-9b471618f8ca" name="Robe.010_Material.Brown"/>
+		<meta id="2f1f3992-b4c4-41bb-9f72-15722033670c" name="Robe.011_Material.GreyShield"/>
+		<meta id="96a398c5-ab4a-49b8-a425-2a3edfacea97" name="Sleeve.017_Material.Silk"/>
+		<meta id="0c4d53d9-73f9-4a9c-a355-b20053b823d9" name="Sleeve.018_Material.Silk"/>
+		<meta id="f7ecb8d6-e29e-4be3-a102-ef85d8d0944e" name="Belt.008_Material.Dark"/>
+		<meta id="a595132e-36f6-491f-9fb6-89ebccb0f1d7" name="Robe.012_Material.GreyShield"/>
+		<meta id="8a3e34c7-45d1-46e1-8b5c-0b99761edd1e" name="Sleeve.019_Material.Silk"/>
+		<meta id="167a3740-aac3-4de8-9d64-530876ca8609" name="Sleeve.020_Material.Silk"/>
+		<meta id="6abecff2-c078-427a-be2d-c88db247cdda" name="Robe.013_Material.Brown"/>
+		<meta id="960168bc-9c19-4366-b828-cce755fc281e" name="Sleeve.021_Material.GreenEmb"/>
+		<meta id="a90f91fc-ed59-4a29-aa4b-ecee76391d96" name="Sleeve.022_Material.GreenEmb"/>
+		<meta id="4b478c5c-a318-41dd-8b09-18ee3122dcd0" name="Belt.010_Material.GreenEmb"/>
+		<meta id="fe3edbe3-2601-49e3-8db4-7dd67e660ae1" name="Hat.007_Material.GreenEmb"/>
+		<meta id="c36f6c5e-5591-47c9-9767-091bf226a63a" name="Hat.007_Material.Brown"/>
+		<meta id="54143638-5bc9-4adb-b72a-8cece46b7d7e" name="Robe.014_Material.Brown"/>
+		<meta id="1036a82e-8f68-4c2b-8cfa-83d2b4bf80a2" name="Robe.015_Material.Brown"/>
+		<meta id="1234e9be-2f1c-4d08-9889-3b78ec9459d7" name="Hat.008_Material.GreenEmb"/>
+		<meta id="1247f519-a8af-48b9-8f30-c2c5ce195ecb" name="Hat.008_Material.Brown"/>
+		<meta id="65a81cfd-ad1e-4d49-b175-7bfd78daa2ec" name="Hat.009_Material.Brown"/>
+		<meta id="3ddde8bb-3fd5-4bb9-8cc0-843ccba4dac4" name="Hat.010_Material.Brown"/>
+		<meta id="c5667c26-a9c8-488a-9a4a-898f1ca2be3c" name="Robe.016_Material.Brown2"/>
+		<meta id="0f17032d-d30c-4fd8-862d-e2085f66247d" name="Hat.009_Material.Brown2"/>
+		<meta id="620ec492-fa27-47cd-98b5-2ec55ae8cf39" name="Robe.017_Material.Brown2"/>
+		<meta id="c85bd006-2359-4422-9f72-3eb41df5f9c6" name="Hat.010_Material.Brown2"/>
+		<meta id="2d2053a0-2a25-4583-88d3-eccd1c5d8c02" name="Robe.018_Material.Brown3"/>
+		<meta id="03f203bc-5ea7-4aea-867c-a822621bf387" name="Hat.011_Material.GreenEmb"/>
+		<meta id="9072a7ae-af21-4479-942f-1286a3391bc1" name="Hat.011_Material.Brown3"/>
+		<meta id="8cd774b2-867a-482c-a83e-8cb8bc9a9843" name="Robe.019_Material.Brown3"/>
+		<meta id="85b6cbda-9df4-4403-b5ba-f674321395df" name="Hat.012_Material.GreenEmb"/>
+		<meta id="dd3ed752-5cd2-4f98-82d6-1cae5d013680" name="Hat.012_Material.Brown3"/>
+		<meta id="4dea74e7-f9ad-4d8e-8844-fe1916704313" name="Robe.020_Material.Yellow"/>
+		<meta id="23298b68-59da-46d1-af3d-283cd1ae9030" name="Hat.013_Material.Brown3"/>
+		<meta id="0a7cee1f-c544-4b4e-9c70-3e19897e3cf3" name="Hat.013_Material.Yellow"/>
+		<meta id="e1e903d3-21e3-4ec9-835e-d94c965412b4" name="Robe.021_Material.Yellow"/>
+		<meta id="c900f789-3954-49f8-8da4-d020b3379861" name="Hat.014_Material.Brown3"/>
+		<meta id="85c8647d-a348-460c-9de1-0503dbccb16e" name="Hat.014_Material.Yellow"/>
+		<meta id="f9e535bc-3d0f-415a-9871-91d1288dcb3f" name="Cloth.007_Material.Brown2"/>
+		<meta id="abd3e438-cbed-467a-9143-b3ad62391cc8" name="Robe.022_Material.GreyShield"/>
+		<meta id="2098ac2e-8c80-4a69-a14d-c527e7661e34" name="Hat.015_Material.GreyShield"/>
+		<meta id="54cf6295-f5f3-4019-b6e8-4219dfe29b0d" name="Hat.015_Material.White"/>
+		<meta id="77285d1a-957c-4b4f-94da-6de6cd87cadd" name="Robe.023_Material.GreyShield"/>
+		<meta id="3624411b-e722-4f34-9400-a85f665a63a7" name="Hat.016_Material.GreyShield"/>
+		<meta id="985d893f-2b55-41b9-a37e-0692a9f0cb3b" name="Hat.016_Material.White"/>
+		<meta id="bd16b7d7-be4d-4277-971f-8aa9e620a180" name="Robe.026_Material.Blue"/>
+		<meta id="5a55385f-6cf3-4de0-a37e-2c462f39f8f9" name="Collar.033_Material.Fur"/>
+		<meta id="aa1cd5f8-ceb9-428d-9093-2aa7020df5b4" name="Sleeve.023_Material.Red"/>
+		<meta id="d334b996-da48-43d2-ae68-5af4e180b2b2" name="Sleeve.024_Material.Red"/>
+		<meta id="acad665e-081c-4b44-b9e9-a4cd550040f3" name="Belt.011_Material.Red"/>
+		<meta id="bf41a2d6-8dfd-467a-a1ed-2fd5f6bc56f5" name="Collar.034_Material.Fur"/>
+		<meta id="4945f875-49e7-49ba-a21b-30f0d4629223" name="Collar.035_Material.Fur"/>
+		<meta id="b81fcec2-3c27-4b6c-acdc-25cd7bf839c6" name="Collar.015_Material.Fur2"/>
+		<meta id="6393621f-c939-4db7-b643-dd523f3a5cac" name="Collar.016_Material.Fur2"/>
+		<meta id="b4bfcc46-ea21-4618-b7eb-c6b757834be7" name="Collar.017_Material.Fur2"/>
+		<meta id="5243cc40-f34d-4a6d-87a5-3ffd86e98deb" name="Robe.025_Material.RedShield"/>
+		<meta id="dc34dd58-5da5-4b8b-b482-00c322e74927" name="Sleeve.009_Material.Red"/>
+		<meta id="ee4150cc-a689-4937-96dc-6af3c79feec3" name="Sleeve.010_Material.Red"/>
+		<meta id="c4946473-d146-4ba9-9d0c-2b10095d8f0d" name="Belt.004_Material.Red"/>
+		<meta id="e5079f95-31ed-4aaa-8d51-a208c3083657" name="Robe.027_Material.RedShield"/>
+		<meta id="af99dd1b-e7f2-449c-8425-03a61858f487" name="Collar.018_Material.Fur2"/>
+		<meta id="8c28a81e-87de-427e-8800-0f3aaf3de682" name="Collar.019_Material.Fur2"/>
+		<meta id="58346a06-25cd-4e68-aa9f-d758e4769269" name="Collar.020_Material.Fur2"/>
+		<meta id="d0ee5efa-241a-46dc-9e7e-80b8578505dc" name="Robe.029_Material.GreyShield"/>
+		<meta id="61b1dab3-b0c1-43af-ae2a-b4eda6a9ef19" name="Belt.009_Material.Dark"/>
+		<meta id="803cdc2a-b6e3-4468-9ab0-e668ef64f352" name="Robe.028_Material.GreyShield"/>
+		<meta id="d2143905-2215-4933-a8ec-14438b1eab80" name="Sleeve.025_Material.Silk"/>
+		<meta id="7799578b-9f5e-416c-8ca7-3690d9cb17f2" name="Sleeve.026_Material.Silk"/>
+		<meta id="1a5266ed-9a40-4a49-bedb-f1d8806e5f22" name="Belt.012_Material.GreenEmb"/>
+		<meta id="232228ea-d209-45aa-9028-74679555ba33" name="Collar.027_Material.Fur2"/>
+		<meta id="2ac4ad3a-cf6c-4864-8a8a-d0b0fc8776e4" name="Collar.028_Material.Fur2"/>
+		<meta id="96a69a02-23a7-4c08-b499-25fcd4347f0f" name="Collar.029_Material.Fur2"/>
+		<meta id="0bfeff70-d005-4b82-9148-077fa643be87" name="Robe.030_Material.Brown"/>
+		<meta id="5ec17a55-8e3d-41bc-b176-14217a37c0b9" name="Collar.039_Material.Fur2"/>
+		<meta id="2a4e8968-2607-4687-950f-55e7752f3c7d" name="Sleeve.027_Material.GreenEmb"/>
+		<meta id="5f15e964-5a4f-421d-8a9c-fee4f7e03da0" name="Sleeve.028_Material.GreenEmb"/>
+		<meta id="69621a55-8ad0-485e-bd81-752b41e0bdc4" name="Belt.013_Material.GreenEmb"/>
+		<meta id="bb96d724-ed75-4c04-87fb-4ceeec0f2fe2" name="Collar.040_Material.Fur2"/>
+		<meta id="7028fd1c-3a07-4b9c-b796-c5bfcad956a0" name="Collar.041_Material.Fur2"/>
+		<meta id="0c9f571b-e41e-408e-80a7-0017cb0c7f99" name="Robe.031_Material.Brown"/>
+		<meta id="267ec632-e293-4146-b7df-8a0c2048e88d" name="Sleeve.015_Material.GreenEmb"/>
+		<meta id="3643c5b3-c782-45bf-b06b-92e8118ffab0" name="Sleeve.016_Material.GreenEmb"/>
+		<meta id="24585062-2376-4a12-b8a6-e0b5352c32ff" name="Belt.007_Material.GreenEmb"/>
+		<meta id="50c38419-b8ac-4fa5-9ad0-3757d4733630" name="Robe.032_Material.GreenShield"/>
+		<meta id="72b8e753-5eb7-44ea-bbf2-5b4b09f603f3" name="Collar.042_Material.Fur2"/>
+		<meta id="1a4e042e-2a64-49a8-9373-52aeaa40f934" name="Sleeve.029_Material.GreenEmb"/>
+		<meta id="785ddec0-a6c0-4a85-a343-b1aa0c8e9644" name="Sleeve.030_Material.GreenEmb"/>
+		<meta id="866e5c17-b664-4d89-8ac0-50e914acaee2" name="Belt.014_Material.GreenEmb"/>
+		<meta id="328e0834-ab18-44ca-898a-3537afdb8397" name="Collar.043_Material.Fur2"/>
+		<meta id="05231c14-af6c-4fb0-94d5-22b6bf232bde" name="Collar.044_Material.Fur2"/>
+		<meta id="12a9cdb1-3db6-4d2c-a4f0-f44bf49b2741" name="Robe.006_Material.GreenShield"/>
+		<meta id="64a4cb4d-92e9-446a-9a14-6551d7bf0960" name="Collar.009_Material.Fur2"/>
+		<meta id="6a93bc9f-f650-419c-954a-6075967a3f72" name="Sleeve.007_Material.GreenEmb"/>
+		<meta id="a2dd6452-56b7-4136-abfd-ed6d4898ba8f" name="Sleeve.008_Material.GreenEmb"/>
+		<meta id="8263d246-7914-4706-8b91-9c4929068c9d" name="Belt.003_Material.GreenEmb"/>
+		<meta id="0d8323bf-a262-4e57-bf4c-431583965f24" name="Collar.010_Material.Fur2"/>
+		<meta id="7f3408ac-6e85-4dc9-92a0-f79e5b0321d7" name="Collar.011_Material.Fur2"/>
+		<meta id="f7f22a35-3ed3-42a9-899a-01071186ea6a" name="Robe.024_Material.GreenShield"/>
+		<meta id="f063bc5e-4ddc-4c73-93f6-f652fbbf0ee0" name="Collar.006_Material.Fur2"/>
+		<meta id="5985e5f0-0665-4243-b60a-089bf288a5be" name="Sleeve.005_Material.GreenEmb"/>
+		<meta id="11532988-c0ba-4a8c-a09d-dfb1eebc11d2" name="Sleeve.006_Material.GreenEmb"/>
+		<meta id="7cd5900c-6a38-4f6e-b4b6-79c529166d83" name="Belt.002_Material.GreenEmb"/>
+		<meta id="49b533d8-6ef5-4bee-9b52-9928fa43163f" name="Collar.007_Material.Fur2"/>
+		<meta id="97c06192-7147-4881-b7f3-29f481980c98" name="Collar.008_Material.Fur2"/>
+		<meta id="1d3a1a2b-6ceb-4eed-b70e-f93848e12a3a" name="Cloth.006_Material.Brown3"/>
+		<meta id="9d542f54-c64a-4c3e-8ba2-1c7dda3fc86a" name="Hat.017_Material.Dark"/>
+		<meta id="58fe612f-af67-461a-bbd4-411b8f715481" name="Hat.017_Material.GreenEmb"/>
+		<meta id="f7f9d0de-d886-40a5-81de-59e8e6b0bfdf" name="Hat.018_Material.Dark"/>
+		<meta id="e3722d05-8ed9-4771-8f03-984604e6d031" name="Hat.018_Material.GreenEmb"/>
+		<meta id="8927b703-3009-4339-b6a2-42021fd7b2a9" name="Hat.019_Material.RedShield"/>
+		<meta id="30331427-2d41-46b9-98dd-d582449187b7" name="Hat.020_Material.RedShield"/>
+		<meta id="0c10e402-7189-421c-b3a2-3825f7195287" name="Cloth.010_Material.RedShield"/>
+		<meta id="8d922528-eebf-4985-a62d-63613717c725" name="Cloth.005_Material.Brown"/>
+		<meta id="5a8b8d98-fba4-4570-9027-544fa6b861dd" name="Cloth.008_Material.Brown2"/>
+		<meta id="3fc3cde2-7274-48ec-a846-1f7970f21bed" name="Robe.033_Material.Gentry"/>
+		<meta id="877dc96c-2088-438e-be84-e8981ce57910" name="Robe.035_Material.Gentry"/>
+		<meta id="8fba4a61-a1a2-4301-9cc4-5d85c439fdf6" name="Robe.034_Material.Gentry"/>
+		<meta id="9ea7f8cb-7de5-4307-9242-e35f8398016f" name="Hat.022_Material.Gentry"/>
+		<meta id="f489f208-fda4-4e66-8439-ed6e11b155c3" name="Cloth.011_Material.Gentry"/>
+		<meta id="621ec992-1772-47e8-8a52-fac7acbc97ad" name="Hat.021_Material.Gentry"/>
+	</meta>
+	<meta id="dcdf5ea4-c9bd-4f56-bece-68a1ff526932" name="Prefab">
+		<meta id="5a5aa362-ed2b-4986-bb94-b911a8ad4069" name="LordMale.backup1">
+			<meta id="3efc3921-3448-4fe4-8634-ac251a9f0ec6" name="Robe.002"/>
+		</meta>
+		<meta id="f55b40f4-6488-4f25-9278-24d733bebeb7" name="LordMaleHat">
+			<meta id="6f1db426-bc74-4bb0-87d9-3a97edbf089c" name="Hat.001"/>
+		</meta>
+		<meta id="97d09bf3-cb00-45c5-aaba-c8562685af81" name="LordMaleBelt.backup2">
+			<meta id="9a031893-104b-4611-b74a-e9d6bd9c916e" name="Robe.004"/>
+			<meta id="1cab59bb-5b7a-4126-8400-9818b9e66803" name="Collar.003"/>
+			<meta id="79021ee3-5001-44d4-911a-3291a0664fbe" name="Collar.004"/>
+			<meta id="a3daa25d-1372-47f5-b014-9ccad0225452" name="Sleeve.003"/>
+			<meta id="23a4b564-a434-4e63-9a50-125599269192" name="Sleeve.004"/>
+			<meta id="5ffdc6ca-4578-4030-b3ca-5cb304d226f1" name="Cape.002"/>
+		</meta>
+		<meta id="d394be4c-3f94-4da2-b341-565b6276fad8" name="LordMaleBelt.backup1">
+			<meta id="f8d8a585-ba83-4e59-9b72-657c8822e923" name="Robe.001"/>
+		</meta>
+		<meta id="65cfc6a2-c32b-4b1a-bc28-e36d9de9d370" name="Blank"/>
+		<meta id="dd9088c8-9bfe-43a5-81a3-fed69aa87779" name="LordFemaleBelt">
+			<meta id="2728c908-5c31-4cb0-b20e-950635c2c326" name="Robe.005"/>
+		</meta>
+		<meta id="3fce8738-d1ce-4fc3-9e8c-d5ad69ad793e" name="LordFemaleHat">
+			<meta id="d77781b5-c0c1-4804-99e4-1ec2dc5752e5" name="Cloth.001"/>
+			<meta id="410a0e11-8315-40d7-af00-7d2bf9231167" name="Hat.003">
+				<meta id="6d432576-16d0-4fc3-9952-d0729ffbd2c4" name="Hat.003_0"/>
+				<meta id="2e9b88f3-5026-427a-a0c2-0a70aa0b21fa" name="Hat.003_1"/>
+			</meta>
+			<meta id="70124127-8f12-4bd7-b21c-cca225172c96" name="Veil.001"/>
+		</meta>
+		<meta id="0aa102ce-ed4d-4d5a-9f7e-4abbfa601476" name="ExchequerFemaleBelt">
+			<meta id="e4e38469-7cf2-4c83-937b-6e83892fd392" name="Robe.007"/>
+		</meta>
+		<meta id="784da26c-9d00-45ba-a86f-c7982d95b3de" name="ExchequerMaleHat">
+			<meta id="4ef5eb70-686b-4dd9-b4f6-052692f6e24a" name="Hat.005">
+				<meta id="629991f8-6098-4846-9eaa-5334744fefca" name="Hat.005_0"/>
+				<meta id="a8828169-d169-4ef8-ad49-011ce096c95d" name="Hat.005_1"/>
+			</meta>
+		</meta>
+		<meta id="f75511d9-4852-4ea1-a663-191ea6554223" name="ExchequerFemaleHat">
+			<meta id="61b1be10-e1bd-44ad-ab05-322f29653b11" name="Cloth.002"/>
+			<meta id="347a603d-7cc2-4788-a5d3-8633e10ffc67" name="Hat.004">
+				<meta id="dcc9cbb8-a15b-4f8a-91c8-87e9a082f69b" name="Hat.004_0"/>
+				<meta id="cd48f703-39ec-4fd7-afc5-6f96ae64bf70" name="Hat.004_1"/>
+			</meta>
+		</meta>
+		<meta id="db165416-4a0f-445e-80da-ae0df5c449ec" name="CouncillorMaleHat">
+			<meta id="8f6e46d0-8798-4554-b5e7-e6585080e254" name="Hat.002">
+				<meta id="03f5ede2-5d3e-443b-b34d-818b6fc9f6c2" name="Hat.002_0"/>
+				<meta id="84b69a11-ee90-4b68-a940-e77727d9b35f" name="Hat.002_1"/>
+			</meta>
+		</meta>
+		<meta id="5ac3a750-d7f4-4075-8ff4-2bb87b795b4b" name="CouncillorFemaleBelt">
+			<meta id="4800c212-bc2f-43a4-865b-7be665ec6968" name="Robe.009"/>
+		</meta>
+		<meta id="ca3d0c79-2018-4b9b-81ee-dee3ec956ae5" name="CouncillorFemaleHat">
+			<meta id="5e83e338-77c0-4f92-a626-c165772dd140" name="Cloth.003"/>
+			<meta id="01617675-911c-4224-83e8-e2c37d186601" name="Hat.006">
+				<meta id="f2e3b927-7f89-42f3-98ed-7b52306fb4ba" name="Hat.006_0"/>
+				<meta id="db9b0c4f-adf3-4e54-bd1b-a45a65eb0713" name="Hat.006_1"/>
+			</meta>
+		</meta>
+		<meta id="bf8f0ea1-b852-4547-810d-28ab3e7eb939" name="ChamberlainFemaleBelt">
+			<meta id="e1491f43-8db2-4ef6-9768-0a028fba5f4e" name="Robe.010"/>
+		</meta>
+		<meta id="40ef22ac-b6a5-451d-ab09-2dc6bf918674" name="ChancellorFemaleBelt">
+			<meta id="ce5985f1-39db-4300-ad2e-01c4add3ffd1" name="Robe.012"/>
+		</meta>
+		<meta id="db643127-8dbe-411f-a0a7-6d5f593ae631" name="GroomMaleHat">
+			<meta id="b600becf-9495-43a4-b326-e8a09f5ea6f4" name="Hat.007">
+				<meta id="e10e5330-5c72-443f-94d2-8b2a418f00dd" name="Hat.007_0"/>
+				<meta id="168988c7-9f61-40ba-8858-94277a075c4d" name="Hat.007_1"/>
+			</meta>
+		</meta>
+		<meta id="d17b3e2c-6852-4c18-87b6-527b3ed7681b" name="GroomMaleFront">
+			<meta id="768535f4-fad7-4b59-82d3-f6a2972b424a" name="Robe.014"/>
+		</meta>
+		<meta id="a6bb1914-3c95-415b-b0d7-2319e33f8bd9" name="GroomFemaleFront">
+			<meta id="fed58a5e-35a9-484a-a66e-c7047733cd08" name="Robe.015"/>
+		</meta>
+		<meta id="f38b867f-7790-4d28-ac06-a822389d2fc6" name="GroomFemaleHat">
+			<meta id="0e6eafe9-4d8b-4ce2-b938-9c9e15514165" name="Hat.008">
+				<meta id="b9aa91ac-bf1a-451b-9163-60ae077236fc" name="Hat.008_0"/>
+				<meta id="d091a77c-64e1-4323-aec3-727bb62705e1" name="Hat.008_1"/>
+			</meta>
+			<meta id="fe7b9014-e9ab-41f6-abac-521a2e31ea9e" name="Cloth.004"/>
+		</meta>
+		<meta id="7a3ea225-abaa-4e55-81f7-1b85278f158a" name="PantlerFemaleFront">
+			<meta id="b6bd366f-4d06-4824-8dfe-9f887fb3257d" name="Robe.016"/>
+		</meta>
+		<meta id="f9f550b4-7ba0-462b-be2a-61c1848abc6d" name="PantlerFemaleHat">
+			<meta id="b6416bd7-07f4-468c-9518-8938b36cd3f1" name="Hat.009">
+				<meta id="37bb24bb-6f42-402f-94a5-80692cd40314" name="Hat.009_0"/>
+				<meta id="29a48c5c-afe5-4b84-8fce-e6c93fa8df1d" name="Hat.009_1"/>
+			</meta>
+			<meta id="75f0386f-5920-4a8e-815c-4ab6f671b325" name="Cloth.005"/>
+		</meta>
+		<meta id="6312a362-6cb4-42d1-8d8e-1d0e16e3b039" name="PantlerMaleFront">
+			<meta id="5cbf7db2-0e57-43e5-b52d-4fb8b12c98e9" name="Robe.017"/>
+		</meta>
+		<meta id="133ccede-30c1-4bfc-a593-9e83141421e8" name="PantlerMaleHat">
+			<meta id="380ade48-894b-4157-ae2b-eb08cb7f4166" name="Hat.010">
+				<meta id="91b39117-a303-4435-810e-8860850d8960" name="Hat.010_0"/>
+				<meta id="cb6cb4a6-a240-4087-8a38-37c4e84c50d7" name="Hat.010_1"/>
+			</meta>
+		</meta>
+		<meta id="10da8d8a-ac69-49c8-b1c3-e911c0258d86" name="CookFemaleFront">
+			<meta id="0c5b1b7a-90ea-49ba-9120-7fa9fe66f3c1" name="Robe.020"/>
+		</meta>
+		<meta id="722ce219-8e9e-4dc3-bcfe-4b8509f4b0d4" name="CookFemaleHat">
+			<meta id="4c43b78f-189c-40fa-aa0d-387db91d988c" name="Hat.013">
+				<meta id="8afaaa6f-7a95-47fe-bf82-d15615848443" name="Hat.013_0"/>
+				<meta id="e8c1d062-32f3-4d7b-aefc-dc4ae2e9be0f" name="Hat.013_1"/>
+			</meta>
+			<meta id="7aedd632-a090-4bf6-8137-8798167a7b3c" name="Cloth.007"/>
+		</meta>
+		<meta id="e0d4c801-d6f6-4786-ba6a-0923e36f60f0" name="CookMaleFront">
+			<meta id="aa39d4da-2bb1-4379-b448-956fc93667a1" name="Robe.021"/>
+		</meta>
+		<meta id="15a9b35f-8a7b-4950-9ee0-25a6a893cc2a" name="CookMaleHat">
+			<meta id="0a5ddb6d-7943-4e70-b46e-a90d55c1f14a" name="Hat.014">
+				<meta id="41cc82b1-81d7-45a9-b00f-82dc8c79f0ec" name="Hat.014_0"/>
+				<meta id="57cdd141-3b66-4f6c-8837-4d4f5849e916" name="Hat.014_1"/>
+			</meta>
+		</meta>
+		<meta id="cbfe23b3-f458-4225-b245-4a3e9a7b47cc" name="MessengerFemaleFront">
+			<meta id="08bc461f-022c-4345-8c9f-2515f1d1862b" name="Robe.022"/>
+		</meta>
+		<meta id="bcaf8172-268d-417b-91b8-c5d53c5afd70" name="MessengerFemaleHat">
+			<meta id="13d46682-5a08-4c0c-a89e-07f58a568cc7" name="Hat.015">
+				<meta id="d9d0f0c3-9f66-4305-84fa-a32479bf07be" name="Hat.015_0"/>
+				<meta id="3bd3028d-9ba9-436d-bcdd-901a333c4364" name="Hat.015_1"/>
+			</meta>
+			<meta id="fe393e10-ac3d-480f-a173-cbbaa80c61a2" name="Cloth.008"/>
+		</meta>
+		<meta id="bd8fc535-e700-44ae-953e-42c861aa99f5" name="MessengerMaleFront">
+			<meta id="6250d2bd-f67c-4588-a6b6-dca45583e077" name="Robe.023"/>
+		</meta>
+		<meta id="73edc6d8-b47c-4c8c-b750-852cf023d108" name="MessengerMaleHat">
+			<meta id="9fefc701-55f3-4b67-b505-f2404edd74e6" name="Hat.016">
+				<meta id="7f3e844c-fc32-4666-804e-24a606fbebce" name="Hat.016_0"/>
+				<meta id="9bb27d68-db74-4a5c-8402-e9b79ba1957f" name="Hat.016_1"/>
+			</meta>
+		</meta>
+		<meta id="97f1a64b-04ee-4802-b171-310df8b5c9e8" name="LordFemaleFront">
+			<meta id="f8469c49-60e3-401d-92ef-6d957b9c9b09" name="Robe.026"/>
+			<meta id="1fbf5fcd-5610-45e0-b6fe-51d4a989d7d8" name="Collar.033"/>
+			<meta id="e3297c88-ada0-4b5e-84bd-222d01749557" name="Sleeve.023"/>
+			<meta id="856f3f48-00f5-414b-99a4-22a9fcd18654" name="Sleeve.024"/>
+			<meta id="4b6128b7-21c5-4fbc-a5a7-ceb61537485a" name="Belt.011"/>
+			<meta id="fd892bc3-74eb-4311-9d55-342021a6d594" name="Collar.034"/>
+			<meta id="2a95fbb6-9482-4f6f-955e-808c24c3bc37" name="Collar.035"/>
+		</meta>
+		<meta id="5865b0fa-6d5f-473a-8230-80afdd4cae70" name="LordMaleFront">
+			<meta id="abe2e17b-6efd-446f-bba6-fca9ee1e962c" name="Robe.003"/>
+			<meta id="a0ae41de-4413-4447-b1ca-1f22dbeaca3f" name="Collar.001"/>
+			<meta id="48387d2c-0889-43a0-8274-9f83ec7adc5b" name="Sleeve.001"/>
+			<meta id="d5b2cdd2-09e3-494f-ad79-6abfd7c48311" name="Sleeve.002"/>
+			<meta id="cc83c051-a061-486e-96e9-b503ad345e0a" name="Belt.001"/>
+			<meta id="4c97145c-8373-4082-abaf-03ef4d378fc6" name="Collar.002"/>
+			<meta id="3da69ab9-006a-4afd-bc5c-b8240725d0f9" name="Collar.005"/>
+		</meta>
+		<meta id="cdc25313-5bf8-4f94-943a-e0eb9de2ef2d" name="LordMaleBeltOLD"/>
+		<meta id="0c3b2acd-02af-4a23-8b67-b1a0a7045632" name="CouncillorMaleBeltOLD">
+			<meta id="322e7a35-1c33-481e-ac55-8d2474f3b272" name="Robe.008"/>
+			<meta id="1cdade26-84b2-4df9-959e-225a00b49dd2" name="Collar.015"/>
+			<meta id="57304ccc-0ef5-486a-b468-b38bd145be4a" name="Sleeve.011"/>
+			<meta id="f388a66c-ed05-4116-af30-797b2ff060e4" name="Sleeve.012"/>
+			<meta id="02c009a9-87cf-4c3a-99a4-9a6fff58c941" name="Belt.005"/>
+			<meta id="dfe58d47-2b15-476f-9a3f-09f08815a469" name="Collar.016"/>
+			<meta id="318f94f7-0092-4bfd-b7e1-fb73f92438ce" name="Collar.017"/>
+		</meta>
+		<meta id="9cb6322c-3b5d-4ca7-838e-8a565efbdd03" name="CouncillorFemaleFront">
+			<meta id="16c04c80-32c4-4c33-b2b1-b9141cb314ac" name="Robe.025"/>
+			<meta id="ab86a9fc-8470-49af-b851-91bb4983f5ee" name="Collar.012"/>
+			<meta id="2e247e83-9429-4b04-baa6-7413bb422dae" name="Sleeve.009"/>
+			<meta id="ceb0e42a-d3af-4e91-8119-fd36abb2b19a" name="Sleeve.010"/>
+			<meta id="44bdbd89-1d36-4ba7-916b-effd09640fb5" name="Belt.004"/>
+			<meta id="6d0362f9-1d6c-4c47-b06d-29610bfe22ab" name="Collar.013"/>
+			<meta id="e5296ca2-89c7-4ff9-a901-8d85b4571315" name="Collar.014"/>
+		</meta>
+		<meta id="42e1e6fa-88d3-42c4-acfb-9d0fdf2e7979" name="CouncillorMaleFront">
+			<meta id="9eade55d-28a9-4936-bc8d-4c1c0695e86f" name="Robe.027"/>
+			<meta id="7dba353f-72a5-41ff-b3da-a395781ef8e6" name="Collar.018"/>
+			<meta id="5d9c4d4c-1311-4f64-8279-0fb551216dc8" name="Sleeve.013"/>
+			<meta id="453aed1b-cc78-445f-bf2b-f7813430a021" name="Sleeve.014"/>
+			<meta id="9eee9e18-d298-4883-b592-444a02694924" name="Belt.006"/>
+			<meta id="7e983a2e-5627-4879-a36b-d197202fb874" name="Collar.019"/>
+			<meta id="a3c2d207-ca23-4901-b46a-8725c6f63f68" name="Collar.020"/>
+		</meta>
+		<meta id="b247e0a4-481c-40a5-b807-92d293e0b3f1" name="ChancellorMaleBeltOLD">
+			<meta id="dd186b30-f142-45b9-a771-7ed97523ae1d" name="Robe.011"/>
+			<meta id="325c5c2d-e071-43c3-8e74-fae61b18fa25" name="Collar.024"/>
+			<meta id="07bff1d2-dfbd-485a-bfee-52ee334018cf" name="Sleeve.017"/>
+			<meta id="cdb52ac3-a311-4e12-942b-33b853714b74" name="Sleeve.018"/>
+			<meta id="8fb8039b-b9ec-4a75-9f9b-5a75b25696e5" name="Belt.008"/>
+			<meta id="2c896c52-5073-418a-9a85-683772357d52" name="Collar.025"/>
+			<meta id="ff3c0d6b-dd7a-4fab-8c8f-d3eeca4d3269" name="Collar.026"/>
+		</meta>
+		<meta id="04b69022-e8db-4e7a-a17f-244c02d46e1c" name="ChancellorMaleFront">
+			<meta id="1cd979d5-4d90-4028-80ce-d776f7b76bab" name="Robe.029"/>
+			<meta id="495a42c1-0cd1-4c00-b862-8feba36ce70c" name="Collar.027"/>
+			<meta id="0693e6e7-4132-4489-adf6-c331054a4e56" name="Sleeve.019"/>
+			<meta id="f46a1ec0-673e-4fa1-b7ff-4ace4ef313af" name="Sleeve.020"/>
+			<meta id="856ec88b-7fa0-456d-bcf9-eaa2932a42ce" name="Belt.009"/>
+			<meta id="7dc8609a-2758-4ded-b768-a1e7fe378028" name="Collar.028"/>
+			<meta id="a9ddbb13-54cf-4ec0-816d-ff953942cc9c" name="Collar.029"/>
+		</meta>
+		<meta id="65b52bf3-bd24-451e-a79d-9cdcb5377cf5" name="ChancellorFemaleFront">
+			<meta id="0eec4560-328c-4ee7-a7cb-7f324ac1b92e" name="Robe.028"/>
+			<meta id="e880d6c4-0ab7-41c8-9aee-a780b42e0865" name="Collar.036"/>
+			<meta id="54969b3d-8964-4765-84f8-00b904a404ba" name="Sleeve.025"/>
+			<meta id="31e6a916-6d61-4034-adb9-2c6b13718de0" name="Sleeve.026"/>
+			<meta id="522a6674-0249-41b9-baa5-04c04f057fa5" name="Belt.012"/>
+			<meta id="782e272d-aeb3-4783-865a-a5f655881f19" name="Collar.037"/>
+			<meta id="467eb89f-fc9a-4d96-b9f5-2dd830b86844" name="Collar.038"/>
+		</meta>
+		<meta id="e55749e1-312f-44ad-b6dd-8821b0f0cc7d" name="ChamberlainMaleBeltOLD">
+			<meta id="da10c74a-0183-4ddc-825b-a44a93cac64c" name="Robe.013"/>
+			<meta id="51891c7d-ae07-428c-a966-d925a19158a7" name="Collar.030"/>
+			<meta id="bbbabfd1-0ebc-4a8c-9219-628c263aac2f" name="Sleeve.021"/>
+			<meta id="4e799f5c-f69d-4055-91eb-c66ff70311eb" name="Sleeve.022"/>
+			<meta id="a840947d-3525-4071-9b39-007e6b6a8d76" name="Belt.010"/>
+			<meta id="ed05d65f-a11b-4a81-a2e0-ae4f7505956f" name="Collar.031"/>
+			<meta id="a1eb7de3-d34c-4ac0-ba46-8c220bc7e3e4" name="Collar.032"/>
+		</meta>
+		<meta id="2d6c7d10-c3f0-48bb-96d9-92882622754d" name="ChamberlainMaleFront">
+			<meta id="46413f22-a6ef-4a63-a47e-45738b880ca4" name="Robe.031"/>
+			<meta id="c276df44-053b-4ef8-9ca9-7adec4e7e76e" name="Collar.021"/>
+			<meta id="81ab2aff-743a-4acc-af5e-f48c93eeba36" name="Sleeve.015"/>
+			<meta id="e5fbf907-13fa-47a2-843f-bc76785a2444" name="Sleeve.016"/>
+			<meta id="ee5880c2-98e5-4ea6-8b03-635daf6a66d2" name="Belt.007"/>
+			<meta id="044dd953-dea0-4b90-a22b-ea9c78bf9c73" name="Collar.022"/>
+			<meta id="9e237203-3a49-4181-b7da-949dc5e58437" name="Collar.023"/>
+		</meta>
+		<meta id="52af75e9-e35c-4b08-a4d6-2bb0e120f714" name="ChamberlainFemaleFront">
+			<meta id="3350b9e4-1f0e-48a1-a945-57a10d11222e" name="Robe.030"/>
+			<meta id="118dfb9d-3fdf-4a22-afd2-1bc7eb34d99f" name="Collar.039"/>
+			<meta id="0ca5d776-ef35-4a4f-bb03-0523fd0138bf" name="Sleeve.027"/>
+			<meta id="af001406-5207-43df-92c2-8d6e6353b40a" name="Sleeve.028"/>
+			<meta id="bcfa87ba-f371-42f1-b19e-04d57a9650ca" name="Belt.013"/>
+			<meta id="78ded815-83b3-49bb-96e5-28eece210601" name="Collar.040"/>
+			<meta id="b56064c6-b561-43a8-b905-33a38cb262d8" name="Collar.041"/>
+		</meta>
+		<meta id="e9d270df-cf32-4a73-996c-16003e617408" name="ExchequerFemaleBackOLD">
+			<meta id="e5766d5e-4771-4977-b5a2-9f9e6e573389" name="Robe.032"/>
+			<meta id="3d1398e0-d4b5-45f6-9156-72c77097d1af" name="Collar.042"/>
+			<meta id="33cfbfb9-bc4f-4077-9fd4-31e09c58375e" name="Sleeve.029"/>
+			<meta id="30780833-bb4b-4e8f-ade9-883b78e4ff67" name="Sleeve.030"/>
+			<meta id="1380268b-b335-40d9-9c05-e7e2507f7b87" name="Belt.014"/>
+			<meta id="c4756595-fbfc-4023-a82e-ced25589582c" name="Collar.043"/>
+			<meta id="01fcff0c-bb89-49d1-a8bb-2a15df42580b" name="Collar.044"/>
+		</meta>
+		<meta id="6b31df73-2183-4608-b12b-79b950db32bf" name="ExchequerMaleBelt"/>
+		<meta id="c2f7b893-cb64-4425-88d1-6989a547c2ac" name="ExchequerMaleFront">
+			<meta id="857ddc2e-22fd-42b4-95c4-b5783c9f8138" name="Robe.006"/>
+			<meta id="3fdb5ad9-52c3-4849-82dc-cbb0f094927d" name="Collar.009"/>
+			<meta id="ff537af3-7b7e-4979-bbed-43532605d541" name="Sleeve.007"/>
+			<meta id="fcfa0995-58d7-49a6-bf9d-8c81490d5d5f" name="Sleeve.008"/>
+			<meta id="5c7f4337-5fe2-4661-ae18-6b23be399c41" name="Belt.003"/>
+			<meta id="dfce0e86-3dc1-4d70-91b4-36c1ecf5d9fc" name="Collar.010"/>
+			<meta id="808aad3e-df92-4883-857a-b36fafbc8eb0" name="Collar.011"/>
+		</meta>
+		<meta id="e1f9f11d-c227-43b5-8d9c-8304e9ff7685" name="ExchequerFemaleFront">
+			<meta id="c892f1cb-000e-42c4-8223-e3dc385bb325" name="Robe.024"/>
+			<meta id="91e24ad3-6fb8-4909-9db2-7a1a0d2f8d1d" name="Collar.006"/>
+			<meta id="a0d185fa-9010-4b72-8804-ae8c37a8e007" name="Sleeve.005"/>
+			<meta id="11caad3e-059f-46ca-943d-3bd5d19d321b" name="Sleeve.006"/>
+			<meta id="bb077b74-613e-45dc-9d76-78f565287c6b" name="Belt.002"/>
+			<meta id="b292fe48-235d-4186-b30b-76d4187103bc" name="Collar.007"/>
+			<meta id="b6dccbf0-b0c0-43ae-bbd0-0e6907c20db7" name="Collar.008"/>
+		</meta>
+		<meta id="91aae8fb-7fa9-431a-b833-8efd1cf727a2" name="GardenerFemaleFront">
+			<meta id="547a7eb9-2409-4993-9dca-e77e73c393a5" name="Robe.018"/>
+		</meta>
+		<meta id="50255e50-ac2e-414b-b6e5-c0a7f7bc3f36" name="GardenerFemaleHat">
+			<meta id="ce703533-564c-4c50-ad6f-6832977301d7" name="Hat.011">
+				<meta id="88ef0bfd-52e0-4806-a6f9-4792a75c9e3b" name="Hat.011_0"/>
+				<meta id="bf8bb29b-3a21-4058-b4be-b3de7d98e793" name="Hat.011_1"/>
+			</meta>
+			<meta id="819de53f-106b-4cec-95a4-6d006a8283da" name="Cloth.006"/>
+		</meta>
+		<meta id="19138598-a359-40ec-8632-cd166ed3bc50" name="GardenerMaleFront">
+			<meta id="ac966ddb-417d-4c85-be27-227d38d7698f" name="Robe.019"/>
+		</meta>
+		<meta id="babae639-f49d-494b-84ee-faaa86a40d13" name="GardenerMaleHat">
+			<meta id="54a84820-82f5-404a-99d8-203e5327b875" name="Hat.012">
+				<meta id="b5bb4faa-e820-4bad-9a3c-ba195de75b8a" name="Hat.012_0"/>
+				<meta id="a350c959-c496-4b44-9dce-3251449db5b3" name="Hat.012_1"/>
+			</meta>
+		</meta>
+		<meta id="d3aa481a-607d-428e-8b7e-f30c0c26868b" name="ExchequerAssistantMaleHat">
+			<meta id="1f535fdd-a814-4103-ad2a-cb5583da451a" name="Hat.017">
+				<meta id="d38dba16-7c12-4a95-a838-d0410a8f6746" name="Hat.017_0"/>
+				<meta id="a54bbe72-b945-4f71-bb2f-82564505017b" name="Hat.017_1"/>
+			</meta>
+		</meta>
+		<meta id="f971ccb8-7830-4b06-9461-84e47345770c" name="ExchequerAssistantFemaleHat">
+			<meta id="73236453-7968-416d-98b7-e213e2ad87ba" name="Hat.018">
+				<meta id="a0c885f1-6107-43e6-8581-a75ad44ada43" name="Hat.018_0"/>
+				<meta id="6174a050-cacc-49c5-88ec-0d3243992516" name="Hat.018_1"/>
+			</meta>
+			<meta id="6633e4b7-7925-44fa-bad6-d415b058324b" name="Cloth.009"/>
+		</meta>
+		<meta id="92d08416-0fc0-465c-8878-11a686d7e6d4" name="CouncillorAssistantMaleHat">
+			<meta id="12866076-2428-4950-8e57-f3aef7475a0d" name="Hat.019">
+				<meta id="a89b9666-a843-48ba-9f08-c2cc0f7e9c25" name="Hat.019_0"/>
+				<meta id="6dca0085-3400-4003-8ff0-9a2d4be63203" name="Hat.019_1"/>
+			</meta>
+		</meta>
+		<meta id="4c75713d-9adc-47d1-b4a3-d6562e88067b" name="CouncillorAssistantFemaleHat">
+			<meta id="cec3bb89-0eee-4126-a83c-da37b334e840" name="Hat.020">
+				<meta id="8af4a95f-3b44-4bee-84b5-9b7707cd70ab" name="Hat.020_0"/>
+				<meta id="1db1b03c-bc6a-49c5-96ea-f4d897e36f80" name="Hat.020_1"/>
+			</meta>
+			<meta id="a079f9dd-fea4-4fb5-8bc0-25e539adf6f8" name="Cloth.010"/>
+		</meta>
+		<meta id="ab8ee36b-ade0-4c01-b3a7-2d091e03c3e4" name="GentryFemaleBelt">
+			<meta id="a08d883c-72f0-468f-a71f-7809adb2bc1f" name="Robe.033"/>
+		</meta>
+		<meta id="3d7f026f-1229-4446-8742-10f8486ca1b3" name="GentryMaleFront">
+			<meta id="5018ba9e-c6ed-42a2-821b-f7a6f2d2671e" name="Robe.035"/>
+			<meta id="e00f45a4-dab1-4b13-82c6-a79041004976" name="Collar.048"/>
+			<meta id="47e1425d-b863-4e3a-9453-a521b2c75a3a" name="Sleeve.033"/>
+			<meta id="723ce3f0-6ff3-4a00-b125-77a8b9dde36f" name="Sleeve.034"/>
+			<meta id="82b7f438-559f-4132-8b9f-86971fbb81a6" name="Belt.016"/>
+			<meta id="7e740f68-e99c-4c50-b711-5c1ee7bea654" name="Collar.049"/>
+			<meta id="8a217022-739d-425a-b0a0-bd108c538f53" name="Collar.050"/>
+		</meta>
+		<meta id="c79d33c8-dfad-40c8-8d0d-26ef9cd77248" name="GentryFemaleFront">
+			<meta id="6abb24b6-1cb0-433d-98ab-f65a70697fe6" name="Robe.034"/>
+			<meta id="4876da69-1b75-4928-b897-015177234de8" name="Collar.045"/>
+			<meta id="a4840929-150f-437d-8a05-eb0950957d78" name="Sleeve.031"/>
+			<meta id="0c1eefeb-ebd1-4dfa-aef8-775e94800acc" name="Sleeve.032"/>
+			<meta id="57d31fd7-1f33-4867-bcf3-9d46eb9c3396" name="Belt.015"/>
+			<meta id="9b4f4227-a226-4b4b-a392-89113e9f0349" name="Collar.046"/>
+			<meta id="e086f9a1-406f-4ce0-8158-62dd56a13634" name="Collar.047"/>
+		</meta>
+		<meta id="1278d70f-ec5d-4663-a816-8298bd8a0e73" name="GentryMaleHat">
+			<meta id="8472afc7-b784-455b-9b0d-3b43c4e5741f" name="Hat.022"/>
+		</meta>
+		<meta id="513d5697-8769-4469-8e38-f5e94c3afe68" name="GentryFemaleHat">
+			<meta id="000f15dc-9e14-467b-abca-fc0534f94bf7" name="Cloth.011"/>
+			<meta id="13aa1a70-7334-4224-af22-72119d62ea7e" name="Hat.021"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="bd5f4c0f17b3636b3c64c888f657f2b1"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordMale.backup1"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hat.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cape.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordMaleBelt.backup2"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordMaleBelt.backup1"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Blank"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordFemaleBelt"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.003_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.003_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Veil.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerFemaleBelt"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.005_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.005_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.004_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.004_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.002"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.009"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorFemaleBelt"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.006_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.006_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.006"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.010"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChamberlainFemaleBelt"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.012"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChancellorFemaleBelt"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.007_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.007_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GroomMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.014"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GroomMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.015"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GroomFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.008_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.008_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.004"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GroomFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.016"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PantlerFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.009_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.009_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PantlerFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.017"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PantlerMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.010_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.010_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.010"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PantlerMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.020"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CookFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.013_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.013_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.007"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CookFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.021"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CookMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.014_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.014_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.014"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CookMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.022"/>
+					</Item>
+				</ChildList>
+				<NodeName value="MessengerFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.015_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.015_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="MessengerFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.023"/>
+					</Item>
+				</ChildList>
+				<NodeName value="MessengerMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.016_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.016_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.016"/>
+					</Item>
+				</ChildList>
+				<NodeName value="MessengerMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.035"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="LordMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="LordMaleBeltOLD"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.017"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorMaleBeltOLD"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.014"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.020"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.026"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChancellorMaleBeltOLD"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.029"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChancellorMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.038"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChancellorFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.032"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChamberlainMaleBeltOLD"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.023"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChamberlainMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.039"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.040"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.041"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ChamberlainFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.042"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.043"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.044"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerFemaleBackOLD"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.034"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerMaleBelt"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.011"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.008"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.018"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GardenerFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.011_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.011_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.006"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GardenerFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.019"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GardenerMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.012_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.012_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.012"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GardenerMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.017_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.017_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.017"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerAssistantMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.018_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.018_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.009"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ExchequerAssistantFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.019_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.019_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.019"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorAssistantMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.020_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hat.020_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hat.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.010"/>
+					</Item>
+				</ChildList>
+				<NodeName value="CouncillorAssistantFemaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.033"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GentryFemaleBelt"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.048"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.049"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.050"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GentryMaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Robe.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.045"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Sleeve.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Belt.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.046"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Collar.047"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GentryFemaleFront"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hat.022"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GentryMaleHat"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Cloth.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Hat.021"/>
+					</Item>
+				</ChildList>
+				<NodeName value="GentryFemaleHat"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="af8a05d1-b11c-4e22-9191-9c6ad55a5b55"/>
+			<MaterialName value="Material.Blue"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a8d647f5-38d5-4069-9e7b-bed46a3887ce"/>
+			<MaterialName value="Material.Brown"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="78c863c0-f743-4ccf-9dae-5f495e3cd416"/>
+			<MaterialName value="Material.Brown2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="47a5f898-7852-420d-9ed1-6440dad9c5d0"/>
+			<MaterialName value="Material.Brown3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="dc522839-fef3-4628-97e8-4d5a8055b1d8"/>
+			<MaterialName value="Material.Dark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="07f00b62-40ed-49d3-b689-84e0986fb71d"/>
+			<MaterialName value="Material.Fur"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ab817971-a5b5-427f-a4f1-aa6e4c95ab86"/>
+			<MaterialName value="Material.Fur2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9ab275af-1aaf-4ad7-bc72-c36a03478994"/>
+			<MaterialName value="Material.Gentry"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="36553bf0-b57d-4b0c-9757-d7b0e0d3829b"/>
+			<MaterialName value="Material.Gold"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9f7f59a1-f011-4b2d-90d1-e3c1336f78fd"/>
+			<MaterialName value="Material.GreenEmb"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0a6ca962-25b0-437e-85fa-5a6a6e900955"/>
+			<MaterialName value="Material.GreenShield"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0309f6ab-43fa-4dfc-9c66-f50b50c0af27"/>
+			<MaterialName value="Material.GreyShield"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="00c981bf-5d75-46aa-8d86-d2a13a2a7de5"/>
+			<MaterialName value="Material.Red"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cceeccb8-f11e-4315-8380-b0c66acc5860"/>
+			<MaterialName value="Material.RedShield"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2fc3bdfa-bcfa-4a4c-9177-08a512e72d53"/>
+			<MaterialName value="Material.Silk"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="481a926d-634a-4141-a41a-0a2c637af794"/>
+			<MaterialName value="Material.White"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a9bc3808-a60c-46a4-9a40-9ffff6e63db7"/>
+			<MaterialName value="Material.Yellow"/>
+		</Item>
+	</MaterialList>
+</importer>
+
