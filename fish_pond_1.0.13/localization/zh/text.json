@@ -1,0 +1,17 @@
+{
+  "": {
+
+    "BUILDING_FISHPOND_NAME": "鱼塘",
+    "BUILDING_FISHPOND_DESC": "养鱼为食。",
+    "BUILDING_PART_FISHPOND_POND1_NAME": "鱼塘（小圆形）",
+    "BUILDING_PART_FISHPOND_POND2_NAME": "鱼塘（大弯曲形）",
+    "BUILDING_PART_FISHPOND_POND3_NAME": "鱼塘（大圆形）",
+
+    "BUILDING_FUNCTION_FISHPOND1_NAME": "养鱼为食。",
+    "BUILDING_FUNCTION_FISHPOND2_NAME": "养鱼为食。",
+
+    "POND_SET1_NAME": "渔塘",
+    "POND_POST_PART_NAME": "渔塘"
+
+  }
+}

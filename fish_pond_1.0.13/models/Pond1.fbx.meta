@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="419674c1-916b-481d-9cae-994065ddd1f8">
+	<meta id="e0d9ebc2-7db1-4901-a756-999d6a219c01" type="group" folder="true" name="Materials">
+		<meta id="95181ecd-9be1-4027-9b2c-6597e9806572" name="Material.Water"/>
+		<meta id="2e0de78b-4d57-4fc8-8afa-39adc2671500" name="Material.Colors"/>
+		<meta id="2f8b8a87-0681-4926-afba-8727e2b268bf" name="Material.Stone"/>
+		<meta id="7c357bd1-483d-40c4-8eb6-98a250dcf761" name="Material.Basket"/>
+		<meta id="f1810db5-679b-45da-b781-b5bf3f8d4d48" name="Material.Log"/>
+		<meta id="97127014-b860-4a03-bf3f-9bb453f90612" name="Material.Grass"/>
+	</meta>
+	<meta id="9188c8e6-efab-4044-979c-4c5a320a682b" type="group" folder="true" name="Meshes">
+		<meta id="1ddcee08-8d64-465d-8e78-072c726446fc" name="Bucket.002_Material.Water"/>
+		<meta id="35fdc5d6-73b5-4884-ae5f-25d9073cefe2" name="PondPart_COLLIDER"/>
+		<meta id="89f11884-a867-4354-904e-41edc019886e" name="Rock.001_Material.Stone"/>
+		<meta id="212e3366-e90b-4fd4-88d0-8273415b5b3d" name="Rock.002_Material.Stone"/>
+		<meta id="98abdc65-1788-4e2b-aa16-c594ac266734" name="Rock.003_Material.Stone"/>
+		<meta id="d697f482-8260-40c6-8e96-5398f7246272" name="Rock.004_Material.Stone"/>
+		<meta id="81efe7fc-7f80-4786-a49c-1815cd3970d2" name="Rock.005_Material.Stone"/>
+		<meta id="ddd533af-1503-4071-b989-0553806b6e50" name="Rock.006_Material.Stone"/>
+		<meta id="f7c82c12-a6eb-4292-ba7b-d10c0e0f5c0a" name="Rock.007_Material.Stone"/>
+		<meta id="2c077dcd-c769-43a3-a2df-e5b6163dd981" name="Rock.008_Material.Stone"/>
+		<meta id="55f14688-284b-4be7-9f91-71305b42b44e" name="Bench.001_Material.Basket"/>
+		<meta id="dc810675-2c28-43ac-8851-e5a8273e7b50" name="Log.004_Material.Log"/>
+		<meta id="0842aace-ecb5-45b2-af95-3086ca63057a" name="Log.002_Material.Log"/>
+		<meta id="7371dfa2-4d23-41eb-a670-1971cf8b7ba2" name="Log.005_Material.Log"/>
+		<meta id="ad73a593-e0fd-4a7e-9557-e018c58fe5b6" name="Log.006_Material.Log"/>
+		<meta id="b4603259-9908-4592-b84e-8a7df1d69f8e" name="Log.007_Material.Log"/>
+		<meta id="756ea508-c7d8-4492-957f-1f433007f0bb" name="Log.008_Material.Log"/>
+		<meta id="c2379ca2-f6ca-4f3d-b19a-d1e65d80d610" name="Log.009_Material.Log"/>
+		<meta id="bf61564f-753d-4768-bdbe-63410d75822e" name="Log.012_Material.Log"/>
+		<meta id="2f053d3a-3a90-49cc-aaf8-15f2e28cb74d" name="Log.015_Material.Log"/>
+		<meta id="578c0606-b18e-4b19-b273-afb98d6ae8e6" name="Log.016_Material.Log"/>
+		<meta id="7e500608-1ab4-4d9c-a20d-1c21dc296373" name="Log.017_Material.Log"/>
+		<meta id="02396f3c-b20a-46c2-9b91-996de69cc530" name="Log.018_Material.Log"/>
+		<meta id="28f8d4bf-b1e8-47a5-a6d4-2692c3b86d7a" name="Pond.001_Material.Grass"/>
+		<meta id="48852a48-1df3-4fb8-ad32-52ec68e718bc" name="Log.001_Material.Log"/>
+		<meta id="c0f25479-3c36-4cdb-a144-9171506d9085" name="Log.003_Material.Log"/>
+		<meta id="ec9f9b78-5a99-4962-9c87-11e1b431c3d8" name="Log.019_Material.Log"/>
+		<meta id="f7cbda2d-c93e-421e-92e9-9f2a04245d88" name="Rock.009_Material.Stone"/>
+		<meta id="41520d63-a132-423b-987b-0077d6a5410a" name="Rock.010_Material.Stone"/>
+		<meta id="75b15d48-e89a-4def-9cf4-785716b469b7" name="Rock.011_Material.Stone"/>
+		<meta id="64df62e3-0d52-44c3-b51d-e9e4a97ea242" name="Rock.012_Material.Stone"/>
+		<meta id="a826ae24-8833-47c4-a342-2fdfe0f3c59d" name="Rock.013_Material.Stone"/>
+		<meta id="b1d0e263-c123-4229-aa1f-16c1fa7dd682" name="Rock.014_Material.Stone"/>
+		<meta id="4a585947-95bd-4adc-a261-2776781286a5" name="Rock.015_Material.Stone"/>
+		<meta id="cfb262b0-6105-4ecb-a572-4f18cbd012ff" name="Rock.016_Material.Stone"/>
+		<meta id="d18e72c2-8739-4675-8a4a-b3e0736104f4" name="Rock.017_Material.Stone"/>
+		<meta id="701d847e-0118-416b-bb94-abd6e164f744" name="Rock.018_Material.Stone"/>
+		<meta id="c64b24d7-b6b3-4085-bb71-d28a261c7d80" name="Rock.019_Material.Stone"/>
+		<meta id="85a9c03b-38af-4334-8eef-011272c67a64" name="Rock.020_Material.Stone"/>
+		<meta id="d7973507-f133-478d-8ba9-96b7bfeb7117" name="Rock.021_Material.Stone"/>
+		<meta id="cbb310e8-6d06-44fa-ba18-b9b93585cfd5" name="Rock.022_Material.Stone"/>
+		<meta id="e29e05f2-31d5-4879-abc3-a69c1381f1a4" name="Rock.024_Material.Stone"/>
+		<meta id="11e30a3c-0dcc-44d7-a5b0-8d06475781ef" name="Rock.025_Material.Stone"/>
+		<meta id="da20e0c0-84b7-4fed-a4ab-49aeae6721c3" name="Log.020_Material.Log"/>
+		<meta id="a4ccd642-b822-4515-9aa1-767aadfa8681" name="Log.023_Material.Log"/>
+		<meta id="e7da2f23-5281-45fe-8c52-8e219f06bb60" name="Rock.026_Material.Stone"/>
+		<meta id="6a23a2a1-ff93-4535-ba1a-3d42895dae6e" name="Rock.027_Material.Stone"/>
+		<meta id="813a8300-cf4f-48ed-b39f-849cd83303aa" name="Rock.028_Material.Stone"/>
+		<meta id="42d513a9-bc52-4626-bf6d-6bc7f810712b" name="Rock.029_Material.Stone"/>
+		<meta id="6ef86c79-f3e5-4c89-9eb3-8f0391e75091" name="Rock.030_Material.Stone"/>
+		<meta id="754fed79-591b-478a-ba82-0ae1b85821bd" name="Rock.031_Material.Stone"/>
+		<meta id="481ff485-66fd-496f-bfcd-ae72ef0bfab8" name="Rock.032_Material.Stone"/>
+		<meta id="bf5e3b23-361d-48c3-8b13-fc405562d6b8" name="Rock.033_Material.Stone"/>
+		<meta id="1909069e-f5ca-46c0-bf3f-70896a060176" name="Rock.035_Material.Stone"/>
+		<meta id="c7b18cf8-8a30-40e8-aa17-e8209f284247" name="Rock.036_Material.Stone"/>
+		<meta id="86b1e160-637d-44ed-beb0-7e945eb54cbe" name="Log.024_Material.Log"/>
+		<meta id="dcc9cfdb-3b03-465f-aac0-7dfc77afa2af" name="Log.025_Material.Log"/>
+		<meta id="cddd1b5b-c1bb-41a9-89d1-917ce020a768" name="Log.026_Material.Log"/>
+		<meta id="f5b95fc0-6e0b-4ba5-834f-bcfdd033eb92" name="Log.028_Material.Log"/>
+		<meta id="26460d86-4f9a-4e45-8abb-558f48f6927d" name="Log.029_Material.Log"/>
+		<meta id="c496b82c-6ef7-4cef-9dcd-4ee50d08d2fb" name="Log.035_Material.Log"/>
+		<meta id="fd87134d-a298-4866-9e8d-9bdfa61e2690" name="Log.036_Material.Log"/>
+		<meta id="3b3b2985-eb5e-407a-9425-03353f384167" name="Log.037_Material.Log"/>
+		<meta id="05b15180-254c-4ded-851d-5edee226c8ce" name="Log.038_Material.Log"/>
+		<meta id="c5a0adb3-d8d6-4aff-a4ca-e559eccf16cf" name="Bucket.002_Material.Basket"/>
+		<meta id="73537140-e454-4c8a-850f-94cb04058767" name="Rock.038_Material.Stone"/>
+		<meta id="88867178-a367-403e-aaf8-b6a6e8f28a5f" name="Rock.039_Material.Stone"/>
+		<meta id="770c6189-45d1-4e19-a4ba-690f88eedf93" name="Rock.041_Material.Stone"/>
+		<meta id="e4f20dc8-33b1-40e4-beaa-78f3041f2507" name="Rock.043_Material.Stone"/>
+		<meta id="5d494021-b5d8-43e0-9b90-c9811eeba069" name="Log.039_Material.Log"/>
+		<meta id="cb04376f-282e-4a62-8014-7be407382e02" name="Grass.136_Material.Grass"/>
+		<meta id="559a71c0-444b-4211-a60b-d86eb00a9792" name="Grass.001_Material.Grass"/>
+		<meta id="05076c7b-d503-4b5a-b131-0d0cf01f10d2" name="Grass.003_Material.Grass"/>
+		<meta id="6fec8dd6-8f69-4e4a-ae1c-5ed01d28df09" name="Grass.004_Material.Grass"/>
+		<meta id="6a5e3817-ea68-4af1-a044-d360b9ce2c0a" name="Rock.044_Material.Stone"/>
+		<meta id="c2f24b60-059b-4895-97dc-48ec29a801f5" name="Rock.045_Material.Stone"/>
+		<meta id="e575d21d-032a-48ef-bace-198db900ce93" name="Rock.046_Material.Stone"/>
+		<meta id="ea3bd9bf-389d-4fb9-b761-e2f692ae1026" name="Rock.047_Material.Stone"/>
+		<meta id="fece27ce-6762-4138-9405-15a989872edb" name="Rock.048_Material.Stone"/>
+		<meta id="49ea1320-eb87-4b88-b9a3-31586c80f0aa" name="Log.010_Material.Log"/>
+		<meta id="fd439e6f-55ce-406c-85c2-84d635edcf47" name="Log.011_Material.Log"/>
+		<meta id="5de9f975-f269-4d8d-81b0-0db10c5b027b" name="Log.013_Material.Log"/>
+		<meta id="fa712b16-b726-4776-a789-e7483352e75d" name="Log.040_Material.Log"/>
+		<meta id="a633d095-2205-4e8d-b51a-b35273eea1a4" name="Log.014_Material.Log"/>
+		<meta id="91d38c71-e959-4eea-8298-2c95062d4752" name="Log.041_Material.Log"/>
+		<meta id="aadfc730-8617-4b40-aad5-767e3dd60098" name="Log.042_Material.Log"/>
+		<meta id="5cf0f2fc-26e7-4da9-8d5e-97299c6fcf49" name="Log.043_Material.Log"/>
+		<meta id="603b465e-cc4f-4bf5-bd1e-3ceb012fa83d" name="Log.049_Material.Log"/>
+		<meta id="079fb00c-5782-428c-9e9b-87d1d936043b" name="Rock.049_Material.Stone"/>
+		<meta id="5ce8856c-4d7d-478c-9ec5-4fa21d003f39" name="Rock.050_Material.Stone"/>
+		<meta id="d36ef3a6-c1c1-4f20-892f-40b79e353bb2" name="Rock.051_Material.Stone"/>
+		<meta id="5894eac3-fbb9-4756-9c98-5be4fe5e8ce3" name="Rock.052_Material.Stone"/>
+		<meta id="4a6eae73-2b1b-412c-a05b-b508ace23f81" name="Rock.053_Material.Stone"/>
+		<meta id="f2751401-305f-42c5-b780-340d51df9fc5" name="Rock.054_Material.Stone"/>
+		<meta id="51df67e0-28a4-4c90-ab1e-f76409f031bf" name="Rock.055_Material.Stone"/>
+		<meta id="4501b27d-497e-4e64-9c6c-a3a3e578a51b" name="Rock.056_Material.Stone"/>
+		<meta id="d41c9253-5341-4e23-a6da-1cdef585d289" name="Rock.057_Material.Stone"/>
+		<meta id="4c6411a3-1da8-4b95-a1ac-2a529964aa8d" name="Rock.058_Material.Stone"/>
+		<meta id="4cb8176e-979c-4178-985c-787529b31d6b" name="Rock.059_Material.Stone"/>
+		<meta id="7a7daf83-c5ef-4255-8d55-c24328a8881f" name="Rock.060_Material.Stone"/>
+		<meta id="c1647efd-46f4-462d-a135-c4fc8b469dbc" name="Log.054_Material.Log"/>
+		<meta id="50e827ad-b5f3-46cf-adaa-1fa069279f1e" name="Log.059_Material.Log"/>
+		<meta id="830ed139-c28d-4c56-8007-5183ffe6ffeb" name="Log.060_Material.Log"/>
+		<meta id="b266a45f-c17d-4403-a7e5-8b1d16cd99cd" name="Log.061_Material.Log"/>
+		<meta id="13baf7ab-622f-4f1e-bcf3-896bd8987316" name="Log.062_Material.Log"/>
+		<meta id="0672f217-e0ad-412d-a57b-f95291466c34" name="Water_Material.Water"/>
+		<meta id="76914072-eb7c-4397-a8a1-6fad7f0b03e8" name="Rock.034_Material.Stone"/>
+		<meta id="145af7e9-5ee9-4be3-9e4a-ca708423d78f" name="Rock.037_Material.Stone"/>
+		<meta id="94600fb9-fa50-4185-908a-7fc18496298e" name="Rock.040_Material.Stone"/>
+		<meta id="6fcc4aa3-3549-43e8-9a4f-0b7e9fddedcc" name="Rock.042_Material.Stone"/>
+		<meta id="3f72c84a-148a-425e-8985-779a23f27f11" name="Rock.061_Material.Stone"/>
+		<meta id="ff0f07fe-33f0-423c-8cb4-4a07c525e794" name="Rock.062_Material.Stone"/>
+	</meta>
+	<meta id="99e7d63c-1892-48a6-bd89-716aeb943014" name="Prefab">
+		<meta id="b95ae3b5-8f8b-4428-a707-025189ba5f3c" name="PondPart">
+			<meta id="9559acaf-85d2-4e84-819b-a1e5d3200af5" name="Rock.001"/>
+			<meta id="c71758ec-92e4-4791-89a0-504ea36020df" name="Rock.002"/>
+			<meta id="6216b0d7-b789-469b-9db5-cf917b986718" name="Rock.003"/>
+			<meta id="caf00eea-8b50-428b-8073-bea52ebf2b9b" name="Rock.004"/>
+			<meta id="11edc342-982b-419b-8a9b-c3d41eb9abcd" name="Rock.005"/>
+			<meta id="064b9f44-baf5-474d-a2f3-1f9031e4a873" name="Rock.006"/>
+			<meta id="4fe797f0-e28e-4138-ae30-93a0b27bf27b" name="Rock.007"/>
+			<meta id="cbf1b693-d016-48e5-88b9-16356fbe93f3" name="Rock.008"/>
+			<meta id="043db367-699a-4bba-9e3e-190372d19c91" name="Bench.001"/>
+			<meta id="ec972217-0d42-474e-97ed-5eae090b9571" name="Log.004"/>
+			<meta id="b97c0170-8d47-4a36-9476-b89488bbd471" name="Log.002"/>
+			<meta id="c3de8ff2-f552-4283-a32e-38e88a20843e" name="Log.005"/>
+			<meta id="39e1779a-a93e-4a67-b389-4179bea5aa37" name="Log.006"/>
+			<meta id="967e6432-a9ae-4111-8c55-9c77fbc07ff6" name="Log.007"/>
+			<meta id="d7f5b324-d786-4bf7-987e-0d96087dcc14" name="Log.008"/>
+			<meta id="6bd3d847-0e1a-4769-852b-57b7c98d75dc" name="Log.009"/>
+			<meta id="523c466d-00a1-4a6e-8a4e-efe7c9db5e54" name="Log.012"/>
+			<meta id="226f7dfb-87fc-4e1c-8f94-9784a1704ab0" name="Log.015"/>
+			<meta id="245f9248-18db-4f31-83f7-606bed762b70" name="Log.016"/>
+			<meta id="713f9f17-27bd-4a65-8a8b-f38d3245bff3" name="Log.017"/>
+			<meta id="24857807-36e4-4a07-8c8f-995e8891f227" name="Log.018"/>
+			<meta id="dd1cff0e-9e2b-4bd4-857f-fa7ecd24b9af" name="Pond.001"/>
+			<meta id="222c5aa1-fc32-4bd7-82e5-0a86fb4513a4" name="Log.001"/>
+			<meta id="bdc4599e-c876-4289-8c60-6d726f30db91" name="Log.003"/>
+			<meta id="69ee98b5-13c6-4fb8-999c-c93769de8d95" name="Log.019"/>
+			<meta id="a013b901-b6fb-42c5-aee0-04685d98fe6f" name="Rock.009"/>
+			<meta id="619c1e38-55a3-42d4-9130-4dc4abacfd2a" name="Rock.010"/>
+			<meta id="b75a9f8a-2884-45c4-ba2c-866c2180f43f" name="Rock.011"/>
+			<meta id="2cf30ba0-dc91-4bf3-afd6-3fc71b5043d6" name="Rock.012"/>
+			<meta id="2dbf9791-8567-4232-a992-452c783650c5" name="Rock.013"/>
+			<meta id="bbd735bc-f9de-44d9-ad0f-d80a47a6a711" name="Rock.014"/>
+			<meta id="38072e4b-c54a-4ff3-a0da-39f88516791e" name="Rock.015"/>
+			<meta id="a46f6007-e4b1-4725-b287-85dd10bee1cc" name="Rock.016"/>
+			<meta id="d28461e3-6769-4980-80ba-c45f3da37eb7" name="Rock.017"/>
+			<meta id="a2af137d-650a-457a-adbc-fd746088ca48" name="Rock.018"/>
+			<meta id="a3e7cf9b-3628-441d-9cb2-27d41c512feb" name="Rock.019"/>
+			<meta id="62a369e4-70c7-455a-99a7-44e8c5b27063" name="Rock.020"/>
+			<meta id="57eddd27-58ab-465d-81fb-09f87ecb9ab8" name="Rock.021"/>
+			<meta id="3809dd07-b768-4e18-84c5-47126da87dda" name="Rock.022"/>
+			<meta id="53e2f327-8bb6-4421-86ab-b24893b83283" name="Rock.023"/>
+			<meta id="6a06e3d7-edc1-4191-99e9-47375fea6a41" name="Rock.024"/>
+			<meta id="69284287-b070-4e70-9a70-348ab50ef758" name="Rock.025"/>
+			<meta id="c8da48c7-94d6-4908-8608-6cbf249fa9ad" name="Log.020"/>
+			<meta id="eaf66a5b-5a61-4ddf-934f-81a0f54d8527" name="Log.021"/>
+			<meta id="76a202dd-d3b3-48e8-849c-9a9bf18f0011" name="Log.022"/>
+			<meta id="2590c8e0-2e19-41f6-897b-a42e5cc4129d" name="Log.023"/>
+			<meta id="8dc7c2e8-10b6-4416-acaf-997b60cdc127" name="Rock.026"/>
+			<meta id="19d987ec-93d4-4f42-ac1a-4ebedb727f8d" name="Rock.027"/>
+			<meta id="7e30987d-576d-4487-857a-ccfead391a35" name="Rock.028"/>
+			<meta id="ba7b00f5-44f9-4dc8-8b28-686f8b9117d9" name="Rock.029"/>
+			<meta id="9f9dcc1b-d458-4dea-9b72-cb6bf538f793" name="Rock.030"/>
+			<meta id="571c6d34-7a26-48d4-bda9-2a2e6d37b088" name="Rock.031"/>
+			<meta id="98a437d8-4ba2-450b-92be-221e6829634e" name="Rock.032"/>
+			<meta id="c77bb103-302f-4218-9f23-b7acacee0e38" name="Rock.033"/>
+			<meta id="a0c6d416-8c5a-41b6-aa2d-24180105e8f4" name="Rock.035"/>
+			<meta id="1ce98c14-2b1d-419d-9cac-86af76a27333" name="Rock.036"/>
+			<meta id="25f9c97c-ea44-4154-aeee-7ef89002b44d" name="Log.024"/>
+			<meta id="bcb5cce2-ad62-4a2a-a418-9753e814e0c4" name="Log.025"/>
+			<meta id="1ea8194c-4ce4-4746-927f-2d8b4831ef6a" name="Log.026"/>
+			<meta id="11d9ad31-209e-4c9e-bc5a-59318baa3c5b" name="Log.028"/>
+			<meta id="ebc9b705-1436-4fe4-9ab6-ec51e3ac97ae" name="Log.029"/>
+			<meta id="d90a7fdf-3798-4b32-ae05-a6a329ff8878" name="Log.035"/>
+			<meta id="cf1e9957-eef2-4ae1-b61c-6423beb50a1c" name="Log.036"/>
+			<meta id="4cf572fa-c2ad-4b46-a49e-dedb1b33d79e" name="Log.037"/>
+			<meta id="ee69c215-8081-48ff-bf6f-bd24ec63f546" name="Log.038"/>
+			<meta id="da6d8ad6-a07f-4595-a8d4-d3776991270e" name="Bucket.002">
+				<meta id="8b4acce8-2c06-42a4-b128-458a79a74930" name="Bucket.002_0"/>
+				<meta id="10a8f163-e9ee-4823-bfb6-cfe46178c610" name="Bucket.002_1"/>
+			</meta>
+			<meta id="972df557-774d-4636-89e9-842eb9b8fc80" name="Rock.038"/>
+			<meta id="aab01989-90f0-4449-9ed7-9a9bfcc80a8c" name="Rock.039"/>
+			<meta id="79211409-ff3e-40ab-821b-c63df790103e" name="Rock.041"/>
+			<meta id="6f6eb589-9cc1-425c-b7e6-3dc23fc37411" name="Rock.043"/>
+			<meta id="9804d2e8-120a-4137-96fa-d0aa566c287b" name="Log.039"/>
+			<meta id="2f22094f-b925-43fa-baf8-18e0db24d7f6" name="Grass.136"/>
+			<meta id="2c768436-03ac-494e-a433-eab67335a2f0" name="Grass.001"/>
+			<meta id="ba1134ae-57c5-482a-b22b-e3037cd32898" name="Grass.003"/>
+			<meta id="b09d539f-2c33-4bd3-92e7-83b3037931be" name="Grass.004"/>
+			<meta id="dcd1e892-fc39-4fec-b2a8-61a3b9315a81" name="Rock.044"/>
+			<meta id="f39b41e0-ce40-4309-bba2-0007d7f7dc69" name="Rock.045"/>
+			<meta id="752337dc-72a8-4a00-a348-d30c59b8ea8d" name="Rock.046"/>
+			<meta id="61a1f670-d31f-423c-9792-e59d4b68d427" name="Rock.047"/>
+			<meta id="691b4c57-8f51-4e94-b033-57fbed87daaa" name="Rock.048"/>
+			<meta id="9e9092e6-8488-4cd1-afe0-7f84b1f90194" name="Log.010"/>
+			<meta id="06a36852-e9f8-4fe7-9d22-177018380222" name="Log.011"/>
+			<meta id="73480676-9dda-43e7-8b5d-e3ac0da809a1" name="Log.013"/>
+			<meta id="8a9fa418-e6a9-4e85-a011-7bf088e7c057" name="Log.040"/>
+			<meta id="03e53c6a-14c4-4fca-8abe-3da3603f643b" name="Log.014"/>
+			<meta id="0f7837f0-d55b-4bad-b15d-71c70fe6394b" name="Log.041"/>
+			<meta id="9f1cd57e-9ac3-4c12-8efa-3b98f8410d0b" name="Log.042"/>
+			<meta id="784f546c-c358-483b-b17b-85650ddb33c1" name="Log.043"/>
+			<meta id="edd8ad35-a745-4a66-874d-5db990eae36e" name="Log.049"/>
+			<meta id="b05d68aa-58aa-4c0a-9e73-ddddc18c396c" name="Rock.049"/>
+			<meta id="95fd4a05-c3ad-4597-9763-445594b56f2a" name="Rock.050"/>
+			<meta id="91eef67d-e49f-4886-b800-87fe596fce01" name="Rock.051"/>
+			<meta id="70e95a45-c148-415c-9294-893029236f52" name="Rock.052"/>
+			<meta id="4f29f31d-369e-4bec-8989-110a909aa2d1" name="Rock.053"/>
+			<meta id="d4e0587e-2e12-4e1a-a25c-85704aad0d27" name="Rock.054"/>
+			<meta id="4dd3739e-3a70-44dc-be3d-5b5fb95c4293" name="Rock.055"/>
+			<meta id="84294adf-efbc-4d66-9d29-f03e8b9395d1" name="Rock.056"/>
+			<meta id="15a3cfb7-b3b1-487d-a0ce-997d47902a84" name="Rock.057"/>
+			<meta id="c60f85ae-d1b4-4f6f-aa1b-bdd848153e2c" name="Rock.058"/>
+			<meta id="11a46db0-ede8-4a12-84be-fb692c9a1c21" name="Rock.059"/>
+			<meta id="9fd0ca7c-b366-4c06-969f-8595f043ba21" name="Rock.060"/>
+			<meta id="b4131296-0397-4713-89d9-a7c9199cdbe2" name="Log.054"/>
+			<meta id="3a5d9dc5-77a7-495f-9ae2-4be486145d47" name="Log.059"/>
+			<meta id="1cf8162a-fa17-40e7-a49d-604b0d3ab518" name="Log.060"/>
+			<meta id="823054e7-c5d3-4c5e-b27c-84acc0ab5df3" name="Log.061"/>
+			<meta id="055756c3-00e3-471f-a456-e6a2b3bcff4b" name="Log.062"/>
+			<meta id="4b4da0ef-9ac8-40b1-a7bb-efd98ed9a9a3" name="Grass.009"/>
+			<meta id="38a0662d-f952-4c9b-96f2-1e27525e6bf4" name="Grass.011"/>
+			<meta id="3bc07fc8-e578-4359-a302-c7e238b43a67" name="Grass.014"/>
+			<meta id="1fb3880b-cbbe-4c44-9348-21148d864b2f" name="Water"/>
+			<meta id="0c9fa5dc-f7ea-4a37-9bed-dd18afa64d74" name="Rock.034"/>
+			<meta id="53c9b0cf-d57a-42ae-a503-18a3b6c979fc" name="Rock.037"/>
+			<meta id="b2cfaf30-0298-463d-93ae-59a25885127a" name="Rock.040"/>
+			<meta id="a5b80130-cf1b-4527-a1b8-e9ebf99aa7d4" name="Rock.042"/>
+			<meta id="b3c01d63-7bae-4c41-b39d-b22ea593f127" name="Rock.061"/>
+			<meta id="df58d179-b1d9-412e-a524-c16060a49a78" name="Rock.062"/>
+		</meta>
+		<meta id="6776d036-6313-4fe9-bac5-1685f3986403" name="FisherPart1">
+			<meta id="9bc314ed-53ef-47ab-b36a-55958634146e" name="PATH_A_2"/>
+			<meta id="cd5844c7-f0fd-4df8-8f4b-25befe4057ab" name="PATH_A_1"/>
+			<meta id="d4634d6f-0766-4a0b-b0fd-2a44732766d8" name="PATH_B_2"/>
+			<meta id="ad88d3c1-d5b3-4536-8600-5addae3bf4e5" name="PATH_B_1"/>
+			<meta id="09901585-0818-4d52-aa74-b5cbba691ac2" name="PATH_C_2"/>
+			<meta id="1a640231-e7eb-49e8-96b2-1878126c6901" name="PATH_C_1"/>
+			<meta id="85b3584c-9351-4368-ade8-6dc58c6bdc38" name="PATH_D_2"/>
+			<meta id="1b541857-364a-4149-a28a-e42b0984007c" name="PATH_D_1"/>
+			<meta id="0e28bd28-dbbf-4c17-96da-d0e7e02afb2c" name="PATH_E_2"/>
+			<meta id="60873f13-27fb-4d18-8f11-cf71fb52fc43" name="PATH_E_1"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="4552bd693b9cebf998eb80f5f20000f8"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Bench.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Pond.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.027"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.030"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.031"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.032"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.033"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.024"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.025"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.026"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.028"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.029"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.035"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.036"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.002_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Bucket.002_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Bucket.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.038"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.039"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.041"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.043"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.039"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Grass.136"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Grass.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Grass.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Grass.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.044"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.045"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.046"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.047"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.048"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.040"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.041"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.042"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.043"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.049"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.049"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.050"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.051"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.052"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.053"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.054"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.055"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.056"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.057"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.058"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.059"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.060"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.054"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.059"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.060"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.061"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Log.062"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Grass.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Grass.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Grass.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Water"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.034"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.037"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.040"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.042"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.061"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Rock.062"/>
+					</Item>
+				</ChildList>
+				<NodeName value="PondPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_C_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_D_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_E_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_E_1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="FisherPart1"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="7c357bd1-483d-40c4-8eb6-98a250dcf761"/>
+			<MaterialName value="Material.Basket"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2e0de78b-4d57-4fc8-8afa-39adc2671500"/>
+			<MaterialName value="Material.Colors"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="97127014-b860-4a03-bf3f-9bb453f90612"/>
+			<MaterialName value="Material.Grass"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f1810db5-679b-45da-b781-b5bf3f8d4d48"/>
+			<MaterialName value="Material.Log"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2f8b8a87-0681-4926-afba-8727e2b268bf"/>
+			<MaterialName value="Material.Stone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="95181ecd-9be1-4027-9b2c-6597e9806572"/>
+			<MaterialName value="Material.Water"/>
+		</Item>
+	</MaterialList>
+</importer>
+

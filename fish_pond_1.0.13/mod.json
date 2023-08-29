@@ -1,0 +1,38 @@
+{
+	"Name": "Fish Pond",
+	"Author": "Batyushki",
+	"Description": "Adds fish ponds to raise fish for food. Useful for maps without water or villages located away from the water. Ponds give a significant boost to residential desirability.",
+	"Version": "1.0.13",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Italian",
+			"Code": "it"
+		},
+		{
+			"Name": "Spanish",
+			"Code": "es-ES"
+		},
+		{
+			"Name": "Portuguese",
+			"Code": "pt-PT"
+		},
+		{
+			"Name": "Polish",
+			"Code": "pl"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		}
+	]
+
+}

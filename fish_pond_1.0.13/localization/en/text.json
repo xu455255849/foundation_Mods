@@ -1,0 +1,17 @@
+{
+	"": {
+
+		"BUILDING_FISHPOND_NAME": "Fish Pond",
+		"BUILDING_FISHPOND_DESC": "Raise fish for food.",
+		"BUILDING_PART_FISHPOND_POND1_NAME": "Fish Pond (small round)",
+		"BUILDING_PART_FISHPOND_POND2_NAME": "Fish Pond (large curved)",
+		"BUILDING_PART_FISHPOND_POND3_NAME": "Fish Pond (large round)",
+
+		"BUILDING_FUNCTION_FISHPOND1_NAME": "Raise fish for food.",
+		"BUILDING_FUNCTION_FISHPOND2_NAME": "Raise fish for food.",
+
+		"POND_SET1_NAME": "Fishing ponds",
+		"POND_POST_PART_NAME": "Fishing pond"
+
+	}
+}
