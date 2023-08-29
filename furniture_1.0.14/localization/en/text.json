@@ -1,0 +1,24 @@
+{
+	"": {
+
+		"RESOURCE_TYPE_FURNITURE": "Joinery products",
+
+		"BUILDING_FUNCTION_FURNITURE_NAME": "Make furniture",
+		"BUILDING_FUNCTION_FURNITURE_CART_NAME": "Sell furniture",
+
+		"JOB_FURNITURE_JOINER_NAME": "Joiner",
+		"JOB_FURNITURE_JOINER_DESC": "Make furniture",
+
+		"BUILDING_FURNITURE_NAME": "Joiner's Workshop",
+		"BUILDING_FURNITURE_DESC": "Make furniture from cloth and planks.", 
+		"BUILDING_PART_FURNITURE_JOINER1_NAME": "Joiner's Workshop",
+		"BUILDING_PART_FURNITURE_JOINER_DESC": "Make furniture from cloth and planks.",
+		"BUILDING_PART_FURNITURE_JOINER_CART_NAME": "Furniture Market",
+		"BUILDING_PART_FURNITURE_JOINER_CART_DESC": "Sell furniture products.",
+
+		"CATEGORY_COUNTER_SING": "sales counter",
+		"CATEGORY_COUNTER": "Sales Counter"
+
+	}
+
+}

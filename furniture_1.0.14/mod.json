@@ -1,0 +1,49 @@
+{
+
+	"Name": "Furniture",
+	"Author": "Batyushki",
+	"Description": "Adds furniture as a saleable item (similar to clothes). Furniture is made by the Joiner at the Joiner's Workshop.",
+	"Version": "1.0.14",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Italian",
+			"Code": "it"
+		},
+		{
+			"Name": "Spanish",
+			"Code": "es-ES"
+		},
+		{
+			"Name": "Portuguese",
+			"Code": "pt-PT"
+		},
+		{
+			"Name": "Polish",
+			"Code": "pl"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		}
+	],
+
+	"Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		}
+	]
+}
