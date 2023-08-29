@@ -1,0 +1,36 @@
+{
+	"BUILDINGS": {
+                "MARKET_ADDITION_V2_PARTSETLIST_NAME": "Additions au marché",
+		"MARKET_ADDITION_V2_HAT_STALL_NAME": "Etal de chapeaux",
+		"MARKET_ADDITION_V2_HAT_WORKSHOP_NAME": "Atelier de chapeaux",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_NAME": "Atelier du rémouleur",
+		"MARKET_ADDITION_V2_HAT_SIGN_NAME": "Enseigne de chapeaux",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_SIGN_NAME": "Enseigne du rémouleur",
+		"MARKET_ADDITION_V2_ROOF_CENTER_NAME": "Toit en bois (centre)",
+		"MARKET_ADDITION_V2_ROOF_CORNER_NAME": "Toit en bois (coin)",
+		"MARKET_ADDITION_V2_ROOF_ENTRANCE_NAME": "Toit en bois (entrée)",
+		"MARKET_ADDITION_V2_WOODEN_ROOF": "Toit en bois",
+		"MARKET_ADDITION_V2_THATCHED_ROOF": "Chaume"
+	},
+	"BUILDING_DESCRIPTIONS": {
+		"MARKET_ADDITION_V2_HAT_STALL_DESC": "Etal de chapeaux",
+		"MARKET_ADDITION_V2_HAT_WORKSHOP_DESC": "Atelier de chapeaux",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_DESC": "Atelier du rémouleur",
+		"MARKET_ADDITION_V2_HAT_SIGN_DESC": "Enseigne de chapeaux",
+		"MARKET_ADDITION_V2_KNIFE_GRINDER_SIGN_DESC": "Enseigne du rémouleur",
+		"MARKET_ADDITION_V2_ROOF_CENTER_DESC": "Toit en bois (centre)",
+		"MARKET_ADDITION_V2_ROOF_CORNER_DESC": "Toit en bois (coin)",
+		"MARKET_ADDITION_V2_ROOF_ENTRANCE_DESC": "Toit en bois (entrée)"
+	},
+	"JOBS": {
+		"MARKET_ADDITION_V2_HATMAKER_NAME": "Chapelier",
+		"MARKET_ADDITION_V2_HATMAKER_DESC": "Produit des chapeaux",
+		"MARKET_ADDITION_V2_KNIFEGRINDER_NAME": "Rémouleur",
+		"MARKET_ADDITION_V2_KNIFEGRINDER_DESC": "Aiguise les couteaux"
+	},
+	"RESOURCES": {
+		"MARKET_ADDITION_V2_HAT": "Chapeaux",
+                "WOOLEN_CLOTH": "Tissu",
+		"MARKET_ADDITION_V2_KNIFE": "Couteau"
+        }
+}

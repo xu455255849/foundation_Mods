@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="60606005-e4d2-46e8-811a-d8f9dae889b6">
+	<meta id="230087f8-42df-435c-a410-67008fd171dd" type="group" folder="true" name="Materials">
+		<meta id="3dad6a77-a59c-4104-bf75-c5409548ad93" name="chambranle"/>
+		<meta id="d9c43d7f-25ec-4f95-a925-aab0d8a6afee" name="metal"/>
+		<meta id="e17c4db1-664d-4414-9a2b-5d5d4679ad70" name="bois"/>
+		<meta id="b8a891ea-d905-4fbc-a5c5-383436c2dd78" name="pierre"/>
+		<meta id="f72b4392-bc8a-43fe-a566-20704e1813bd" name="enseigne"/>
+	</meta>
+	<meta id="2811428a-e2ff-4075-a2e2-16a69fada68b" type="group" folder="true" name="Meshes">
+		<meta id="3fce57b2-401b-421a-a387-87e3a4c8fdca" name="table1_makg_chambranle"/>
+		<meta id="0cb75068-a39f-49a6-ab36-eb168a98b55b" name="knife1_metal"/>
+		<meta id="d63306d5-0078-40cb-8681-71ccc936b0e5" name="knife1_bois"/>
+		<meta id="22a65873-9548-408b-876b-cb0ba11299eb" name="meule_makg_pierre"/>
+		<meta id="7dac7f99-399f-4f24-aeed-4608e653dc9b" name="pied4_makg_chambranle"/>
+		<meta id="a4f743ce-b51c-4abe-a585-696a4c713ca9" name="pied9_makg_chambranle"/>
+		<meta id="75433680-bf76-4eea-9a94-13ef860a1ac3" name="pied10_makg_chambranle"/>
+		<meta id="748d08ff-bb02-4ca5-843a-95673fa882a7" name="porteEnseigne_makg_chambranle"/>
+		<meta id="3ebff7e6-37d0-483e-aa2a-626514b4ff91" name="enseigne_makg_chambranle"/>
+		<meta id="38915222-676f-4bc7-a8aa-e5ce938aac70" name="enseigne_makg_enseigne"/>
+		<meta id="1810723e-2018-4d08-978f-fe47d7d86082" name="porteEnseigne1_makg_chambranle"/>
+		<meta id="3498473b-c07f-4e5c-b0f3-14c9771e0f4d" name="porteEnseigne2_makg_chambranle"/>
+	</meta>
+	<meta id="57665b07-663b-4a32-8b26-0076eb07a438" name="Prefab">
+		<meta id="befca235-9d70-4e89-a11d-b7ca5491fa0d" name="marketAddition">
+			<meta id="ea442427-cd51-443b-a37d-2dc7ae6bab95" name="knifeGrinderPart">
+				<meta id="d05c8bb4-f8de-4505-8d8f-bfba03185664" name="Attach_Major_makg"/>
+				<meta id="dcab671c-ab58-4794-a505-3588b30d84c0" name="step_2_B_makg">
+					<meta id="b33b4bf9-7304-4772-b04c-bc6c16b0f55e" name="presentoir_makg">
+						<meta id="ec630b98-a09f-454c-8d4d-f3bb137bd2ac" name="table1_makg"/>
+						<meta id="2a60a137-a350-4391-8e36-68fd692b8d07" name="knife1">
+							<meta id="14973f3c-3050-41cd-b940-84109b624b8e" name="knife1_0"/>
+							<meta id="3678292f-9049-4bdf-bfa8-c2bc219802dd" name="knife1_1"/>
+						</meta>
+						<meta id="51c9f108-d80a-4201-8411-3c9aa0b63e94" name="knife2">
+							<meta id="0caf028c-b37c-4316-8d9b-506e4cc9daee" name="knife2_0"/>
+							<meta id="201e8fbe-e474-49bc-b57f-7e8c2693f3e0" name="knife2_1"/>
+						</meta>
+						<meta id="1aec0f9b-4aea-4bfa-8a04-f268d4d1a58c" name="knife3">
+							<meta id="0494707c-9029-4991-a82f-b3d384e2e435" name="knife3_0"/>
+							<meta id="326b3f15-4038-4611-9f39-8c12531b818a" name="knife3_1"/>
+						</meta>
+					</meta>
+					<meta id="9a84244d-570a-498f-a088-2fefccad32fe" name="meule_makg">
+						<meta id="eda067a4-c8e0-4c23-8858-89eb25bc8134" name="meule_makg"/>
+						<meta id="8d5e642d-43cb-475a-a196-9b0bf8b1f01e" name="pied4_makg"/>
+						<meta id="c156f3db-c09c-42dd-926a-6fe5cc3cf337" name="pied5_makg"/>
+						<meta id="6ca095c3-9d86-4d77-96c3-dd33c9124b12" name="pied6_makg"/>
+						<meta id="b56cf4db-14e3-4aa6-a565-91c1a41434a4" name="pied7_makg"/>
+						<meta id="30be4ddc-4fb7-4c24-bb51-036dc49e500e" name="pied9_makg"/>
+						<meta id="90592508-bc8d-40c5-a02e-106ecaea0b32" name="pied10_makg"/>
+						<meta id="867e96d9-87fd-4b2f-8d0b-c9a527f142dd" name="pied11_makg"/>
+						<meta id="f2a24f88-3648-40fc-a09e-a6a4feb67c3d" name="SmokeEmitter_makg"/>
+					</meta>
+				</meta>
+				<meta id="d420da79-4a8f-46b4-8b68-83cff621ce6e" name="PATH_A_0_KNIFE_GRINDER"/>
+				<meta id="f892a3d8-bf15-46e6-8e7a-fef01bfb537e" name="PATH_A_1_KNIFE_GRINDER"/>
+				<meta id="bd706611-67b9-49ec-b9ed-6d7855541c85" name="PATH_A_2_KNIFE_GRINDER"/>
+				<meta id="b10c9e70-15c7-4f38-9fdb-fa6af335a2c6" name="PATH_A_3_KNIFE_GRINDER"/>
+				<meta id="7b59c1f3-6c50-4ab1-a42f-ff323f56268b" name="PATH_B_KNIFE_GRINDER"/>
+			</meta>
+			<meta id="20732791-4e0b-458c-846c-5656b2ea231f" name="knifeGrinderSignPart">
+				<meta id="7678c25b-0257-4c21-ae66-f6c6af9db582" name="porteEnseigne_makg"/>
+				<meta id="e6c194e1-c684-411a-ad8d-4821b8851077" name="enseigne_makg">
+					<meta id="9992bf4c-05ad-47d5-b3bf-c816e44fcd37" name="enseigne_makg_0"/>
+					<meta id="c18681fa-8cb3-4665-bf9c-fd66ec6b82c7" name="enseigne_makg_1"/>
+				</meta>
+				<meta id="c50e7aa3-f276-47f4-8a43-142d87fa49e5" name="porteEnseigne1_makg"/>
+				<meta id="efc2a197-30ca-438b-9536-265404870841" name="porteEnseigne2_makg"/>
+			</meta>
+		</meta>
+		<meta id="5185be64-d8f9-481d-9676-d1197b237970" name="ConstructionSteps">
+			<meta id="07eb4550-5d6c-4118-b197-a81f55d082fe" name="marketAddition">
+				<meta id="c4cd8bfb-eb2f-4d68-b2a7-4a58836ab0b9" name="knifeGrinderPart">
+					<meta id="a6230269-6507-4137-a92e-657c2c649a05" name="step_2_B_makg">
+						<meta id="e4c2bf29-68b9-4915-b965-7a6e23df181f" name="presentoir_makg">
+							<meta id="1454c9e7-83e2-495d-89a2-6dda3769d17e" name="table1_makg"/>
+						</meta>
+					</meta>
+				</meta>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="68d03bf06d563f7242a1cc98fbd97f01"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_makg"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="table1_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="knife1_0"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="knife1_1"/>
+													</Item>
+												</ChildList>
+												<NodeName value="knife1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="knife2_0"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="knife2_1"/>
+													</Item>
+												</ChildList>
+												<NodeName value="knife2"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="knife3_0"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="knife3_1"/>
+													</Item>
+												</ChildList>
+												<NodeName value="knife3"/>
+											</Item>
+										</ChildList>
+										<NodeName value="presentoir_makg"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="meule_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied4_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied5_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied6_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied7_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied9_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied10_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied11_makg"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="SmokeEmitter_makg"/>
+											</Item>
+										</ChildList>
+										<NodeName value="meule_makg"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_2_B_makg"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0_KNIFE_GRINDER"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_1_KNIFE_GRINDER"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_2_KNIFE_GRINDER"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_3_KNIFE_GRINDER"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_KNIFE_GRINDER"/>
+							</Item>
+						</ChildList>
+						<NodeName value="knifeGrinderPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="porteEnseigne_makg"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="enseigne_makg_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="enseigne_makg_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="enseigne_makg"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="porteEnseigne1_makg"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="porteEnseigne2_makg"/>
+							</Item>
+						</ChildList>
+						<NodeName value="knifeGrinderSignPart"/>
+					</Item>
+				</ChildList>
+				<NodeName value="marketAddition"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="table1_makg"/>
+													</Item>
+												</ChildList>
+												<NodeName value="presentoir_makg"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_2_B_makg"/>
+									</Item>
+								</ChildList>
+								<NodeName value="knifeGrinderPart"/>
+							</Item>
+						</ChildList>
+						<NodeName value="marketAddition"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e17c4db1-664d-4414-9a2b-5d5d4679ad70"/>
+			<MaterialName value="bois"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="3dad6a77-a59c-4104-bf75-c5409548ad93"/>
+			<MaterialName value="chambranle"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f72b4392-bc8a-43fe-a566-20704e1813bd"/>
+			<MaterialName value="enseigne"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d9c43d7f-25ec-4f95-a925-aab0d8a6afee"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b8a891ea-d905-4fbc-a5c5-383436c2dd78"/>
+			<MaterialName value="pierre"/>
+		</Item>
+	</MaterialList>
+</importer>
+

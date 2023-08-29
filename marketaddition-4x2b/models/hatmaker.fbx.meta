@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="ab5d689f-5818-4ae9-9bc2-9e6ccee3a4a0">
+	<meta id="a57abe3f-091b-40e3-b13b-25ecf1d196a2" type="group" folder="true" name="Materials">
+		<meta id="4e5564a6-a33f-42a9-a979-2c051b970ce5" name="chambranle"/>
+		<meta id="f3751501-f1a1-423d-8447-ce023b5eed55" name="cyan"/>
+		<meta id="a2d72b5d-933b-4a98-a723-0c80763a5d9a" name="black"/>
+		<meta id="fff191ce-4c98-45bc-bfcb-ed28fc9e96d6" name="textile"/>
+		<meta id="4f6141c3-30fe-441a-82bb-33cddef11826" name="magenta"/>
+		<meta id="8976a2f2-d78c-4683-bc20-c4990c0b1328" name="metal"/>
+		<meta id="0bcfa716-5f71-4663-a70d-1a90ef050efc" name="woodenRoof"/>
+		<meta id="93afc487-565c-4a74-912f-98775aac2790" name="thatchedRoof"/>
+		<meta id="94e09644-3dd8-4b7d-87cf-17256110bfbf" name="woodenRoofFront"/>
+		<meta id="c4d4f74b-2d14-47bb-a8e4-b4551fc32cfb" name="thatchedRoofFront"/>
+	</meta>
+	<meta id="65b4a962-8671-473e-900c-05c99ad76138" type="group" folder="true" name="Meshes">
+		<meta id="7be95c83-0d57-485a-bf9f-53540e5f49a6" name="table1_mahs_chambranle"/>
+		<meta id="4f6760e0-fbf1-45c0-824b-5b281cc54c1b" name="hatCyan_mahs_cyan"/>
+		<meta id="eb099b5e-8e2e-478a-a2da-274a94ae5cd4" name="hatBlack_mahs_black"/>
+		<meta id="a655100f-5903-4fb0-966a-afd70c206516" name="plateau_mahs_chambranle"/>
+		<meta id="9a14d7cb-8f7d-4f9c-bfbb-872de0a56ab6" name="pied1_mahs_chambranle"/>
+		<meta id="488abe7a-5d45-4b93-9a70-ccd00ff248c9" name="pied2_mahs_chambranle"/>
+		<meta id="f1211e93-3c78-49db-ab0a-ca63af130d9c" name="pied3_mahs_chambranle"/>
+		<meta id="c1a4f49f-2821-4165-abb3-bc314dfe859f" name="table_mahw_chambranle"/>
+		<meta id="412c0fa2-3aff-4687-a2c2-a9ec2d88c0ee" name="table_mahw_textile"/>
+		<meta id="e92ac3fd-e0f0-4a2d-815e-bb38aee945c8" name="forme_mahw_textile"/>
+		<meta id="ec678c7d-286d-49c2-88e5-8ebd631ec5ec" name="pSphere1_mahw_textile"/>
+		<meta id="6a202ddf-d712-425f-bab5-406012531042" name="pCube1_mahw_chambranle"/>
+		<meta id="df092f0c-c7be-45d0-93c3-c0d01649fb02" name="pCube2_mahw_chambranle"/>
+		<meta id="67b8f31b-8d3c-4bec-95e8-2be1722f1a5d" name="pCube3_mahw_chambranle"/>
+		<meta id="49c94fea-da1e-4371-913a-ef11b14b8ba1" name="hat4_mahw_magenta"/>
+		<meta id="d8f40689-bce0-40e7-b9f0-9c0e88c17bd7" name="pCube1_mahw_2_metal"/>
+		<meta id="e06f4d1c-7d60-43d1-9e5c-189f93fe02af" name="pPipe1_mahw_metal"/>
+		<meta id="2fd059ec-33e2-4b52-93b9-3db55ceb055d" name="pCube2_mahw_2_metal"/>
+		<meta id="05a06f2c-19de-4a38-a04e-f102b951b9cf" name="pPipe2_mahw_metal"/>
+		<meta id="4660131c-5c69-4e1c-97ff-89b0e941b7dd" name="porteEnseigne_mahsg_chambranle"/>
+		<meta id="5214d39b-e3ab-4e20-bd8a-26ae890fbf41" name="enseigne_mahsg_chambranle"/>
+		<meta id="6a534478-5a8d-4123-8bb0-5a777b17005b" name="enseigne_mahsg_textile"/>
+		<meta id="df9f4290-df44-4627-b13b-43402af71f4d" name="porteEnseigne1_mahsg_chambranle"/>
+		<meta id="795bf708-4c27-4124-8c84-7d0225d1c5b3" name="porteEnseigne2_mahsg_chambranle"/>
+		<meta id="52fece65-057d-4b4e-be26-13292e827593" name="montant3_A_marce_chambranle"/>
+		<meta id="a2ed843b-8780-42e5-a1e5-068e290e21d7" name="montant10_A_marce_chambranle"/>
+		<meta id="4e5a9bfa-d7ea-463e-82d0-aa3c9d67b4f8" name="montant1_A_marce_chambranle"/>
+		<meta id="6ceaab73-a31d-4eb1-9fe9-e0c7b5902ca4" name="mur_marce_chambranle"/>
+		<meta id="ff305e6d-93cf-42b7-9f37-d59b05aae735" name="montant3_marco_chambranle"/>
+		<meta id="46378762-a689-4343-8404-523246d9783a" name="montant6_marco_chambranle"/>
+		<meta id="c2ddc837-8ef7-4b40-b41f-6228cf191620" name="montant10_marco_chambranle"/>
+		<meta id="0acdb7d8-3d3d-4532-8804-4513572379ac" name="montant9_marco_chambranle"/>
+		<meta id="80aad67a-72d9-4a67-ae39-951dda0a4a61" name="montant7_marco_chambranle"/>
+		<meta id="0ea827fa-25a1-4718-a537-3afe3ce99d3e" name="mur1_marco_chambranle"/>
+		<meta id="a2e760ad-2e3e-4cc0-9ebf-6615f2b48749" name="mur2_marco_chambranle"/>
+		<meta id="6e0f3c69-f72f-4525-bad0-adf027a584bf" name="montant1_A_mare1_chambranle"/>
+		<meta id="5f474fb3-4dde-43e6-88d5-87d63e8cf8be" name="montant1_A_mare2_chambranle"/>
+		<meta id="b008777b-379b-4f4c-af25-44f5607e40d0" name="toit_marce_woodenRoof"/>
+		<meta id="39e7db0e-f2f4-4bb8-958e-1cf7f25b2594" name="toit_marco_woodenRoof"/>
+		<meta id="00170717-919f-4a33-8a3a-34a310271870" name="toit_mare_woodenRoof"/>
+		<meta id="26111402-3968-4458-b8ef-815acae61c64" name="thatchedRoofMaterial_thatchedRoof"/>
+		<meta id="b0fb90b8-d3d2-4311-bd93-d53b2ad07553" name="toit_marce_woodenRoofFront"/>
+		<meta id="7c55bb68-4976-4e88-a71a-4342375f64f9" name="toit_marco_woodenRoofFront"/>
+		<meta id="5f9dfe9b-4f32-49aa-88c1-e6156edd6335" name="toit_mare_woodenRoofFront"/>
+		<meta id="10cdcd87-d18f-4f1f-9586-47a2f0d06eb2" name="thatchedRoofFrontMaterial_thatchedRoofFront"/>
+		<meta id="71ebd0f8-769f-4029-9495-ddbadd5a9a5b" name="montant3_B_marce_chambranle"/>
+		<meta id="82a712fc-c307-4af3-aabc-3db5af95a460" name="montant10_B_marce_chambranle"/>
+		<meta id="417a0555-9825-4199-a09e-2f8c56886698" name="montant1_B_marce_chambranle"/>
+		<meta id="75a3ff7f-1791-4f13-9690-8f591fba6de2" name="montant1_marco_chambranle"/>
+		<meta id="5f9743fa-7993-4e5b-8380-bb17ff587fe1" name="montant1_A_mare3_chambranle"/>
+		<meta id="2d7b2f7e-c151-496d-be6e-78cda8667b30" name="montant3_A_marce_2_chambranle"/>
+		<meta id="1d1fb55b-7c07-4f66-aa56-1940cbc094a7" name="montant10_A_marce_2_chambranle"/>
+		<meta id="fd0b8c7d-044b-4f42-8a75-7cae1775eb9b" name="montant1_A_mare1_2_chambranle"/>
+		<meta id="0d049562-2a36-4a7b-8887-0dbd5f3a153f" name="montant1_A_mare2_2_chambranle"/>
+		<meta id="b4670a18-d0ec-4e63-bc7a-e390b941bbd5" name="table1_mahs_2_chambranle"/>
+		<meta id="33256427-2961-4152-a00c-310d7d40a54e" name="table_mahw_2_chambranle"/>
+		<meta id="4fe00ceb-3d9a-4aae-aea2-764a15433353" name="table_mahw_2_textile"/>
+	</meta>
+	<meta id="e79e7001-2c48-433f-b698-af6b4f65586c" name="Prefab">
+		<meta id="1335f2a5-1569-4d77-9e94-82791741848e" name="marketAddition">
+			<meta id="bb8a0544-e677-407a-b031-a1652ecca1a8" name="hatStallPart">
+				<meta id="e4aa3677-2e71-46f6-a73a-606cd4d3b218" name="Attach_Major_mahs"/>
+				<meta id="d2a84a85-2059-434f-be67-1e942d4b2007" name="step_2_B_mahs">
+					<meta id="9699d485-3700-405c-8936-ee596c2d0a4d" name="presentoir_mahs">
+						<meta id="eadad319-eb42-4d7f-94dd-cb5053e652b7" name="table1_mahs"/>
+						<meta id="ae2c379e-0024-4913-8432-e704b1cd2952" name="hatCyan_mahs"/>
+						<meta id="26b6febb-4db6-46d4-ab42-79474291fb30" name="hatBlack_mahs"/>
+					</meta>
+					<meta id="7be917ac-395d-4ca9-8b00-0e7057a588c2" name="tabouret_mahs">
+						<meta id="50fbb60c-0fad-4577-b4c4-b116f06abbb7" name="plateau_mahs"/>
+						<meta id="b95aaf77-de34-48c4-853b-ea4ee559cf15" name="pied1_mahs"/>
+						<meta id="c0044b14-db5b-4397-a17b-ceec9ebcfc6f" name="pied2_mahs"/>
+						<meta id="1731538d-02a8-448c-a13f-4c527c38a2b4" name="pied3_mahs"/>
+					</meta>
+				</meta>
+				<meta id="878e6a75-10d2-4fa4-b4f4-9cb701a5deb3" name="PATH_A_3_HAT_STALL"/>
+				<meta id="e21a76ef-ffad-40a3-b468-ecdd79fb08df" name="PATH_A_2_HAT_STALL"/>
+				<meta id="d9a64f69-6811-4ee8-8829-812783c7286e" name="PATH_A_1_HAT_STALL"/>
+				<meta id="c401a0fe-4490-455c-b1d9-9716bd5cb514" name="PATH_A_0_HAT_STALL"/>
+				<meta id="0890bcf2-ce43-4f25-b2b9-749453e9630c" name="PATH_B_HAT_STALL"/>
+			</meta>
+			<meta id="09d880ac-f21a-426c-a9d4-dec4fe79f493" name="hatWorkshopPart">
+				<meta id="4f8d2ce9-7348-433f-9dd6-99f0268947a7" name="Attach_Major_mahw"/>
+				<meta id="a1f72b6c-d430-49df-9e27-9dad012fcac0" name="step_2_A_mahw">
+					<meta id="845033a7-9454-4a52-844a-c645c1ade371" name="etabli_mahw">
+						<meta id="82eb2748-9970-438e-9e41-eecac57cb34c" name="table_mahw">
+							<meta id="abae9753-4a88-42ea-8ac2-b3e84e0af08f" name="table_mahw_0"/>
+							<meta id="5e69843e-cf63-4916-896c-a0c47e1ecef1" name="table_mahw_1"/>
+						</meta>
+						<meta id="9e5b715f-63c6-4b5b-99f0-cb3fa7d28160" name="forme_mahw"/>
+						<meta id="103a7f38-3982-4150-a23f-ee93821b6809" name="tete_mahw">
+							<meta id="c7121c24-8871-44d4-a344-05e3b3e81c3d" name="pSphere1_mahw"/>
+							<meta id="d859c7ad-59f8-48b8-8174-d0fd99be9dad" name="pCube1_mahw"/>
+							<meta id="ff46400a-1256-4076-b569-8d3ab7856433" name="pCube2_mahw"/>
+							<meta id="c09f99e7-9697-49ea-ae43-29bcebc1e47a" name="pCube3_mahw"/>
+						</meta>
+						<meta id="dbe3706b-2d30-4b7e-9358-bf83e6f0c08a" name="hat4_mahw"/>
+						<meta id="23351afa-6c5c-4c68-a077-5ba7c41e7f2f" name="pairScissors_mahw">
+							<meta id="cd12bccf-63d7-4c0c-ae2f-c6b21ec6b779" name="scissor1_mahw">
+								<meta id="24019d00-75d2-4025-ac4a-cbd5a54dfc18" name="pCube1_mahw"/>
+								<meta id="f7d44f7b-dd06-4811-9d58-0ca99c543d72" name="pPipe1_mahw"/>
+							</meta>
+							<meta id="e5baab2d-209f-4d8c-9ef3-7b48527db700" name="scissor2_mahw">
+								<meta id="eee4ac20-eb2b-48e0-a07e-d5c4bee61e67" name="pCube2_mahw"/>
+								<meta id="d142d6e9-cb4c-46bc-ba77-414a2da814af" name="pPipe2_mahw"/>
+							</meta>
+						</meta>
+					</meta>
+					<meta id="83b292d4-65cd-4d49-a170-88600d7c072e" name="tabouret_mahw">
+						<meta id="93d82958-eaa3-4bd9-a0cd-9203f45264c5" name="plateau_mahw"/>
+						<meta id="8b578239-8cee-456a-b06b-ca9ab6be75cb" name="pied1_mahw"/>
+						<meta id="d03627eb-c0f5-416e-bb43-6eb2f13c233a" name="pied2_mahw"/>
+						<meta id="bd538361-1452-4d5f-9d37-85b02f89201e" name="pied3_mahw"/>
+					</meta>
+				</meta>
+				<meta id="309ede6d-9e21-4e87-a22b-7a93fb353b2c" name="PATH_A_0_HAT_WORKSHOP"/>
+				<meta id="1b82476b-4b42-470b-ab70-fbefc1cf6d67" name="PATH_A_1_HAT_WORKSHOP"/>
+				<meta id="323a9d09-8ace-4b29-945a-aa713e79f8f3" name="PATH_A_2_HAT_WORKSHOP"/>
+				<meta id="6f6591d7-5b05-48e5-8f61-0c6171864f7b" name="PATH_A_3_HAT_WORKSHOP"/>
+				<meta id="43d3811f-21f7-4a42-8a3a-3bf9b6033bd6" name="PATH_B_HAT_WORKSHOP"/>
+			</meta>
+			<meta id="0ca4a903-56d8-4422-a337-fb2d0d927770" name="hatSignPart">
+				<meta id="d733c358-cec4-498e-9d46-0e0f05ac003c" name="step_2_C_mahsg">
+					<meta id="2c49fc11-5be5-4cd1-b4d3-9139becb5a53" name="porteEnseigne_mahsg"/>
+					<meta id="bf0ad6a8-5339-4cd8-bd54-379c86fcfbde" name="enseigne_mahsg">
+						<meta id="547e934f-1faa-4b64-93a8-5b2797d1678c" name="enseigne_mahsg_0"/>
+						<meta id="71887381-91fc-4516-b2a8-9e4a88c921ef" name="enseigne_mahsg_1"/>
+					</meta>
+					<meta id="50789e17-cafd-4718-bfce-73c6fc6be5e4" name="porteEnseigne1_mahsg"/>
+					<meta id="bf2d4ed2-bdc1-4375-b19e-90e72d580bde" name="porteEnseigne2_mahsg"/>
+				</meta>
+			</meta>
+			<meta id="f70d45b0-9c93-4b16-be70-4a2c089723aa" name="roofCenterPart">
+				<meta id="0c580206-a829-4c02-a39d-5a060c7395a9" name="Attach_Major_F_marce"/>
+				<meta id="94a16ba7-b55b-4c11-8466-83d668831ffe" name="step_0_A_marce">
+					<meta id="e1bbfff9-5b90-454e-a438-f7f3b20a09f1" name="montant3_A_marce"/>
+					<meta id="a047d623-0fd4-4868-b7ab-a16f3c1cae0e" name="montant10_A_marce"/>
+					<meta id="7d9b1ae7-3515-42cd-81e8-fc9c2350adb5" name="montant1_A_marce"/>
+				</meta>
+				<meta id="75c07471-7b1e-46fb-9359-ecd28618350c" name="step_1_marce">
+					<meta id="0e210264-2186-401f-87bf-115b875934b5" name="toit_marce">
+						<meta id="81b0f79b-1079-42a1-860b-b137d0b57083" name="toit_marce_0"/>
+						<meta id="54d6ad33-4f53-472b-bff7-daf5482f6955" name="toit_marce_1"/>
+					</meta>
+					<meta id="4e1067ef-4438-4fba-8a6e-9e6722ba8020" name="mur_marce"/>
+				</meta>
+				<meta id="00555853-7cde-46e0-9c85-ab5c4b0a4d5b" name="step_0_B_marce">
+					<meta id="b108ab07-7f31-46ed-a160-137cde562b92" name="montant3_B_marce"/>
+					<meta id="976c7131-d9f6-4c11-b0d6-a27068bd22cc" name="montant10_B_marce"/>
+					<meta id="228e28c1-ab0a-468f-bd4b-d4e18bf88579" name="montant1_B_marce"/>
+				</meta>
+				<meta id="65ecccfc-adc7-4eb7-9f17-6fede1bde68d" name="Attach_Major_R_marce"/>
+				<meta id="f1eec22e-10b7-4fbd-9119-ff7cbd2afeea" name="Attach_Major_L_marce"/>
+			</meta>
+			<meta id="26a5e3a5-0201-41df-9a79-c558f7ce88b3" name="roofCornerPart">
+				<meta id="fc329967-e2f7-49ad-9a4b-a4ba64232278" name="step_0_marco">
+					<meta id="057310f7-93a1-4f3d-90b9-ad20a59bf9af" name="montant3_marco"/>
+					<meta id="408bc794-af3a-475f-a5c6-70f7e9db83c6" name="montant6_marco"/>
+					<meta id="fa03ab05-db56-4290-8988-be3fba0fb013" name="montant10_marco"/>
+					<meta id="a55eb56a-96d9-4a73-9629-af93f492802d" name="montant1_marco"/>
+					<meta id="0fda96ca-2c81-4798-935c-9307b65a085b" name="montant4_marco"/>
+					<meta id="c7462c64-da18-46be-b9ee-45ed444df5ac" name="montant5_marco"/>
+					<meta id="23f8adf6-156f-408e-b796-b569f8216924" name="montant9_marco"/>
+					<meta id="1a25c8c8-dd76-4f50-b3af-6f68ccdf680a" name="montant7_marco"/>
+				</meta>
+				<meta id="1c673a00-7f8a-47fe-83e1-d0bb4d5188ee" name="step_1_marco">
+					<meta id="2d78214c-0583-45fd-b9cc-8699c96f6645" name="toit_marco">
+						<meta id="1218cebd-0ba5-4aed-aa13-e5bde2297e23" name="toit_marco_0"/>
+						<meta id="2fdd1461-27dc-4a35-8c36-40f31ee97d3c" name="toit_marco_1"/>
+					</meta>
+					<meta id="073196c6-f8af-4c61-b991-d0e592dc08a6" name="mur1_marco"/>
+					<meta id="70cc88c4-c7a8-4c73-aa2a-29885574cab6" name="mur2_marco"/>
+				</meta>
+				<meta id="f9e84582-1117-4557-9d8f-39d2b4efc1d9" name="Attach_Major_R_marco"/>
+				<meta id="1a7bee2c-4b88-4582-8737-ba1729c45a08" name="Attach_Major_L_marce1"/>
+			</meta>
+			<meta id="937b7526-35bd-4dd2-9011-87e7be251d1a" name="roofEntrancePart">
+				<meta id="3c362022-3057-428b-8f75-3afec5d9d448" name="step_0_A_mare">
+					<meta id="aa0054e3-e587-4ffb-94e3-d8e42d499e7b" name="montant3_A_mare"/>
+					<meta id="5cc1059c-92d0-4cec-9778-fbd25faf0a15" name="montant10_A_mare"/>
+					<meta id="74045bba-3bb7-4970-9165-78fdc6fe6eec" name="montant1_A_mare"/>
+					<meta id="3d930175-51de-47f9-998d-20dc2c6660be" name="montant1_A_mare1"/>
+					<meta id="d1267f4d-a6d0-4bd2-92b7-9a4c2693d7ce" name="montant1_A_mare2"/>
+					<meta id="1973f2b2-34a1-4dcc-afb0-a111e7c33def" name="montant1_A_mare3"/>
+				</meta>
+				<meta id="7527bf71-5be0-40d9-867f-723755c9cf8f" name="step_1_mare">
+					<meta id="0da7858f-5119-4d0c-9c63-5e60d515cdce" name="toit_mare">
+						<meta id="b72f3b21-d3c3-4ca8-bb8f-1b2748dccd45" name="toit_mare_0"/>
+						<meta id="a43dd0d9-96fe-4302-8016-4415ea24231f" name="toit_mare_1"/>
+					</meta>
+				</meta>
+				<meta id="7d7bd34e-4ecb-4528-a96d-a72024f812da" name="step_0_B_mare">
+					<meta id="4ff2910c-3d1e-41d7-953a-d0131cdbfacd" name="montant3_B_mare"/>
+					<meta id="c46999aa-e09c-4b9b-a412-ef6c29b9d388" name="montant10_B_mare"/>
+					<meta id="4de74b1f-388a-4c69-a8f1-a0dfdaf920af" name="montant1_B_mare"/>
+				</meta>
+				<meta id="474f6cf1-326d-4e0a-9c3c-8c0189c66df3" name="Attach_Major_R_mare"/>
+				<meta id="49073c82-9c53-43fc-9a70-5ad65ae5d7f0" name="Attach_Major_L_mare"/>
+			</meta>
+		</meta>
+		<meta id="85742dcc-7409-4f03-b2f8-5882f694ec0c" name="ConstructionSteps">
+			<meta id="67b511fe-b3f4-4910-a17f-55b80ec1e02d" name="marketAddition">
+				<meta id="bcafb7b3-3d01-4941-a416-28921fb15a50" name="hatStallPart">
+					<meta id="bad7e2a5-eda1-44c2-926c-bffeee515ae4" name="step_2_B_mahs">
+						<meta id="9c1a34ec-8def-4076-8169-1e94a4d98da2" name="presentoir_mahs">
+							<meta id="2dffbbe6-928e-49a1-b23e-841354272214" name="table1_mahs"/>
+						</meta>
+					</meta>
+				</meta>
+				<meta id="84f90ec9-dd40-4545-bbc1-0e574b515eb5" name="hatWorkshopPart">
+					<meta id="8cde44e8-7e63-41b7-9531-bfabb62891fc" name="step_2_A_mahw">
+						<meta id="ab7e7476-244f-4df0-8581-8ebfc5370b15" name="etabli_mahw">
+							<meta id="7b7bc9b3-df45-4b4d-87cd-34d3b93b3561" name="table_mahw">
+								<meta id="6b3bb3ac-cdfb-4fac-9162-c7aa5142805b" name="table_mahw_0"/>
+								<meta id="e69ef080-3221-4241-bde4-91ae9ca0d8a1" name="table_mahw_1"/>
+							</meta>
+						</meta>
+					</meta>
+				</meta>
+				<meta id="9eff6b3a-9b02-43d7-bba1-e2f235b9b513" name="roofCenterPart">
+					<meta id="c7e9cc5c-11c2-4dcd-bcb9-a4ca46400d09" name="step_0_A_marce">
+						<meta id="5c9de833-4d52-4595-9ae1-27fbf18e92fa" name="montant3_A_marce"/>
+						<meta id="06b32b0a-0c6b-483c-902c-4020643a4efb" name="montant10_A_marce"/>
+						<meta id="a16c83b4-1c71-4090-88a5-3480d696ea87" name="montant1_A_marce"/>
+					</meta>
+					<meta id="4e114a03-4d70-4133-b19e-543cdda6b1cc" name="step_0_B_marce">
+						<meta id="35a71e7c-41bd-4759-b8b5-ec2a47608048" name="montant3_B_marce"/>
+						<meta id="0dc0a9e4-d441-4346-aa0f-c5458abe9974" name="montant10_B_marce"/>
+						<meta id="50861b24-a5aa-4d22-970f-f8978337ef13" name="montant1_B_marce"/>
+					</meta>
+				</meta>
+				<meta id="a7d05f19-fde7-449c-a6d3-a321a9db6aab" name="roofCornerPart">
+					<meta id="6ea0ed6f-2d7e-4583-bea5-2d97e2158c7d" name="step_0_marco">
+						<meta id="159d42bc-ec31-4a8d-8533-2fa34385aa1e" name="montant3_marco"/>
+						<meta id="3bf6c667-225c-46cc-86da-0c0e95873940" name="montant6_marco"/>
+						<meta id="c01267e1-6413-46e1-b74b-f52478c8b32e" name="montant10_marco"/>
+						<meta id="6e203fea-e636-4139-aa3e-9b43b8a6a6af" name="montant1_marco"/>
+						<meta id="cced46a5-7796-47a6-9935-0352822c67ca" name="montant4_marco"/>
+						<meta id="dadb572d-94f7-403f-a6e0-cb4d3ae99cc0" name="montant5_marco"/>
+						<meta id="258dbfd3-5478-4648-8cec-258e30d35669" name="montant9_marco"/>
+						<meta id="05661a0e-4e66-4d66-914a-b1d904a5898a" name="montant7_marco"/>
+					</meta>
+				</meta>
+				<meta id="7cb27c83-72b0-4f90-a344-d7c868e8747c" name="roofEntrancePart">
+					<meta id="44b9c615-dd52-40ee-9882-07bd138d3810" name="step_0_A_mare">
+						<meta id="abb8992c-7590-419b-9fe6-cc57e1bf18e3" name="montant3_A_mare"/>
+						<meta id="c6fb9122-66f1-470d-afbc-6ec3898beb3e" name="montant10_A_mare"/>
+						<meta id="8d7cdd4f-4da6-46a1-bf18-6df5baf8318d" name="montant1_A_mare"/>
+						<meta id="938abe4c-8efe-4027-b1be-4adbcdb46ded" name="montant1_A_mare1"/>
+						<meta id="acfb4ffc-1d49-4d1c-b6a6-ec7eefdb6aaa" name="montant1_A_mare2"/>
+						<meta id="f32157ae-38c6-420f-8478-73fee30fa5e8" name="montant1_A_mare3"/>
+					</meta>
+					<meta id="1b5fa83e-44a0-4c60-8ba5-b38a1b66a937" name="step_0_B_mare">
+						<meta id="5bfe05d1-a79d-4d17-83e3-33fe34bb4874" name="montant3_B_mare"/>
+						<meta id="c5b0d3c1-6e83-4b95-8e2c-387e9f695a20" name="montant10_B_mare"/>
+						<meta id="e4432560-2c6d-4582-809e-a056c3d67e49" name="montant1_B_mare"/>
+					</meta>
+				</meta>
+			</meta>
+		</meta>
+		<meta id="475d67cf-943a-4ab0-b116-7cd9543ca27e" name="thatchedRoofMaterial"/>
+		<meta id="ab9cb58c-db79-4f3e-a234-10afe2bb0a78" name="thatchedRoofFrontMaterial"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="5b1b4d0e89d50dd8fd6a4ae65d0427ae"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_mahs"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="table1_mahs"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="hatCyan_mahs"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="hatBlack_mahs"/>
+											</Item>
+										</ChildList>
+										<NodeName value="presentoir_mahs"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="plateau_mahs"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied1_mahs"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied2_mahs"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied3_mahs"/>
+											</Item>
+										</ChildList>
+										<NodeName value="tabouret_mahs"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_2_B_mahs"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_3_HAT_STALL"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_2_HAT_STALL"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_1_HAT_STALL"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0_HAT_STALL"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_HAT_STALL"/>
+							</Item>
+						</ChildList>
+						<NodeName value="hatStallPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_mahw"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="table_mahw_0"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="table_mahw_1"/>
+													</Item>
+												</ChildList>
+												<NodeName value="table_mahw"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="forme_mahw"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="pSphere1_mahw"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="pCube1_mahw"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="pCube2_mahw"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="pCube3_mahw"/>
+													</Item>
+												</ChildList>
+												<NodeName value="tete_mahw"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="hat4_mahw"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList>
+															<Item type="GenCFbxNodeConfig">
+																<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+																<ChildList/>
+																<NodeName value="pCube1_mahw"/>
+															</Item>
+															<Item type="GenCFbxNodeConfig">
+																<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+																<ChildList/>
+																<NodeName value="pPipe1_mahw"/>
+															</Item>
+														</ChildList>
+														<NodeName value="scissor1_mahw"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList>
+															<Item type="GenCFbxNodeConfig">
+																<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+																<ChildList/>
+																<NodeName value="pCube2_mahw"/>
+															</Item>
+															<Item type="GenCFbxNodeConfig">
+																<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+																<ChildList/>
+																<NodeName value="pPipe2_mahw"/>
+															</Item>
+														</ChildList>
+														<NodeName value="scissor2_mahw"/>
+													</Item>
+												</ChildList>
+												<NodeName value="pairScissors_mahw"/>
+											</Item>
+										</ChildList>
+										<NodeName value="etabli_mahw"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="plateau_mahw"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied1_mahw"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied2_mahw"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="pied3_mahw"/>
+											</Item>
+										</ChildList>
+										<NodeName value="tabouret_mahw"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_2_A_mahw"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_0_HAT_WORKSHOP"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_1_HAT_WORKSHOP"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_2_HAT_WORKSHOP"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_3_HAT_WORKSHOP"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_B_HAT_WORKSHOP"/>
+							</Item>
+						</ChildList>
+						<NodeName value="hatWorkshopPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porteEnseigne_mahsg"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="enseigne_mahsg_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="enseigne_mahsg_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="enseigne_mahsg"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porteEnseigne1_mahsg"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porteEnseigne2_mahsg"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_2_C_mahsg"/>
+							</Item>
+						</ChildList>
+						<NodeName value="hatSignPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_F_marce"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant3_A_marce"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant10_A_marce"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_A_marce"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_0_A_marce"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit_marce_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit_marce_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="toit_marce"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur_marce"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_1_marce"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant3_B_marce"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant10_B_marce"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_B_marce"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_0_B_marce"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_R_marce"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_L_marce"/>
+							</Item>
+						</ChildList>
+						<NodeName value="roofCenterPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant3_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant6_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant10_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant4_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant5_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant9_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant7_marco"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_0_marco"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit_marco_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit_marco_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="toit_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur1_marco"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="mur2_marco"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_1_marco"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_R_marco"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_L_marce1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="roofCornerPart"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant3_A_mare"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant10_A_mare"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_A_mare"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_A_mare1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_A_mare2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_A_mare3"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_0_A_mare"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit_mare_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="toit_mare_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="toit_mare"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_1_mare"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant3_B_mare"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant10_B_mare"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="montant1_B_mare"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_0_B_mare"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_R_mare"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Attach_Major_L_mare"/>
+							</Item>
+						</ChildList>
+						<NodeName value="roofEntrancePart"/>
+					</Item>
+				</ChildList>
+				<NodeName value="marketAddition"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="table1_mahs"/>
+													</Item>
+												</ChildList>
+												<NodeName value="presentoir_mahs"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_2_B_mahs"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hatStallPart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList>
+															<Item type="GenCFbxNodeConfig">
+																<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+																<ChildList/>
+																<NodeName value="table_mahw_0"/>
+															</Item>
+															<Item type="GenCFbxNodeConfig">
+																<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+																<ChildList/>
+																<NodeName value="table_mahw_1"/>
+															</Item>
+														</ChildList>
+														<NodeName value="table_mahw"/>
+													</Item>
+												</ChildList>
+												<NodeName value="etabli_mahw"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_2_A_mahw"/>
+									</Item>
+								</ChildList>
+								<NodeName value="hatWorkshopPart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant3_A_marce"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant10_A_marce"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_A_marce"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_0_A_marce"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant3_B_marce"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant10_B_marce"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_B_marce"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_0_B_marce"/>
+									</Item>
+								</ChildList>
+								<NodeName value="roofCenterPart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant3_marco"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant6_marco"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant10_marco"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_marco"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant4_marco"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant5_marco"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant9_marco"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant7_marco"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_0_marco"/>
+									</Item>
+								</ChildList>
+								<NodeName value="roofCornerPart"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant3_A_mare"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant10_A_mare"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_A_mare"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_A_mare1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_A_mare2"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_A_mare3"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_0_A_mare"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant3_B_mare"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant10_B_mare"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="montant1_B_mare"/>
+											</Item>
+										</ChildList>
+										<NodeName value="step_0_B_mare"/>
+									</Item>
+								</ChildList>
+								<NodeName value="roofEntrancePart"/>
+							</Item>
+						</ChildList>
+						<NodeName value="marketAddition"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="thatchedRoofMaterial"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="thatchedRoofFrontMaterial"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a2d72b5d-933b-4a98-a723-0c80763a5d9a"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4e5564a6-a33f-42a9-a979-2c051b970ce5"/>
+			<MaterialName value="chambranle"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f3751501-f1a1-423d-8447-ce023b5eed55"/>
+			<MaterialName value="cyan"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="4f6141c3-30fe-441a-82bb-33cddef11826"/>
+			<MaterialName value="magenta"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8976a2f2-d78c-4683-bc20-c4990c0b1328"/>
+			<MaterialName value="metal"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="fff191ce-4c98-45bc-bfcb-ed28fc9e96d6"/>
+			<MaterialName value="textile"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="93afc487-565c-4a74-912f-98775aac2790"/>
+			<MaterialName value="thatchedRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c4d4f74b-2d14-47bb-a8e4-b4551fc32cfb"/>
+			<MaterialName value="thatchedRoofFront"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0bcfa716-5f71-4663-a70d-1a90ef050efc"/>
+			<MaterialName value="woodenRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="94e09644-3dd8-4b7d-87cf-17256110bfbf"/>
+			<MaterialName value="woodenRoofFront"/>
+		</Item>
+	</MaterialList>
+</importer>
+

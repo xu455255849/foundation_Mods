@@ -1,0 +1,36 @@
+{
+    "BUILDINGS": {
+        "MARKET_ADDITION_V2_PARTSETLIST_NAME": "Markterweiterungen",
+        "MARKET_ADDITION_V2_HAT_STALL_NAME": "Hutstand",
+        "MARKET_ADDITION_V2_HAT_WORKSHOP_NAME": "Hutwerkstatt ",
+        "MARKET_ADDITION_V2_KNIFE_GRINDER_NAME": "Messerschleiferwerkstatt ",
+        "MARKET_ADDITION_V2_HAT_SIGN_NAME": "Hutzeichen",
+        "MARKET_ADDITION_V2_KNIFE_GRINDER_SIGN_NAME": "Messerschleifer Zeichen",
+        "MARKET_ADDITION_V2_ROOF_CENTER_NAME": "Dach aus Holz",
+        "MARKET_ADDITION_V2_ROOF_CORNER_NAME": "Dach aus Holz",
+        "MARKET_ADDITION_V2_ROOF_ENTRANCE_NAME": "Eingangsdach aus Holz",
+        "MARKET_ADDITION_V2_WOODEN_ROOF": "Holzdach",
+        "MARKET_ADDITION_V2_THATCHED_ROOF": "Reetdach"
+    },
+    "BUILDING_DESCRIPTIONS": {
+        "MARKET_ADDITION_V2_HAT_STALL_DESC": "Hutstand",
+        "MARKET_ADDITION_V2_HAT_WORKSHOP_DESC": "Hutwerkstatt",
+        "MARKET_ADDITION_V2_KNIFE_GRINDER_DESC": "Messerschleiferwerkstatt",
+        "MARKET_ADDITION_V2_HAT_SIGN_DESC": "Hutmacherschild",
+        "MARKET_ADDITION_V2_KNIFE_GRINDER_SIGN_DESC": "Messerschleiferschild",
+        "MARKET_ADDITION_V2_ROOF_CENTER_DESC": "Dach aus Holz",
+        "MARKET_ADDITION_V2_ROOF_CORNER_DESC": "Dach aus Holz",
+        "MARKET_ADDITION_V2_ROOF_ENTRANCE_DESC": "Eingangsdach aus Holz"
+    },
+    "JOBS": {
+        "MARKET_ADDITION_V2_HATMAKER_NAME": "Hutmacher",
+        "MARKET_ADDITION_V2_HATMAKER_DESC": "Produziert Hüte",
+        "MARKET_ADDITION_V2_KNIFEGRINDER_NAME": "Messerschleifer",
+        "MARKET_ADDITION_V2_KNIFEGRINDER_DESC": "Produziert Messer"
+    },
+    "RESOURCES": {
+                "MARKET_ADDITION_V2_HAT": "Hut",
+                "WOOLEN_CLOTH": "Stoff",
+                "MARKET_ADDITION_V2_KNIFE": "Messer"
+    }
+}

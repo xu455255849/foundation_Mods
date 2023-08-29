@@ -1,0 +1,21 @@
+{
+	"Name": "Market Addition V2",
+	"Author": "vjraymon",
+	"Description": "Market addition V2",
+	"Version": "2.6.1",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		}
+	]
+}

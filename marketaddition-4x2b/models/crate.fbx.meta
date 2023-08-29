@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="f85a9989-893d-486e-b170-2e857d3e350b">
+	<meta id="346f67a0-57ea-4027-83fb-6af30a0e3455" type="group" folder="true" name="Materials">
+		<meta id="b0797659-0ce2-4dcd-a7b0-5dbb54f40074" name="bois"/>
+	</meta>
+	<meta id="f0af329a-ba29-45be-bd87-8518d2c9b88f" type="group" folder="true" name="Meshes">
+		<meta id="dc41f631-4301-4872-8ba7-f5b4dcc68514" name="caisse_bois"/>
+	</meta>
+	<meta id="13fd3d5b-55f8-4f0a-89e1-3882dfb5f438" name="Prefab">
+		<meta id="441a0166-a3fa-4168-a382-8dd829b1d7f1" name="crate">
+			<meta id="fec2dc2f-6486-4676-a74b-b2acc7e141a4" name="caisse"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="5b879b9cbf93342a3a3db447def07f96"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="caisse"/>
+					</Item>
+				</ChildList>
+				<NodeName value="crate"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b0797659-0ce2-4dcd-a7b0-5dbb54f40074"/>
+			<MaterialName value="bois"/>
+		</Item>
+	</MaterialList>
+</importer>
+

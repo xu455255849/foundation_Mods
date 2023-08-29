@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="a46a7c80-9d61-438f-b6ab-3ff434fd8e53">
+	<meta id="016184fc-ecdc-4f42-90a4-4bfe8bb4d1db" type="group" folder="true" name="Materials">
+		<meta id="a7027bc4-a0be-4a10-83b1-a7bc0ab73688" name="metal"/>
+		<meta id="f95810a3-fa9f-4f96-8e60-58d8d19f386c" name="bois"/>
+	</meta>
+	<meta id="2faba926-06fb-42b1-932a-b39e66e342a2" type="group" folder="true" name="Meshes">
+		<meta id="6655eefa-2eec-4024-a48e-845d9a586953" name="manche_metal"/>
+		<meta id="c2a165fe-05e2-4afe-94dc-da7e1aabcf44" name="manche_bois"/>
+	</meta>
+	<meta id="f5ad5cea-13cc-4b93-96d9-910348ab0924" name="Prefab">
+		<meta id="f471e788-0f93-4ffd-ad1a-008de360f078" name="knife">
+			<meta id="01d26f1b-aab9-47b9-9613-f5b219c488c3" name="manche">
+				<meta id="68eafaeb-5027-4826-aecc-428fe4e1d003" name="manche_0"/>
+				<meta id="381d5dbb-e8df-4450-81f4-4c5e652d9277" name="manche_1"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="63687ccc20f4655c4ef3a24f050d490d"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="manche_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="manche_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="manche"/>
+					</Item>
+				</ChildList>
+				<NodeName value="knife"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f95810a3-fa9f-4f96-8e60-58d8d19f386c"/>
+			<MaterialName value="bois"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a7027bc4-a0be-4a10-83b1-a7bc0ab73688"/>
+			<MaterialName value="metal"/>
+		</Item>
+	</MaterialList>
+</importer>
+
