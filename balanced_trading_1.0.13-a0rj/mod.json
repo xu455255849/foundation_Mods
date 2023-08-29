@@ -1,0 +1,14 @@
+{
+	"Name": "Balanced Trading",
+	"Author": "Batyushki",
+	"Description": "Adds modded resources to Trading Villages, balances prices and removes resources that would be unrealistic to transport by foot. Use Trading Post and Harbour Trading to bulk trade in larger items.",
+	"Version": "1.0.13",
+
+	"Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		}
+    ]
+
+}
