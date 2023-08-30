@@ -49,40 +49,40 @@
 
     "WALL_POULTRYFARM_WOVENFENCE_NAME": "编织围栏",
 
-    "BUILDING_VEGETABLEFARM_NAME": "蔬菜农场",
-    "BUILDING_VEGETABLEFARM_BEET_NAME": "蔬菜农场（甜菜）",
-    "BUILDING_VEGETABLEFARM_CABBAGE_NAME": "蔬菜农场（卷心菜）",
-    "BUILDING_VEGETABLEFARM_BEAN_NAME": "蔬菜农场（豆类）",
-    "BUILDING_VEGETABLEFARM_BROCCOLI_NAME": "蔬菜农场（西兰花）",
-    "BUILDING_VEGETABLEFARM_DESC": "使用堆肥和水种植蔬菜",
+    "BUILDING_VEGETABLEFARM_NAME": "包菜农场",
+    "BUILDING_VEGETABLEFARM_BEET_NAME": "包菜农场（甜菜）",
+    "BUILDING_VEGETABLEFARM_CABBAGE_NAME": "包菜农场（卷心菜）",
+    "BUILDING_VEGETABLEFARM_BEAN_NAME": "包菜农场（豆类）",
+    "BUILDING_VEGETABLEFARM_BROCCOLI_NAME": "包菜农场（西兰花）",
+    "BUILDING_VEGETABLEFARM_DESC": "使用堆肥和水种植包菜",
 
-    "JOB_VEGETABLEFARM_NAME": "蔬菜种植工人",
-    "JOB_VEGETABLEFARM_DESC": "使用堆肥和水种植蔬菜",
+    "JOB_VEGETABLEFARM_NAME": "包菜种植工人",
+    "JOB_VEGETABLEFARM_DESC": "使用堆肥和水种植包菜",
 
-    "BUILDING_FUNCTION_VEGETABLEFARM_PLOT_NAME": "蔬菜种植区",
-    "BUILDING_FUNCTION_VEGETABLEFARM_CART_NAME": "蔬菜推车",
+    "BUILDING_FUNCTION_VEGETABLEFARM_PLOT_NAME": "包菜种植区",
+    "BUILDING_FUNCTION_VEGETABLEFARM_CART_NAME": "包菜推车",
 
     "CATEGORY_BUILDING_PART_SET_VEGETABLEFARM1": "选项1：自由形式",
     "CATEGORY_BUILDING_PART_SET_VEGETABLEFARM2": "选项2：简易",
     "CATEGORY_BUILDING_PART_SET_VEGETABLEFARM3": "其他",
 
-    "BUILDING_PART_VEGETABLEFARM_PLOT_NAME": "蔬菜种植区",
-    "BUILDING_PART_VEGETABLEFARM_CART_NAME": "蔬菜推车",
+    "BUILDING_PART_VEGETABLEFARM_PLOT_NAME": "包菜种植区",
+    "BUILDING_PART_VEGETABLEFARM_CART_NAME": "包菜推车",
 
-    "VEGETABLEFARM_NAME": "蔬菜农场",
-    "VEGETABLEFARM_DESC": "使用水和堆肥种植蔬菜以供食用。",
+    "VEGETABLEFARM_NAME": "包菜农场",
+    "VEGETABLEFARM_DESC": "使用水和堆肥种植包菜以供食用。",
 
     "ZONE_VEGETABLEFARM_NAME": "田地",
-    "RESOURCE_VEGETABLE_RAW_NAME": "原始蔬菜",
+    "RESOURCE_VEGETABLE_RAW_NAME": "原始包菜",
 
-    "BUILDING_FUNCTION_ASSIGNABLE_VEGETABLEFARM_NAME": "蔬菜农场",
+    "BUILDING_FUNCTION_ASSIGNABLE_VEGETABLEFARM_NAME": "包菜农场",
     "BUILDING_FUNCTION_VEGETABLEFARM_BEET_NAME": "甜菜",
     "BUILDING_FUNCTION_VEGETABLEFARM_CABBAGE_NAME": "卷心菜",
     "BUILDING_FUNCTION_VEGETABLEFARM_BEAN_NAME": "豆类",
     "BUILDING_FUNCTION_VEGETABLEFARM_BROCCOLI_NAME": "西兰花",
     "BUILDING_FUNCTION_VEGETABLEFARM_SHED_NAME": "加工棚",
 
-    "BUILDING_PART_VEGETABLEFARM_FARM_NAME": "蔬菜农场",
+    "BUILDING_PART_VEGETABLEFARM_FARM_NAME": "包菜农场",
     "BUILDING_PART_VEGETABLEFARM_SHED_NAME": "加工棚",
     "BUILDING_PART_VEGETABLEFARM_DOOR_NAME": "门",
 
@@ -91,8 +91,8 @@
     "EVENT_POULTRY_START_TITLE": "家畜养殖场",
     "EVENT_POULTRY_START_DESC": "家畜养殖场已解锁。如何使用它们的完整说明请参考 foundation.mod.io\n\n鸡舍和鹅舍每个需要3-4群家畜，鸟类每月会自动补充。如果你在月底之前注意到家畜不足，请放置更多群。\n\n鸡可以产蛋或肉：产蛋更快但售价较低。\n\n你必须清理养殖场的粪便，否则它们将停止产出。一个粪堆可以为多个养殖场提供服务。",
 
-    "EVENT_VEGETABLE_START_TITLE": "蔬菜农场",
-    "EVENT_VEGETABLE_START_DESC": "蔬菜农场已解锁。如何使用它们的完整说明请参考 foundation.mod.io\n\n有两种类型的农场：自由形式（类似于小麦农场）和像建筑物一样放置的田地。自由形式农场需要你绘制作物区域并选择要种植的蔬菜类型。\n\n种植蔬菜需要来自家畜或家畜养殖场的堆肥。",
+    "EVENT_VEGETABLE_START_TITLE": "包菜农场",
+    "EVENT_VEGETABLE_START_DESC": "包菜农场已解锁。如何使用它们的完整说明请参考 foundation.mod.io\n\n有两种类型的农场：自由形式（类似于小麦农场）和像建筑物一样放置的田地。自由形式农场需要你绘制作物区域并选择要种植的包菜类型。\n\n种植包菜需要来自家畜或家畜养殖场的堆肥。",
 
     "EVENT_POULTRY_OK": "确定",
 
