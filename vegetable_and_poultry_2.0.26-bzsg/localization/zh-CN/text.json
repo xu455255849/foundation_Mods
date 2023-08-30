@@ -2,22 +2,22 @@
   "": {
 
     "JOB_POULTRYFARM_DUNG_NAME": "粪便收集工人",
-    "JOB_POULTRYFARM_DUNG_DESC": "从家禽养殖场收集粪便以制作堆肥",
+    "JOB_POULTRYFARM_DUNG_DESC": "从家畜养殖场收集粪便以制作堆肥",
 
     "BUILDING_FUNCTION_POULTRYFARM_DUNG_NAME": "粪堆",
     "BUILDING_FUNCTION_POULTRYFARM_COMPOST_NAME": "堆肥收集",
-    "BUILDING_FUNCTION_POULTRYFARM_CHICKEN_POULTRY_NAME": "家禽",
+    "BUILDING_FUNCTION_POULTRYFARM_CHICKEN_POULTRY_NAME": "家畜",
     "BUILDING_FUNCTION_POULTRYFARM_CHICKEN_EGGS_NAME": "蛋",
-    "BUILDING_FUNCTION_POULTRYFARM_GOOSE_POULTRY_NAME": "家禽",
+    "BUILDING_FUNCTION_POULTRYFARM_GOOSE_POULTRY_NAME": "家畜",
     "BUILDING_FUNCTION_POULTRYFARM_WILDFOWL_NAME": "野禽",
 
-    "BUILDING_POULTRYFARM_NAME": "家禽养殖场",
+    "BUILDING_POULTRYFARM_NAME": "家畜养殖场",
     "BUILDING_POULTRYFARM_DESC": "饲养鸡、鹅、鸽子和鸭子",
 
     "BUILDING_PART_POULTRYFARM_DUNGHEAP_NAME": "粪堆",
     "BUILDING_PART_POULTRYFARM_CHICKENHOUSE_NAME": "鸡舍",
     "BUILDING_PART_POULTRYFARM_CHICKENHOUSE_EGGS_NAME": "鸡舍（蛋）",
-    "BUILDING_PART_POULTRYFARM_CHICKENHOUSE_POULTRY_NAME": "鸡舍（家禽）",
+    "BUILDING_PART_POULTRYFARM_CHICKENHOUSE_POULTRY_NAME": "鸡舍（家畜）",
     "BUILDING_PART_POULTRYFARM_CHICKEN_FLOCK_NAME": "鸡群",
     "BUILDING_PART_POULTRYFARM_CHICKEN_SINGLE_NAME": "单只鸡",
     "BUILDING_PART_POULTRYFARM_GOOSEHOUSE_NAME": "鹅舍",
@@ -28,8 +28,8 @@
     "BUILDING_PART_POULTRYFARM_MARKETCART_RESOURCE_POULTRY_NAME": "禽类推车",
     "BUILDING_PART_POULTRYFARM_MARKETCART_BV1_EGG_NAME": "蛋类推车",
 
-    "JOB_POULTRYFARM_NAME": "家禽养殖工人",
-    "JOB_POULTRYFARM_DESC": "照顾家禽群",
+    "JOB_POULTRYFARM_NAME": "家畜养殖工人",
+    "JOB_POULTRYFARM_DESC": "照顾家畜群",
 
     "JOB_POULTRYFARM_WILDFOWL_NAME": "野禽猎人",
     "JOB_POULTRYFARM_WILDFOWL_DESC": "在鸭池狩猎",
@@ -88,11 +88,11 @@
 
     "BUILDING_PART_VEGETABLEFARM_FENCE_NAME": "围栏",
 
-    "EVENT_POULTRY_START_TITLE": "家禽养殖场",
-    "EVENT_POULTRY_START_DESC": "家禽养殖场已解锁。如何使用它们的完整说明请参考 foundation.mod.io\n\n鸡舍和鹅舍每个需要3-4群家禽，鸟类每月会自动补充。如果你在月底之前注意到家禽不足，请放置更多群。\n\n鸡可以产蛋或肉：产蛋更快但售价较低。\n\n你必须清理养殖场的粪便，否则它们将停止产出。一个粪堆可以为多个养殖场提供服务。",
+    "EVENT_POULTRY_START_TITLE": "家畜养殖场",
+    "EVENT_POULTRY_START_DESC": "家畜养殖场已解锁。如何使用它们的完整说明请参考 foundation.mod.io\n\n鸡舍和鹅舍每个需要3-4群家畜，鸟类每月会自动补充。如果你在月底之前注意到家畜不足，请放置更多群。\n\n鸡可以产蛋或肉：产蛋更快但售价较低。\n\n你必须清理养殖场的粪便，否则它们将停止产出。一个粪堆可以为多个养殖场提供服务。",
 
     "EVENT_VEGETABLE_START_TITLE": "蔬菜农场",
-    "EVENT_VEGETABLE_START_DESC": "蔬菜农场已解锁。如何使用它们的完整说明请参考 foundation.mod.io\n\n有两种类型的农场：自由形式（类似于小麦农场）和像建筑物一样放置的田地。自由形式农场需要你绘制作物区域并选择要种植的蔬菜类型。\n\n种植蔬菜需要来自家禽或家畜养殖场的堆肥。",
+    "EVENT_VEGETABLE_START_DESC": "蔬菜农场已解锁。如何使用它们的完整说明请参考 foundation.mod.io\n\n有两种类型的农场：自由形式（类似于小麦农场）和像建筑物一样放置的田地。自由形式农场需要你绘制作物区域并选择要种植的蔬菜类型。\n\n种植蔬菜需要来自家畜或家畜养殖场的堆肥。",
 
     "EVENT_POULTRY_OK": "确定",
 
