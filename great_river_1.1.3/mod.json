@@ -1,0 +1,14 @@
+{
+    "Name": "Great River",
+    "Author": "Batyushki",
+    "Description": "An extensive river system runs through a valley with several islands, emptying into the sea near some hills.",
+    "Version": "1.1.3",
+    "MapList": [
+        {
+            "Name": "Great River",
+            "Id": "MAP_GREATRIVER",
+            "Description": "An extensive river system runs through a valley with several islands, emptying into the sea near some hills.\n\nIn Great River, saplings and bushes yield less wood than a full-sized tree.\n\nBerry bushes are scattered over the landscape, and can also be planted by the forester.\n\nStone is mined from scattered, non-renewable deposits. You'll need to build new stone mining camps as you deplete stone in each area.\n\nFeel free to contact me on Discord if you have any questions!\n\nBatyushki",
+            "PreviewImage": "metadata/PreviewImage.jpg"
+        }
+    ]
+}

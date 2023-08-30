@@ -1,0 +1,12 @@
+{
+	"Name": "Medieval Stone Walls",
+	"Author": "RaisinMuffin",
+	"Description": "A collection of various medieval-style stone wall and fence decorations",
+	"Version": "4.2.0",
+	"Dependencies": [
+		{
+			"Id": "fce10768-a88c-45e0-b6a5-834f46c5998d",
+			"Name": "Foundation Extended Building Functions"
+		}
+	]
+}

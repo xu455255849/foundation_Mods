@@ -1,0 +1,25 @@
+{
+	"": {
+
+        "PLANTABLE_PREFAB_GREATRIVER_SAPLING1": "Sapling",
+        "PLANTABLE_PREFAB_GREATRIVER_SAPLING2": "Sapling",
+        "PLANTABLE_PREFAB_GREATRIVER_SAPLING3": "Sapling",
+        "PLANTABLE_PREFAB_GREATRIVER_SAPLING4": "Sapling",
+        "PLANTABLE_PREFAB_GREATRIVER_SAPLING5": "Sapling",
+        "PLANTABLE_PREFAB_GREATRIVER_BUSH1": "Bush",
+        "PLANTABLE_PREFAB_GREATRIVER_BUSH2": "Bush",
+        "PLANTABLE_PREFAB_GREATRIVER_BUSH3": "Bush",
+        "PLANTABLE_PREFAB_GREATRIVER_BUSH4": "Bush",
+        "PLANTABLE_PREFAB_GREATRIVER_BUSH5": "Bush",
+        "PLANTABLE_PREFAB_GREATRIVER_BERRY1": "Berry Bush (red)",
+        "PLANTABLE_PREFAB_GREATRIVER_BERRY2": "Berry Bush (blue)",
+
+        "EVENT_GREATRIVER_START_TITLE": "Welcome to Great River",
+        "EVENT_GREATRIVER_START_DESC": "Welcome to this custom map.\n\nIn Great River, saplings and bushes yield less wood than a full-sized tree.\n\nBerry bushes are scattered over the landscape, and can also be planted by the forester.\n\nStone is mined from scattered, non-renewable deposits. You'll need to build new stone mining camps as you deplete stone in each area.\n\nFeel free to contact me on Discord if you have any questions!\n\nBatyushki",
+        "EVENT_GREATRIVER_CHOICE_1": "OK",
+
+
+		"": ""
+
+	}
+}

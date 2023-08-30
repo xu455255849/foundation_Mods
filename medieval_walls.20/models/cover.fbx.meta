@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="0c6bd862-b002-43ff-8282-1051f4d084e3">
+	<meta id="05aba2e4-c719-45f9-a57c-bffff80d212f" type="group" folder="true" name="Materials">
+		<meta id="8eba4f5a-dba3-4175-b1aa-b25812dcec95" name="cover_stonewalls"/>
+	</meta>
+	<meta id="55511512-db02-456f-b252-f21793a365d8" type="group" folder="true" name="Meshes">
+		<meta id="48815a3b-9312-4cad-9a6a-1828f83c0c3a" name="cover.005_cover_stonewalls"/>
+	</meta>
+	<meta id="3f671cc0-6ea5-467b-a62d-b08b85e6e43f" name="Prefab">
+		<meta id="b3d61675-1fe5-449a-b56e-7c10abd99a7e" name="Medieval_Wall_Cover">
+			<meta id="4cfaae55-149f-41e4-b102-e42d3d4bc1a1" name="cover.005"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="a2949700da1b3431bfaaab1f4dc79e51"/>
+	<ModelVersion value="31"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="cover.005"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Medieval_Wall_Cover"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8eba4f5a-dba3-4175-b1aa-b25812dcec95"/>
+			<MaterialName value="cover_stonewalls"/>
+		</Item>
+	</MaterialList>
+</importer>
+

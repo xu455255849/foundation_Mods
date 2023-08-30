@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="00bd1b39-2a65-4eba-8f30-24a17f3dfffc">
+	<meta id="6c8f12bb-9d0e-4997-a45a-ed880ad43a61" type="group" folder="true" name="Materials">
+		<meta id="b53b13c3-f486-43fa-ad5a-e80590fc70e7" name="Material.Iron"/>
+		<meta id="bf1e085d-2a0c-4416-9f48-7f394bb2ecd9" name="Material.Marble"/>
+		<meta id="9df02061-11ba-487a-9cce-c7417c8d0ed4" name="Material.Gold"/>
+		<meta id="8fc0911e-a137-4ff3-b3d0-41240e5adc60" name="Material.Quartz"/>
+	</meta>
+	<meta id="bf66ad0b-9590-41f2-b575-ab3324c95547" type="group" folder="true" name="Meshes">
+		<meta id="ab6084fc-b539-411f-ad62-5a64a561e3f2" name="Iron.001_Material.Iron"/>
+		<meta id="3c948ca9-98be-4262-9e00-32ae8a386a04" name="Iron.002_Material.Iron"/>
+		<meta id="5f8c738a-a6d4-446b-8021-977db6826876" name="Iron.003_Material.Iron"/>
+		<meta id="28a019b9-4108-4f96-bd58-82715fb11660" name="Marble.001_Material.Marble"/>
+		<meta id="71c0c3dc-dd96-48c3-b3ce-a778a3c749dc" name="Marble.002_Material.Marble"/>
+		<meta id="e662fb8f-5699-4506-9a3b-0d7f00f5437e" name="Marble.003_Material.Marble"/>
+		<meta id="8097d5b4-a247-4b37-9727-c19a1c2e487c" name="Gold.001_Material.Gold"/>
+		<meta id="b92966a4-8fdc-4f1f-adf5-c2732ddb6c27" name="Gold.002_Material.Gold"/>
+		<meta id="00c8767d-2577-4297-a375-82ee10c3b47b" name="Gold.003_Material.Gold"/>
+		<meta id="4e37aef6-1649-416c-a436-0bc319aafa37" name="Quartz.001_Material.Quartz"/>
+		<meta id="6ebaaa8d-28a6-4234-bea0-048684abe675" name="Quartz.002_Material.Quartz"/>
+		<meta id="3c2f5108-3487-4b5a-b41d-236b93a4fa4f" name="Quartz.003_Material.Quartz"/>
+	</meta>
+	<meta id="5c6ebdf4-40ff-4aff-ad09-1eea948970a4" name="Prefab">
+		<meta id="805f097b-625f-4351-8ff7-f11af97e137b" name="Iron.001"/>
+		<meta id="b0ab9682-9b28-4cf0-be18-d7ae411fe6d8" name="Iron.002"/>
+		<meta id="b6498645-192f-4fc5-a966-14db717d7d91" name="Iron.003"/>
+		<meta id="8d279703-01c4-49f9-81d6-013bcda2888c" name="Marble.001"/>
+		<meta id="7676aaad-f232-4260-9c0c-d9a31a0b67ec" name="Marble.002"/>
+		<meta id="c0a49337-52e0-4238-a472-57347a671945" name="Marble.003"/>
+		<meta id="393eacae-e37b-4360-b13a-b798945eb99c" name="Gold.001"/>
+		<meta id="44cd0879-924e-45ba-bf7e-094bd79d27ab" name="Gold.002"/>
+		<meta id="9b67b0c1-a0d7-45a8-8616-713b09e4d8d8" name="Gold.003"/>
+		<meta id="a7c2572b-1589-4678-8960-57feec48d461" name="Quartz.001"/>
+		<meta id="7b202216-333f-49ce-a582-83dd3feec360" name="Quartz.002"/>
+		<meta id="25b27323-02b0-4cee-bdc0-93eafd9ddabb" name="Quartz.003"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="7b2dbb70b42c2f86c81cb2e34806693d"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Iron.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Iron.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Iron.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Marble.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Marble.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Marble.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Gold.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Gold.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Gold.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Quartz.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Quartz.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Quartz.003"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9df02061-11ba-487a-9cce-c7417c8d0ed4"/>
+			<MaterialName value="Material.Gold"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b53b13c3-f486-43fa-ad5a-e80590fc70e7"/>
+			<MaterialName value="Material.Iron"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bf1e085d-2a0c-4416-9f48-7f394bb2ecd9"/>
+			<MaterialName value="Material.Marble"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8fc0911e-a137-4ff3-b3d0-41240e5adc60"/>
+			<MaterialName value="Material.Quartz"/>
+		</Item>
+	</MaterialList>
+</importer>
+

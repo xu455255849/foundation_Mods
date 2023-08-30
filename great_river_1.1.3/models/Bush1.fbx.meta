@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="21778afb-8b64-492a-a9b3-5285bb60303a">
+	<meta id="f3a50247-7167-46eb-8114-1b802a76e577" type="group" folder="true" name="Materials">
+		<meta id="1f1c45cf-4032-41ae-ac59-81328cea811b" name="Material.Bush1"/>
+		<meta id="cafba421-a29f-48ce-b7a6-9aec1cab0fee" name="Material.Bush2"/>
+		<meta id="96496bcd-b9b2-4043-89a4-f37933d21c80" name="Material.Bush3"/>
+		<meta id="a8a46bfc-3ba1-434b-adec-d2ec49bbfeb9" name="Material.Tree1"/>
+		<meta id="1eaa4508-d3d5-4faf-a6c5-531860a782e6" name="Material.Reed1"/>
+		<meta id="e2ca951b-29cd-4829-9057-03f56b0135e5" name="Material.Rock1"/>
+	</meta>
+	<meta id="5a8a1f3c-5e08-40b2-87c2-918c77b56de7" type="group" folder="true" name="Meshes">
+		<meta id="a9661600-0924-4ca5-b570-b78174c31f29" name="Bush.001_Material.Bush1"/>
+		<meta id="909b6aab-0c0b-46e2-8d30-5bb3bb738b95" name="Bush.002_Material.Bush1"/>
+		<meta id="e436a9ed-efee-4388-81a6-70709b5959a1" name="Bush.003_Material.Bush2"/>
+		<meta id="9df97934-2c58-4040-9eed-53d821e1dab0" name="Bush.004_Material.Bush3"/>
+		<meta id="736a71f4-53ac-451d-abd0-bce10a8d3914" name="Bush.005_Material.Bush3"/>
+		<meta id="8c19375b-5e5a-4c2f-80c1-f524dadde88d" name="Sapling.001_Material.Tree1"/>
+		<meta id="b787b1f9-2d99-4f7a-8d97-4c71fa9adc81" name="Sapling.002_Material.Bush2"/>
+		<meta id="f8a635aa-8f64-40df-89f6-e342ff5034fe" name="Sapling.003_Material.Bush3"/>
+		<meta id="cd68e809-54b7-44e2-86a3-cd3fa35fa181" name="Sapling.004_Material.Bush1"/>
+		<meta id="56e5bfe4-065b-4425-8806-910849292144" name="Sapling.005_Material.Bush1"/>
+		<meta id="871f3d00-227e-4c5e-83c6-a72671cacdaf" name="Reed.001_Material.Reed1"/>
+		<meta id="0d335b9c-9527-4d67-bee2-3fb7c29ebc0d" name="Reed.002_Material.Reed1"/>
+		<meta id="f12c9eae-44c5-4b1b-9eeb-713ddf83393f" name="Reed.003_Material.Reed1"/>
+		<meta id="69566573-7520-476d-8449-cc37b5feaf9a" name="Stone.001_Material.Rock1"/>
+		<meta id="549a5963-4b04-41f5-8a72-49da5fd88bf0" name="Stone.002_Material.Rock1"/>
+		<meta id="442175de-f5c2-4c9a-a332-6ed82593a9e1" name="Stone.003_Material.Rock1"/>
+		<meta id="015a9ea0-2c87-40b8-a2e5-d126f1f9251e" name="Stone.004_Material.Rock1"/>
+		<meta id="d1f5f11c-ce40-4cae-bbb9-74b903a16a00" name="Stone.005_Material.Rock1"/>
+		<meta id="d4e55ca5-54c6-4bce-b08b-0fc69ce423b5" name="BerryBush.001_Material.Bush1"/>
+		<meta id="7df692ae-3c70-45d9-ab38-605cb96acd42" name="BerryBush.002_Material.Bush1"/>
+	</meta>
+	<meta id="9a7c16d9-2a2f-49ad-a564-af2c9361f499" name="Prefab">
+		<meta id="9933c383-5661-402c-9a3b-53774249142e" name="Bush.001"/>
+		<meta id="fff9123b-7da5-4733-b467-4698504e4f1d" name="Bush.002"/>
+		<meta id="30b390f0-8072-4060-9095-49fc4ebfb2e2" name="Bush.003"/>
+		<meta id="25a16556-829f-434c-9436-396c102675ba" name="Bush.004"/>
+		<meta id="cea63712-a946-43ae-a29d-ad81dbe0d981" name="Bush.005"/>
+		<meta id="8d651607-3fbf-4157-b4c4-20b04037d769" name="Sapling.001"/>
+		<meta id="2e75b72f-07ff-43a9-80d7-332259c19eda" name="Sapling.002"/>
+		<meta id="75a9a955-d072-4136-840f-a716b4b4cbab" name="Sapling.003"/>
+		<meta id="4d576a5f-c4c8-4cbd-b44b-9d1ef998b73f" name="Sapling.004"/>
+		<meta id="08eb2c65-5d3c-40bf-9144-042d2c34b5e6" name="Sapling.005"/>
+		<meta id="e86c690b-1bba-4670-b716-8701c12d6c61" name="Reed.001"/>
+		<meta id="3c081762-7c26-4013-a744-40d7b7fdedf2" name="Reed.002"/>
+		<meta id="e3d12999-1b59-4da2-9528-74f98c7af9a7" name="Reed.003"/>
+		<meta id="8ef1973d-4e3f-420a-93e2-d52ae09a7be7" name="Stone.001"/>
+		<meta id="b286845d-9b47-4bea-868b-ca916a5b3963" name="Stone.002"/>
+		<meta id="7519c963-40e9-4429-95ae-3f8afa19fef4" name="Stone.003"/>
+		<meta id="03fff617-d6ad-4642-8854-945ae9bd6514" name="Stone.004"/>
+		<meta id="b817c813-3252-41d9-8962-61a00de9ca10" name="Stone.005"/>
+		<meta id="6366e5f6-867b-4b36-a071-f61eaf2db1ef" name="Blank"/>
+		<meta id="0accbf79-e223-427f-9ade-73bbc1b6c06a" name="BerryBush.001"/>
+		<meta id="4abf1959-6912-4a21-bdcb-a182befc906c" name="BerryBush.002"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="ac5c3b395c2d1ef2ce1c78382f1269f1"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Bush.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Bush.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Bush.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Bush.004"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Bush.005"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Sapling.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Sapling.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Sapling.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Sapling.004"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Sapling.005"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Reed.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Reed.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Reed.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Stone.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Stone.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Stone.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Stone.004"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Stone.005"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Blank"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="BerryBush.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="BerryBush.002"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1f1c45cf-4032-41ae-ac59-81328cea811b"/>
+			<MaterialName value="Material.Bush1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="cafba421-a29f-48ce-b7a6-9aec1cab0fee"/>
+			<MaterialName value="Material.Bush2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="96496bcd-b9b2-4043-89a4-f37933d21c80"/>
+			<MaterialName value="Material.Bush3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="1eaa4508-d3d5-4faf-a6c5-531860a782e6"/>
+			<MaterialName value="Material.Reed1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e2ca951b-29cd-4829-9057-03f56b0135e5"/>
+			<MaterialName value="Material.Rock1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a8a46bfc-3ba1-434b-adec-d2ec49bbfeb9"/>
+			<MaterialName value="Material.Tree1"/>
+		</Item>
+	</MaterialList>
+</importer>
+
