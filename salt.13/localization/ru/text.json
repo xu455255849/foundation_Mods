@@ -1,0 +1,12 @@
+{
+	"BUILDINGS": {
+		"SALT_MARSHES_V5_NAME": "Солевая ферма"
+	},
+	"BUILDING_DESCRIPTIONS": {
+		"SALT_MARSHES_V5_DESC": "Должна быть расположена рядом с берегом"
+	},
+	"JOBS": {
+		"SALT_V5_SALT_WORKER_NAME": "Солевар",
+		"SALT_V5_SALT_WORKER_DESC": "Производит соль"
+	}
+}

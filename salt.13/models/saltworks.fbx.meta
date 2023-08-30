@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="89be1cc6-dc81-4eb9-8933-f3db1df31739">
+	<meta id="a9a8f497-ecbc-4266-b7ef-eaae1b924d24" type="group" folder="true" name="Materials">
+		<meta id="30877bfa-939d-4393-9b7b-522847613b08" name="chambranle"/>
+		<meta id="2f3967b7-e55f-4938-9607-56ccd816cbd5" name="toitBrun"/>
+		<meta id="2ddbfa04-8083-4e25-96bc-8eb5b602b19d" name="mur"/>
+		<meta id="a164dd36-18b6-4bc5-a08a-a0894055abbb" name="murPierre"/>
+		<meta id="8d6f2b00-9356-4660-8f07-d5300ec71154" name="Default_Material"/>
+		<meta id="038b5155-6e31-4631-bd4f-864a33a56ed0" name="black"/>
+	</meta>
+	<meta id="334e0928-efd1-4ee6-8b8b-1ad9ba500b2d" type="group" folder="true" name="Meshes">
+		<meta id="8bc507f3-be72-49a4-b198-290a9ac921cb" name="faitage1_chambranle"/>
+		<meta id="41aecec1-4eb4-4301-b799-2732a39cb0ed" name="panne1_chambranle"/>
+		<meta id="029f32ff-1be3-4058-bd84-26cc42e0a31e" name="panne2_chambranle"/>
+		<meta id="52104308-aefe-4621-9234-1ee174c797de" name="panne3_chambranle"/>
+		<meta id="1db20ace-7fda-4c9a-ab4d-f95529b1f8f3" name="panne4_chambranle"/>
+		<meta id="7b60bf1d-e7f4-4f79-9a94-65ac7a770d6c" name="entrait1_chambranle"/>
+		<meta id="8e40ee3d-66b9-4f4d-84b3-64f20301310f" name="corps_toitBrun"/>
+		<meta id="25b6b95d-fdd9-4bff-b4fd-5658ce0bb920" name="corps_chambranle"/>
+		<meta id="5ac4e3cd-29c1-4304-9b5a-b1e825106ea6" name="corps_mur"/>
+		<meta id="28226575-89c8-49f9-957b-a8ca83740c87" name="corps_murPierre"/>
+		<meta id="af45ab9c-ad5d-404c-be3b-1fe75fe61593" name="corps_Default_Material"/>
+		<meta id="be526ef3-91f9-46d8-ad84-c9a276d123f1" name="corps_black"/>
+		<meta id="51de0208-137c-4aca-b9ec-5e7b9a049f25" name="fiche1_chambranle"/>
+		<meta id="2bd7ae51-6e9a-4462-949a-ab935aef8d98" name="fiche2_chambranle"/>
+		<meta id="6a810a18-65ab-457a-b382-c7fba177d12b" name="cheminee_murPierre"/>
+		<meta id="55ae7e00-5315-470a-a2ba-b022fe3101ea" name="cheminee_black"/>
+		<meta id="961efceb-9934-46bf-bd9b-7fd365e33834" name="porte_chambranle"/>
+		<meta id="efdf50af-8008-4174-8b67-8373414aee41" name="porte_black"/>
+		<meta id="b382a850-ab91-475f-9882-d1f1a74070db" name="fenetre_chambranle"/>
+		<meta id="1a545457-cdf0-476f-a690-d6efe15a23f5" name="fenetre_black"/>
+	</meta>
+	<meta id="db4a9e03-6238-48f2-9bee-f2f48f6b076e" name="Prefab">
+		<meta id="664a836f-7803-426a-93bd-7d60fe837930" name="saltworksPart">
+			<meta id="80abcbe4-2d47-46b0-8fbc-12beb78aeba2" name="step_0">
+				<meta id="4619008e-2732-4f02-9efd-24ccbde25abd" name="faitage1"/>
+				<meta id="1d8ed889-9e01-4ac0-81c2-a087f62cc294" name="panne1"/>
+				<meta id="746e8a37-f78e-4e08-8226-a454f003f807" name="panne2"/>
+				<meta id="36d3c105-8fe4-404d-a864-048aed34b76a" name="panne3"/>
+				<meta id="30c80d31-f983-41b8-a350-c65a880a6cb1" name="panne4"/>
+				<meta id="4b72adae-45c5-40b0-ac72-086f68c6d56b" name="SmokeEmitter"/>
+				<meta id="a005282f-c2d8-4d08-a78b-e7e6820bf3f9" name="entrait1"/>
+				<meta id="c02642d8-840c-41c7-89e0-ec6d588c712a" name="entrait2"/>
+				<meta id="0201372b-7a21-4185-8a41-aafbacab058f" name="entrait3"/>
+				<meta id="771a224e-643c-4d26-9646-9c1ed6a8df3e" name="batiment">
+					<meta id="91af6b94-cea1-4fb0-8774-4130c6bdfd63" name="corps">
+						<meta id="330b4539-842d-4b9e-9b61-ced9f22f13f1" name="corps_0"/>
+						<meta id="b552377c-4906-45bd-8ba2-7455300ef31e" name="corps_1"/>
+						<meta id="25efbe1f-a090-411a-a2fe-d915d1183e6d" name="corps_2"/>
+						<meta id="de333ce7-2890-49d0-af84-4e5738a4cd85" name="corps_3"/>
+						<meta id="514da95d-03dc-4a0c-9434-c13544a01a6f" name="corps_4"/>
+						<meta id="b4b51dba-9648-45f9-948f-a42f7b3ab5ee" name="corps_5"/>
+					</meta>
+				</meta>
+				<meta id="8e85bfb4-5492-4eea-a787-7d94cd0e9140" name="fiche1"/>
+				<meta id="c68bcf82-5430-480f-96c3-40f0477cbce4" name="fiche2"/>
+				<meta id="d60529fb-792a-40c4-906f-7dc5264c9100" name="cheminee">
+					<meta id="23fa4d7a-4bcd-4dc7-8662-ecba461f0a48" name="cheminee_0"/>
+					<meta id="0c13b195-0a5b-4bea-8c44-f27ac9dfddf1" name="cheminee_1"/>
+				</meta>
+			</meta>
+			<meta id="0979e47d-0735-423a-9631-5f5e00cabbaf" name="step_9">
+				<meta id="0947d2ea-3d9c-4529-bf16-f4beb32c83d1" name="porte">
+					<meta id="82bfcf0c-e3cb-406c-a417-2f32303f7f1f" name="porte_0"/>
+					<meta id="000f54c4-be7d-445f-b9b3-563cf9243cde" name="porte_1"/>
+				</meta>
+				<meta id="f42d076c-1e48-4866-ba25-19bbf78e7443" name="fenetre">
+					<meta id="168438b5-d588-4eb3-a2ac-65f033924f34" name="fenetre_0"/>
+					<meta id="463639d2-a7fb-4e75-bf84-e18f81deb742" name="fenetre_1"/>
+				</meta>
+				<meta id="b6f95dfc-eb0e-4109-87d4-6f8c516aecf9" name="fenetre1">
+					<meta id="433f7f44-2359-4041-ad00-50c373640601" name="fenetre1_0"/>
+					<meta id="9d7aead2-5ab7-4586-9ac6-18a97c8bfc29" name="fenetre1_1"/>
+				</meta>
+				<meta id="7018bb29-8bf4-45ed-b086-c4e84da8f789" name="fenetre2">
+					<meta id="9aa50174-bdb7-4d40-a1eb-63ada050825b" name="fenetre2_0"/>
+					<meta id="74fa05de-814d-4e44-910b-b7b7308217c4" name="fenetre2_1"/>
+				</meta>
+			</meta>
+			<meta id="78e535fa-a827-491f-87a2-57bfec11a59a" name="PATH_A_1"/>
+			<meta id="45ceb4f1-0e20-42a5-bbf7-2f0cc939d76d" name="PATH_A_2"/>
+			<meta id="162a0d65-2a9c-47ed-8d1e-e7beeabb7d42" name="PATH_B_1"/>
+			<meta id="e03d76df-b780-4d6e-82f2-bb4c01791107" name="PATH_B_2"/>
+		</meta>
+		<meta id="bf23b59b-8d16-4079-8ec5-b995743e614e" name="ConstructionSteps">
+			<meta id="a352f151-11a4-446e-92bc-29c95a6e24a8" name="saltworksPart">
+				<meta id="51bd48ac-31c7-4e9e-8f24-65ac897ba6f8" name="step_0">
+					<meta id="5dbcb808-2d2c-407b-b91f-78e52ca9f8f6" name="faitage1"/>
+					<meta id="15d0fb98-edb0-4bb2-8777-6a2382d9a312" name="panne1"/>
+					<meta id="40a3de54-5705-4a15-b075-5067591ca423" name="panne2"/>
+					<meta id="bc2e8915-5085-49aa-9f9e-d74315714d12" name="panne3"/>
+					<meta id="6c089c8c-529e-46ab-8bbb-b117fbdc0fbe" name="panne4"/>
+					<meta id="ff64a5b7-64d1-4b66-a687-f450ba223a05" name="SmokeEmitter"/>
+					<meta id="b2517f30-a0e1-4d7f-927e-50c4cf66eafc" name="entrait1"/>
+					<meta id="8936f73a-267f-4774-9928-8ce8ad42e817" name="entrait2"/>
+					<meta id="cda9073e-84e9-4fe5-8070-94e44448810f" name="entrait3"/>
+					<meta id="571699d6-31bd-499e-b31a-3b2ff739fbd0" name="batiment">
+						<meta id="b37c2b5c-2e4a-4742-9ec7-5a723305f19e" name="corps">
+							<meta id="4cbbf2ed-9fa2-4ad3-8664-fd5d1965fd3c" name="corps_0"/>
+							<meta id="7953ff61-6ede-4fe1-9266-44ff30368fcf" name="corps_1"/>
+							<meta id="e7882504-ed95-4130-90bd-de5b4ecf830d" name="corps_2"/>
+							<meta id="118f24b9-5c46-42f2-99f5-4be42a988a2f" name="corps_3"/>
+							<meta id="703ae44c-7df3-4073-8300-b661362cde2c" name="corps_4"/>
+							<meta id="3a30dab3-958e-4fd5-b836-a1f1d59bedd2" name="corps_5"/>
+						</meta>
+					</meta>
+					<meta id="c81023b6-6fa8-4eb5-960a-524278c0afa4" name="fiche1"/>
+					<meta id="1abf1b0b-dff4-4c5b-b335-7513cb51f84b" name="fiche2"/>
+					<meta id="f1ebceb3-d3bd-4cd9-b497-90dcd12b6669" name="cheminee">
+						<meta id="9d960d49-1418-4b7d-994d-8c47d14556ff" name="cheminee_0"/>
+						<meta id="5aa8f78a-24da-4f6f-af0a-dcd7765732ba" name="cheminee_1"/>
+					</meta>
+				</meta>
+				<meta id="d226c229-2124-4f70-a0ca-627ff5c17e5d" name="step_9">
+					<meta id="39cda13b-10aa-4085-a3f3-95e32751205e" name="porte">
+						<meta id="87b003fd-0fe3-41ec-8686-55b29d768b05" name="porte_0"/>
+						<meta id="88dd991c-415e-4378-8616-6bfa165bfed3" name="porte_1"/>
+					</meta>
+					<meta id="f4a2999d-793f-42d0-ba13-93cc79d4e72c" name="fenetre">
+						<meta id="3b03dd4e-a69c-4215-9539-3b81bd5d7b2c" name="fenetre_0"/>
+						<meta id="ace3d065-96c0-4240-9e1b-583b798bcff6" name="fenetre_1"/>
+					</meta>
+					<meta id="03f405a4-6e7b-4d98-a72b-44d668b4f3a6" name="fenetre1">
+						<meta id="feb12514-b1d3-4eb5-b08a-eb6be6ecdbc4" name="fenetre1_0"/>
+						<meta id="12db6a1d-2573-4f7d-9876-b17f311050ae" name="fenetre1_1"/>
+					</meta>
+					<meta id="9db7d6fc-8669-4147-8070-f509c22ef909" name="fenetre2">
+						<meta id="64894653-3f0d-4c50-9f90-eb0194996ac7" name="fenetre2_0"/>
+						<meta id="52d52eb5-ba99-4ee3-86d0-78c41eef16db" name="fenetre2_1"/>
+					</meta>
+				</meta>
+				<meta id="ee6c6f48-dfb1-4720-97e9-e01a688ffc19" name="PATH_A_1"/>
+				<meta id="601655e6-6edc-43f8-8147-9cfa70d28c68" name="PATH_A_2"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="b56f1782c1cad33e7887377c36c9b2dd"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="faitage1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="panne1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="panne2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="panne3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="panne4"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="SmokeEmitter"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="entrait3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_1"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_2"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_3"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_4"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_5"/>
+											</Item>
+										</ChildList>
+										<NodeName value="corps"/>
+									</Item>
+								</ChildList>
+								<NodeName value="batiment"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fiche1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="fiche2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cheminee_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="cheminee_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="cheminee"/>
+							</Item>
+						</ChildList>
+						<NodeName value="step_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="porte_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="porte"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fenetre_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fenetre_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fenetre1_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fenetre1_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fenetre2_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fenetre2_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="fenetre2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="step_9"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_B_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="saltworksPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="faitage1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="panne1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="panne2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="panne3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="panne4"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="SmokeEmitter"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entrait1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entrait2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="entrait3"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="corps_0"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="corps_1"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="corps_2"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="corps_3"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="corps_4"/>
+													</Item>
+													<Item type="GenCFbxNodeConfig">
+														<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+														<ChildList/>
+														<NodeName value="corps_5"/>
+													</Item>
+												</ChildList>
+												<NodeName value="corps"/>
+											</Item>
+										</ChildList>
+										<NodeName value="batiment"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fiche1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="fiche2"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="cheminee_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="cheminee_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="cheminee"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="porte_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="porte"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="fenetre_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="fenetre_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="fenetre"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="fenetre1_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="fenetre1_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="fenetre1"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="fenetre2_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="fenetre2_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="fenetre2"/>
+									</Item>
+								</ChildList>
+								<NodeName value="step_9"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="saltworksPart"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="038b5155-6e31-4631-bd4f-864a33a56ed0"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="30877bfa-939d-4393-9b7b-522847613b08"/>
+			<MaterialName value="chambranle"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="8d6f2b00-9356-4660-8f07-d5300ec71154"/>
+			<MaterialName value="Default_Material"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2ddbfa04-8083-4e25-96bc-8eb5b602b19d"/>
+			<MaterialName value="mur"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a164dd36-18b6-4bc5-a08a-a0894055abbb"/>
+			<MaterialName value="murPierre"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2f3967b7-e55f-4938-9607-56ccd816cbd5"/>
+			<MaterialName value="toitBrun"/>
+		</Item>
+	</MaterialList>
+</importer>
+

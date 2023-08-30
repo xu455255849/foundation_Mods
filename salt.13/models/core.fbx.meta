@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="f8ff53e9-2516-4e2d-9277-f300edf6dd5c">
+	<meta id="7baf10f2-d184-4b95-876b-0260a71aaff6" type="group" folder="true" name="Materials">
+		<meta id="bb420a01-5601-40ab-973e-4853c190d3dd" name="lambert1"/>
+	</meta>
+	<meta id="890c8aa9-1461-436a-a757-1edb0a1ed34e" type="group" folder="true" name="Meshes">
+		<meta id="9135a9e0-d0c9-4e59-803a-1edf12444b55" name="CoreBuildingPart_lambert1"/>
+	</meta>
+	<meta id="58176929-c504-4bd0-9a74-10aa92ca41f4" name="Prefab">
+		<meta id="e20f9663-9a8c-4a8b-80d8-ab1044ea67e8" name="CoreBuildingPart"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="fbe81f845d0dff769f5e537866b3021d"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="CoreBuildingPart"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bb420a01-5601-40ab-973e-4853c190d3dd"/>
+			<MaterialName value="lambert1"/>
+		</Item>
+	</MaterialList>
+</importer>
+

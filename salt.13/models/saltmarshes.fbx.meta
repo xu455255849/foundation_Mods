@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="85ece101-c7a4-4415-abd8-033583c5bbd9">
+	<meta id="e1c86dc2-904b-43be-a0d1-56c94c6a5e87" type="group" folder="true" name="Materials">
+		<meta id="9fb33875-9078-407d-881a-dd2ba7c723f0" name="bois"/>
+		<meta id="79d59c5c-669a-48d2-8122-619cd6638aea" name="black"/>
+		<meta id="89f656be-cc31-477e-9d80-330743617a01" name="sel"/>
+		<meta id="6d54c28e-0765-4fee-8518-cf728cd8fe4c" name="tissu1"/>
+		<meta id="41c84c11-76eb-43c7-b09e-87302e975527" name="terre"/>
+	</meta>
+	<meta id="cc0d3ee9-b2e1-42b8-b100-7f6939f72b8a" type="group" folder="true" name="Meshes">
+		<meta id="6173814e-0a76-4898-81aa-0159a5df5759" name="corps_bois"/>
+		<meta id="4445c8c3-6603-4e0c-b1e2-ef8bdb5180d8" name="corps_black"/>
+		<meta id="fd3df167-ff8b-480a-9330-dc38b017faa2" name="toit_bois"/>
+		<meta id="95a95692-63fb-4071-8e1e-d5e793531359" name="sel1_sel"/>
+		<meta id="724aaffd-a00a-4f1f-8a82-c309c0abb385" name="tissu_tissu1"/>
+		<meta id="b333bd97-8a80-440a-84f9-e6371cb39b47" name="tas1_sel"/>
+		<meta id="9e30f596-f816-4033-bb77-5516155e0771" name="tas2_sel"/>
+		<meta id="04ed1b40-e94d-4f68-aca2-fbbab52538a7" name="sol_terre"/>
+		<meta id="a6a8f52a-fd9a-4d9d-9faa-47fe2c0ff360" name="chemin_terre"/>
+	</meta>
+	<meta id="a0591f13-4a37-4b45-b32b-7617327870ec" name="Prefab">
+		<meta id="df567f82-b07c-46eb-8d52-24cb562bdeb9" name="saltmarshesPart">
+			<meta id="647c012b-86e8-4835-941c-487315ca157a" name="cabane">
+				<meta id="bda4d0e2-a794-4a34-abe3-85af3283b6ea" name="corps">
+					<meta id="350a62a8-299b-4fa9-b2b0-4fba948ef589" name="corps_0"/>
+					<meta id="a317635f-9ef4-4fdb-bf37-064f402fd6df" name="corps_1"/>
+				</meta>
+				<meta id="73b2a58a-0569-4a1d-bee4-25c6334226e9" name="toit"/>
+			</meta>
+			<meta id="40a03fe6-91ba-4c7a-872d-b7d2e82123bd" name="fleur">
+				<meta id="5c24317f-0840-42cb-93c1-4efa08a4dd4e" name="sel1"/>
+				<meta id="8918ccc8-6272-4073-b3a3-fc90df5cdd84" name="tissu"/>
+			</meta>
+			<meta id="2ec63aa2-5dbc-4b37-863d-78dd7f3bef0c" name="grosSel1">
+				<meta id="aa8cedff-85c9-4a22-a866-36788ba2bc04" name="tas1"/>
+			</meta>
+			<meta id="ce535fbe-5269-4aa9-b5e3-f4177b15993a" name="grosSel2">
+				<meta id="f5338ccd-c165-4b1b-a91f-eb12ea63a824" name="tas2"/>
+			</meta>
+			<meta id="bdb91bac-bcc3-47a8-9956-968bfc077d91" name="marais1">
+				<meta id="9d4cde85-c88d-4d47-a6dd-75b97fe36e50" name="sol"/>
+				<meta id="b83f5a39-9f97-4036-a637-31b3ae6735f8" name="chemin"/>
+				<meta id="413b8cf3-c281-455f-b036-1cb2d89078c8" name="WaterEmitter1"/>
+				<meta id="06028ddc-8323-40bd-896b-2585546fbbf0" name="SaltEmitter1"/>
+			</meta>
+		</meta>
+		<meta id="2d1a321d-cf2e-4614-b53a-5e23f5b08230" name="ConstructionSteps">
+			<meta id="172900a6-13bc-448e-9544-8e12aa05f664" name="saltmarshesPart">
+				<meta id="9c51ca18-9f90-4c0b-a661-350e1f7849f6" name="cabane">
+					<meta id="8b863cef-4881-4993-b241-6b300de1f773" name="corps">
+						<meta id="8e9e2e2a-c837-4124-a3ea-24dac262f3ab" name="corps_0"/>
+						<meta id="06274722-d40f-48f2-84da-46d3f86b376f" name="corps_1"/>
+					</meta>
+				</meta>
+				<meta id="9bf92ab4-6864-4ac3-9fca-a8d484d08d96" name="marais1">
+					<meta id="5bb4caf4-d511-4bf6-a592-663e59800375" name="chemin"/>
+				</meta>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="825e41b5aedeb2b1d89a0cf68c86f61b"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="corps_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="corps_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="corps"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cabane"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sel1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="tissu"/>
+							</Item>
+						</ChildList>
+						<NodeName value="fleur"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="tas1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="grosSel1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="tas2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="grosSel2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="sol"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="chemin"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="WaterEmitter1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="SaltEmitter1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="marais1"/>
+					</Item>
+				</ChildList>
+				<NodeName value="saltmarshesPart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="corps"/>
+									</Item>
+								</ChildList>
+								<NodeName value="cabane"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="chemin"/>
+									</Item>
+								</ChildList>
+								<NodeName value="marais1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="saltmarshesPart"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="79d59c5c-669a-48d2-8122-619cd6638aea"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="9fb33875-9078-407d-881a-dd2ba7c723f0"/>
+			<MaterialName value="bois"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="89f656be-cc31-477e-9d80-330743617a01"/>
+			<MaterialName value="sel"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="41c84c11-76eb-43c7-b09e-87302e975527"/>
+			<MaterialName value="terre"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="6d54c28e-0765-4fee-8518-cf728cd8fe4c"/>
+			<MaterialName value="tissu1"/>
+		</Item>
+	</MaterialList>
+</importer>
+

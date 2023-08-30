@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="e1a9f34f-bde8-41fd-9dc9-1e04266572a4">
+	<meta id="7b13b5dd-dcba-4e9d-907d-b8431e51e13a" type="group" folder="true" name="Materials">
+		<meta id="f9b416bc-f703-4d4b-81e1-3a7df96a86a8" name="bois"/>
+		<meta id="f1a9905a-80a8-4db3-9d49-793a68b67c50" name="black"/>
+	</meta>
+	<meta id="4065882f-d646-44a1-9c62-0ab64ee5f193" type="group" folder="true" name="Meshes">
+		<meta id="8f5ff208-7974-4c71-8562-7c2ad3b3f7e3" name="corps_bois"/>
+		<meta id="8f88b4e4-28ec-4d9e-9067-b501d3b5fe7a" name="corps_black"/>
+		<meta id="918b1e3c-ddd4-4b84-bde9-e03fb0b143d6" name="toit_bois"/>
+		<meta id="f7873493-eb5a-47c6-8cc1-690a91134ce6" name="toit_2_bois"/>
+		<meta id="c2f0eb47-a6ec-4e97-9c42-237339d7021e" name="corps_2_bois"/>
+	</meta>
+	<meta id="3435c907-878a-4321-8d4a-18ab37af3088" name="Prefab">
+		<meta id="0e3f0c21-2f50-44e1-86af-3aaad474a14a" name="rocksaltminePart">
+			<meta id="76817495-438d-491d-b4c0-17d3e0ef6f69" name="cabane">
+				<meta id="0f6eca36-a233-4a69-b584-98017c0a23db" name="corps">
+					<meta id="512ac944-d7ed-43af-ab31-489046be472e" name="corps_0"/>
+					<meta id="3ee719d8-aa64-4e78-85ac-78015e05e0cf" name="corps_1"/>
+				</meta>
+				<meta id="e1ac346c-d6e7-41a6-be57-b3fb1e5d5abe" name="toit"/>
+			</meta>
+			<meta id="17a0e1fd-f775-4b9c-a622-1f1a2a9794c4" name="PATH_A_1"/>
+			<meta id="fc5909f7-87b2-44bd-824e-423a6ba2df55" name="PATH_A_2"/>
+			<meta id="d97c7aaf-3c70-44a7-a08b-ad116a45cf9c" name="Attach_Major_Quarry"/>
+		</meta>
+		<meta id="5d49f7bf-4cab-4f0c-b9fb-f06a21875437" name="ConstructionSteps">
+			<meta id="1e817a1e-75a4-4d07-adb3-e2084adaa88f" name="rocksaltminePart">
+				<meta id="b0065ffe-2264-4867-a0be-d0feeeeb9d4d" name="cabane">
+					<meta id="88768c3e-2d3a-4142-94ed-5cd0f45ee853" name="corps">
+						<meta id="1a06888c-449a-4e16-a377-38f4849c260a" name="corps_0"/>
+						<meta id="03417b66-d84c-4a08-9b87-7a9b5ca35d27" name="corps_1"/>
+					</meta>
+					<meta id="114613e9-4722-4840-a59e-a79f26276340" name="toit"/>
+				</meta>
+				<meta id="0063c709-26d1-4b88-99c8-1491f1cdef5d" name="PATH_A_1"/>
+				<meta id="1baa8bb8-3654-4f61-80a9-c9e3eadede2e" name="PATH_A_2"/>
+			</meta>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="a2b78bf50796d52e6c06223be4e9a654"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="corps_0"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="corps_1"/>
+									</Item>
+								</ChildList>
+								<NodeName value="corps"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="toit"/>
+							</Item>
+						</ChildList>
+						<NodeName value="cabane"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_A_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major_Quarry"/>
+					</Item>
+				</ChildList>
+				<NodeName value="rocksaltminePart"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_0"/>
+											</Item>
+											<Item type="GenCFbxNodeConfig">
+												<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+												<ChildList/>
+												<NodeName value="corps_1"/>
+											</Item>
+										</ChildList>
+										<NodeName value="corps"/>
+									</Item>
+									<Item type="GenCFbxNodeConfig">
+										<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+										<ChildList/>
+										<NodeName value="toit"/>
+									</Item>
+								</ChildList>
+								<NodeName value="cabane"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="PATH_A_2"/>
+							</Item>
+						</ChildList>
+						<NodeName value="rocksaltminePart"/>
+					</Item>
+				</ChildList>
+				<NodeName value="ConstructionSteps"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f1a9905a-80a8-4db3-9d49-793a68b67c50"/>
+			<MaterialName value="black"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f9b416bc-f703-4d4b-81e1-3a7df96a86a8"/>
+			<MaterialName value="bois"/>
+		</Item>
+	</MaterialList>
+</importer>
+

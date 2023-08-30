@@ -1,0 +1,32 @@
+{
+	"BUILDINGS": {
+		"SALT_MARSHES_V5_NAME": "Marais Salants V5",
+		"ROCK_SALT_MINE_V5_NAME": "Mine de sel V5",
+		"SALTWORKS_V5_NAME": "Salines V5",
+		"SMOKE_HOUSE_V5_NAME": "Fumoir V5",
+		"SMOKE_HOUSE_V5_CARBON_ROOF": "Carbone",
+		"SMOKE_HOUSE_V5_BROWN_ROOF": "Brun",
+		"SMOKE_HOUSE_V5_ORANGE_ROOF": "Orange",
+		"SMOKE_HOUSE_V5_FISH_FUNCTION_NAME": "Recette pour poisson",
+		"SMOKE_HOUSE_V5_BOAR_FUNCTION_NAME": "Recette pour sanglier",
+		"SMOKE_HOUSE_V5_CARCASS_FUNCTION_NAME": "Recette pour mouton",
+		"ROCK_SALT_MINE_V5_QUARRY": "Carrière",
+		"ROCK_SALT_MINE_V5_BUILDING_PART_QUARRY_SALT_QUARRY_NAME": "Entrée de la mine de sel"
+	},
+	"BUILDING_DESCRIPTIONS": {
+                "SALT_V5_VILLAGE_NANTES_DESC": "Achète du sel",
+                "SALT_V5_VILLAGE_CHARTRES_DESC": "Vend du sel",
+		"SALT_MARSHES_V5_DESC": "A installer en bordure de mer",
+		"ROCK_SALT_MINE_V5_DESC": "Extrait la saumure du sel gemme",
+		"SALTWORKS_V5_DESC": "Produit du sel à partir de saumure",
+		"SMOKE_HOUSE_V5_DESC": "Fumoir"
+	},
+	"JOBS": {
+		"SALT_V5_SALT_WORKER_NAME": "Saunier",
+		"SALT_V5_SALT_WORKER_DESC": "Produit du sel"
+	},
+	"RESOURCES": {
+		"SALT_V5_BRINE_NAME": "Saumure",
+		"SMOKE_HOUSE_V5_SALTING_NAME": "Salaison"
+        }
+}

@@ -1,0 +1,32 @@
+{
+	"BUILDINGS": {
+		"SALT_MARSHES_V5_NAME": "Salzfarm",
+		"ROCK_SALT_MINE_V5_NAME": "Steinsalz Mine",
+		"SALTWORKS_V5_NAME": "Saline",
+		"SMOKE_HOUSE_V5_NAME": "Räucherhaus",
+		"SMOKE_HOUSE_V5_CARBON_ROOF": "Carbon-schwarzes Dach",
+		"SMOKE_HOUSE_V5_BROWN_ROOF": "Braunes Dach",
+		"SMOKE_HOUSE_V5_ORANGE_ROOF": "Oranges Dach",
+		"SMOKE_HOUSE_V5_FISH_FUNCTION_NAME": "Rezept mit Fisch",
+		"SMOKE_HOUSE_V5_BOAR_FUNCTION_NAME": "Rezept mit Wildschwein",
+		"SMOKE_HOUSE_V5_CARCASS_FUNCTION_NAME": "Rezept mit Hammelfleisch",
+		"ROCK_SALT_MINE_V5_QUARRY": "Salzbergwerk",
+		"ROCK_SALT_MINE_V5_BUILDING_PART_QUARRY_SALT_QUARRY_NAME": "Eingang des Salzbergwerks"
+	},
+	"BUILDING_DESCRIPTIONS": {
+                "SALT_V5_VILLAGE_NANTES_DESC": "Verkauft Salz",
+                "SALT_V5_VILLAGE_CHARTRES_DESC": "Kauft Salz",
+		"SALT_MARSHES_V5_DESC": "Am Meer positionieren",
+		"ROCK_SALT_MINE_V5_DESC": "Extrahiert Sohle aus Steinsalz",
+		"SALTWORKS_V5_DESC": "Extrahiert Salz aus Sole",
+		"SMOKE_HOUSE_V5_DESC": "Produziert Fleisch und Fisch - gesalzen und geräuchert"
+	},
+	"JOBS": {
+		"SALT_V5_SALT_WORKER_NAME": "Salzarbeiter",
+		"SALT_V5_SALT_WORKER_DESC": "Produziert Salz"
+	},
+	"RESOURCES": {
+		"SALT_V5_BRINE_NAME": "Sole",
+		"SMOKE_HOUSE_V5_SALTING_NAME": "Fleisch und Fisch - gesalzen und geräuchert"
+        }
+}

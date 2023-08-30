@@ -1,0 +1,32 @@
+{
+	"BUILDINGS": {
+		"SALT_MARSHES_V5_NAME": "Saltern V5",
+		"ROCK_SALT_MINE_V5_NAME": "Rock salt mine V5",
+		"SALTWORKS_V5_NAME": "Saltworks V5",
+		"SMOKE_HOUSE_V5_NAME": "Smoke house V5",
+		"SMOKE_HOUSE_V5_CARBON_ROOF": "Carbon",
+		"SMOKE_HOUSE_V5_BROWN_ROOF": "Brown",
+		"SMOKE_HOUSE_V5_ORANGE_ROOF": "Orange",
+		"SMOKE_HOUSE_V5_FISH_FUNCTION_NAME": "Recipe with fish",
+		"SMOKE_HOUSE_V5_BOAR_FUNCTION_NAME": "Recipe with boar",
+		"SMOKE_HOUSE_V5_CARCASS_FUNCTION_NAME": "Recipe with mutton",
+		"ROCK_SALT_MINE_V5_QUARRY": "Quarry",
+		"ROCK_SALT_MINE_V5_BUILDING_PART_QUARRY_SALT_QUARRY_NAME": "Entrance of the salt mine"
+	},
+	"BUILDING_DESCRIPTIONS": {
+                "SALT_V5_VILLAGE_NANTES_DESC": "Sells salt",
+                "SALT_V5_VILLAGE_CHARTRES_DESC": "Buys salt",
+		"SALT_MARSHES_V5_DESC": "To be set near the sea",
+		"ROCK_SALT_MINE_V5_DESC": "Extracts brinde from rock salt",
+		"SALTWORKS_V5_DESC": "Extracts salt from brine",
+		"SMOKE_HOUSE_V5_DESC": "Produces salted and smoked meat"
+	},
+	"JOBS": {
+		"SALT_V5_SALT_WORKER_NAME": "Salt Worker",
+		"SALT_V5_SALT_WORKER_DESC": "Produces salt"
+	},
+	"RESOURCES": {
+		"SALT_V5_BRINE_NAME": "Brine",
+		"SMOKE_HOUSE_V5_SALTING_NAME": "Salted and smoked meat"
+        }
+}
