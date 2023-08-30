@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="e07c0332-1320-41b8-840b-677eb906d6d8">
+	<meta id="6642ed9b-4d59-402a-b914-6a51ff295851" type="group" folder="true" name="Materials"/>
+	<meta id="4c2362f6-d2ff-4cf0-8699-b62ae37121d0" type="group" folder="true" name="Meshes"/>
+	<meta id="f94ed1a1-72c0-44bb-9f75-6f5832c6a2db" name="Prefab">
+		<meta id="cdcc3923-46ce-48e0-a0d8-00281f86c03e" name="Alert.Part"/>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="0f3402f61f9e1f2d599ff64e31e8f1de"/>
+	<ModelVersion value="30"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="Alert.Part"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList/>
+</importer>
+

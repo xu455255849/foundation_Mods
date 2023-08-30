@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<meta id="2ccc706f-7d55-4fb9-9d4b-54011f4610b5">
+	<meta id="1520d483-7018-4e99-b1c7-d0efbe9f4d47" type="group" folder="true" name="Materials">
+		<meta id="710df4df-51a9-451b-8c50-9e1bc1137167" name="Material.WallRock5"/>
+		<meta id="ff97eab8-c27b-4168-972a-497d4299230e" name="Material.WoodenBarricade1"/>
+		<meta id="456b5448-15e1-43dd-8a74-afc53197cef0" name="Material.PlanksDark"/>
+		<meta id="b5679e5f-5c80-49a0-a037-47401069e840" name="Material.SmallProps3"/>
+		<meta id="0eb06136-9eab-4368-8562-5782cdd6b1fe" name="Material.Stone2"/>
+		<meta id="f3b8e600-322f-43c7-a201-eaadfcc2fe39" name="Material.RockWalls"/>
+		<meta id="26bf9746-a841-450a-8a27-025c603bd656" name="Material.WallRock7"/>
+		<meta id="2ce9b821-56bc-4369-840d-72a2b021b0a2" name="Material.MortarStone"/>
+		<meta id="284f4b2c-0b11-4d6e-836b-3d1a6faecc8d" name="Material.MonasteryRoof"/>
+		<meta id="e583a900-1312-4eba-b8f6-b78627247ede" name="Material.CeramicRoofTiles"/>
+		<meta id="a09584bb-7bb2-4d68-a114-a530cdacaccf" name="Material.Planks"/>
+		<meta id="d62d2ff7-2215-4ffa-9b86-616872ff5f3d" name="Material.TimberWall2"/>
+		<meta id="c74d23ab-1ddd-419a-8b77-9442a3dc817f" name="Material.TimberWall"/>
+		<meta id="a7bd2f4f-0489-4524-8ca6-2a9b906438b9" name="Material.WoodenBarricade2"/>
+		<meta id="bb34a5f2-635f-4426-aa23-8e7490df8de0" name="Material.WallWood3"/>
+	</meta>
+	<meta id="61caa469-f462-4ab0-9832-3f559d979747" type="group" folder="true" name="Meshes">
+		<meta id="bcd7f491-f5b4-4c52-ae71-aadf8a516904" name="Door.001_Material.WallRock5"/>
+		<meta id="8a97f654-ef75-456b-9480-1d373239a442" name="Door.001_Material.WoodenBarricade1"/>
+		<meta id="211166cc-dfe4-4044-955b-afe5eb74f0ca" name="Door.001_Material.PlanksDark"/>
+		<meta id="e8b0affd-93f6-43fe-9c7c-4c901a4c3a98" name="Door.001_Material.SmallProps3"/>
+		<meta id="b71e8461-7f05-4062-b2d9-512c6b4b6c6d" name="Door.001_Material.Stone2"/>
+		<meta id="966a7c01-1f3d-4471-9011-6f691bf73657" name="Hatch.001_Material.WallRock5"/>
+		<meta id="7136cb5f-8231-4035-bd52-0b380c5917a2" name="Hatch.001_Material.WoodenBarricade1"/>
+		<meta id="4c17ca57-9560-4d22-8080-28ca556f665f" name="Keep.001_Material.WallRock5"/>
+		<meta id="3e17b61f-aa1b-42e2-8c85-95e8e4b6e99e" name="Constable.Part.013_COLLIDER"/>
+		<meta id="a5888feb-d235-4471-b085-679996e7235c" name="MaterialExample.001_Material.WallRock5"/>
+		<meta id="5a515311-8399-4106-8d9b-5fe342bfc038" name="MaterialExample.002_Material.RockWalls"/>
+		<meta id="cac64e29-2edd-4081-94db-fdf2f032348f" name="MaterialExample.003_Material.WallRock7"/>
+		<meta id="5ae85fb9-6809-4c74-af12-2be504fffdd3" name="MaterialExample.004_Material.MortarStone"/>
+		<meta id="61709974-bca8-49e9-814a-f54b3d4d9d6d" name="MaterialExample.005_Material.MonasteryRoof"/>
+		<meta id="71185b10-5e56-4d97-98f0-38580e84da52" name="MaterialExample.006_Material.CeramicRoofTiles"/>
+		<meta id="bceae747-660e-46c7-8b64-36e721d8280e" name="MaterialExample.007_Material.Planks"/>
+		<meta id="cea3b950-aaa2-4355-8441-c362bb122e3f" name="MaterialExample.008_Material.TimberWall2"/>
+		<meta id="5fb3f588-c312-4c2d-bd30-9a42f6c1a243" name="MaterialExample.009_Material.TimberWall"/>
+		<meta id="a54a847a-005b-451c-a884-1027a03aa6d4" name="MaterialExample.010_Material.WoodenBarricade1"/>
+		<meta id="901ff1de-828e-4ae8-92de-6ba233dfab5a" name="MaterialExample.011_Material.WoodenBarricade2"/>
+		<meta id="88897584-3a57-4b5d-b4c7-58e00563f6fd" name="MaterialExample.012_Material.WallWood3"/>
+		<meta id="b40cfb53-cc5a-466d-a0e9-6dd196fc71c5" name="Step_1_Material.WallRock5"/>
+		<meta id="944df24c-af35-4360-9ecd-32f632e93060" name="Step_0_Material.WallRock5"/>
+		<meta id="9466f15b-f9d5-4231-b64d-94422e71092a" name="Step_3_Material.WallRock5"/>
+		<meta id="4eaa9149-f3ec-4028-81dc-71d363040265" name="Step_2_Material.WallRock5"/>
+	</meta>
+	<meta id="f01a1768-b6b4-4c40-a234-199cdb21e140" name="Prefab">
+		<meta id="3c157d72-15b4-453f-b4d8-54d3ae157821" name="Constable.Part.013">
+			<meta id="3701b808-f538-4a2b-bc1a-3031da6a9d2e" name="Door.001">
+				<meta id="ce328ae1-99f1-44a3-919d-11e3323e1d63" name="Door.001_0"/>
+				<meta id="c3b045c6-9c3d-42a0-a2c2-d4a3f6e339c1" name="Door.001_1"/>
+				<meta id="9f784e21-f21a-4cda-bd53-b15ccc220105" name="Door.001_2"/>
+				<meta id="fcc2588b-a19f-4f04-aecf-0a7d6cf09708" name="Door.001_3"/>
+				<meta id="f1dfdb8d-e455-4bb7-84a8-9f0495b5cae3" name="Door.001_4"/>
+			</meta>
+			<meta id="944e518d-923a-4064-8937-a686cba961d8" name="Hatch.001">
+				<meta id="8a557ae9-e334-45ce-b601-d0862f32bc36" name="Hatch.001_0"/>
+				<meta id="5c960b4d-6095-4438-9848-ae9c4a6110fe" name="Hatch.001_1"/>
+			</meta>
+			<meta id="81d2ded0-b62d-4b48-81f1-f00d298b38be" name="Attach_Minor.001"/>
+			<meta id="1846d7a8-3eb1-4301-bfa0-fa46acbb4e68" name="Attach_Major.001"/>
+			<meta id="86e66810-abc8-420e-8879-f6157a158b61" name="Keep.001"/>
+			<meta id="93ecc221-b14c-447f-ba73-5d14121b17e6" name="Attach_Minor.002"/>
+			<meta id="b9997121-8948-4ef2-b94d-3870538e04ad" name="Attach_Minor.003"/>
+			<meta id="8dfe56df-a30b-4b28-9a72-d4c82956f48c" name="Attach_Minor.004"/>
+			<meta id="9647bd72-8bd4-4966-bf08-7a15872c7681" name="Attach_Minor.005"/>
+			<meta id="160f34c1-1ade-4d9f-8348-0ac965e014e0" name="Attach_Minor.006"/>
+			<meta id="109bc878-fff5-44a7-bf32-4eb718a25470" name="Attach_Minor.007"/>
+			<meta id="4c6f679c-a08c-4246-abc3-08cb489eca7b" name="Attach_Minor.008"/>
+			<meta id="1079fd8c-f297-44b5-ac35-fd723dc99ffc" name="Attach_Minor.009"/>
+			<meta id="b9b69e33-8540-4002-bf1c-8c78a236dbe1" name="Attach_Minor.010"/>
+			<meta id="0256b879-3909-401d-a545-af47befffc6b" name="Attach_Minor.011"/>
+			<meta id="34b874b5-f915-43c7-8ffb-182965af44a4" name="Attach_Minor.012"/>
+			<meta id="7a61927e-21ae-4443-8908-cdab8a048f47" name="Attach_Minor.013"/>
+			<meta id="34953624-df88-4fb9-b421-dafb5c569573" name="Attach_Minor.014"/>
+			<meta id="3ef28b8a-1eac-445a-8cc0-11e7ab00998f" name="Attach_Minor.015"/>
+			<meta id="e3a07512-a598-4a2a-918a-28f0d97d4d42" name="Attach_Minor.016"/>
+			<meta id="e699aaba-ad7a-42bb-9c3e-8c88076be601" name="Attach_Minor.017"/>
+			<meta id="36d5e479-b823-4c03-8822-e0f5dd9d4df2" name="Attach_Minor.018"/>
+			<meta id="1adefa1a-2faa-4ed3-b71d-0c855d7e2fea" name="Attach_Minor.019"/>
+			<meta id="e647d86f-6d24-4770-a244-f11ead50e446" name="Attach_Minor.020"/>
+			<meta id="ba4f059c-c8f4-4ee3-8450-6f2fa081d611" name="Attach_Minor.021"/>
+			<meta id="43d175c3-b33c-4922-9667-cecf0561bf42" name="Attach_Minor.022"/>
+			<meta id="a71e79a1-2c57-45dc-9c96-7c18b503f3f1" name="Attach_Minor.023"/>
+			<meta id="7f94b61c-81d3-4dca-9b94-6a83feb2b948" name="Attach_Minor.024"/>
+		</meta>
+		<meta id="3428fa6c-f649-462a-bbca-c83c276a41e5" name="Constable.Part.015">
+			<meta id="c5b9bb70-ea24-49e8-a6ab-617d8b6373c4" name="PATH_N_1"/>
+			<meta id="c167424c-6af8-4918-9a04-284f340f352c" name="PATH_N_2"/>
+			<meta id="fc8be614-e9a0-499d-9cf6-d14153338f4a" name="PATH_N_3"/>
+			<meta id="4345cb83-594e-4ee9-9722-4d921a2692e2" name="PATH_N_4"/>
+			<meta id="96a3fe36-eb3c-4d48-b3e6-b99903eb350c" name="PATH_N_5"/>
+			<meta id="222b71e3-6b64-41b3-b455-9f7f5b883e83" name="PATH_N_6"/>
+			<meta id="90cb19a4-fd14-41e2-bd68-b38e42b691f3" name="Attach_Major.002"/>
+			<meta id="8c43dcb9-81a5-4da7-a557-0d7888c3b5d3" name="PATH_N_8"/>
+			<meta id="a52c67d5-0ac4-40bc-a6e6-246abf58dde1" name="PATH_N_7"/>
+		</meta>
+		<meta id="031839b9-1177-4046-93fd-088d7f207406" name="MaterialExample.001"/>
+		<meta id="09ce12eb-33d8-4b34-9a57-ceef184fa30b" name="MaterialExample.002"/>
+		<meta id="c267aeb8-9511-4adb-ab6d-5f60fce1bb9a" name="MaterialExample.003"/>
+		<meta id="aa1475e2-7898-4af8-99ef-21b5f265f0de" name="MaterialExample.004"/>
+		<meta id="1bc9fd7f-4198-4fcb-a734-43ab75986fde" name="MaterialExample.005"/>
+		<meta id="06dbe27f-5ffd-4547-80a9-188ecbf3f1e4" name="MaterialExample.006"/>
+		<meta id="7b7797a9-7b9c-4cb9-86b0-442a1aa40825" name="MaterialExample.007"/>
+		<meta id="099cd0f7-fae0-4d39-943c-c41c0d071575" name="MaterialExample.008"/>
+		<meta id="9e5d6fc5-8c5c-44db-a452-9c5d121da6d4" name="MaterialExample.009"/>
+		<meta id="d9672a84-8d16-4437-9937-0c0a1581a030" name="MaterialExample.010"/>
+		<meta id="a4fa39d3-3786-47a4-a8c3-280c3ebef072" name="MaterialExample.011"/>
+		<meta id="834a2d31-83da-444b-bdd9-b732ad5dc3b3" name="MaterialExample.012"/>
+		<meta id="0fd67c0c-2946-4275-890b-cfa008dec983" name="Constable.Part.018">
+			<meta id="72338768-6915-490d-8184-0ccd6cdc8af0" name="PATH_R_1"/>
+			<meta id="7eaab051-8823-40c7-ae44-96efce4b357e" name="PATH_R_2"/>
+			<meta id="fd9b0c64-4d18-4a9b-a1c6-e76fb3b1dacd" name="Attach_Major.006"/>
+		</meta>
+		<meta id="2f24026e-c8c9-4deb-894b-9b2254e545c4" name="Constable.Part.014">
+			<meta id="e8fd1e9d-e9ba-4710-a8dd-a60de9fdae68" name="Attach_Major.003"/>
+			<meta id="781051a7-9078-498b-9b66-fec9590c4623" name="PATH_M_1"/>
+			<meta id="25eb8ed2-1fbd-43d5-9bc8-993b2252d92a" name="PATH_M_2"/>
+			<meta id="78c8e806-a77a-4731-b6c6-2f4b5e3f2b3f" name="PATH_M_3"/>
+			<meta id="55add070-405e-4393-bbbb-6cc7123ffd9e" name="PATH_M_4"/>
+			<meta id="1f80e325-70d5-41bf-85ab-e8196aef44cc" name="PATH_M_5"/>
+			<meta id="8fe31b5d-501b-4f7c-8f27-a3cb3b6fe0d7" name="PATH_M_6"/>
+			<meta id="dd330e92-46a9-4c57-97f3-34a308fcc88e" name="PATH_M_7"/>
+		</meta>
+		<meta id="de30349a-b58a-4873-b5b0-f414ca969e8e" name="Constable.Part.016">
+			<meta id="0b574b58-a72d-4fbb-bc1c-7fb03fb45eef" name="PATH_O_1"/>
+			<meta id="b9fca7cc-1c2a-4419-a960-1848fab123f4" name="PATH_O_2"/>
+			<meta id="417a1cbb-65ee-482d-872e-c04e9151797f" name="PATH_O_3"/>
+			<meta id="d8f64706-61d1-4542-9cf4-2a0166f2e5b7" name="PATH_O_4"/>
+			<meta id="7305689a-6c67-4099-80a0-d623d9a419ce" name="PATH_O_5"/>
+			<meta id="8bfe506b-73ff-4999-878a-3198e4caac04" name="PATH_O_6"/>
+			<meta id="964cd6a7-893f-4287-88b2-15fab7d50066" name="Attach_Major.007"/>
+			<meta id="8360d952-2546-4dee-81e6-a2f81746f406" name="PATH_O_8"/>
+			<meta id="18c844c0-f55d-4302-b320-a90fb36d617c" name="PATH_O_7"/>
+		</meta>
+		<meta id="9e2ca8c5-d93f-41e6-a00e-62a8d449da64" name="Constable.Part.017">
+			<meta id="d01a1edb-2797-4e91-b4d9-4e0d3f695a90" name="PATH_N_1.001"/>
+			<meta id="387b1411-678c-4544-b508-f14eada4fdd5" name="PATH_N_2.001"/>
+			<meta id="2b464773-ad2d-4a8f-ad27-b4db0fa3b968" name="PATH_N_3.001"/>
+			<meta id="e061f075-b9bc-4650-9684-cfb811c4913f" name="PATH_N_4.001"/>
+			<meta id="679ed78c-cd8f-434a-a351-e2b76fc235e2" name="PATH_N_5.001"/>
+			<meta id="fb518fc2-09e7-4344-8c66-49c68191a72e" name="PATH_N_6.001"/>
+			<meta id="d3ca8d8a-9b8c-4a6a-8908-13887610cc67" name="Attach_Major.008"/>
+			<meta id="d2ddde0a-3cf8-4a51-83ef-d27887ef7644" name="PATH_N_8.001"/>
+			<meta id="6d8a9ca9-e4a2-4d6a-b3b0-5ae884f8b753" name="PATH_N_7.001"/>
+		</meta>
+		<meta id="68367606-c305-43de-b3ec-2a0381a8ee7b" name="Constable.Part.013.Constr">
+			<meta id="7e8c6038-d82d-4a62-b121-1b1d7a0c01c7" name="Step_1"/>
+			<meta id="32d47c96-84c1-4fb8-8df0-7191abc97b14" name="Step_0"/>
+			<meta id="3fac9d5d-7438-4ac9-95e3-61e0c7c64988" name="Step_3"/>
+			<meta id="8508e715-17c6-4dda-b1fd-13f3e3098a43" name="Step_2"/>
+		</meta>
+	</meta>
+</meta>
+<importer type="GamCFbxImporterConfiguration">
+	<Md5Checksum value="c6b297f5cdacdc96a7f85beccc53bacc"/>
+	<ModelVersion value="32"/>
+	<Scale value="0.01"/>
+	<PatchMeshOffset value="true"/>
+	<UniqueNodeName value="false"/>
+	<ImportAnimation value="false"/>
+	<IgnoreRootAnimation value="false"/>
+	<FlipXAxis value="true"/>
+	<ZUpSource value="false"/>
+	<MergeDuplicateMeshes value="true"/>
+	<GenerateLod value="false"/>
+	<OverrideExistingLod value="false"/>
+	<NodeConfig type="GenCFbxNodeConfig">
+		<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+		<ChildList>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_1"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_2"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_3"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Door.001_4"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Door.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hatch.001_0"/>
+							</Item>
+							<Item type="GenCFbxNodeConfig">
+								<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+								<ChildList/>
+								<NodeName value="Hatch.001_1"/>
+							</Item>
+						</ChildList>
+						<NodeName value="Hatch.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Keep.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.004"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.005"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.006"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.009"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.010"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.011"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.012"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.013"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.014"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.015"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.016"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.017"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.018"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.019"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.020"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.021"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.022"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.023"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Minor.024"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Constable.Part.013"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.002"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_8"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_7"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Constable.Part.015"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.001"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.002"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.003"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.004"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.005"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.006"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.007"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.008"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.009"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.010"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.011"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList/>
+				<NodeName value="MaterialExample.012"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_R_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_R_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.006"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Constable.Part.018"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.003"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_M_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_M_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_M_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_M_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_M_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_M_6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_M_7"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Constable.Part.014"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_2"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_4"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_5"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_6"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.007"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_8"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_O_7"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Constable.Part.016"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_1.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_2.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_3.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_4.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_5.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_6.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Attach_Major.008"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_8.001"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="PATH_N_7.001"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Constable.Part.017"/>
+			</Item>
+			<Item type="GenCFbxNodeConfig">
+				<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+				<ChildList>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_1"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_0"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_3"/>
+					</Item>
+					<Item type="GenCFbxNodeConfig">
+						<LodConfig value="00000000-0000-0000-0000-000000000000"/>
+						<ChildList/>
+						<NodeName value="Step_2"/>
+					</Item>
+				</ChildList>
+				<NodeName value="Constable.Part.013.Constr"/>
+			</Item>
+		</ChildList>
+		<NodeName value="Prefab"/>
+	</NodeConfig>
+	<MaterialList>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="e583a900-1312-4eba-b8f6-b78627247ede"/>
+			<MaterialName value="Material.CeramicRoofTiles"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="284f4b2c-0b11-4d6e-836b-3d1a6faecc8d"/>
+			<MaterialName value="Material.MonasteryRoof"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="2ce9b821-56bc-4369-840d-72a2b021b0a2"/>
+			<MaterialName value="Material.MortarStone"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a09584bb-7bb2-4d68-a114-a530cdacaccf"/>
+			<MaterialName value="Material.Planks"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="456b5448-15e1-43dd-8a74-afc53197cef0"/>
+			<MaterialName value="Material.PlanksDark"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="f3b8e600-322f-43c7-a201-eaadfcc2fe39"/>
+			<MaterialName value="Material.RockWalls"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="b5679e5f-5c80-49a0-a037-47401069e840"/>
+			<MaterialName value="Material.SmallProps3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="0eb06136-9eab-4368-8562-5782cdd6b1fe"/>
+			<MaterialName value="Material.Stone2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="c74d23ab-1ddd-419a-8b77-9442a3dc817f"/>
+			<MaterialName value="Material.TimberWall"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="d62d2ff7-2215-4ffa-9b86-616872ff5f3d"/>
+			<MaterialName value="Material.TimberWall2"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="710df4df-51a9-451b-8c50-9e1bc1137167"/>
+			<MaterialName value="Material.WallRock5"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="26bf9746-a841-450a-8a27-025c603bd656"/>
+			<MaterialName value="Material.WallRock7"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="bb34a5f2-635f-4426-aa23-8e7490df8de0"/>
+			<MaterialName value="Material.WallWood3"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="ff97eab8-c27b-4168-972a-497d4299230e"/>
+			<MaterialName value="Material.WoodenBarricade1"/>
+		</Item>
+		<Item type="GamCDataMaterialPair">
+			<MaterialGuid value="a7bd2f4f-0489-4524-8ca6-2a9b906438b9"/>
+			<MaterialName value="Material.WoodenBarricade2"/>
+		</Item>
+	</MaterialList>
+</importer>
+

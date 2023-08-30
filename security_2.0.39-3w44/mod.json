@@ -1,0 +1,49 @@
+{
+	"Name": "Security",
+	"Author": "Batyushki",
+	"Description": "Outlaws threaten the peace. Guards and soldiers protect the village. Build castles and keeps to increase security. Only works with new games.",
+	"Version": "2.0.39",
+	
+	"AdditionalLanguageList": [
+		{
+			"Name": "Chinese",
+			"Code": "zh-CN"
+		},
+		{
+			"Name": "German",
+			"Code": "de"
+		},
+		{
+			"Name": "French",
+			"Code": "fr"
+		},
+		{
+			"Name": "Italian",
+			"Code": "it"
+		},
+		{
+			"Name": "Spanish",
+			"Code": "es-ES"
+		},
+		{
+			"Name": "Portuguese",
+			"Code": "pt-PT"
+		},
+		{
+			"Name": "Polish",
+			"Code": "pl"
+		},
+		{
+			"Name": "Russian",
+			"Code": "ru"
+		}
+	],
+
+	"Dependencies": [
+		{
+			"Id": "76daffe0-725f-4dac-b1b5-de331dfca67a",
+			"Name": "Common Resources"
+		}
+    ]
+
+}
